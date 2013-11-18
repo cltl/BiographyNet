@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://geheugenvannederland.nl/?/nl/items/VUMCC01:SPKK-G00460"/>
+    <publisher>
+      <name>Het Geheugen van Nederland</name>
+      <ref target="http://geheugenvannederland.nl"/>
+    </publisher>
+  <idno type="source">portraits</idno></fileDesc>
+  <person>
+    <persName>Suringar, Lucas</persName>
+    <event type="birth" when="1770"/>
+    <event type="death" when="1833"/>
+  <idno type="bioport">81589744</idno><idno type="id">portraits/dd5dc9a0df8611789ce8305c26dffa6c.xml</idno><idno type="bioport">59039549</idno><idno type="bioport">99796667</idno><idno type="bioport">99137465</idno></person>
+  <biography>
+    <figure>
+      <head>Portret van Lucas Suringar (1770-1833), hoogleraar theologie Leiden</head>
+      <graphic url="http://resolver.kb.nl/resolve?urn=urn:gvn:VUMCC01:SPKK-G00460&amp;role=image&amp;size=variable"/>
+    </figure>
+    <text>Portret van Lucas Suringar (1770-1833), hoogleraar theologie Leiden. SPKK-g00460 (lithografie), Protestantse portretten van Museum Catharijneconvent en Vrije Universiteit, Amsterdam</text>
+  </biography>
+</biodes>

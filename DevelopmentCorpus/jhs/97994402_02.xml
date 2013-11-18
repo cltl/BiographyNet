@@ -1,0 +1,55 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.jhm.nl/cultuur-en-geschiedenis/personen/h/hartogs,+jacques+coenraad"/>
+    <publisher>
+      <name>Joods historisch museum</name>
+      <ref target="http://www.jhm.nl"/>
+    </publisher>
+  <idno type="source">jews</idno></fileDesc>
+  <person id="#1">
+    <persName>Hartogs, Jacques Coenraad</persName>
+    <event type="birth" when="1879-11-30">
+      <place>Rotterdam</place>
+    </event>
+    <event type="death" when="1932-12-31">
+      <place>Arnhem</place>
+    </event>
+    <person id="#1960425568" sex="1">
+      <persName>Hartogs, Maurits</persName>
+    </person>
+    <relation name="parent" passive="#1" active="#1960425568"/>
+    <person id="#802196338" sex="2">
+      <persName>Hijmans, Edith</persName>
+    </person>
+    <relation name="parent" passive="#1" active="#802196338"/>
+  <idno type="bioport">97994402</idno><idno type="id">jews/180.xml</idno></person>
+  <biography>
+    <text>&lt;p&gt;
+Jacques Coenraad Hartogs stichtte op 31-jarige leeftijd de 'Nederlandsche Kunstzijdefabriek' in Arnhem (in 1911). Hij was gehuwd met Elisabeth Hijman, afkomstig uit Schiedam, die zichzelf later 'moeder van Aku', de naam die Enka in 1929 kreeg, noemde.
+&lt;/p&gt;
+
+&lt;p&gt;
+Op 30 november 1879 werd in Rotterdam Jacques Coenraad Hartogs geboren als zoon van Maurits Hartogs en Edith Hijmans. Zijn vader had in Rotterdam een bloeiend bedrijf in textielwaren in de Hoogstraat. Jacques groeide op in een gezin met sterke familiebanden. Helaas moest hij zich als kind met krukken voortbewegen waarmee hij buitenshuis veel werd geplaagd. Bovendien verloor hij al vrij jong zijn moeder zodat zijn verder bevoorrechte jeugdjaren niet zonder problemen verliepen.
+&lt;br /&gt;
+&lt;br /&gt;
+Terwijl Jacques de 5-jarige hbs volgde en chemie ging studeren aan de Universiteit van Amsterdam legde zijn vader contacten met de Engelse firma Samuel Courtauld. Deze firma had in 1904 in Coventry een kunstzijdefabriek geopend waar gewerkt werd volgens het geheel nieuwe viscoseprocede. Al vanaf de zeventiende eeuw hadden wetenschappers geprobeerd kunstmatige zijde te fabriceren maar pas in de tweede helft van de negentiende eeuw was dit gelukt. In 1891 werd in Besan&#231;on in Frankrijk de eerste kunstzijdefabriek geopend.
+&lt;br /&gt;
+&lt;br /&gt;
+Nadat Jacques in 1907 zijn doctoraal examen behaalde, ging hij in de fabriek van Courtauld in Coventry zijn theorie&#235;n aan de praktijk toetsen. Hij vond daar een eigen proc&#233;d&#233; voor het spinbad uit waarvoor Courtauld geen belangstelling bleek te hebben. In 1909 verliet hij de firma om een jaar later bij professor A.F. Holleman te promoveren op een proefschrift getiteld "Quantitatief onderzoek over de nitreering van aniline en form-, aceet- en benzanilide".
+&lt;br /&gt;
+&lt;br /&gt;
+Na zijn promotie besloot hij in Nederland voor zichzelf te beginnen met een nieuw op te richten kunstzijdefabriek. Enige tijd had hij als leraar gewerkt aan de Roelof Hartschool in Amsterdam. Voor het leraarsvak was hij echter totaal ongeschikt omdat hij geen orde kon houden. Bovendien had hij meer belangstelling voor de praktische toepassing van zijn vak. De Duitse zakenman Dr. J. Balthazar en Frederik Hendrik Fentener van Vlissingen, beiden verbonden aan de Steenkolen-Handelsvereniging (opgericht in 1896), steunden zijn inititatief en vormden de eerste Raad van Commissarissen van de in 1911 opgerichte Eerste Nederlandsche Kunstzijdefabriek Arnhem - Enka - met professor dr. A.F. Holleman (Hartogs promotor) als president-commissaris.
+&lt;br /&gt;
+&lt;br /&gt;
+Inmiddels was Jacques Hartogs getrouwd met de acht jaar oudere huishoudster van zijn vader, de uit Schiedam afkomstige Elisabeth Hijman. Het echtpaar zou kinderloos blijven maar nam na de Eerste Wereldoorlog twee Poolse pleegkinderen aan, Carla en Regina Freund. Uiteindelijk zou Hartogs de hele familie Freund naar Nederland halen en bezorgde vader Freund een betrekking op zijn fabriek. Ook mevrouw Hartog hield zich intensief met de fabriek bezig. Elisabeth Hartogs-Hijman noemde zichzelf later "Moeder van Aku" (de naam die Enka in 1929 zou krijgen). Tot haar dood, in 1958, zou ze nauw betrokken blijven bij de fabriek.
+&lt;br /&gt;
+&lt;br /&gt;
+Nadat in 1913, na een proefperiode van twee jaar, de eerste garens de fabriek verlieten, volgde in 1914 de eerste uitbreiding. Pas toen werd het bedrijf echt rendabel. In 1914 telde de fabriek 200 medewerkers. Aan het einde van de Eerste Wereldoorlog, in 1918, was dat opgelopen tot 300. Na de oorlog kreeg Hartog te maken met zowel buitenlandse als binnenlandse concurentie. Zijn antwoord daarop was verdere uitbreiding die in 1922 tot stand kwam. De kunstzijdefabriek die daardoor ontstond was de grootste van Europa. Hartog en zijn vrouw hielden zich ook intensief bezig met het sociale beleid van de fabriek. Als werknemers ziek waren ging mevrouw Hartogs persoonlijk bij ze op bezoek en verder werd er gezorgd voor vertier. Zo werd er onder andere een koor opgericht en een sportclub.
+&lt;br /&gt;
+&lt;br /&gt;
+Als gevolg van de economisch crisis van 1929 fuseerde de Enka met de Duitse Glanzstoff Fabriken A.G. en veranderde de naam in Algemene Kunstzijde Unie N.V. (AKU). De dagelijkse leiding bleef in handen van Hartogs maar hij moest vanaf nu rekening houden met en verantwoording afleggen aan anderen. Uiteindelijk leidde dit ertoe dat hij op 31 december 1929 aftrad. Hij bleef echter actief als adviseur van de raad van commissarissen. Nog volop werkzaam voor zijn fabriek overleed hij op 6 mei 1932 tijdens een zakenreis in Bazel aan een hartverlamming.
+&lt;/p&gt;
+</text>
+  </biography>
+</biodes>

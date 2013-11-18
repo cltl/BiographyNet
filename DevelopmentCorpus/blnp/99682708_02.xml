@@ -1,0 +1,39 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>J. van Slageren</author>
+    <ref target="http://www.inghist.nl/retroboeken/blnp/?source=5&amp;page_number=299"/>
+    <publisher>
+      <name>J. van Slageren</name>
+      <ref target="http://www.inghist.nl"/>
+    </publisher>
+  <idno type="source">blnp</idno></fileDesc>
+  <person>
+    <idno type="id">0924.xml</idno>
+    <persName>Kamma, Freerk Christiaans</persName>
+    <event type="birth" when="1906-02-16">
+      <place>Wierum (Frl.)</place>
+    </event>
+    <event type="death" when="1987-09-24">
+      <place>Leiden</place>
+    </event>
+  <idno type="bioport">99682708</idno></person>
+  <biography>
+    <text>KAMMA, FREERK CHRISTIAANS, * 
+Wierum (Frl.) 16 febr. 1906, t Leiden 24 sept. 
+1987. Zn. van Christiaan Freerks Kamma. 
+binnenschipper, en Detje Visser. Zendings- 
+school Oegstgeest 1925-1931. Stud. indologie 
+Leiden 1946; doctoraal etnologie 1952; dr. lett. 
+en wijsbegeerte Leiden 1954 (promotor: J.P.B. 
+de Josselin de Jong). Zendeling-leraar Genjem- 
+Nimboran (Hollandia) in Irian Jaya (Nieuw- 
+Guinea) 1931, Manokwari 1932, Sorong 1933- 
+1942. Docent Zendingsschool Oegstgeest 1946- 
+1954. Zendingspred. Hollandia 1955-1961. Lid 
+Nieuw-Guinea Raad 1961-1962. Zendingspred. 
+Irian Jaya 1963-1971. Hij huwde op 7 juli 1932 
+te Manokwari met Maria Rolina van Dijk (* 
+1909). </text>
+  </biography>
+</biodes>

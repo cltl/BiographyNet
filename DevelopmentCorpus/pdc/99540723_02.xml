@@ -1,0 +1,53 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09llh8wwxd"/>
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/"/>
+  </publisher>
+ <title/><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09llh8wwxd">
+  <persName>
+   <name type="prepositie">Dr.</name>
+    <name type="voornaam">Hans</name>
+    <name type="intrapositie">van</name>
+    <name type="geslachtsnaam">Houten</name>
+  </persName>
+  <persName>
+   <name type="prepositie">Dr.</name>
+    <name type="voornaam">Hans</name>
+   <name type="voornaam">Rudolf</name>
+    <name type="intrapositie">van</name>
+    <name type="geslachtsnaam">Houten</name>
+  </persName>
+  <persName>
+   <name type="prepositie">Dr.</name>
+    <name type="voornaam">H.R.</name>
+    <name type="intrapositie">van</name>
+    <name type="geslachtsnaam">Houten</name>
+  </persName>
+  <sex value="1"/>
+  <event type="birth" when="1907-08-13">in <place>'s-Gravenhage</place></event>
+  <event type="death" when="1996-07-31">in <place>Verbier (Zwitserland)</place></event>
+  <event type="marriage" when="1935-07-06">gehuwd te Haarlem</event>
+  <state type="residence">Wassenaar</state>
+  <state type="education">gymnasium te 's-Gravenhage</state>
+  <state type="education" to="1929-10">Nederlands recht, Rijksuniversiteit Leiden,</state>
+  <state type="occupation" from="1932-02-03" to="1933">ambassaderaad te Kopenhagen</state>
+  <state type="occupation" from="1933" to="1934">ambassaderaad te Stockholm</state>
+  <state type="occupation" from="1934" to="1935">gezantschapsattach&#233; te Kopenhagen</state>
+  <state type="occupation" from="1935" to="1940">ambassaderaad te Berlijn</state>
+  <state type="occupation" from="1940" to="1945">gezantschapssecretaris te Washington</state>
+  <state type="occupation" from="1945" to="1948">ambassaderaad te Brussel</state>
+  <state type="occupation" from="1948" to="1951-05">hoofd directie buitenlandse dienst, ministerie van Buitenlandse Zaken</state>
+  <state type="occupation" from="1951-05" to="1954-07-01">buitengewoon gezant en gevolmachtigd minister te Mexico City</state>
+  <state type="occupation" from="1954-07-01" to="1957-11-01">buitengewoon en gevolmachtigd ambassadeur te Mexico City</state>
+  <state type="occupation" from="1957-11-01" to="1959-08-24">directeur-generaal politieke zaken, ministerie van Buitenlandse Zaken</state>
+  <state type="occupation" from="1959-08-24" to="1963-07-24">staatssecretaris van Buitenlandse Zaken (belast met aangelegenheden betreffende de NAVO, WEU, Raad van Europa, Benelux, verkeersaangelegenheden en bilaterale betrekkingen met landen in Europa, Afrika, het Midden-Oosten en Latijns-Amerika)</state>
+  <state type="occupation" from="1964-11" to="1969">buitengewoon en gevolmachtigd ambassadeur te Wenen</state>
+ <idno type="bioport">99540723</idno><idno type="id">pdc/vg09llh8wwxd.xml</idno></person>
+ <biography>
+  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/018/01827g.jpg"/>
+  <text>Telg uit een welgestelde patrici&#235;rsfamilie die carri&#232;re maakte als diplomaat. Werd zonder 'Haagse ervaring' staatssecretaris van Buitenlandse Zaken (Europese zaken) in het kabinet-De Quay en werd toen pas lid van de VVD. Speelde een onopvallende rol tot hij in 1963 - en uiteindelijk met succes - eiste dat de KRO een interview met de gevluchte Franse ex-minister Bidault niet zou uitzenden.</text>
+ </biography>
+</biodes>

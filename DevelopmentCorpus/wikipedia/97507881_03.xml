@@ -1,0 +1,44 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://nl.wikipedia.org/wiki/Bernard_Tellegen"/>
+    <publisher>
+      <name>wikipedia</name>
+      <ref target="http://nl.wikipedia.org/"/>
+    </publisher>
+  <idno type="source">wikipedia</idno></fileDesc>
+  <person>
+    <idno type="bioport">97507881</idno>
+    <persName>Bernard Tellegen</persName>
+    <event type="birth" when="1900-06-27">
+      <place>Winschoten</place>
+    </event>
+    <event type="death" when="1990-08-30">
+      <place>Eindhoven</place>
+    </event>
+  </person>
+  <biography>
+    <text>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;head&gt;&lt;title /&gt;&lt;style media="screen, projection" type="text/css"&gt;
+                        @import "http://en.wikipedia.org/skins-1.5/common/shared.css?156";
+                        @import "http://en.wikipedia.org//skins-1.5/monobook/main.css?156";
+&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class="mwx.article"&gt;&lt;h1 /&gt;&lt;div class="mwx.paragraph"&gt;Bernard D.H. Tellegen (&lt;a class="mwx.link.article" href="#"&gt;Winschoten&lt;/a&gt;, &lt;a class="mwx.link.article" href="#"&gt;27 juni&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;1900&lt;/a&gt; &amp;#8211; &lt;a class="mwx.link.article" href="#"&gt;Eindhoven&lt;/a&gt;, &lt;a class="mwx.link.article" href="#"&gt;30 augustus&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;1990&lt;/a&gt;) was een &lt;a class="mwx.link.article" href="#"&gt;Nederland&lt;/a&gt;s &lt;a class="mwx.link.article" href="#"&gt;elektrotechnisch&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;ingenieur&lt;/a&gt; en uitvinder van de &lt;a class="mwx.link.article" href="#"&gt;pentode&lt;/a&gt;.
+&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Biografie&lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+Tellegen behaalde in &lt;a class="mwx.link.article" href="#"&gt;1923&lt;/a&gt; zijn ingenieursdiploma elektrotechniek aan de Technische Hogeschool Delft (nu &lt;a class="mwx.link.article" href="#"&gt;Technische Universiteit Delft&lt;/a&gt; geheten). Hij trad in dienst bij het &lt;a class="mwx.link.article" href="#"&gt;Philips&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;Natuurkundig Laboratorium&lt;/a&gt; (NatLab) 
+en werd &lt;a class="mwx.link.article" href="#"&gt;Van der Pol&lt;/a&gt;s eerste medewerker. Tellegen richtte zich zijn onderzoek eerst op &lt;a class="mwx.link.article" href="#"&gt;triode&lt;/a&gt;s, en vond in 1926 de pentode uit. De pentode, een &lt;a class="mwx.link.article" href="#"&gt;radiobuis&lt;/a&gt;, werd gebruikt in Philips' eerste radio-ontvanger en later werd de pentode in vrijwel elke radio of versterker toegepast. Tellegen verrichte ook baanbrekend theoretisch werk aan elektrische netwerken.
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;Hij heeft ook veel bijgedragen aan netwerktheorie, waaronder de theorie van de &lt;a class="mwx.link.article" href="#"&gt;gyrator&lt;/a&gt;. De &lt;a class="mwx.link.article" href="#"&gt;Stelling van Tellegen&lt;/a&gt; geeft een eenvoudig verband tussen grootheden die voldoen aan de &lt;a class="mwx.link.article" href="#"&gt;wetten van Kirchhoff&lt;/a&gt;. 
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;Hij was van 1942 tot 1952 voorzitter van het &lt;a class="mwx.link.article" href="#"&gt;Nederlands Elektronica en Radio Genootschap&lt;/a&gt; (NERG); hij werd erelid van het genootschap in 1952. Hij was van 1948 tot 1960 voorzitter van het Nederlandse &lt;a class="mwx.link.article" href="#"&gt;URSI&lt;/a&gt;comit&amp;#233;. Hij was van 1946 tot 1966 verbonden aan de &lt;a class="mwx.link.article" href="#"&gt;Technische Universiteit Delft&lt;/a&gt; als &lt;a class="mwx.link.article" href="#"&gt;buitengewoon hoogleraar&lt;/a&gt; netwerktheorie. Tellegen ontving in 1970 aan deze universiteit een &lt;a class="mwx.link.article" href="#"&gt;eredoctoraat&lt;/a&gt; en werd in 1960 gekozen tot lid van de &lt;a class="mwx.link.article" href="#"&gt;Koninklijke Nederlandse Akademie van Wetenschappen&lt;/a&gt; (KNAW). Prof. dr.h.c. ir. Tellegen ontving in 1973 als eerste niet-Amerikaan de &lt;a class="mwx.link.article" href="#"&gt;IEEE&lt;/a&gt; Edison Medal  "Voor een creatieve loopbaan met belangrijke verdiensten voor de elektrische netwerktheorie en de &lt;a class="mwx.link.article" href="#"&gt;gyrator&lt;/a&gt;".
+&lt;/div&gt;&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Externe links&lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class="mwx.link.external" href="http://www.ieee.org/web/aboutus/history_center/biography/tellegen.html"&gt; IEEE legacies artikel&lt;/a&gt;
+&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.external" href="http://hamradio.nikhef.nl/amrad/art/telligen.htm"&gt; Weron artikel&lt;/a&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;{{DEFAULTSORT:Tellegen, Bernard}}
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Nederlands natuurkundige&lt;/a&gt;
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Nederlands hoogleraar&lt;/a&gt;
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Nederlands ingenieur&lt;/a&gt;
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;
+
+
+&lt;/div&gt;&lt;/div&gt;&lt;ol class="mwx.languagelinks"&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="de:Bernard Tellegen"&gt;de:Bernard Tellegen&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="en:Bernard D. H. Tellegen"&gt;en:Bernard D. H. Tellegen&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="it:Bernard Tellegen"&gt;it:Bernard Tellegen&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="sv:Bernard Tellegen"&gt;sv:Bernard Tellegen&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</text>
+  </biography>
+</biodes>

@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.inghist.nl/retroboeken/nbwv?source=4&amp;page_number=371"/>
+    <publisher>
+      <name>XXX</name>
+      <ref target="http://www.inghist.nl"/>
+    </publisher>
+  <idno type="source">nbwv</idno></fileDesc>
+  <person>
+    <persName>GREIN, </persName>
+    <event type="birth" when="1801"/>
+    <event type="death" when="1867"/>
+  <idno type="bioport">99774593</idno><idno type="id">nbwv/1102.xml</idno></person>
+  <biography/>
+</biodes>

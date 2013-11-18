@@ -1,0 +1,32 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.jhm.nl/cultuur-en-geschiedenis/personen/g/goldstein,+chaja"/>
+    <publisher>
+      <name>Joods historisch museum</name>
+      <ref target="http://www.jhm.nl"/>
+    </publisher>
+  <idno type="source">jews</idno></fileDesc>
+  <person>
+    <persName>Goldstein, Chaja</persName>
+    <event type="birth" when="1908-12-08">
+      <place>Rijpin</place>
+    </event>
+    <event type="death" when="1999-01-27">
+      <place>Netanya, Israel</place>
+    </event>
+  <idno type="bioport">98052277</idno><idno type="id">jews/161.xml</idno></person>
+  <biography>
+    <figure>
+      <head>Goldstein, Chaja</head>
+      <graphic url="http://www.jhm.nl/collectiebeeld/d232/232B012.jpg"/>
+    </figure>
+    <text>&lt;p&gt;
+Chaja Goldstein, afkomstig uit Rijpin in Polen, groeide op in Berlijn. Ze was zangeres van chassidische liedjes. In 1933, nadat Hitler aan de macht kwam, week ze uit naar Nederland samen met de zangeres Dora Gerson en de groep Ping Pong. Een jaar daarvoor had deze groep in Louis Davids' Kurhaus Cabaret in Scheveningen opgetreden. In de oorlog  werd Chaja naar Westerbork gedeporteerd, waar ze met vele andere artiesten bij het cabaret werkte. Ze zou door haar man, die een belangrijke functie bij de UFA had, uit een transport gehaald zijn. Na de oorlog ging ze door met haar carri&#232;re. In 1948 emigreerde ze naar de Verenigde Staten. Er werd een afscheidsavond voor haar georganiseerd in de Stadsschouwburg van Amsterdam. Het programmaboekje voor die avond werd door Paul Citroen ge&#239;llustreerd. In 1973 keerde Chaja Goldstein met haar zieke echtgenoot terug naar Nederland. In 1978, haar man was inmiddels overleden, vestigde zij zich in Netaya in Israel, waar ook haar broer woonde. Zij overleed daar op 27 januari 1999. Chaja Chaja Goldstein had een succesvolle loopbaan als zangeres van liederen uit de joodse en jiddisje traditie.
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;/p&gt;
+</text>
+  </biography>
+</biodes>

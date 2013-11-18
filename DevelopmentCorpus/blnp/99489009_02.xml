@@ -1,0 +1,27 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>P.M. Luca</author>
+    <ref target="http://www.inghist.nl/retroboeken/blnp/?source=1&amp;page_number=286"/>
+    <publisher>
+      <name>P.M. Luca</name>
+      <ref target="http://www.inghist.nl"/>
+    </publisher>
+  <idno type="source">blnp</idno></fileDesc>
+  <person>
+    <idno type="id">1576.xml</idno>
+    <persName>Roemer, Joannes</persName>
+    <event type="birth" when="1769"/>
+    <event type="death" when="1838-12-27">
+      <place>Alphen</place>
+    </event>
+  <idno type="bioport">99489009</idno></person>
+  <biography>
+    <text>ROEMER, JOANNES, ged. Amsterdam 
+12 apr. 1769, t Alphen 27 dec. 1838. Zn. van 
+Pieter Roemer, catechiseermeester der Rem. 
+Gemeente te Amsterdam, en Elisabeth Jel- 
+gerhuis. Stud. theol. Rem. Seminarium Am- 
+sterdam 1788. Rem. pred. Nieuwkoop 1792. </text>
+  </biography>
+</biodes>

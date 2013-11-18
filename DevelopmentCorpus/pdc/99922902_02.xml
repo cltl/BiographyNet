@@ -1,0 +1,46 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09ll1fpkz3"/>
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/"/>
+  </publisher>
+ <title/><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09ll1fpkz3">
+  <persName>
+   <name type="prepositie">Drs.</name>
+    <name type="voornaam">Cees</name>
+    <name type="geslachtsnaam">Hazenbosch</name>
+  </persName>
+  <persName>
+   <name type="prepositie">Drs.</name>
+    <name type="voornaam">Cornelis</name>
+   <name type="voornaam">Pieter</name>
+    <name type="geslachtsnaam">Hazenbosch</name>
+  </persName>
+  <persName>
+   <name type="prepositie">Drs.</name>
+    <name type="voornaam">C.P.</name>
+    <name type="geslachtsnaam">Hazenbosch</name>
+  </persName>
+  <sex value="1"/>
+  <event type="birth" when="1921-11-10">in <place>Dordrecht</place></event>
+  <event type="death" when="1961-01-10">in <place>nabij Bastogne (Belgi&#235;)<region type="gemeente">ten gevolge van een verkeersongeluk</region></place></event>
+  <event type="marriage" when="1946-11-27">gehuwd te Gorinchem</event>
+  <state type="residence">Den Dolder, Reelaan 16</state>
+  <state type="residence" to="1961-01-10">Den Dolder, Hertenlaan 31a</state>
+  <state type="education" to="1940-06">Christelijke Hogere Burgerschool te Dordrecht,</state>
+  <state type="education" from="1940-08-29" to="1950-06-23">economie, Nederlandse Economische Hogeschool te Rotterdam</state>
+  <state type="faith">Gereformeerd</state>
+  <state type="occupation" from="1946-09-01" to="1951-01-01">adjunct-secretaris hoofdafdeling Sociale Zaken, Stichting voor de Landbouw</state>
+  <state type="occupation" from="1951-01-01" to="1953-05">economisch adviseur CNV (Christelijk Nationaal Vakverbond)</state>
+  <state type="occupation" from="1953-04-15" to="1961-01-10">lid Tweede Kamer der Staten-Generaal</state>
+  <state type="occupation" from="1953-05" to="1961-01-10">secretaris (belast met internationale zaken, sociaal-economische onderwerpen en scholing en vorming) CNV (Christelijk Nationaal Vakverbond)</state>
+  <state type="occupation" from="1955-05-06" to="1958-01-01">lid Gemeenschappelijke Vergadering van de Europese Gemeenschap voor Kolen en Staal</state>
+  <state type="occupation" from="1958-01-01" to="1961-01-10">lid Europees Parlement</state>
+ <idno type="bioport">99922902</idno><idno type="id">pdc/vg09ll1fpkz3.xml</idno></person>
+ <biography>
+  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/005/00531g.jpg"/>
+  <text>Veelbelovend ARP-Tweede Kamerlid, die op jonge leeftijd in de Ardennen verongelukte. Secretaris van het CNV en vertrouweling van Bruins Slot. Was europarlementari&#235;r en woordvoerder economische zaken. Speelde een belangrijke rol in de bouwcrisis van 1960. Werd door velen gezien als een toekomstig minister. Tweede Kamervoorzitter Kortenhorst noemde hem in zijn herdenkingsrede "&#233;&#233;n van onzer gaafste en &#233;&#233;n onzer meest belovende medeleden".</text>
+ </biography>
+</biodes>

@@ -1,0 +1,48 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09llz5qkyx"/>
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/"/>
+  </publisher>
+ <title/><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09llz5qkyx">
+  <persName>
+   <name type="prepositie">Mr.</name>
+    <name type="voornaam">Jan</name>
+    <name type="geslachtsnaam">Klaasesz</name>
+  </persName>
+  <persName>
+   <name type="prepositie">Mr.</name>
+    <name type="voornaam">Jan</name>
+    <name type="geslachtsnaam">Klaasesz</name>
+  </persName>
+  <persName>
+   <name type="prepositie">Mr.</name>
+    <name type="voornaam">J.</name>
+    <name type="geslachtsnaam">Klaasesz</name>
+  </persName>
+  <sex value="1"/>
+  <event type="birth" when="1907-02-05">in <place>IJlst</place></event>
+  <event type="death" when="1997-11-29">in <place>Voorschoten</place></event>
+  <event type="marriage">gehuwd</event>
+  <state type="residence">Wassenaar</state>
+  <state type="residence">Voorschoten</state>
+  <state type="education">gymnasium te Leeuwarden</state>
+  <state type="education" to="1930">Nederlands recht, Rijksuniversiteit Groningen,</state>
+  <state type="faith">Doopsgezind</state>
+  <state type="occupation" from="1933">ambtenaar ter secretarie, gemeente Groningen</state>
+  <state type="occupation" to="1945">plaatsvervangend chef afdeling Algemene en Sociale Zaken, gemeente Groningen en chef kabinet van de burgemeester van Groningen,</state>
+  <state type="occupation" from="1944-01" to="1944-09">ge&#239;nterneerd gijzelaarskamp te Vught</state>
+  <state type="occupation" from="1945" to="1946-02">waarnemend burgemeester van Haren (Gr.)</state>
+  <state type="occupation" from="1945" to="1946-02">waarnemend burgemeester van Hoogkerk (Gr.)</state>
+  <state type="occupation" from="1946-02-22" to="1947-05-01">hoofd interne administratie Unesco te Londen en Parijs</state>
+  <state type="occupation" from="1947-05-01" to="1949-10-01">burgemeester van Wageningen</state>
+  <state type="occupation" from="1949-10-01" to="1956-01-16">Gouverneur van Suriname</state>
+  <state type="occupation" from="1956-01-16" to="1972-03-01">Commissaris van de Koningin in Zuid-Holland</state>
+ <idno type="bioport">98526163</idno><idno type="id">pdc/vg09llz5qkyx.xml</idno></person>
+ <biography>
+  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/150/15042g.jpg"/>
+  <text>Intelligente zoon van Friese huisarts die in Groningen rechten studeerde, rector was van het corps en daarna nog drie jaar internationaal recht deed aan de Sorbonne. Gemeenteambtenaar en na de bevrijding waarnemend burgemeester. Werkte enkele jaren voor internationale organisaties in Londen en Parijs en werd burgemeester van Wageningen en Gouverneur van Suriname. Daarna tot zijn pensioen een toegewijde en deskundige Commissaris der Koningin van Zuid-Holland, befaamd om zijn geestige speeches, die echter vaak niet vrij waren van sarcasme.</text>
+ </biography>
+</biodes>

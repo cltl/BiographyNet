@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://geheugenvannederland.nl/?/nl/items/VUMCC01:UBVU001-2-GRA-001"/>
+    <publisher>
+      <name>Het Geheugen van Nederland</name>
+      <ref target="http://geheugenvannederland.nl"/>
+    </publisher>
+  <idno type="source">portraits</idno></fileDesc>
+  <person>
+    <persName>Graevius, Gottfried</persName>
+    <event type="birth" when="1641"/>
+    <event type="death" when="1719"/>
+  <idno type="bioport">99871925</idno><idno type="id">portraits/cea80b7e2a801e78e720bb9aae33fc8a.xml</idno></person>
+  <biography>
+    <figure>
+      <head>Gottfried Graevius (1641-1719)</head>
+      <graphic url="http://resolver.kb.nl/resolve?urn=urn:gvn:VUMCC01:UBVU001-2-GRA-001&amp;role=image&amp;size=variable"/>
+    </figure>
+    <text>Gottfried Graevius (1641-1719). PORTRET 2 GRA 001 (kopergravure), Protestantse portretten van Museum Catharijneconvent en Vrije Universiteit, Amsterdam</text>
+  </biography>
+</biodes>

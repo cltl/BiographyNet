@@ -1,0 +1,18 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/retroboeken/elias?source=2&amp;page_number=705"/>
+    <publisher>
+      <name>Huygens Instituut voor Nederlandse Geschiedenis</name>
+      <ref target="http://www.historici.nl"/>
+    </publisher>
+  <idno type="source">elias</idno></fileDesc>
+  <person>
+    <persName>Bicker van Swieten, mr. Gerard, heer van Swieten, Vrijbaanderheer van de Baronie en Hooge heerlijkheid van Kessel, heer van Heien en Boecop</persName>
+    <event type="birth" when="1687">
+      <place/>
+    </event>
+    <event type="death" when="1687"/>
+  <idno type="bioport">99554824</idno><idno type="id">elias/296.xml</idno></person>
+  <biography/>
+</biodes>

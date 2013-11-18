@@ -1,0 +1,35 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09ll9qp4zy"/>
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/"/>
+  </publisher>
+ <title/><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09ll9qp4zy">
+  <persName>
+   <name type="voornaam">E.J.M.</name>
+    <name type="geslachtsnaam">Stumpel</name>
+  </persName>
+  <persName>
+   <name type="voornaam">Eduard</name>
+   <name type="voornaam">Joseph</name>
+   <name type="voornaam">Marie</name>
+    <name type="geslachtsnaam">Stumpel</name>
+  </persName>
+  <sex value="1"/>
+  <event type="birth" when="1879-09-24">in <place>Roelofarendsveen<region type="gemeente">gem. Alkemade, Z.H.</region></place></event>
+  <event type="death" when="1967-07-21">in <place>Hoorn</place></event>
+  <event type="marriage" when="1905-09-27">gehuwd te Hoorn</event>
+  <state type="residence">Hoorn</state>
+  <state type="faith">Rooms-Katholiek</state>
+  <state type="occupation">drukker-uitgever dagbladen en periodieken ("Noord-Hollandsch Dagblad", "Ons Noorden" en "Overijssels Dagblad")</state>
+  <state type="occupation" from="1916" to="1934-06-20">lid gemeenteraad van Hoorn</state>
+  <state type="occupation" from="1924" to="1934-06-20">wethouder (onder meer van bedrijven) van Hoorn</state>
+  <state type="occupation" from="1934-03-06" to="1946-06-04">lid Tweede Kamer der Staten-Generaal</state>
+ <idno type="bioport">99295492</idno><idno type="id">pdc/vg09ll9qp4zy.xml</idno></person>
+ <biography>
+  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/013/01323g.jpg"/>
+  <text>Woordvoerder middenstandsaangelegenheden van de RKSP-fractie in de Tweede Kamer. Geboren in de overwegend katholieke gemeente Alkemade, maar later woonachtig in West-Friesland. Zoon van boekhandelaar en zelf in Hoorn drukker-uitgever van onder meer het Noordhollandsch Dagblad. Bekleedde diverse functies in katholieke middenstandsorganisaties.</text>
+ </biography>
+</biodes>

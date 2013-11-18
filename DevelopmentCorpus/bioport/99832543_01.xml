@@ -1,0 +1,11 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <publisher/>
+  <notesStmt><note type="bioport_editor"/><note type="public"/></notesStmt><idno type="source">bioport</idno></fileDesc>
+  <person>
+    <idno type="id">99832543</idno>
+    <idno type="bioport">99832543</idno>
+  <event type="birth"><place/></event><event type="death" when="1506-11"><place>Luik, Belgi&#235;</place></event><event type="funeral"><place/></event><event type="baptism"><place/></event><sex value="1"/><state type="category" idno="4">Kerk en godsdienst</state><state type="religion" idno="8"/><state type="floruit" from="" to=""><place/></state><persName>Moens, Servatius</persName></person>
+  <biography><snippet source_id="nnbw/12469"/></biography>
+</biodes>

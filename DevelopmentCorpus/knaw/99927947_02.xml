@@ -1,0 +1,157 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>Gorter, C.J.</author>
+    <author>Oort, J.H.</author>
+    <ref target="http://www.dwc.knaw.nl/english/academy/past-members/?pagetype=authorDetail&amp;aId=PE00000146"/>
+    <publisher>
+      <name>KNAW - Levensberichten en Herdenkingen</name>
+      <ref target="http://www.digitallibrary.nl/levensberichten/works.cfm"/>
+    </publisher>
+  <idno type="source">knaw</idno></fileDesc>
+  <person>
+    <idno type="id">1001</idno>
+    <persName><name type="voornaam">Walter</name> <name type="geslachtsnaam">Baade</name></persName>
+    <sex value="1"/>
+    <event type="birth" when="1893-03-24">
+      <place>Schr&#246;ttinghausen, Duitsland</place>
+    </event>
+    <event type="death" when="1960-06-25">
+      <place>G&#246;ttingen, Duitsland</place>
+    </event>
+    <state type="occupation">Sterrenkunde</state>
+  <idno type="PE00000146">huygens_id</idno><idno type="bioport">99927947</idno></person>
+  <biography>
+    <graphic url="http://www.knaw.nl/cfdata/leden/images/baade_WHW_x61.jpg"/>
+    <text>&lt;body lang="EN-US" style="tab-interval:36.0pt;text-justify-trim:punctuation"&gt;
+&lt;div class="Section1"&gt;
+&lt;p align="center" style="margin-left:.7pt;text-align:center;&amp;#13;&amp;#10;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="font-size:11.0pt;color:#000099;letter-spacing:&amp;#13;&amp;#10;.4pt;mso-ansi-language:NL"&gt;LEVENSBERICHT&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" style="margin-right:1.45pt;text-align:center;&amp;#13;&amp;#10;line-height:17pt;21.6pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="font-size:11.0pt;color:#000099;letter-spacing:-2.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;VAN&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="font-size:15.0pt;color:#000099;letter-spacing:.7pt;&amp;#13;&amp;#10;mso-ansi-language:NL"&gt;WALTER&lt;span style="mso-spacerun:yes"&gt;&amp;#160; &lt;/span&gt;BAADE&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" style="margin-top:.95pt;margin-right:.5pt;&amp;#13;&amp;#10;margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;&amp;#13;&amp;#10;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.35pt;&amp;#13;&amp;#10;mso-ansi-language:NL"&gt;(24 maart 1893&amp;#151;25 juni 1960)&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top:21.6pt;margin-right:.25pt;margin-bottom:&amp;#13;&amp;#10;0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:9.85pt;&amp;#13;&amp;#10;line-height:17pt;12.7pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:NL"&gt;Op 25&amp;#13;
+juni overleed te G&amp;#246;ttingen na een langdurige ziekte een&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;der grote astronomen van onze tijd, een man die verbeeldingskracht&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.35pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;en visie paarde aan uiterste zorg voor de waarnemingen en aan&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;het geduld zonder hetwelk geen experimenteel sterrekundige iets&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;waardevols presteren kan. Tegelijk was Baade echter impulsief. Zijn&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;geest was boordevol met de ontelbare dingen die hij in zijn lange&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;leven als astronoom waargenomen had en hij verstond als weinigen&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.35pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;de kunst om zijn ervaring mondeling aan anderen uit te dragen.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left:.5pt;text-align:justify;text-indent:9.6pt;&amp;#13;&amp;#10;line-height:17pt;12.7pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:NL"&gt;Baade was&amp;#13;
+in 1893 te Schr&amp;#246;ttinghausen in Westphalen geboren.&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.4pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;Tijdens zijn studie in G&amp;#246;ttingen was hij drie jaar assistent bij&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;Felix Klein, die een grote invloed op hem uitgeoefend heeft. Van&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;1919 tot 1931 werkte hij als astronoom aan de Hamburgse Sterre-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;wacht in Bergedorf. Hij deed met de betrekkelijk kleine aldaar&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;beschikbare instrumenten prachtig werk, hetgeen ertoe leidde dat&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;hij in 1931 een betrekking als astronoom bij de Mt Wilson Sterre-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;wacht te Pasadena kreeg. Bijna zijn gehele verdere leven heeft hij&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;in Pasadena doorgebracht, waarbij hij eerst voornamelijk met de&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;100-duims reflector op Mt Wilson en later vrijwel uitsluitend met&lt;br/&gt;&amp;#13;
+de 200-duims Hale telescoop op Mt Palomar werkte.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left:.95pt;text-align:justify;text-indent:&amp;#13;&amp;#10;9.6pt;line-height:17pt;12.7pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.55pt;mso-ansi-language:NL"&gt;Hij&amp;#13;
+gebruikte slechts &amp;#233;&amp;#233;n techniek: de directe fotografie&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;waarbij hij zich in het bijzonder toelegde op de fotometrie van&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;zwakke sterren. De reden van zijn grote succes en zijn talrijke&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;ontdekkingen was enerzijds de grote perfectie waartoe hij deze&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;technieken wist op te voeren en anderzijds de vrijwel onfeilbare&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;intu&amp;#239;tie waarmee hij vruchtbare en minder vruchtbare richtingen&lt;br/&gt;&amp;#13;
+van onderzoek wist te onderscheiden.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;body lang="EN-US" style="tab-interval:36.0pt;text-justify-trim:punctuation"&gt;
+&lt;div class="Section1"&gt;
+&lt;p align="center" style="margin-right:2.15pt;text-align:center;&amp;#13;&amp;#10;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="font-size:9.0pt;font-family:Arial;&amp;#13;&amp;#10;color:#000099;mso-ansi-language:NL"&gt;282&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top:13.2pt;margin-right:.7pt;margin-bottom:&amp;#13;&amp;#10;0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:9.35pt;&amp;#13;&amp;#10;line-height:17pt;12.7pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:NL"&gt;Zijn werk&amp;#13;
+was veelzijdig. Het omvatte de samenstelling van&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.3pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;sterrenstelsels, de evolutie van sterren, de radiobronnen in het&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;heelal, novae en supernovae en vele detailonderzoekingen aan&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;andere nevels, sterren en sterrenhopen.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;text-indent:9.35pt;line-height:17pt;&amp;#13;&amp;#10;12.7pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:NL"&gt;Bij zijn werk aan&amp;#13;
+de sterrenstelsels ontdekte hij dat deze bestaan&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;uit twee soorten sterren, waaraan hij de namen &amp;#132;populatie &lt;/span&gt;&lt;span style="color:#000099;letter-spacing:.15pt"&gt;I" &lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:NL"&gt;en&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;&amp;#132;populatie &lt;/span&gt;&lt;span style="color:#000099;letter-spacing:.2pt"&gt;II" &lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:NL"&gt;gaf. De&amp;#13;
+objecten van populatie &lt;/span&gt;&lt;span style="color:#000099;letter-spacing:.2pt"&gt;I &lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:NL"&gt;zijn&amp;#13;
+interstellaire&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;gaswolken en sterren die geconcentreerd zijn in de spiraalarmen&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;van spiraalvormige stelsels en verder in onregelmatige stelsels van&lt;br/&gt;&amp;#13;
+het type van de Magelhaense Wolken. De meeste z.g. &amp;#132;bolvormige&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;sterrenhopen" daarentegen bestaan vrijwel geheel uit sterren van&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;populatie &lt;/span&gt;&lt;span style="color:#000099;letter-spacing:.2pt"&gt;II. &lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:NL"&gt;Baade&amp;#13;
+toonde aan dat sterren van deze populatie ook&lt;br/&gt;&amp;#13;
+in de spiraalstelsels voorkomen, maar daar een regelmatig sub-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;mso-ansi-language:NL"&gt;stratum vormen.&amp;#13;
+Het wezenlijke verschil tussen de populaties is hun&lt;br/&gt;
+&lt;span style="letter-spacing:.15pt"&gt;ouderdom. Terwijl de populatie &lt;/span&gt;&lt;/span&gt;&lt;span style="color:#000099;letter-spacing:.15pt"&gt;I &lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:NL"&gt;sterren in het&amp;#13;
+jongste ontwik-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;kelingsstadium der sterrenstelsels gevormd zijn, zijn de populatie &lt;/span&gt;&lt;span style="color:#000099;letter-spacing:.05pt"&gt;II&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;sterren alle zeer oud. Een deel daarvan moet zelfs in het allereerste&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;evolutiestadium der sterrenstelsels gevormd zijn, toen deze zich pas&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;als afzonderlijke eenheden uit het expanderend heelal afgesplitst&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.3pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;hadden. De sterren der twee populaties onderscheiden zich ook&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.35pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;door hun samenstelling: In de oudste sterren van populatie &lt;/span&gt;&lt;span style="color:#000099;letter-spacing:.35pt"&gt;II &lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.35pt;mso-ansi-language:NL"&gt;is&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;de fractie aan elementen zwaarder dan helium, zeer veel (misschien&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;honderd maal) geringer dan in de populatie &lt;/span&gt;&lt;span style="color:#000099;&amp;#13;&amp;#10;letter-spacing:.15pt"&gt;I. &lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:&amp;#13;&amp;#10;.15pt;mso-ansi-language:NL"&gt;Een belangrijk deel&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;van Baade's oeuvre is gewijd aan onderzoekingen over de ver-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;deling van de twee populatie-groepen over het Melkwegstelsel en&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;in verschillende andere sterrenstelsels in de naaste omgeving daar-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;van, zoals de Andromeda-nevel. In het bijzonder werden daarbij&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;ook variabele sterren onderzocht, omdat deze zelfs onder de zwak-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;ste sterren betrekkelijk gemakkelijk herkend kunnen worden. Op&lt;br/&gt;&amp;#13;
+zijn instigatie en onder zijn leiding werden tevens vele onder-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.4pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;zoekingen verricht over de helderheden en temperaturen van&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;sterren in sterrenhopen van alle mogelijke leeftijden. De combi-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;natie van deze onderzoekingen met de nieuwe inzichten in kern-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;processen en in de inwendige bouw der sterren, verschaften voor&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;het eerst enig inzicht in de evolutie van individuele sterren. Baade's&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;body lang="EN-US" style="tab-interval:36.0pt;text-justify-trim:punctuation"&gt;
+&lt;div class="Section1"&gt;
+&lt;p align="center" style="margin-right:3.35pt;text-align:center;&amp;#13;&amp;#10;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="font-family:Arial;color:#000099;&amp;#13;&amp;#10;mso-ansi-language:NL"&gt;283&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top:12.7pt;margin-right:1.9pt;margin-bottom:&amp;#13;&amp;#10;0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:justify;line-height:17pt;12.7pt;&amp;#13;&amp;#10;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;&amp;#13;&amp;#10;letter-spacing:.25pt;mso-ansi-language:NL"&gt;onderzoek op dit gebied heeft echter&amp;#13;
+&amp;#243;&amp;#243;k een belangrijke basis&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.3pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;gelegd voor de bestudering van de evolutie van &lt;i&gt;sterren-stelsels.&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-right:1.2pt;text-align:justify;text-indent:&amp;#13;&amp;#10;9.85pt;line-height:17pt;12.7pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:NL"&gt;In 1951&amp;#13;
+slaagden Baade en Minkowski erin langs fotografische&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.3pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;weg enige der helderste z.g. radiobronnen optisch te ontdekken.&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;De allersterkste radiobron, Cassiopeia A, identificeerden zij als&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;resten van een 250 jaar oude supernova, gelegen binnen de grenzen&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.35pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;van het Melkwegstelsel. Het optische beeld van de op &amp;#233;&amp;#233;n na&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;sterkste bron, Cygnus A, interpreteeerden zij als twee botsende&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;spiraalnevels op een afstand van de orde van een miljard licht-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;jaren. Latere onderzoekingen, grotendeels van dezelfde astronomen,&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;hebben getoond dat het merendeel der radiobronnen voortkomt uit&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;botsingen van snel-bewegende gasmassa's, veroorzaakt &amp;#243;f wel door&lt;br/&gt;&amp;#13;
+een supernova-ontploffing in het Melkwegstelsel, &amp;#243;f wel door inter-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;actie van de interstellaire media van een of meer vlak bij elkaar&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;liggenden sterrenstelsels, die zich op z&amp;#233;&amp;#233;r grote afstand van het&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;Melkwegstelsel bevinden.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top:0cm;margin-right:.5pt;margin-bottom:0cm;&amp;#13;&amp;#10;margin-left:1.2pt;margin-bottom:.0001pt;text-align:justify;text-indent:9.6pt;&amp;#13;&amp;#10;line-height:17pt;12.7pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:NL"&gt;Onafhankelijk&amp;#13;
+van de radio-astronomie had Baade reeds uit-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;gebreide en bijzonder interessante onderzoekingen over die merk-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;waardige groep van exploderende sterren verricht die men als&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;supernovae aanduidt. Onder andere vond hij dat er twee soorten&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.35pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;supernovae zijn. De eerste behoort tot de populatie &lt;/span&gt;&lt;span style="color:#000099;letter-spacing:.35pt"&gt;I &lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.35pt;mso-ansi-language:NL"&gt;en moet&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;bestaan uit zeer jonge, wellicht zelfs nog niet volledig gevormde,&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.35pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;sterren met enorm grote massa's, terwijl de massa's der andere,&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;tot populatie &lt;/span&gt;&lt;span style="color:#000099;letter-spacing:.1pt"&gt;II &lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:NL"&gt;behorende,&amp;#13;
+supernovae niet veel groter zijn dan die&lt;br/&gt;&amp;#13;
+van de zon. Tot deze laatste behoort o.a. de Krabnevel, een object&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;waar Baade uitgebreide studies van gemaakt heeft. Zijn werk op&lt;br/&gt;&amp;#13;
+dit terrein strekte zich &amp;#243;&amp;#243;k uit tot enige &amp;#132;gewone" novae (waarbij&lt;br/&gt;&amp;#13;
+in tegenstelling tot de supernovae slechts een zeer kleine fractie&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.35pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;van de ster uitgestoten wordt) in 't bijzonder Nova Persei 1901&lt;br/&gt;&amp;#13;
+en Nova Aquilae 1918.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left:1.9pt;text-align:justify;text-indent:&amp;#13;&amp;#10;9.6pt;line-height:17pt;12.7pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:NL"&gt;Baade&amp;#13;
+heeft gedurende de gehele periode van zijn verblijf in&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.4pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;Pasadena veel contact met Nederlandse astronomen gehad. In&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.3pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;1953 bracht hij enkele maanden op de Leidse Sterrewacht door;&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.35pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;in deze tijd werd ook met de jonge astronomen in Leiden een&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;hechte band gelegd. Het was ook gedurende dit verblijf dat onder&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+</text>
+  </biography>
+</biodes>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://geheugenvannederland.nl/?/nl/items/VUMCC01:STCC-G00277"/>
+    <publisher>
+      <name>Het Geheugen van Nederland</name>
+      <ref target="http://geheugenvannederland.nl"/>
+    </publisher>
+  <idno type="source">portraits</idno></fileDesc>
+  <person>
+    <persName>Velde, Joannes van de</persName>
+    <event type="birth" when="1722"/>
+    <event type="death" when="1789"/>
+  <idno type="bioport">24804301</idno><idno type="id">portraits/104aea154f30fcc11ec9066e7c5cfb1d.xml</idno><idno type="bioport">21609445</idno><idno type="bioport">57179518</idno><idno type="bioport">98766138</idno></person>
+  <biography>
+    <figure>
+      <head>Portret van Joannes van de Velde (1722-1789), predikant te Heinenoord, Zierikzee</head>
+      <graphic url="http://resolver.kb.nl/resolve?urn=urn:gvn:VUMCC01:STCC-G00277&amp;role=image&amp;size=variable"/>
+    </figure>
+    <text>Portret van Joannes van de Velde (1722-1789), predikant te Heinenoord, Zierikzee. StCC-g00277 (gravure), Protestantse portretten van Museum Catharijneconvent en Vrije Universiteit, Amsterdam</text>
+  </biography>
+</biodes>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/3318"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  <idno type="source">raa</idno></fileDesc>
+  <person>
+    <persName><name type="voornaam">J.</name> <name type="geslachtsnaam">Goossens</name></persName>
+    <event type="birth">
+      <place/>
+    </event>
+    <event type="death">
+      <place/>
+    </event>
+  <idno type="bioport">99963665</idno><idno type="id">raa/3318.xml</idno></person>
+  <biography/>
+</biodes>

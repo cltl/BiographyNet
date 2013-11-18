@@ -1,0 +1,40 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09llzwkdnq"/>
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/"/>
+  </publisher>
+ <title/><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09llzwkdnq">
+  <persName>
+   <name type="prepositie">Dr.</name>
+    <name type="voornaam">A.H.</name>
+    <name type="geslachtsnaam">G&#252;nther</name>
+  </persName>
+  <persName>
+   <name type="prepositie">Dr.</name>
+    <name type="voornaam">August</name>
+   <name type="voornaam">Herman</name>
+    <name type="geslachtsnaam">G&#252;nther</name>
+  </persName>
+  <sex value="1"/>
+  <event type="birth" when="1908-07-06">in <place>Haarlem</place></event>
+  <event type="death" when="1986-11-28">in <place>'s-Gravenhage</place></event>
+  <event type="marriage" when="1932-02-25">gehuwd te Haarlem</event>
+  <state type="education">gymnasium te Haarlem</state>
+  <state type="education" from="1926" to="1930-06-19">Nederlands recht, Gemeentelijke Universiteit te Amsterdam</state>
+  <state type="occupation" from="1930" to="1934">hoofdcommies Provinciale Griffie te Leeuwarden</state>
+  <state type="occupation" from="1934" to="1936">hoofdcommies Provinciale Griffie te 's-Gravenhage</state>
+  <state type="occupation" from="1936" to="1938">referendaris Provinciale Griffie te 's-Gravenhage</state>
+  <state type="occupation" from="1938" to="1948">chef afdeling administratief onderzoek van begrotingen (rang: administrateur), Provinciale Griffie te 's-Gravenhage</state>
+  <state type="occupation" from="1948" to="1950">raadadviseur ministerie van Wederopbouw en Volkshuisvesting</state>
+  <state type="occupation" from="1950" to="1955-10-01">raadadviseur in algemene dienst, hoofd afdeling Juridische zaken en plaatsvervangend secretaris-generaal ministerie van Wederopbouw en Volkshuisvesting</state>
+  <state type="occupation" from="1955-10-01" to="1959-10-01">secretaris-generaal ministerie van Wederopbouw en Volkshuisvesting</state>
+  <state type="occupation" from="1959-10-01" to="1973-08-01">secretaris-generaal ministerie van Binnenlandse Zaken</state>
+ <idno type="bioport">98848764</idno><idno type="id">pdc/vg09llzwkdnq.xml</idno></person>
+ <biography>
+  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/175/17534g.jpg"/>
+  <text>Liberale topambtenaar die een lange loopbaan afsloot als secretaris-generaal. Hij was dat eerst vier jaar op het ministerie van Volkshuisvesting en vanaf 1959, toen minister Toxopeus hem daar benoemde, veertien jaar op Binnenlandse Zaken. Begon zijn carri&#232;re bij de provincies Friesland en Zuid-Holland en stapte in 1948 over naar het ministerie van Wederopbouw en Volkshuisvesting. Was in 1934 gepromoveerd op een proefschrift over de drinkwatervoorziening. </text>
+ </biography>
+</biodes>
