@@ -8,6 +8,15 @@ Current status:
 Data can be obtained by e-mailing antske.fokkens@vu.nl
 Scripts are being cleaned and will be available soon.
 
+Development Corpus:
+
+Consists of a small set of files (at least 10) from different sources.
+
+NB1: elias and nbwv have metadata but no text
+NB2: bwsa_archives glasius schilderkunst and schouburg are currently empty. Metadata in these sources only provide a name and texts are not included in the XML file.
+
+Each file contains the XML file and some have a folder "metadata_values" that provides tags and their value as extracted from the metadata.
+
 
 Preliminary outcome of text mining for different categories of information:
 --------------------------------------------------------------------------
