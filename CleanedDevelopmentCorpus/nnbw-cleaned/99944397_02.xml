@@ -1,0 +1,19 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <author>Vogels</author>
+    <ref target="http://www.inghist.nl/retroboeken/nnbw?source=9&page_number=1033" />
+    <publisher>
+      <name>Nieuw Nederlandsch Biografisch Woordenboek (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/nnbw" />
+    </publisher>
+  <idno type="source">nnbw</idno></fileDesc>
+  <person>
+    <idno type="id">nnbw/18993</idno>
+    <persName><name type="geslachtsnaam">Simonsz.</name>, Jan</persName>
+    <idno type="dbnl_id">simo045</idno>
+  <idno type="bioport">20322566</idno><idno type="bioport">90349476</idno><idno type="bioport">99944397</idno></person>
+  <biography>
+    <text>SIMONSZ. (Jan), geb. te Westwold in Noord-Holland. Hij behoorde tot de eerste aanhangers van de Hervorming en had zijn kinderen op de nieuwe manier door een predikant laten doopen. Daarom werd hij op 28 Mrt. 1568 door Alva verbannen, het vonnis werd. 31 Mrt. 1568 afgekondigd. Hij kwam later op de vloot der Watergeuzen, maar van zijn verdere lotgevallen is niets bekend. Zie over hem: Marcus, Sententiën, 43; van Groningen, Gesch. der Watergeuzen, 129. Vogels</text>
+  </biography>
+</biodes>

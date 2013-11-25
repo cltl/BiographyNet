@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/9338" />
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen" />
+    </publisher>
+  <idno type="source">raa</idno></fileDesc>
+  <person>
+    <persName><name type="voornaam">Claes Cornelisz.</name> <name type="geslachtsnaam">Bloem</name></persName>
+    <event type="birth">
+      <place />
+    </event>
+    <event type="death" when="1716-02-29">
+      <place />
+    </event>
+  <idno type="bioport">99962843</idno><idno type="id">raa/9338.xml</idno></person>
+  <biography />
+</biodes>

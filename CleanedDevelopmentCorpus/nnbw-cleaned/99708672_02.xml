@@ -1,0 +1,19 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <author>Molhuysen</author>
+    <ref target="http://www.inghist.nl/retroboeken/nnbw?source=1&page_number=447" />
+    <publisher>
+      <name>Nieuw Nederlandsch Biografisch Woordenboek (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/nnbw" />
+    </publisher>
+  <idno type="source">nnbw</idno></fileDesc>
+  <person>
+    <idno type="id">nnbw/793</idno>
+    <persName><name type="geslachtsnaam">Braak</name>, Balduinus ter of ter Braek</persName>
+    <idno type="dbnl_id">braa026</idno>
+  <idno type="bioport">99708672</idno><idno type="bioport">99708672</idno></person>
+  <biography>
+    <text>BRAAK (Balduinus ter) of ter Braek, geb. 1697 te Groningen, als predikant te Katwijk a.Z. bevestigd 2 Juni 1720, wegens overspel 1732 afgezet, liet zich daarop als student te Leiden inschrijven (23 Juli 1732) en gaf tegelijk onderwijs in latijn en grieksch, wat hem op voorstel van prof. Havercamp door den Senaat werd verboden (Acta Sen. 9 Apr. 1734). Hij werd 1738 weder beroepbaar verklaard. In dat jaar volgde hij Henr. Hoogeveen als rector te Woerden op. Hij schreef: Eerste melk der kinderen (2e dr. 1725); Melk voor zuigelingen (1724); Zeden en Mengelstoffen vervattende 20 Predicatiën (1731). Hij vertaalde Bern. de Moor, Oratio de imperfecta Ecclesiae militantis felicitate (1745) en Joh. la Placette, Over de ongeneeslijke algem. twijffel-linge der Roomsche Kerk (Leid. 1738). Over zijn wangedrag gaf hij een Belijdenis, verdediging en smeekschrift. Zie: Strodtmann, N. Gel. Europa IX, 163; XI, 598; XII, 1049; de Wal, Nalezingen. Molhuysen</text>
+  </biography>
+</biodes>

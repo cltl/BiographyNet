@@ -1,0 +1,19 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <author>Zuidema</author>
+    <ref target="http://www.inghist.nl/retroboeken/nnbw?source=4&page_number=1304" />
+    <publisher>
+      <name>Nieuw Nederlandsch Biografisch Woordenboek (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/nnbw" />
+    </publisher>
+  <idno type="source">nnbw</idno></fileDesc>
+  <person>
+    <idno type="id">nnbw/9170</idno>
+    <persName><name type="geslachtsnaam">Tex</name>, Nicolaas Jacob den</persName>
+    <idno type="dbnl_id">tex_006</idno>
+  <idno type="bioport">99707755</idno></person>
+  <biography>
+    <text>TEX (Nicolaas Jacob den), broeder van den voorgaande, geb. 29 Dec. 1836 te Amsterdam, overl. ald. 21 Mei 1899. Ook hij studeerde en promoveerde in de rechten, was eerst advocaat, vervolgens secretaris van de Kamer van Koophandel en Fabrieken en lid van den gemeenteraad te Amsterdam. Later werd hij directeur der Kon. Nederl. Stoombootmaatschappij en commissaris der Ned. Bank. Hij schreef: Egypte en het Suez-kanaal (1870); Amerikaansche spoorwegen op de Amsterdamsche Beurs (1873) en belangrijke opstellen in verschillende tijdschriften. Mr. N.J. den Tex was gehuwd, sedert 1866, met Hester Boissevain, bij wie hij zes kinderen had. Zuidema</text>
+  </biography>
+</biodes>

@@ -1,0 +1,26 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.rkd.nl/rkddb/dispatcher.aspx?action=search&database=ChoiceArtists&search=priref=373708" />
+    <publisher>
+      <name>Rijksbureau voor Kunsthistorische Documentatie</name>
+      <ref target="http://www.rkd.nl/" />
+    </publisher>
+    <idno type="source">rkdartists</idno></fileDesc>
+  <person>
+    <persName><name type="geslachtsnaam">Hogendorp-Testart</name>, Judith Magdalena van</persName>
+    <persName><name type="geslachtsnaam">Testart</name>, Judith Magdalena</persName>
+    <sex value="1" />
+    <event type="birth" when="1746">
+      <place>Amsterdam</place>
+    </event>
+    <event type="death" when="1821-04-13">
+      <place>Haarlem</place>
+    </event>
+    <state type="occupation">amateurtekenaar</state>
+    <idno type="id">373708</idno>
+  <idno type="bioport">99999119</idno></person>
+  <biography>
+    <text>Amateurtekenaar. Geboren: 1746, Amsterdam. Gestorven: 13 april 1821, Haarlem.</text>
+  </biography>
+</biodes>

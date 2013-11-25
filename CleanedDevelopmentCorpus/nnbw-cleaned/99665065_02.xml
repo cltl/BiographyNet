@@ -1,0 +1,19 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <author>de Waard</author>
+    <ref target="http://www.inghist.nl/retroboeken/nnbw?source=3&page_number=903" />
+    <publisher>
+      <name>Nieuw Nederlandsch Biografisch Woordenboek (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/nnbw" />
+    </publisher>
+  <idno type="source">nnbw</idno></fileDesc>
+  <person>
+    <idno type="id">nnbw/6296</idno>
+    <persName><name type="geslachtsnaam">Nans</name>, François (2)</persName>
+    <idno type="dbnl_id">nans004</idno>
+  <idno type="bioport">99665065</idno></person>
+  <biography>
+    <text>NANS (François) (2), of Nansius, ged. te Middelburg 29 Mei 1613, begr. aldaar 3 Juli 1662, zoon van Adolf N. en Anna van Roubergen (kol. 902), werd 9 Mei 1634 te Leiden onder Burgersdijk ingeschreven als stud. med. et phil. en 16 Nov. 1635 te Groningen als stud. med. alleen. Ondertrouwd te Middelburg 23 Apr. 1644 (getr. 11 Mei), met Cornelia Scotte, dochter van den gezant Jacob Sc. en Jacquemina van der Hooge, was hij sinds 5 Mei 1644 stadsdokter te Middelburg en heeft o.a. Petrus Burs, Jacob en Pieter Lansbergen en Joh. Pelletier tot ambtgenooten gehad. Uit deze betrekking zoowel als uit die van armendokter nam hij in 1660 ontslag en werd opgevolgd door Willem Cooman. de Waard</text>
+  </biography>
+</biodes>

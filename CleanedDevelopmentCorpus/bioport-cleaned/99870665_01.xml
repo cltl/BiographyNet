@@ -1,0 +1,11 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <publisher />
+  <notesStmt><note type="bioport_editor" /><note type="public" /></notesStmt><idno type="source">bioport</idno></fileDesc>
+  <person>
+    <idno type="id">99870665</idno>
+    <idno type="bioport">99870665</idno>
+  <event type="birth" when="1822-01-29"><place>Dordrecht</place></event><event type="death" when="1896-01-13"><place>Passaroean, Nederlands-Indië</place></event><event type="funeral"><place /></event><event type="baptism"><place /></event><sex value="1" /><state from="" to="" type="floruit"><place /></state><state idno="2" type="category">Bedrijfsleven</state><state idno="" type="religion" /><persName>Gerrit Lebret</persName></person>
+  <biography><snippet source_id="nnbw/8645" /></biography>
+</biodes>

@@ -1,0 +1,18 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.inghist.nl/retroboeken/vdaa?source=aa__001biog01_01.xml&page_number=379" />
+    <publisher>
+      <name>Van der Aa (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/vdaa" />
+    </publisher>
+  <idno type="source">vdaa</idno></fileDesc>
+  <person>
+    <idno type="id">a0480</idno>
+    <persName>Hendrik <name type="geslachtsnaam">Arnault</name></persName>
+    <idno type="dbnl_id">arna002</idno>
+  <persName>Hendrik Arnout</persName><idno type="bioport">99807410</idno></person>
+  <biography>
+    <text>ARNAULT (Hendrik) of Arnout, geboren te Zwolle, in het laatst der dertiende eeuw, oefende zich eerst in de genees- en wiskunde; legde zich daarna, vermoedelijk te Montpellier of te Bazel op de sterre- en zonnewijzerkunde toe en overleed in 1460 te Dijon in Bourgondië, waar hij gevestigd was. In de koninklijke bibliotheek aldaar wordt onder No. 7295 een handschrift van hem bewaard, dat tot opschrift heeft: De motibus planetarum Lib. II. Zie Courtin, Encyclopedie Moderne; Biogr. Univers.</text>
+  </biography>
+</biodes>

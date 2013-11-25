@@ -1,0 +1,25 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.dbnl.org/tekst/_jaa004200601_01/_jaa004200601_01_0009.php" />
+    <publisher>
+      <name>Jaarboek van de Maatschappij der Nederlandse Letterkunde, 2006 (2006) in de Digitale Bibliotheek voor de Nederlandse Letteren</name>
+      <ref target="http://www.dbnl.org" />
+    </publisher>
+  <idno type="source">dbnl</idno></fileDesc>
+  <person>
+    <idno type="id">1791586023</idno>
+    <persName>Knetsch, Frederik Reinier Jacob </persName>
+    <sex value="1" />
+    <event type="birth" when="1924-06-24">
+      <date>24 juni 1924</date>
+      <place>Leiden</place>
+    </event>
+    <event type="death" when="2006-09-04">
+      <date>4 september 2006</date>
+      <place>Eelde</place>
+    </event>
+    <idno type="dbnl_id">knet001</idno>
+  <idno type="bioport">10522683</idno><idno type="bioport">99877488</idno></person>
+  <biography />
+</biodes>

@@ -1,0 +1,49 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09lldjczvx" />
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/" />
+  </publisher>
+ <title /><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09lldjczvx">
+  <persName>
+   <name type="prepositie">Mr.</name>
+    <name type="voornaam">Nancy</name>
+    <name type="geslachtsnaam">Zeelenberg</name>
+  </persName>
+  <persName>
+   <name type="prepositie">Mr.</name>
+    <name type="voornaam">Jannetje</name>
+    <name type="geslachtsnaam">Zeelenberg</name>
+  </persName>
+  <persName>
+   <name type="prepositie">Mr.</name>
+    <name type="voornaam">J.</name>
+    <name type="geslachtsnaam">Zeelenberg</name>
+  </persName>
+  <sex value="2" />
+  <event type="birth" when="1903-07-26">in <place>Rotterdam</place></event>
+  <event type="death" when="1986-04-22">in <place>Rotterdam</place></event>
+  <event type="marriage">ongehuwd</event>
+  <state type="residence">Rotterdam, Bergsingel 99</state>
+  <state type="residence">Rotterdam, Van Oldenbarneveltplaats 370</state>
+  <state type="education">h.b.s.-a</state>
+  <state from="1923-09-18" to="1927-11-08" type="education">Nederlands recht, Rijksuniversiteit Leiden</state>
+  <state type="faith">Nederlands Hervormd: vrijzinnig (opgevoed)</state>
+  <state type="faith">vrijzinnig-protestants</state>
+  <state from="1927" to="1928" type="occupation">medewerker advocatenkantoor te Rotterdam</state>
+  <state from="1928" to="1956" type="occupation">advocaat en procureur te Rotterdam</state>
+  <state from="1946-09-02" to="1967-02-23" type="occupation">lid gemeenteraad van Rotterdam</state>
+  <state from="1946-06-20" to="1953-09" type="occupation">lid Provinciale Staten van Zuid-Holland</state>
+  <state from="1952-09-16" to="1958-11-22" type="occupation">lid Tweede Kamer der Staten-Generaal</state>
+  <state from="1956-01-19" to="1958-09-01" type="occupation">wethouder (van financiën) van Rotterdam</state>
+  <state from="1958-09-01" to="1967-02-01" type="occupation">wethouder (van financiën en kunstzaken) van Rotterdam</state>
+  <state from="1960-09-20" to="1967-02-11" type="occupation">lid Eerste Kamer der Staten-Generaal</state>
+  <state from="1967-02-01" to="1978-08-01" type="occupation">lid Raad van State</state>
+ <idno type="bioport">99768311</idno><idno type="id">pdc/vg09lldjczvx.xml</idno></person>
+ <biography>
+  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/015/01595g.jpg" />
+  <text>Lid van de Tweede en Eerste Kamer, wethouder van Rotterdam en staatsraad. Dochter van een welgestelde Rotterdamse notaris. Hardwerkende intelligente juriste die niemand naar de mond praatte. Hield zich als Tweede Kamerlid vooral bezig met justitie (onder andere familierecht) en zette zich in voor de emancipatie van de vrouw. Presidente van de Vereniging voor Vrouwenbelangen en Gelijk Staatsburgerschap. Wethouder van financiën en cultuur met grote verdienste voor de havenstad. Had als bijnaam 'de ongekroonde koningin van Rotterdam'.</text>
+ </biography>
+</biodes>

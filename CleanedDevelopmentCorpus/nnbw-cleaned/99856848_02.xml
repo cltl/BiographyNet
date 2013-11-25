@@ -1,0 +1,19 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <author>Fruytier</author>
+    <ref target="http://www.inghist.nl/retroboeken/nnbw?source=8&page_number=989" />
+    <publisher>
+      <name>Nieuw Nederlandsch Biografisch Woordenboek (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/nnbw" />
+    </publisher>
+  <idno type="source">nnbw</idno></fileDesc>
+  <person>
+    <idno type="id">nnbw/16891</idno>
+    <persName><name type="geslachtsnaam">Laderière</name>, Sebastiaan</persName>
+    <idno type="dbnl_id">lade001</idno>
+  <idno type="bioport">99856848</idno></person>
+  <biography>
+    <text>LADERIÈRE (Sebastiaan de), geb. te Brussel, baccalaureus in de godgeleerdheid te Leuven, overl. in Holland omstreeks 1740. Hij behaalde 1685 als student te Leuven in de Valk bij de promotie der philosophie de 14e plaats van 102. 10 Jan. 1697 werd hij benoemd tot professor der poésis aan het college van de H. Drievuldigheid. Hij was benoemd door de universiteit tot pastoor der O.L.V. Kapellekerk te Brussel 1690; doch hieruit volgde een proces, dat niet te zijnen gunste afliep. Hij stichtte een beurs voor het college van 50 gulden ten voordeele van den student, die de tweede plaats in de klas der poësis behaalde. Hij was een aanganger der stellingen van Jansenius en week uit naar Holland in 1727 met andere professoren, toen zij genoodzaakt werden zich uit te spreken tegen de leer van Jansenius en Quesnel. Bachusius noemt hem: vir petilantissimae linguae et quam maxime effrons (Analectes XI, 463). Zie: Analectes hist. eccl. Belg. XI (1874), 463, XXI (1888) 325, 354. Fruytier</text>
+  </biography>
+</biodes>

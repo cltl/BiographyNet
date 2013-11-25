@@ -1,0 +1,18 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.inghist.nl/retroboeken/vdaa?source=aa__001biog13_01.xml&page_number=456" />
+    <publisher>
+      <name>Van der Aa (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/vdaa" />
+    </publisher>
+  <idno type="source">vdaa</idno></fileDesc>
+  <person>
+    <idno type="id">l0953</idno>
+    <persName>Perina van <name type="geslachtsnaam">Limburg</name></persName>
+    <idno type="dbnl_id">limb010</idno>
+  <idno type="bioport">72178155</idno><idno type="bioport">16413961</idno><idno type="bioport">99765721</idno></person>
+  <biography>
+    <text>LIMBURG (Perina van), dichteres uit het midden der zeventiende eeuw, zond een Dankoffer aan W. van Heemskerk, toen deze haar een Leeke-gunst pand op haar jarigdag, zijnde drie koningen avond, toezond, voorkomende in Bloemkrans van verscheiden Gedichten, Amst. 1659.   Zie v.d. Aa, N.B.A.C. Woord. D. II. bl. 195.</text>
+  </biography>
+</biodes>

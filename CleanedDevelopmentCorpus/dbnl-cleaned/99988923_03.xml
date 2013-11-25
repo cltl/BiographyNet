@@ -1,0 +1,25 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.dbnl.org/auteurs/auteur.php?id=hems005" />
+    <publisher>
+      <name>Auteurspagina in de Digitale Bibliotheek voor de Nederlandse Letteren</name>
+      <ref target="http://www.dbnl.org" />
+    </publisher>
+  <idno type="source">dbnl</idno></fileDesc>
+  <person>
+    <idno type="id">hems005</idno>
+    <persName>Hemsterhuis, Meinardus </persName>
+    <sex value="1" />
+    <event type="birth" when="1687">
+      <date>april 1687</date>
+      <place>Groningen</place>
+    </event>
+    <event type="death" when="1774">
+      <date> 1774</date>
+      <place>Groningen</place>
+    </event>
+    <idno type="dbnl_id">hems005</idno>
+  <idno type="bioport">99988923</idno></person>
+  <biography />
+</biodes>

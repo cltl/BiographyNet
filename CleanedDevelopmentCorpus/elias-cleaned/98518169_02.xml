@@ -1,0 +1,18 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.historici.nl/retroboeken/elias?source=2&page_number=756" />
+    <publisher>
+      <name>Huygens Instituut voor Nederlandse Geschiedenis</name>
+      <ref target="http://www.historici.nl" />
+    </publisher>
+  <idno type="source">elias</idno></fileDesc>
+  <person>
+    <persName>Loon, mr. Jan van</persName>
+    <event type="birth" when="1677-03-31">
+      <place />
+    </event>
+    <event type="death" when="1677-03-31" />
+  <idno type="bioport">98518169</idno><idno type="id">elias/315.xml</idno></person>
+  <biography />
+</biodes>

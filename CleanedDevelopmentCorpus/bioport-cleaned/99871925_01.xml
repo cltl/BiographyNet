@@ -1,0 +1,11 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <publisher />
+  <idno type="source">bioport</idno></fileDesc>
+  <person>
+    <idno type="id">99871925</idno>
+    <idno type="bioport">99871925</idno>
+  <event type="birth" when="1641"><place /></event><event type="death" when="1719"><place /></event><event type="funeral"><place /></event><event type="baptism"><place /></event><sex value="" /><state from="" to="" type="floruit"><place /></state><persName>Graevius, Gottfried</persName></person>
+  <biography><snippet source_id="portraits/cea80b7e2a801e78e720bb9aae33fc8a.xml" /></biography>
+</biodes>

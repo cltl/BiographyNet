@@ -1,0 +1,38 @@
+<biodes version="1.0">
+  <fileDesc>
+    <author>M. Baertl J.A.W.M. Juffermans</author>
+    <ref target="http://proxy.handle.net/10648/793854fd-8a0b-4655-9ea8-db239fcece57" />
+    <date when="1995" />
+    <publisher>
+      <name>Nationaal Archief</name>
+      <ref target="http://www.gahetna.nl/collectie/archief" />
+    </publisher>
+    <bibl>
+      <num>2.21.283</num>
+      <title>Inventaris van het archief van dr. A.J. Piekaar [1910-1990] over de jaren 1933-1990</title>
+    </bibl>
+  <title /><idno type="source">na</idno></fileDesc>
+  <person>
+    <persName>Piekaar, A.J.</persName>
+    <sex value="1" />
+    <event type="birth" when="1910">geboren in 1910</event>
+    <event type="death" when="1990">overleden in 1990</event>
+    <CONTROLE>
+      <origination label="Archiefvormers: ">
+        <persname>Piekaar, A.J.</persname>1910-1990
+      </origination>
+    </CONTROLE>
+  <idno type="id">793854fd-8a0b-4655-9ea8-db239fcece57__1</idno><idno type="bioport">81196723</idno></person>
+  <biography>
+    <text><title>Inventaris van het archief van dr. A.J. Piekaar [1910-1990] over de jaren 1933-1990</title>
+      <bioghist>
+        <head>Geschiedenis van de archiefvormer</head>
+        <p>Arie Johannes Piekaar werd op 28 februari 1910 te Rotterdam geboren. Na zijn middelbare schoolopleiding studeerde hij Indologie aan de Rijksuniversiteit Leiden. In 1933 promoveerde hij aldaar tot doctor in de Rechtsgeleerdheid op zijn dissertatie "Moederland en Overzeesche Financiën, studie van vergelijkend staatsrecht".</p>
+        <p>Tussen 1934 en 1949 was hij werkzaam als Indisch bestuursambtenaar, aanvankelijk in de Residentie Atjeh en Onderhorigheden, na zijn internering gedurende de Japanse bezetting (1942-1945) bij het Algemeen Regeringscommissariaat Borneo en de Grote Oost. Vanaf 1948 was hij tot de soevereiniteitsoverdracht secretaris van de Hoge Vertegenwoordiger van de Kroon waarna hij tot 1953 werkzaam was bij het Nederlandse Hoge Commissariaat te Djakarta.</p>
+        <p>In 1953 repatrieerde hij naar Nederland waar hij in dienst trad bij het Ministerie van Onderwijs en Wetenschappen, eerst als administrateur van de afdeling Voorbereidend en Middelbaar Onderwijs, daarna als chef van de afdeling Hoger Onderwijs en Wetenschappen. Vanaf 1960 was hij tot zijn pensionering directeur-generaal voor de Wetenschappen c.q. het Wetenschapsbeleid.</p>
+        <p>In 1975 werd hij buitengewoon lid van de Raad van State. Bovendien bekleedde hij bestuursfuncties in diverse organisaties, o.a. het Koninklijk Instituut voor Taal-, Land- en Volkenkunde, het Interuniversitair Cardiologisch Instituut en de Begeleidingscommissie Structuuronderzoek.</p>
+        <p>Hij overleed op 4 april 1990 te Wassenaar.</p>
+      </bioghist>
+    </text>
+  </biography>
+</biodes>

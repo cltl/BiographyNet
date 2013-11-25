@@ -1,0 +1,40 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.jhm.nl/cultuur-en-geschiedenis/personen/v/varnhagen,+rahel" />
+    <publisher>
+      <name>Joods historisch museum</name>
+      <ref target="http://www.jhm.nl" />
+    </publisher>
+  <idno type="source">jews</idno></fileDesc>
+  <person id="#1">
+    <persName>Varnhagen, Rahel</persName>
+    <event type="birth" when="1771-05-19">
+      <place>Berlijn</place>
+    </event>
+    <event type="death" when="1833-03-07">
+      <place>Berlijn</place>
+    </event>
+    <person id="#1686727373" sex="1">
+      <persName>Levin, Markus</persName>
+    </person>
+    <relation active="#1686727373" name="parent" passive="#1" />
+    <person id="#1222313193" sex="2">
+      <persName>Tobias, Chaie</persName>
+    </person>
+    <relation active="#1222313193" name="parent" passive="#1" />
+  <idno type="bioport">98538955</idno><idno type="id">jews/384.xml</idno></person>
+  <biography>
+    <text>Rahel Varnhagen werd op 19 mei 1771 te Berlijn geboren als Rahel Levin. Zij was de dochter van Markus Levin en Chaie Tobias. Zij was rond 1800 een bekende saloniere in Berlijn. Haar salon werd onder andere bezocht door henriette Herz en Friedrich Schlegel. Zij trouwde in 1814 met Karl Varnhagen von Ense. Zij overleed op 14 maart 1833 in haar geboortestad Berlijn.
+ 
+
+ 
+Rahel Varnhagen werd op 19 mei 1771 in Berlijn geboren als dochter van de koopman Markus Levin en Chaie Tobias. Zij zou zich ontwikkelen tot een van de geestrijkste vrouwen van haar tijd. Zo had zij onder andere vooruitstrevende ideeën over de rechten van vrouwen en over de opvoeding van kinderen. Tijdgenoten noemden de beroemde salons die zij in Berlijn leidde een "Republik des freien Geistes". In haar eerste salon kwamen onder andere haar mede-salonière Henriette Herz en de jonge romanticus Friedrich Schlegel.
+ 
+ 
+In 1795 kreeg Rahel een liaison met Graf Karl von Finckenstein. De verhouding werd vier jaar later verbroken. In 1801 ontmoette zij de Spaanse gezant Don Raphael d'Urquijo met wie zij eveneens een verhouding kreeg, die echter in 1804 werd verbroken. In 1810 veranderde Rahel haar familienaam van Levin in Robert. Dat was de naam die haar broer Ludwig had aangenomen toen deze zich tot het christendom had bekeerd.
+ 
+ 
+In 1808 ontmoette Rahel Karl August Varnhagen von Ense. Deze zou zich in 1814 eveneens tot het christendom bekeren. In datzelfde jaar trouwde Rahel met de veertien jaar jongere Varnhagen. Omstreeks 1819 startte zij in hun huis aan de Mauerstrasse te Berlijn een tweede salon. De bezoekers van deze salon, waaronder Eduard Gans en Heinrich Heine, spraken vooral over politiek. Tijdens haar leven heeft Rahel Varnhagen nooit een boek gepubliceerd. Pas na haar dood, in 1833, gaf haar echtgenoot een "Buch des Andenkens" uit, waarin een deel van haar briefwisseling werd gepubliceerd.</text>
+  </biography>
+</biodes>

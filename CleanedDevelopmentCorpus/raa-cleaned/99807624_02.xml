@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/6036" />
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen" />
+    </publisher>
+  <idno type="source">raa</idno></fileDesc>
+  <person>
+    <persName><name type="voornaam">H.</name> <name type="geslachtsnaam">Drost</name></persName>
+    <event type="birth">
+      <place />
+    </event>
+    <event type="death">
+      <place />
+    </event>
+  <idno type="bioport">99807624</idno><idno type="id">raa/6036.xml</idno></person>
+  <biography />
+</biodes>

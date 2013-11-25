@@ -1,0 +1,30 @@
+<biodes version="1.0">
+  <fileDesc>
+    <author>H. Tissing</author>
+    <ref target="http://proxy.handle.net/10648/04cbb6a6-2907-428a-9dd6-c90883e7133f" />
+    <date when="1965" />
+    <publisher>
+      <name>Nationaal Archief</name>
+      <ref target="http://www.gahetna.nl/collectie/archief" />
+    </publisher>
+    <bibl>
+      <num>2.21.101</num>
+      <title>Inventaris van het archief van R.W.H.D. Köster [levensjaren 1883-ca. 1940], (17e eeuw) 1903-1936</title>
+    </bibl>
+  <title /><idno type="source">na</idno></fileDesc>
+  <person>
+    <persName>Köster, Wilhelm A.H</persName>
+    <sex value="1" />
+    <event type="birth" when="1854">geboren in 1854</event>
+    <event type="death" when="1902">overleden in 1902</event>
+    <CONTROLE>
+      <origination>
+        <persname>Köster, Wilhelm A.H. (1854-1902)</persname>
+      </origination>
+    </CONTROLE>
+  <idno type="id">04cbb6a6-2907-428a-9dd6-c90883e7133f__3</idno><idno type="bioport">89504841</idno></person>
+  <biography>
+    <text><title>Inventaris van het archief van R.W.H.D. Köster [levensjaren 1883-ca. 1940], (17e eeuw) 1903-1936</title>
+    </text>
+  </biography>
+</biodes>

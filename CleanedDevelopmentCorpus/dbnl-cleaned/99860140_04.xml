@@ -1,0 +1,25 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.dbnl.org/tekst/bran038biog01_01/bran038biog01_01_1686.php" />
+    <publisher>
+      <name>Biographisch woordenboek der Noord- en Zuidnederlandsche letterkunde (1888) in de Digitale Bibliotheek voor de Nederlandse Letteren</name>
+      <ref target="http://www.dbnl.org" />
+    </publisher>
+  <idno type="source">dbnl</idno></fileDesc>
+  <person>
+    <idno type="id">451981817</idno>
+    <persName>Haes, Joan de</persName>
+    <sex value="1" />
+    <event type="birth" when="1685-11-03">
+      <date>3 november 1685</date>
+      <place>Rotterdam</place>
+    </event>
+    <event type="death" when="1723-02-12">
+      <date>12 februari 1723</date>
+      <place>Rotterdam</place>
+    </event>
+    <idno type="dbnl_id">haes001</idno>
+  <idno type="bioport">99860140</idno></person>
+  <biography />
+</biodes>

@@ -1,0 +1,42 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09llc57er3" />
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/" />
+  </publisher>
+ <title /><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09llc57er3">
+  <persName>
+   <name type="voornaam">J.</name>
+    <name type="intrapositie">van</name>
+    <name type="geslachtsnaam">Vollenhoven</name>
+  </persName>
+  <persName>
+   <name type="voornaam">Joost</name>
+    <name type="intrapositie">van</name>
+    <name type="geslachtsnaam">Vollenhoven</name>
+  </persName>
+  <sex value="1" />
+  <event type="birth" when="1866-12-13">in <place>Rotterdam</place></event>
+  <event type="death" when="1923-11-26">in <place>Amsterdam</place></event>
+  <event type="marriage" when="1904-11-18">gehuwd te Singapore</event>
+  <state to="1895" type="residence">Rotterdam,</state>
+  <state from="1895" to="1909" type="residence">Nederlands-Indië</state>
+  <state type="residence">'s-Gravenhage, Badhuisweg 141</state>
+  <state type="residence">Amsterdam</state>
+  <state type="education">driejarige h.b.s.</state>
+  <state type="occupation">medewerker machinefabriek "Feijenoord" te Rotterdam</state>
+  <state to="1889" type="occupation">firmant houtkoperij firma "J. en A. van Vollenhoven" te Rotterdam,</state>
+  <state from="1889" type="occupation">assistent Deli-Maatschappij</state>
+  <state from="1889-10-24" to="1895-02-28" type="occupation">lid gemeenteraad van Rotterdam</state>
+  <state from="1901" to="1909" type="occupation">hoofdadministrateur Deli-Maatschappij</state>
+  <state from="1913-09-16" to="1918-09-17" type="occupation">lid Tweede Kamer der Staten-Generaal voor het kiesdistrict Rotterdam IV</state>
+  <state from="1917" to="1923-11-26" type="occupation">directeur De Nederlandsche Bank</state>
+ <idno type="bioport">99873097</idno><idno type="id">pdc/vg09llc57er3.xml</idno></person>
+ <biography>
+  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/014/01460g.jpg" />
+  <text>Tweede Kamerlid voor de Vrije-Liberalen tijdens de Eerste Wereldoorlog. Kleinzoon van de Rotterdamse burgemeester en Eerste Kamerlid Joost van Vollenhoven en gelieerd aan de voorname Rotterdamse familie Rochussen. Was ondernemer en in Nederlands-Indië werkzaam bij tabaksonderneming de Deli-maatschappij. Had oog voor sociale belangen van zijn werknemers. Zo bevorderde hij de aanleg van waterleidingen en stichtte hij een recreatie-oord voor arbeiders. In 1913 gekozen voor het district Rotterdam IV. Als Kamerlid dat weinig op de voorgrond trad, hield hij zich vooral bezig met zaken die Rotterdam en de handel en scheepvaart betroffen. Nadien directeur van de Nederlandse Bank.</text>
+  <ref target="http://www.dbnl.org/tekst/molh003nieu03_01/molh003nieu03_01_2033.htm">Nieuw Nederlandsch Biografisch Woordenboek</ref>
+ </biography>
+</biodes>

@@ -1,0 +1,18 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.historici.nl/retroboeken/elias?source=2&page_number=1016" />
+    <publisher>
+      <name>Huygens Instituut voor Nederlandse Geschiedenis</name>
+      <ref target="http://www.historici.nl" />
+    </publisher>
+  <idno type="source">elias</idno></fileDesc>
+  <person>
+    <persName>Poll, mr. Jan Wolters van de</persName>
+    <event type="birth" when="1759-06-02">
+      <place />
+    </event>
+    <event type="death" when="1759-06-02" />
+  <idno type="bioport">99689713</idno><idno type="id">elias/448.xml</idno></person>
+  <biography />
+</biodes>

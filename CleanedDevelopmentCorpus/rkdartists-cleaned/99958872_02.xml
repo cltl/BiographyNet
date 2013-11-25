@@ -1,0 +1,26 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.rkd.nl/rkddb/dispatcher.aspx?action=search&database=ChoiceArtists&search=priref=352821" />
+    <publisher>
+      <name>Rijksbureau voor Kunsthistorische Documentatie</name>
+      <ref target="http://www.rkd.nl/" />
+    </publisher>
+  <idno type="source">rkdartists</idno></fileDesc>
+  <person>
+    <persName>Wijsenbeek, Louis Jacob Florens</persName>
+    <sex value="1" />
+    <event type="birth" when="1912-04-21">
+      <place>Rotterdam</place>
+    </event>
+    <event type="death" when="1985-06-17">
+      <place>Den Haag</place>
+    </event>
+    <state type="occupation">kunsthistoricus/onderzoeker</state>
+    <state type="occupation">museumdirecteur</state>
+    <idno type="id">352821</idno>
+  <idno type="bioport">99958872</idno></person>
+  <biography>
+    <text>Kunsthistoricus/onderzoeker, museumdirecteur. Geboren: 21 april 1912, Rotterdam. Gestorven: 17 juni 1985, Den Haag. Plaats en periode van werkzaamheid: Den Haag, van 1951-06 tot 1977-06 Was directeur van de dienst voor schone kunsten gemeente den haag, nu gemeentemuseum den haag.</text>
+  </biography>
+</biodes>

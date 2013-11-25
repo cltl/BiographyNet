@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.inghist.nl/retroboeken/nbwv?source=2&page_number=578" />
+    <publisher>
+      <name>XXX</name>
+      <ref target="http://www.inghist.nl" />
+    </publisher>
+  <idno type="source">nbwv</idno></fileDesc>
+  <person>
+    <persName>MOERMAN D’HARLEBEKE, Léon Mathieu Robert de </persName>
+    <event type="birth" when="1828" />
+    <event type="death" when="1889" />
+  <idno type="bioport">99619158</idno><idno type="id">nbwv/1820.xml</idno></person>
+  <biography />
+</biodes>

@@ -1,0 +1,25 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.dbnl.org/tekst/aa__001nieu03_01/aa__001nieu03_01_0560.php" />
+    <publisher>
+      <name>Nieuw biographisch, anthologisch en critisch woordenboek van Nederlandsche dichters. Deel 3 (1846) in de Digitale Bibliotheek voor de Nederlandse Letteren</name>
+      <ref target="http://www.dbnl.org" />
+    </publisher>
+  <idno type="source">dbnl</idno></fileDesc>
+  <person>
+    <idno type="id">1618891591</idno>
+    <persName>West, A. </persName>
+    <sex value="1" />
+    <event type="birth">
+      <date> ?(17de eeuw)</date>
+      <place />
+    </event>
+    <event type="death">
+      <date> ?</date>
+      <place />
+    </event>
+    <idno type="dbnl_id">west051</idno>
+  <idno type="bioport">99992684</idno></person>
+  <biography />
+</biodes>

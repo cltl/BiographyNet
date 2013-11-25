@@ -1,0 +1,39 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09llyatuzs" />
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/" />
+  </publisher>
+ <title /><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09llyatuzs">
+  <persName>
+   <name type="prepositie">Dr.</name>
+    <name type="voornaam">Ch.J.</name>
+    <name type="intrapositie">van</name>
+    <name type="geslachtsnaam">Zeben</name>
+  </persName>
+  <persName>
+   <name type="prepositie">Dr.</name>
+    <name type="voornaam">Christiaan</name>
+   <name type="voornaam">Johannes</name>
+    <name type="intrapositie">van</name>
+    <name type="geslachtsnaam">Zeben</name>
+  </persName>
+  <sex value="1" />
+  <event type="birth" when="1927-07-16">in <place>Zutphen</place></event>
+  <event type="death" when="2003-03-30">in <place>Zoetermeer</place></event>
+  <event type="marriage" when="1957-03-07">gehuwd te Hazerswoude</event>
+  <state type="residence">Zoetermeer, Meerpolder 9</state>
+  <state from="1954" to="1957" type="education">Nederlands recht, Rijksuniversiteit Utrecht</state>
+  <state from="1955" to="1957" type="occupation">assistent burgerlijk recht, Rijksuniversiteit Utrecht</state>
+  <state from="1957" to="1963" type="occupation">ambtenaar afdeling wetgeving Nieuw Burgerlijk Wetboek, ministerie van Justitie</state>
+  <state from="1963" to="1966" type="occupation">rechter Arrondissementsrechtbank te Rotterdam</state>
+  <state from="1966" to="1971" type="occupation">hoogleraar burgerlijk- en handelsrecht en burgerlijk procesrecht, Nederlandse Economische Hogeschool te Rotterdam</state>
+  <state from="1971" to="1978" type="occupation">hoogleraar privaatrecht, Rijksuniversiteit Utrecht</state>
+  <state from="1978-06-01" to="1997-08-01" type="occupation">lid Raad van State</state>
+ <idno type="bioport">98433451</idno><idno type="id">pdc/vg09llyatuzs.xml</idno></person>
+ <biography>
+  <text>Scherpzinnig jurist, civilist, zoon van een Zutphense middenstander, die na een periode als ambtenaar en als rechter vele jaren hoogleraar was in het burgerlijk recht. Voorzitter van tal van gespecialiseerde juridische commissies. Was negentien jaar een gerespecteerd lid van de Raad van State. Ingetogen wetenschappelijk ingesteld man met grote kennis van de juridische merites van de effectenhandel.</text>
+ </biography>
+</biodes>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/2375" />
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen" />
+    </publisher>
+  <idno type="source">raa</idno></fileDesc>
+  <person>
+    <persName><name type="voornaam">Stephanus</name> <name type="geslachtsnaam">Piek</name></persName>
+    <event type="birth" when="1805-02-04">
+      <place>Oudshoorn</place>
+    </event>
+    <event type="death" when="1868-12-20">
+      <place>Oudshoorn</place>
+    </event>
+  <idno type="bioport">99852395</idno><idno type="id">raa/2375.xml</idno></person>
+  <biography />
+</biodes>

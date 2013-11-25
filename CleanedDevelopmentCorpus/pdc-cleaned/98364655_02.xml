@@ -1,0 +1,44 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09llov7myx" />
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/" />
+  </publisher>
+ <title /><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09llov7myx">
+  <persName>
+   <name type="prepositie">Prof.Dr.</name>
+    <name type="voornaam">Jaap</name>
+    <name type="geslachtsnaam">Glasz</name>
+  </persName>
+  <persName>
+   <name type="prepositie">Prof.Dr.</name>
+    <name type="voornaam">Jacob</name>
+   <name type="voornaam">Rienk</name>
+    <name type="geslachtsnaam">Glasz</name>
+  </persName>
+  <persName>
+   <name type="prepositie">Prof.Dr.</name>
+    <name type="voornaam">J.R.</name>
+    <name type="geslachtsnaam">Glasz</name>
+  </persName>
+  <sex value="1" />
+  <event type="birth" when="1935-02-13">in <place>Amsterdam</place></event>
+  <event type="death" when="2005-10-03">in <place>Blaricum</place></event>
+  <event type="marriage" when="1961-10-07">gehuwd te Laren</event>
+  <state type="residence">Blaricum (N.H.), Noolseweg 16</state>
+  <state to="1953-06-03" type="education">Prot.Chr. "Willem de Zwijger Lyceum" te Bussum,</state>
+  <state from="1953" to="1957-11-18" type="education">Nederlands recht, Gemeentelijke Universiteit te Amsterdam</state>
+  <state from="1957" to="1959" type="education">Nederlands recht, Vrije Universiteit in Amsterdam</state>
+  <state type="faith">Nederlands Hervormd</state>
+  <state from="1962" type="occupation">advocaat, advocaten- en notarissenmaatschap Van Doorne & Sjollema (later: Trenité Van Doorne) te Amsterdam</state>
+  <state from="1982-07-06" to="1987-04-28" type="occupation">lid Provinciale Staten van Noord-Holland</state>
+  <state from="1987-06-23" to="1999-06-08" type="occupation">lid Eerste Kamer der Staten-Generaal</state>
+  <state from="1998-09-01" to="2005-09-01" type="occupation">bijzonder hoogleraar ondernemingsrecht in de praktijk waaronder bestuur en toezicht, Universiteit van Amsterdam</state>
+ <idno type="bioport">98364655</idno><idno type="id">pdc/vg09llov7myx.xml</idno></person>
+ <biography>
+  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/028/02842g.jpg" />
+  <text>Eerste Kamerlid van het CDA dat actief was in de advocatuur, de wetenschap en de kunst. Deskundige op het gebied van het vennootschapsrecht en tijdens zijn Eerste Kamerlidmaatschap benoemd tot bijzonder hoogleraar. Deken van de orde van advocaten en bestuurder van enkele orkesten en het Nationaal Ballet. Goede jurist, die zich tamelijk onafhankelijk opstelde. Amsterdammer zonder kapsones.</text>
+ </biography>
+</biodes>

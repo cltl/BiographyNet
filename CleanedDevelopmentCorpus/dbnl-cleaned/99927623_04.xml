@@ -1,0 +1,25 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.dbnl.org/auteurs/auteur.php?id=risp001" />
+    <publisher>
+      <name>Auteurspagina in de Digitale Bibliotheek voor de Nederlandse Letteren</name>
+      <ref target="http://www.dbnl.org" />
+    </publisher>
+  <idno type="source">dbnl</idno></fileDesc>
+  <person>
+    <idno type="id">risp001</idno>
+    <persName>Rispens, J.A. </persName>
+    <sex value="1" />
+    <event type="birth" when="1889-12-05">
+      <date>5 december 1889</date>
+      <place>Noordwijk aan Zee</place>
+    </event>
+    <event type="death" when="1962-03-27">
+      <date>27 maart 1962</date>
+      <place>Deventer</place>
+    </event>
+    <idno type="dbnl_id">risp001</idno>
+  <idno type="bioport">99927623</idno></person>
+  <biography />
+</biodes>

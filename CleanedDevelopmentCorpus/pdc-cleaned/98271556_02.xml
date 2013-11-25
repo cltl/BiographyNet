@@ -1,0 +1,38 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09lljbk9wr" />
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/" />
+  </publisher>
+ <title /><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09lljbk9wr">
+  <persName>
+   <name type="voornaam">G.</name>
+    <name type="geslachtsnaam">Kruys</name>
+  </persName>
+  <persName>
+   <name type="voornaam">Gerhardus</name>
+    <name type="geslachtsnaam">Kruys</name>
+  </persName>
+  <sex value="1" />
+  <event type="birth" when="1838-08-21">in <place>Vriezenveen (Ov.)</place></event>
+  <event type="death" when="1902-12-12">in <place>'s-Gravenhage</place></event>
+  <event type="marriage" when="1863-07-30">gehuwd te Hellevoetsluis</event>
+  <state from="1856" to="1859" type="education">adelborst eerste klasse</state>
+  <state type="faith">Nederlands Hervormd</state>
+  <state from="1859-01-01" type="occupation">marineofficier</state>
+  <state from="1871" to="1873" type="occupation">sous-chef eerste bureau van de eerste afdeling, depratement van Marine te Batavia</state>
+  <state from="1881-09-01" to="1883" type="occupation">chef eerste adeling, depratement van Marine te Batavia</state>
+  <state from="1883" to="1886-04-16" type="occupation">onderdirecteur 's Rijksmarinewerf te Amsterdam</state>
+  <state from="1886-04-16" to="1891-03-31" type="occupation">kapitein ter zee voor speciale diensten en chef Marinestaf, ministerie van Marine</state>
+  <state from="1891-03-31" to="1891-08-21" type="occupation">minister van Marine</state>
+  <state from="1891" to="1894" type="occupation">chef Marinestaf</state>
+  <state from="1894" to="1898" type="occupation">commandant der Marine in Nederlands-Indië</state>
+  <state from="1901-08-01" to="1902-12-12" type="occupation">minister van Marine</state>
+ <idno type="bioport">98271556</idno><idno type="id">pdc/vg09lljbk9wr.xml</idno></person>
+ <biography>
+  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/020/02064g.jpg" />
+  <text>Zeeofficier uit Twente die het tot vice-admiraal bracht. Vervulde functies in Batavia en bij de marinewerf in Amsterdam, en was chef van de marinestaf. In 1891 een half jaar minister van Marine in het kabinet-Mackay. Verdedigde samen met Bergansius - zonder succes - een nieuwe Militiewet, die tot afschaffing van de plaatsvervanging moest leiden. In 1901, tot zijn dood, nog eens anderhalf jaar minister van Marine in het kabinet-Kuyper.</text>
+ </biography>
+</biodes>

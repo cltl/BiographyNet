@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.jhm.nl/cultuur-en-geschiedenis/personen/m/mossel,+meijer" />
+    <publisher>
+      <name>Joods historisch museum</name>
+      <ref target="http://www.jhm.nl" />
+    </publisher>
+  <idno type="source">jews</idno></fileDesc>
+  <person>
+    <persName>Mossel, Meijer</persName>
+    <event type="birth" when="1910">
+      <place>Amsterdam</place>
+    </event>
+    <event type="death" when="1978">
+      <place>Den Haag</place>
+    </event>
+  <idno type="bioport">99109745</idno><idno type="id">jews/284.xml</idno></person>
+  <biography>
+    <text>Meijer Mossel werd in Amsterdam geboren. Zijn ouders hadden hem vernoemd naar rabbijn dr. Meijer de Hond, een bekende voor-oorlogse rabbijn die door het Amsterdamse proletariaat op handen werd gedragen. Voor Meijer Mossel was De Hond het grote voorbeeld. Zijn proeftijd had Mossel in de Gerard Doustraat Synagoge in Amsterdam. Daarna werd hij tot chazan (= voorzanger) benoemd. Later werd Mossel chazan in Maastricht en in Den Haag. Hij werd een van de bekendste voorzangers van het na-oorlogse joodse Nederland. Behalve chazan was hij in Den Haag ook onderwijzer van jongens die hun bar mitswa moesten doen. In 1978 overleed Mossel op 69-jarige leeftijd.</text>
+  </biography>
+</biodes>

@@ -1,0 +1,19 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <author>Knipscheer</author>
+    <ref target="http://www.inghist.nl/retroboeken/nnbw?source=7&page_number=165" />
+    <publisher>
+      <name>Nieuw Nederlandsch Biografisch Woordenboek (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/nnbw" />
+    </publisher>
+  <idno type="source">nnbw</idno></fileDesc>
+  <person>
+    <idno type="id">nnbw/13216</idno>
+    <persName><name type="geslachtsnaam">Bolk</name>, Bartholomeus</persName>
+    <idno type="dbnl_id">bolk005</idno>
+  <idno type="bioport">99790717</idno></person>
+  <biography>
+    <text>BOLK (Bartholomeus), geb. omstr. 1680, overl. te Sas van Gent in den zomer van 1719. Hij was daar predikant sedert 9 Dec. 1704. Kort vóór zijn dood heeft hij een boekje uitgegeven in het latijn, en ‘liet het bij Borstius drukken’. Ook gaf hij een Gelegenheidsrede uit. Zie: Visscher en van Langeraad, Biogr. Woordenb. van Prot. Godgel. in Ned. (1903) I, 479; Kerkelijk Handboek (1909) Bijl., 145. Knipscheer</text>
+  </biography>
+</biodes>

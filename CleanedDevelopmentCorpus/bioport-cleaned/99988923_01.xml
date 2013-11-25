@@ -1,0 +1,11 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <publisher />
+  <idno type="source">bioport</idno></fileDesc>
+  <person>
+    <idno type="id">22349819</idno>
+    <idno type="bioport">22349819</idno>
+  <persName>Meinardus <name type="geslachtsnaam">Hemsterhuis</name></persName><event type="birth" when="1687-04"><place>Groningen</place></event><event type="death" when="1774-11-16"><place>Groningen</place></event><event type="funeral"><place /></event><event type="baptism"><place /></event><sex value="1" /><state idno="10" type="category">Onderwijs & wetenschappen</state><state from="" to="" type="floruit"><place /></state><idno type="bioport">29139876</idno><idno type="bioport">99988923</idno></person>
+  <biography><snippet source_id="nnbw/1708" /><snippet source_id="vdaa/h0853" /></biography>
+</biodes>

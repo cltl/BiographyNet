@@ -1,0 +1,23 @@
+<biodes version="1.0">
+  <fileDesc>
+    <author />
+    <ref target="http://proxy.handle.net/10648/aebe24ec-9604-445c-80b6-b456962d9867" />
+    <date when="2005" />
+    <publisher>
+      <name>Nationaal Archief</name>
+      <ref target="http://www.gahetna.nl/collectie/archief" />
+    </publisher>
+    <bibl>
+      <num>3.20.52</num>
+      <title>Inventaris van het archief van de familie Van Slingelandt-De Vrij Temminck</title>
+    </bibl>
+  <title /><idno type="source">na</idno></fileDesc>
+  <person>
+    <persName>Simon van Slingelandt;</persName>
+    <sex value="1" />
+  <idno type="id">aebe24ec-9604-445c-80b6-b456962d9867__2</idno><idno type="bioport">81866325</idno></person>
+  <biography>
+    <text><title>Inventaris van het archief van de familie Van Slingelandt-De Vrij Temminck</title>
+    </text>
+  </biography>
+</biodes>

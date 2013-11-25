@@ -1,0 +1,29 @@
+<biodes version="1.0">
+  <fileDesc>
+    <author>M. Baertl, Den Haag</author>
+    <ref target="http://proxy.handle.net/10648/5ebb6de1-1f64-4454-b52b-30a363badfd0" />
+    <date when="1990" />
+    <publisher>
+      <name>Nationaal Archief</name>
+      <ref target="http://www.gahetna.nl/collectie/archief" />
+    </publisher>
+    <bibl>
+      <num>2.21.270</num>
+      <title>Inventaris van het archief van de familie Laman Trip en aanverwante families, 1710-1986</title>
+    </bibl>
+  <title /><idno type="source">na</idno></fileDesc>
+  <person>
+    <persName>Jhr. mr. Willem Laman Trip</persName>
+    <sex value="1" />
+    <event type="birth" when="1809">geboren in 1809</event>
+    <event type="death" when="1873">overleden in 1873</event>
+    <CONTROLE>
+      <origination>
+        <persname>Jhr. mr. Willem Laman Trip</persname> 1809-1873</origination>
+    </CONTROLE>
+  <idno type="id">5ebb6de1-1f64-4454-b52b-30a363badfd0__7</idno><idno type="bioport">79992498</idno></person>
+  <biography>
+    <text><title>Inventaris van het archief van de familie Laman Trip en aanverwante families, 1710-1986</title>
+    </text>
+  </biography>
+</biodes>

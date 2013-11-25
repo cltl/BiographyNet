@@ -1,0 +1,38 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://nl.wikipedia.org/wiki/Karel_Frederik_Wenckebach" />
+    <publisher>
+      <name>wikipedia</name>
+      <ref target="http://nl.wikipedia.org/" />
+    </publisher>
+  <idno type="source">wikipedia</idno></fileDesc>
+  <person>
+    <idno type="bioport">98213534</idno>
+    <persName>Karel Frederik Wenckebach</persName>
+    <event type="birth" when="1864-03-24">
+      <place>'s-Gravenhage</place>
+    </event>
+    <event type="death" when="1940-11-11">
+      <place>Wenen</place>
+    </event>
+  </person>
+  <biography>
+    <text>{{fotogewenst}}
+Karel Frederik Wenckebach, ( 's-Gravenhage , 24 maart 1864 &#8211; Wenen , 11 november 1940 ) was een Nederland s hoogleraar geneeskunde en huisarts te Heerlen . Hij was tevens de broer van de Nederlandse kunstschilder en graficus Ludwig Willem Reymert Wenckebach en vader van de Nederlandse beeldhouwer en kunstschilder Oswald Wenckebach . 
+ In zijn praktijk kreeg hij meerdere malen pati&#235;nt en te zien met hartritmestoornis sen, daardoor werd hij gegrepen om zich verder te bekwamen in hartziekten. In 1896 ging hij terug naar Utrecht om zich verder te specialiseren. 
+ In 1901 werd hij hoogleraar in de inwendige geneeskunde te Groningen , waar zijn naam tegenwoordig is verbonden aan het Wenckebach Instituut van het Universitair Medisch Centrum Groningen . In 1911 ging hij naar Straatsburg en bekleedde aldaar dezelfde functie. Slechts drie jaar later vertrok hij naar Wenen om daar verder te gaan met zijn onderzoek naar hartritmestoornis sen. Hij ontdekte min of meer bij toeval, door een tip, de gunstige invloed die kinine soms heeft op de ritmestoornissen van het hart. Een van de hartritmestoornissen, het zgn. Wenckebachblok, waarbij de geleidingstijd in de AV-knoop gedurende enkele slagen steeds toeneemt tot er uiteindelijk een slag niet meer doorkomt draagt nog steeds zijn naam. 
+ Werken van zijn hand 
+ Arythmie als Ausdruck bestimmter Funktionsst&#246;rungen des Herzens (1903, Engelse vertaling: 1904)
+ Die unregelm&#228;ssige Herzt&#228;tigkeit und ihre klinische Bedeutung (1914)
+ Herz- und Kreislaufinsufficienz (1931) 
+ {{DEFAULTSORT:Wenckebach, Karel Frederik}}
+ Categorie:Nederlands hoogleraar 
+ Categorie:Nederlands medicus 
+ 
+
+
+
+  de:Karel Frederik Wenckebach en:Karel Frederik Wenckebach es:Karel Frederik Wenckebach it:Karel Frederik Wenckebach pl:Karel Frederik Wenckebach</text>
+  </biography>
+</biodes>

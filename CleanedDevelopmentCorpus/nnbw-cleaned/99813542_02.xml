@@ -1,0 +1,19 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <author>Molhuysen</author>
+    <ref target="http://www.inghist.nl/retroboeken/nnbw?source=4&page_number=11" />
+    <publisher>
+      <name>Nieuw Nederlandsch Biografisch Woordenboek (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/nnbw" />
+    </publisher>
+  <idno type="source">nnbw</idno></fileDesc>
+  <person>
+    <idno type="id">nnbw/7279</idno>
+    <persName><name type="geslachtsnaam">Adami</name>, Cornelius</persName>
+    <idno type="dbnl_id">adam016</idno>
+  <idno type="bioport">99813542</idno><idno type="bioport">99813542</idno></person>
+  <biography>
+    <text>ADAMI (Cornelius), overl. 8 Nov. 1721, predikant te Bierum, daarna te Appingadam, waar hij 1698 rector aan de school werd. Hij gaf in het licht: Observatt. theologico-philologicae quibus plura S. Codicis ... loca ... illustr. (Gron. 1710); Exercitatt. exegeticae de Israel. in Aegypto multiplicatione etc. (Gron. 1702); Naamlijst van predikanten in de provincie van stad Groningen en Ommelanden 't sedert de reductie (1721). Zie: Knuttel, Bibl. van Ned. kerkgesch. 6; Visscher en v. Langeraad, Prot. Vaderland I, 41. Molhuysen</text>
+  </biography>
+</biodes>

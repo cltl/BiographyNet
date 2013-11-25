@@ -1,0 +1,11 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <publisher />
+  <idno type="source">bioport</idno></fileDesc>
+  <person>
+    <idno type="id">99897136</idno>
+    <idno type="bioport">99897136</idno>
+    <event type="birth" when="1577"><place>Haarlem</place></event><event type="death" when="1627-08-05"><place>Haarlem</place></event><event type="funeral"><place /></event><event type="baptism"><place /></event><sex value="1" /><state from="" to="" type="floruit"><place /></state><persName>Aart Jansz Druyvestein</persName><state idno="3" type="category">Beeldende kunsten & vormgeving</state></person>
+  <biography><snippet source_id="rkdartists/24376" /><snippet source_id="vdaa/d0796" /><snippet source_id="weyerman/0228.xml" /></biography>
+</biodes>

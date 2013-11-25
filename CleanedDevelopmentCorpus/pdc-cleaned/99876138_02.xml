@@ -1,0 +1,47 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09ll6c14zx" />
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/" />
+  </publisher>
+ <title /><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09ll6c14zx">
+  <persName>
+   <name type="prepositie">Jhr.Mr.</name>
+    <name type="voornaam">J.W.H.</name>
+    <name type="geslachtsnaam">Rutgers van Rozenburg</name>
+  </persName>
+  <persName>
+   <name type="prepositie">Jhr.Mr.</name>
+    <name type="voornaam">Jan</name>
+   <name type="voornaam">Willem</name>
+   <name type="voornaam">Hendrik</name>
+    <name type="geslachtsnaam">Rutgers van Rozenburg</name>
+  </persName>
+  <sex value="1" />
+  <event type="birth" when="1874-09-01">in <place>Amsterdam</place></event>
+  <event type="death" when="1956-04-03">in <place>Bilthoven<region type="gemeente">gem. De Bilt</region></place></event>
+  <event type="marriage" when="1900-02-22">gehuwd te Maartensdijk</event>
+  <state from="1903" type="residence">Baarn</state>
+  <state to="1956" type="residence">Bilthoven, Nicolailaan 15</state>
+  <state type="education">gymnasium te Amsterdam</state>
+  <state to="1899-12-12" type="education">rechtswetenschap (gepromoveerd op stellingen), Rijksuniversiteit Utrecht,</state>
+  <state type="faith">Nederlands Hervormd</state>
+  <state from="1900" to="1902" type="occupation">advocaat te 's-Gravenhage</state>
+  <state from="1902" to="1911" type="occupation">advocaat te Utrecht</state>
+  <state from="1907-09-04" to="1916-10-16" type="occupation">lid gemeenteraad van Baarn</state>
+  <state from="1909-09" to="1916-10-16" type="occupation">wethouder (van onder meer onderwijs) van Baarn</state>
+  <state from="1916-10-16" to="1923-07-01" type="occupation">burgemeester van Baarn</state>
+  <state from="1922-10-12" to="1926-05-01" type="occupation">lid Tweede Kamer der Staten-Generaal</state>
+  <state from="1927-07-05" to="1941-09-01" type="occupation">lid Provinciale Staten van Utrecht</state>
+  <state from="1929-09-17" to="1933-05-09" type="occupation">lid Tweede Kamer der Staten-Generaal</state>
+  <state from="1933-06-27" to="1937-06-08" type="occupation">lid Tweede Kamer der Staten-Generaal</state>
+  <state from="1937-09-21" to="1946-06-04" type="occupation">lid Tweede Kamer der Staten-Generaal</state>
+ <idno type="bioport">99876138</idno><idno type="id">pdc/vg09ll6c14zx.xml</idno></person>
+ <biography>
+  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/011/01149g.jpg" />
+  <text>Gematigd CHU-Tweede Kamerlid in het interbellum. Deftige Utrechtse jonkheer, die na advocaat te zijn geweest, burgemeester van Baarn werd. Kwam in 1922 in de Tweede Kamer en hield zich met diverse onderwerpen bezig. In 1923 bood hij De Geer na diens aftreden als minister zijn Kamerzetel aan, maar die maakte daar geen gebruik van. Hetzelfde gebeurde in 1926 na het aftreden van Schokking als minister. Schokking nam dat aanbod wel aan. Rutgers keerde in 1929 terug in de Kamer en bleef tot 1946 lid.</text>
+  <ref target="http://www.dbnl.org/tekst/molh003nieu05_01/molh003nieu05_01_0854.htm">Nieuw Nederlandsch Biografisch Woordenboek</ref>
+ </biography>
+</biodes>

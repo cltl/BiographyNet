@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/9824" />
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen" />
+    </publisher>
+  <idno type="source">raa</idno></fileDesc>
+  <person>
+    <persName><name type="voornaam">Johan Lodewijk</name> <name type="geslachtsnaam">Doys</name></persName>
+    <event type="birth" when="1669">
+      <place />
+    </event>
+    <event type="death" when="1702-09-27">
+      <place />
+    </event>
+  <idno type="bioport">99902746</idno><idno type="id">raa/9824.xml</idno></person>
+  <biography />
+</biodes>

@@ -1,0 +1,25 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.dbnl.org/tekst/_jaa004200201_01/_jaa004200201_01_0009.php" />
+    <publisher>
+      <name>Jaarboek van de Maatschappij der Nederlandse Letterkunde, 2002 (2002) in de Digitale Bibliotheek voor de Nederlandse Letteren</name>
+      <ref target="http://www.dbnl.org" />
+    </publisher>
+  <idno type="source">dbnl</idno></fileDesc>
+  <person>
+    <idno type="id">1622929375</idno>
+    <persName>Huygens, Gerard Willem </persName>
+    <sex value="1" />
+    <event type="birth" when="1912-12-06">
+      <date>6 december 1912</date>
+      <place>Rotterdam</place>
+    </event>
+    <event type="death" when="2002-09-05">
+      <date>5 september 2002</date>
+      <place>Den Haag</place>
+    </event>
+    <idno type="dbnl_id">huyg006</idno>
+  <idno type="bioport">90198282</idno><idno type="bioport">99849253</idno></person>
+  <biography />
+</biodes>

@@ -1,0 +1,18 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.inghist.nl/retroboeken/vdaa?source=aa__001biog07_01.xml&page_number=224" />
+    <publisher>
+      <name>Van der Aa (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/vdaa" />
+    </publisher>
+  <idno type="source">vdaa</idno></fileDesc>
+  <person>
+    <idno type="id">f0391</idno>
+    <persName>Jan Hendrik <name type="geslachtsnaam">Fredriks</name></persName>
+    <idno type="dbnl_id">fred028</idno>
+  <idno type="bioport">99900495</idno></person>
+  <biography>
+    <text>FREDRIKS (Jan Hendrik) werd welligt te 's Hage geboren, althans hij was er in 1778 bloem- en vruchtenschilder, hoedanig hij genoemd wordt in het Gildeboek van St. Lucas, later de Kunstkamer van Pictura aldaar. Later woonde hij te Breda, waar hij onderwijs in de teekenkunst gaf. Hij heeft ook portretten vervaardigd, waarvan er in gravure uitgaan. Hij overleed in 1822.   Zie Immerzeel, Lev. en Werk. der Kunstsch.; Kramm, Lev. en Werk. der Kunstsch.</text>
+  </biography>
+</biodes>

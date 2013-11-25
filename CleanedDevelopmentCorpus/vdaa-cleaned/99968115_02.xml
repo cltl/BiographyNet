@@ -1,0 +1,18 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.inghist.nl/retroboeken/vdaa?source=aa__001biog03_01.xml&page_number=1539" />
+    <publisher>
+      <name>Van der Aa (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/vdaa" />
+    </publisher>
+  <idno type="source">vdaa</idno></fileDesc>
+  <person>
+    <idno type="id">b2086</idno>
+    <persName>Bruynsma</persName>
+    <idno type="dbnl_id">bruy082</idno>
+  <idno type="bioport">99968115</idno></person>
+  <biography>
+    <text>BRUYNSMA, een Hollandsch Zeekapitein in Deensche dienst na 1675.   Zie de Jonge, Nederl. Zeew., D. III. St. II. bl. 83.</text>
+  </biography>
+</biodes>

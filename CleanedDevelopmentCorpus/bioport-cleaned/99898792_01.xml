@@ -1,0 +1,11 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <publisher />
+  <notesStmt><note type="bioport_editor" /><note type="public" /></notesStmt><idno type="source">bioport</idno></fileDesc>
+  <person>
+    <idno type="id">99898792</idno>
+    <idno type="bioport">99898792</idno>
+    <event type="birth" when="1710-03-23"><place>Berlijn, Duitsland</place></event><event type="death" when="1777-08-09"><place>Gnadenberg, Duitsland</place></event><event type="funeral"><place /></event><event type="baptism"><place /></event><sex value="1" /><state from="" to="" type="floruit"><place /></state><state idno="4" type="category">Kerk en godsdienst</state><state idno="13" type="religion" /><persName>Samuel Lieberkühn</persName></person>
+  <biography><snippet source_id="blnp/1080.xml" /></biography>
+</biodes>

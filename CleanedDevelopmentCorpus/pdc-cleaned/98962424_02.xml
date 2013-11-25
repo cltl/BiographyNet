@@ -1,0 +1,38 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09llyv1o4w" />
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/" />
+  </publisher>
+ <title /><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09llyv1o4w">
+  <persName>
+   <name type="voornaam">C.F.</name>
+    <name type="geslachtsnaam">Rechlien Morra</name>
+  </persName>
+  <persName>
+   <name type="voornaam">Carel</name>
+   <name type="voornaam">Frederik</name>
+    <name type="geslachtsnaam">Rechlien Morra</name>
+  </persName>
+  <persName>Morra, C.F. Rechlien</persName>
+  <sex value="1" />
+  <event type="birth" when="1848-01-28">in <place>'t Zand<region type="gemeente">gemeente Zijpe, N.H.</region></place></event>
+  <event type="death" when="1912-03-25">in <place>'s-Gravenhage</place></event>
+  <event type="marriage" when="1873-04-23">gehuwd te 's-Gravenhage</event>
+  <event type="marriage" when="1885-07-30">gehuwd (tweede huwelijk) te 's-Gravenhage</event>
+  <state from="1870-07-19" to="1874-09-30" type="occupation">tweede klerk Algemene Rekenkamer</state>
+  <state from="1874-10-01" to="1876-09-30" type="occupation">eerste klerk Algemene Rekenkamer</state>
+  <state from="1876-10-01" to="1882-06-30" type="occupation">adjunct-commies afdeling Secretarie en archief, Algemene Rekenkamer</state>
+  <state from="1882-07-01" to="1897-02-11" type="occupation">commies Algemene Rekenkamer</state>
+  <state from="1897-02-11" to="1902-02-24" type="occupation">hoofdcommies afdeling Controle der uitgaven en nationale schuld, Algemene Rekenkamer</state>
+  <state from="1902-02-24" to="1908-06" type="occupation">chef afdeling Controle der ontvangsten (rang: referendaris), Algemene Rekenkamer</state>
+  <state from="1908-07-24" to="1912-01-01" type="occupation">secretaris Algemene Rekenkamer</state>
+  <state from="1912-01-01" to="1912-03-25" type="occupation">lid Algemene Rekenkamer</state>
+ <idno type="bioport">98962424</idno><idno type="id">pdc/vg09llyv1o4w.xml</idno></person>
+ <biography>
+  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/131/13112g.jpg" />
+  <text>Uit de Kop van Noord-Holland afkomstige zoon van een hoofdonderwijzer, die zijn ruim dertigjarige loopbaan bij de Rekenkamer afsloot als lid van dat college. Werd in 1911 met steun van de liberalen als eerste op de voordracht voor Rekenkamer-lid geplaatst in de vacature-Goekoop. Overleed echter al drie maanden na zijn aantreden, op 64-jarige leeftijd.</text>
+ </biography>
+</biodes>

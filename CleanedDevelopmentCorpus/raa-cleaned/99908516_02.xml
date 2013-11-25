@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/4560" />
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen" />
+    </publisher>
+  <idno type="source">raa</idno></fileDesc>
+  <person>
+    <persName><name type="voornaam">Lambert Johansz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hairen</name></persName>
+    <event type="birth">
+      <place />
+    </event>
+    <event type="death" when="1718-05-09">
+      <place />
+    </event>
+  <idno type="bioport">99908516</idno><idno type="id">raa/4560.xml</idno></person>
+  <biography />
+</biodes>

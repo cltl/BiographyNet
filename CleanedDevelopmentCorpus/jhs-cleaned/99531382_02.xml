@@ -1,0 +1,33 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.jhm.nl/cultuur-en-geschiedenis/personen/s/sohlberg,+izak+levie" />
+    <publisher>
+      <name>Joods historisch museum</name>
+      <ref target="http://www.jhm.nl" />
+    </publisher>
+  <idno type="source">jews</idno></fileDesc>
+  <person id="#1">
+    <persName>Sohlberg, Izak Levie</persName>
+    <event type="birth" when="1855-05-01">
+      <place>Amsterdam</place>
+    </event>
+    <event type="death" when="1917">
+      <place>Antwerpen</place>
+    </event>
+    <person id="#328404032" sex="1">
+      <persName>Sohlberg, Mordechai</persName>
+    </person>
+    <relation active="#328404032" name="parent" passive="#1" />
+  <idno type="bioport">99531382</idno><idno type="id">jews/366.xml</idno></person>
+  <biography>
+    <text>J.L. Sohlberg was de oudste zoon van wijlen Mordechai Sohlberg, rabbijn en afstammeling van Chacham Tsewie. Na het behalen van zijn more-diploma aan het Ned. Isr. Seminarium in 1882 vestigde hij zich in Den Haag waar hij de functies van hoofd van de godsdienstschool en assistent-rabbijn tot 1899 combineerde.
+ 
+
+ 
+Op 1 mei 1855 werd Izak Levie Sohlberg in Amsterdam geboren als oudste zoon van de rabbijn Mordechai Sohlberg. Hij was een afstammeling van de bekende Amsterdamse rabbijn Chacham Zwi. Al op jeugdige leeftijd gaf Izak Sohlberg blijk van een grote bedrevenheid in de beoefening van de joodse wetenschap. In het laatste jaar van zijn studie kreeg hij zijn moré-opleiding hoofdzakelijk van zijn vader. Slechts deels volgde hij zijn lessen aan het Nederlands-Israelitisch Seminarium. In 1882 ronde hij zijn studie af met het behalen van het moré-diploma.
+ 
+ 
+Niet lang daarna vestigde Sohlberg zich in den Haag waar hij was benoemd tot hoofd van de Israelitische Godsdienstschool voor betalenden. Ook stelde men hem daar aan als assistent-rabbijn. Deze functies bleef hij bekleden tot zijn vertrek naar Rotterdam waar hij in 1899 leraar aan het Beth Hamidrasj werd. Later verhuisde Izak Sohlberg naar Antwerpen waar hij tot zijn dood in 1917 zou blijven wonen. Hoewel het zijn laatste wens was om op Muiderberg te worden begraven, kon deze wens wegens de oorlog niet worden uitgevoerd. Pas in 1919 werd zijn stoffelijk overschot naar Muiderberg overgebracht.</text>
+  </biography>
+</biodes>

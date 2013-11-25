@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://nl.wikipedia.org/wiki/Dirk_de_Groot" />
+    <publisher>
+      <name>wikipedia</name>
+      <ref target="http://nl.wikipedia.org/" />
+    </publisher>
+  <idno type="source">wikipedia</idno></fileDesc>
+  <person>
+    <idno type="bioport">99170024</idno>
+    <persName>Dirk de Groot</persName>
+  </person>
+  <biography>
+    <text>Dirk A. de Groot ( 1796 - Groningen , 1878 ) was een Nederland se predikant .
+ De Groot was predikant in de Nederlandse Hervormde Kerk te Eppenhuizen (1821-1823), te Woltersum (1823-1828), te Vries (1828-1831) en te Sneek (1831-1866).
+ In 1838 wilde men De Groot benoemen als directeur van het Zendelinghuis van het Nederlandsch Zendeling Genootschap , gevestigd te Rotterdam , waar hij echter voor bedankte. 
+ Vanaf zijn emeritaat tot aan zijn dood woonde hij in bij zijn broer Petrus Hofstede de Groot die hoogleraar te Groningen was. 
+ Groot de, Dirk</text>
+  </biography>
+</biodes>
