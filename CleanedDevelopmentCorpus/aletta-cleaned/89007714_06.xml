@@ -1,0 +1,139 @@
+<biodes version="1.0">
+   <fileDesc>
+       <idno>IAV_5374-biografie</idno>
+       <author>Mariek Hilhorst</author>
+       <ref target="http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:5374&res2=localhost:8080/solr/core14" />
+       <date when="2007/08/17" />
+       <revisionDesc>
+           <change when="2011-01-13" />
+           <change when="2011-01-13" />
+           <change when="2011-01-13" />
+           <change when="2011-01-11" />
+           <change when="2011-01-11" />
+           <change when="2011-01-11" />
+           <change when="2011-01-11" />
+           <change when="2011-01-11" />
+           <change when="2011-01-11" />
+           <change when="2011-01-11" />
+           <change when="2010-12-17" />
+           <change when="2010-12-17" />
+           <change when="2010-12-17" />
+           <change when="2010-12-17" />
+           <change when="2010-12-16" />
+           <change when="2010-12-16" />
+           <change when="2010-12-16" />
+           <change when="2010-12-16" />
+           <change when="2010-12-16" />
+           <change when="2010-12-16" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-13" />
+           <change when="2010-04-13" />
+           <change when="2010-04-13" />
+           <change when="2010-04-13" />
+           <change when="2010-04-13" />
+           <change when="2010-04-13" />
+           <change when="2010-04-13" />
+           <change when="2010-04-13" />
+           <change when="2010-04-13" />
+           <change when="2009-11-13" />
+           <change when="2009-11-13" />
+           <change when="2009-11-13" />
+           <change when="2009-11-13" />
+           <change when="2009-11-13" />
+           <change when="2009-11-13" />
+           <change when="2009-11-13" />
+           <change when="2009-11-13" />
+           <change when="2008-06-06" />
+           <change when="2008-02-15" />
+           <change when="2007-08-23" />
+       </revisionDesc>
+       <publisher>
+           <name>Database Vrouwenbiografien, Aletta</name>
+           <ref target="http://www.aletta.nu/aletta/nl/collecties/biografieen" />
+       </publisher>
+       <availability status="free">Aletta, Instituut voor Vrouwengeschiedenis. Bronvermelding: Mariek Hilhorst - Westerdijk, Johanna(1883-1961), in: Database Vrouwenbiografieen, Aletta. URL:http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:5374&res2=localhost:8080/solr/core14</availability>
+   <title /><idno type="source">aletta</idno></fileDesc>
+   <person>
+       <persName>Westerdijk, Johanna</persName>
+       <persName />
+       <sex value="2" />
+       <event type="birth" when="1883-01-04">
+           in <place>Nieuwer-Amstel (gem. Amstelveen)</place>
+       </event>
+       <event type="death" when="1961-11-15">
+           in <place>Baarn</place>
+       </event>
+   <state type="claim_to_fame">plantkundige en de eerste vrouwelijke hoogleraar in Nederland. Actief in de Vereniging van Vrouwen met een Academische Opleiding</state>
+   <idno type="bioport">89007714</idno><idno type="id">aletta/IAV_5374-biografie.xml</idno></person>
+   <biography>
+   <graphic />
+       <graphic url="http://www.aletta.nu/aletta/fotos///cd028/028-014.jpg" />
+          <text xml:lang="nl">Ze was de dochter van Bernard Westerdijk, arts, en Aleida Catharina Scheffer. Ze studeerde biologie en promoveerde in 1906. Ze werd directrice van het fytopathologisch laboratorium Willy Commelin Scholten (WCS) in Amsterdam.
+  In 1907 kreeg Johanna Westerdijk van professor F.A.F.C. Went uit Utrecht een collectie levende schimmels. Op basis daarvan ontwikkelde zij het Centraal Bureau voor Schimmelcultures (CBS) met de grootste verzameling schimmels ter wereld. Het laboratorium verhuisde in 1921 naar Baarn. Vanaf 1913 bestudeerde ze in Nederlands-Indië ziekten van tropische cultuurgewassen. Ze maakte studiereizen in China, Japan en de Verenigde Staten.
+
+
+
+In 1917 werd Westerdijk buitengewoon hoogleraar in de plantenziekten te Utrecht. Ze was daarmee de eerste vrouwelijke hoogleraar in Nederland. In 1930 werd ze bovendien buitengewoon hoogleraar in de fytopathologie te Amsterdam. Op de Universiteit Utrecht kwam Westerdijk terecht in een mannenwereld. Haar collega’s op de faculteit plantkunde konden de vrouwelijke hoogleraar maar moeilijk accepteren. Westerdijk trok zich daar niet veel van aan.
+
+
+
+Ze was een grote stimulans voor vrouwelijke studenten in de biologie en spoorde hen aan zich vrij te vechten van hun huishoudelijke plichten. Als rolmodel was ze zeer belangrijk voor vrouwen. Johanna Westerdijk stond bekend als gastvrij en muzikaal en hield erg van feestjes.
+
+
+
+Westerdijk was actief in universitaire vrouwenverenigingen. Van 1918 tot 1932 was ze bestuurlid van de Vereniging van Vrouwen met een Academische Opleiding (VVAO). Daarna werd ze presidente van the International Federation of University Women (IFUW) tussen 1932 en 1937. In 1951 werd zij als tweede vrouw lid van de Koninklijke Nederlandse Academie van Wetenschappen. Ze kreeg eredoctoraten aan de universiteiten van Upsala (1957) en Giessen (1958).
+
+
+
+Als VVAO-bestuurdlid schreef ze de brochure ‘Wat heeft het Feminisme de Nederlandsche Vrouw gebracht? Wat heeft het derhalve van haar te verwachten?’ Die brochure was bedoeld om meisjes met een middelbare schoolopleiding te stimuleren tot beroepsarbeid en af te laten zien van een bestaan als huisvrouw.</text>
+      <bibl>
+           <ref target="http://www.inghist.nl/Onderzoek/Projecten/BWN/lemmata/bwn2/westerdijk" />
+      </bibl>
+      <bibl>
+     - Afscheidsrede aan de universiteiten van Utrecht en Amsterdam op 22 november 1952 (...) / Johanna Westerdijk. - Baarn : Hollandia, 1952. - 15p. : ill.
+      </bibl>
+      <bibl>
+     - ‘Zur Regeneration der Laubmoose’. Proefschrift, Zürich, 1906 (niet aanwezig op IIAV)
+      </bibl>
+      <bibl>
+     Vrouwen en archieven (themanummer) / Saskia E. Wieringa, Yvonne Bos-Rops, Esther Captain, [et al.]
+
+In: Archievenblad. - 110 (2006), 7(sep), p. 3, 16-17, 19-29, 31, 33-41, 43, 4547, 49-54
+      </bibl>
+      <bibl>
+     - Programma symposium 'Vrouwenarbeid 100 jaar later' : symposium ter gelegenheid van de feestelijke herdenking van de Nationale Tentoonstelling van Vrouwenarbeid 1898 : 2 april 1998 / Anneloes Timmerije. - Den Haag : Ministerie van Sociale Zaken en Werkgelegenheid, 1998. - 80p. : not. : foto's
+      </bibl>
+      <bibl>
+     - Begaafde eenlingen / Henk Maassen, Paul Ophey. - In: HN-Magazine. - Jrg. 52 (1996),  nr. 32 (10 aug), p.30-32 : lit.
+      </bibl>
+      <bibl>
+     'Het geslacht van de wetenschap. Vrouwen en hoger onderwijs in Nederland 1878-1948' / Mineke Bosch. - Amsterdam, Sua 1994, p.391-428
+      </bibl>
+      <bibl>
+     - "Van Koeriersterspad tot Klompéstraat" : Tentoonstellingsboekje / Marja de Groot (samenst.). - Velserbroek : Openbare Bibliotheek, 1992. - 28p. : lit. : afbn.
+      </bibl>
+      <bibl>
+     - De waanzin van de vrouwelijke geleerde / Koos Neuvel. - In: VU-magazine. - Jrg. 18 (1989), nr. 1(jan), p.11-15
+      </bibl>
+      <bibl>
+     - ‘Een vrouwenhegomonie in Baarn. Professor dr. Johanna Westerdijk, directrice van het Laboratorium Willie Commelin Scholten’ / Mineke Bosch. - In: Geleerde vrouwen : negende jaarboek voor vrouwengeschiedenis / Tineke van Loosbroek, [et al.], p. 170-190. - Nijmegen : SUN, 1988. -  ill. : lit. (Jaarboek voor vrouwengeschiedenis ; 9)
+      </bibl>
+      <bibl>
+     - Johanna Westerdijk, een markante persoonlijkheid / Maria P. Löhnis. - Wageningen : [s.n.], 1963. - 95p. : ill. : lit.
+      </bibl>
+      <bibl>
+     - IIAV
+      </bibl>
+   </biography>
+</biodes>

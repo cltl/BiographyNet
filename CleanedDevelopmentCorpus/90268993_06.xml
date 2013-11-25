@@ -1,0 +1,130 @@
+<biodes version="1.0">
+   <fileDesc>
+       <idno>IAV_4242-biografie</idno>
+       <author>Arlette Strijland</author>
+       <ref target="http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:4242&res2=localhost:8080/solr/core14" />
+       <date when="2007/09/06" />
+       <revisionDesc>
+           <change when="2011-01-13" />
+           <change when="2011-01-13" />
+           <change when="2011-01-13" />
+           <change when="2011-01-11" />
+           <change when="2011-01-11" />
+           <change when="2011-01-11" />
+           <change when="2011-01-11" />
+           <change when="2011-01-11" />
+           <change when="2011-01-11" />
+           <change when="2011-01-11" />
+           <change when="2010-12-17" />
+           <change when="2010-12-17" />
+           <change when="2010-12-17" />
+           <change when="2010-12-17" />
+           <change when="2010-12-16" />
+           <change when="2010-12-16" />
+           <change when="2010-12-16" />
+           <change when="2010-12-16" />
+           <change when="2010-12-16" />
+           <change when="2010-12-16" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-23" />
+           <change when="2010-04-13" />
+           <change when="2010-04-13" />
+           <change when="2010-04-13" />
+           <change when="2010-04-13" />
+           <change when="2010-04-13" />
+           <change when="2010-04-13" />
+           <change when="2010-04-13" />
+           <change when="2010-04-13" />
+           <change when="2010-04-13" />
+           <change when="2009-11-13" />
+           <change when="2009-11-13" />
+           <change when="2009-11-13" />
+           <change when="2009-11-13" />
+           <change when="2009-11-13" />
+           <change when="2009-11-13" />
+           <change when="2009-11-13" />
+           <change when="2009-11-13" />
+           <change when="2007-09-06" />
+       </revisionDesc>
+       <publisher>
+           <name>Database Vrouwenbiografien, Aletta</name>
+           <ref target="http://www.aletta.nu/aletta/nl/collecties/biografieen" />
+       </publisher>
+       <availability status="free">Aletta, Instituut voor Vrouwengeschiedenis. Bronvermelding: Arlette Strijland - Ruys, Mien(1904-1999), in: Database Vrouwenbiografieen, Aletta. URL:http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:4242&res2=localhost:8080/solr/core14</availability>
+   <title /><idno type="source">aletta</idno></fileDesc>
+   <person>
+       <persName>Ruys, Mien</persName>
+       <persName>Ruys, Wilhelmina Jacoba</persName>
+       <sex value="2" />
+       <event type="birth" when="1904-04-12">
+           in <place>Dedemsvaart</place>
+       </event>
+       <event type="death" when="1999-01-09">
+           in <place>Dedemsvaart</place>
+       </event>
+   <state type="claim_to_fame">tuinarchitecte</state>
+   <idno type="bioport">62950068</idno><idno type="id">aletta/IAV_4242-biografie.xml</idno><idno type="bioport">90268993</idno></person>
+   <biography>
+          <text xml:lang="nl">Zij trad in het huwelijk met Theo Moussault.
+  Mien Ruys was één van de belangrijkste tuinarchitecten in Nederland in de vorige eeuw. Zij was één van de weinige vrouwen die in de eerste helft van de twintigste eeuw een beroep uitoefenden in de tuinarchitectuur, waarin vooral mannen werkten. Zij vond zichzelf geen typisch vrouwelijke tuinarchitect. In interviews gaf zij aan in haar werk nooit tegenstand te hebben ondervonden vanwege haar vrouw zijn. Haar ervaring was dat als je goed bent in je vak, je serieus genomen wordt.
+  Mien Ruys is bij veel mensen bekend geworden om het toepassen van spoorbiels en grindtegels in de tuin. Haar bijnaam luidde dan ook 'Bielzen Mien'. Zij is in haar lange carrière echter op veel meer terreinen invloedrijk geweest. Zij begon met het experimenteren met planten en vormgeving op een stuk grond van de kwekerij Moerheim in Dedemsvaart, eigendom van haar vader. Daarnaast had zij een ontwerpbureau en maakte zij onder andere ontwerpen voor grote particuliere tuinen, woningbouwverenigingen en gemeenschappelijke tuinen. Ook heeft ze veel samengewerkt met een groep architecten van de stroming 'het nieuwe bouwen': 'de 8' uit Amsterdam en 'de Opbouw' uit Rotterdam. Kenmerk in haar werk is een eenvoudige, heldere en functionele indeling naast een losse, natuurlijke beplanting met veel vaste planten. Haar kennis over vormgeving, beplanting en onderhoud verwerkte zij in het kwartaalblad 'Onze Eigen Tuin', dat zij in 1954 oprichtte met haar man, uitgever Theo Moussault.
+  Sinds 1923 worden de proeftuinen van Mien Ruys aan het publiek getoond. Het stukje tuin groeide uit tot een complex van bijna 3 hectare, dat in 1976 werd ondergebracht in de Stichting Tuinen Mien Ruys, die haar werk nog steeds voortzet. In 2004 hebben drie deeltuinen de status Rijksmonument gekregen, zij zijn een uniek voorbeeld van functionalisme in de Europese tuinarchitectuur.</text>
+      <bibl>
+           <ref target="http://www.mienruys.nl/tuinen/algemeen.php?page=algemeen_mien_ruys">Tuinen Mien Ruys - biografie</ref>
+      </bibl>
+      <bibl>
+           <ref target="http://nl.wikipedia.org/wiki/Mien_Ruys">Wikipedia - biografie</ref>
+      </bibl>
+      <bibl>
+           <ref target="http://www.ljongma.dds.nl/nl/weken/2002/week40.html">Vereniging voor Vrouwengeschiedenis - biografie</ref>
+      </bibl>
+      <bibl>
+           <ref target="http://www.cantua.nl/mienruys_nieuw.htm">Cantua tuinhistorisch onderzoek - project archiefonderzoek, biografie en oeuvrebeschrijving Mien Ruys</ref>
+      </bibl>
+      <bibl>
+           <ref target="http://library.wur.nl/tuin/">Databank TUiN - oeuvre Mien Ruys</ref>
+      </bibl>
+      <bibl>
+           <ref target="http://www.nvtl.nl/publicaties/mienruys2001april.html">Mien Ruys en de emancipatie van de tuin- en landschapsarchitectuur</ref>
+      </bibl>
+      <bibl>
+     - Rozen voor iedereen / Mien Ruys. - Bussum : Moussault, 1956. - 68p.
+
+Vindplaats IIAV: NED 4 1956
+      </bibl>
+      <bibl>
+     - Mien Ruys / Meto Vroom, Cécile van der Heijden, Tiel van Steen [et al.].
+
+In: Het landelijk dagblad van de Nederlandse Vereniging voor Tuin- en Landschapsarchitectuur. - Jrg. 4 (2002), nr. 2 ; p. 29-39.
+
+Vindplaats IIAV: Biografische map 1689
+      </bibl>
+      <bibl>
+     - Vrouwelijke tuin- en landschapsarchitecten in Nederland 1898-1998 : een geannoteerde bibliografie met inleidend essay over de positie van vrouwen in onderwijs en beroep / Arlette Strijland. - Haarlem : [s.n.], 1999. - 200 + 61p.; index ; lit.
+
+Vindplaats IIAV: B 05 1999/NED
+      </bibl>
+      <bibl>
+     - Tuinarchitecte Mien Ruys : een vakvrouw bij uitstek / Anke Manscholt.
+
+In: Opzij. - Jrg. 22 (1994), nr. 9 (sept.) ; p. 50-53.
+
+Vindplaats IIAV: afdeling tijdschriften
+      </bibl>
+      <bibl>
+     - Mien Ruys : [een leven als tuinarchitecte] : aspecten van leven en werk van een Nederlandse tuin- en landschapsarchitecte / Bonica Zijlstra. - Amsterdam : Nederlandse Tuinenstichting ; Dedemsvaart : Stichting 'Tuinen Mien Ruys', [1992]. - 80p.
+
+Vindplaats IIAV: NED 9 RUY 1992
+      </bibl>
+   </biography>
+</biodes>
