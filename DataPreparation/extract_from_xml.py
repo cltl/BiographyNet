@@ -51,7 +51,7 @@ def retrieve_family_relations(elem):
           father = relatives[r][1]
         elif relatives[r][0] == '2':
           mother = relatives[r][1]
-      elif val[0] == 'marriage' or val[0] == 'partner':
+      elif val[0] == 'partner':
         partner = relatives[r][1]
       else:  
         print 'Found relation: '
@@ -90,12 +90,18 @@ def retrieve_name(elem):
                         if my_t == 'geslachtsnaam':
                             an = gch.text.lower()
                         elif my_t == 'voornaam':
-                            vn = gch.text.lower()
+                            #more than one first name can be given
+                            vn += gch.text.rstrip().lower() + ' '
                         elif my_t == 'intrapositie': #
                             infix = gch.text.lower()
+                #some sources provide first name as text after element identifying family name
+                if not vn and not gch.tail == None:
+                    vn = gch.tail.lstrip(', ').lower()
+                # some sources provide first name as text before element identifying family name
                 if not vn and not ch.text == None:
-                    vn = ch.text.lower()
-                name = vn
+                    vn = ch.text.rstrip().lower()
+                # remove additional space after name if present
+                name = vn.rstrip()
                 if infix:
                     name += ' ' + infix
                 name += ' ' + an
@@ -125,10 +131,16 @@ def retrieve_when_and_where(ch):
         date += ch.get('notAfter')
       else:
         date = '~' + ch.get('notAfter')
+  if date == 0:
+    date = ch.text.lstrip('ca. ')
+    date = date.lstrip('tussen ')
   for gch in ch.getchildren():
     if gch.tag == 'place' and gch.text != None:
       place = gch.text
       place = clean_string(place)
+  if place == 0 and 'te' in ch.text:
+    place = ch.text.split( 'te' )[1].rstrip()
+    place = clean_string(place)
   return [date, place]
 
 
@@ -216,6 +228,19 @@ def add_state_information(elem, cat, my_dict):
   #make sure dictionary is updated
   return my_dict
 
+
+#tag and my_dict: create unique tag for dictionary
+def get_new_tag(tag, my_dict):
+    tag_id = 1
+    new_tag = tag.replace('-', '-' + str(tag_id) + '-')
+    #augment identifier number in tag until unique tag for dict is found
+    while new_tag in my_dict:
+        old_id = tag_id
+        tag_id += 1
+        new_tag = new_tag.replace('-' + str(old_id) + '-', '_' + str(tag_id))
+    return new_tag
+
+
 #function that updates a dictionary with time and location of an event
 def add_time_place_information(elem, cat, my_dict):
 
@@ -235,9 +260,13 @@ def add_time_place_information(elem, cat, my_dict):
       #check if meaningful value (value is 0 is none was found)
       if my_info[0]:
         tag = '<' + cat + '-time>'
+        if tag in my_dict:
+          tag = get_new_tag(tag, my_dict)
         my_dict[tag] = my_info[0]
       if my_info[1]:
         tag = '<' + cat + '-place>'
+        if tag in my_dict:
+          tag = get_new_tag(tag, my_dict)
         my_dict[tag] = my_info[1]
     else:
       print 'Warning: retrieval of date and time for ', cat, 'lead to incorrect return value'
@@ -304,13 +333,13 @@ def add_family_relations(elem, my_dict):
   if len(rels) == 3:
     # first element on list is father
     if rels[0]:
-      my_dict['father'] = rels[0]
+      my_dict['<father>'] = rels[0]
     # second element on list mother
     if rels[1]:
-      my_dict['mother'] = rels[1]
+      my_dict['<mother>'] = rels[1]
     # third element on list is partner
     if rels[2]:
-      my_dict['partner'] = rels[2]
+      my_dict['<partner>'] = rels[2]
   else:
     print 'Warning: Something went wrong retrieving relations, wrong number of elements on list'
 
@@ -325,7 +354,7 @@ def extract_person_information(elem):
   my_person_info['<name>'] = retrieve_name(elem)
   #update dictionary with information about birth, baptism, death and funeral
   #create list with all category names
-  my_events = ['birth', 'baptism', 'death', 'funeral']
+  my_events = ['birth', 'baptism', 'death', 'funeral', 'marriage']
   #call function that updates my_person_info with all this information
   update_info_with_when_and_wheres(elem, my_events, my_person_info)
   
@@ -341,7 +370,7 @@ def extract_person_information(elem):
   update_info_identified_in_nr(elem, info_in_nr, my_person_info)
 
   #create list of relevant state information
-  my_states = ['education','faith','occupation']
+  my_states = ['education','faith','occupation','residence']
   #add information on all these categories to my_person_info
   update_state_information(elem, my_states, my_person_info)
 
