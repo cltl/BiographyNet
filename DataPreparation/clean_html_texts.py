@@ -9,9 +9,16 @@ import xml.etree.ElementTree as ET
 from HTMLParser import HTMLParser
 
 
+#version number (update after revisions that influence output)
+
+version_nr = '1.0'
+
+
 #parser is global: called by embedded function, but should not be created
 #for every file.
 parser = ''
+
+
 
 def retrieve_text(elem):
     text = ''
@@ -59,7 +66,7 @@ def prepare_out_dir(in_dir, out_dir):
     '''input: string name of input and output directory as given by user (which may be empty string
        returns: string name of output directory, default assigned if user has not given one
         Function assigns default name to output directory if non given and creates this directory if it does not exist.'''
-    #assign default name to out_dir if non-given/Users/antske/Desktop/aanvraag.zip
+    #assign default name to out_dir if non-given
     if not out_dir:
         #if character cleanup has been carried out, indir may already be called
         #-cleaned
@@ -89,26 +96,80 @@ def clean_data_in_dir(in_dir, out_dir):
         if '.xml' in f:
             clean_html_text(in_dir, out_dir, f)
 
+# 
+def print_version():
+    """ Print current version of implementation """
+    print version_nr
 
 
+# standard function for usage 
+def usage(command=None):
+    """ Print appropriate usage message and exit. """
+    
+    def p(msg, nobreak=False):
+        """ Print the message with necessary indentation and linebreaks. """
+        if nobreak:
+            print " " * indent + msg,
+        else:
+            print " " * indent + msg
+    p ("Usage: clean_html_texts.py input_dir (output_dir).")
 
+    if not command:
+        p ("run: clean_html_texts.py --usage for more explanations or")
+        p ("run: clean_html_texts.py --all for a complete overview of options")
+    elif command == 'usage':
+    
+        p ("You must provide an input directory with xml files containing text with html mark up.\n")
+        p ("You may optionally provide an output directory where cleaned files need to be placed. If you do not provide an output directory, the cleaned files will be placed in a new directory ending in 'html-cleaned'.\n This directory is located in the same directory as the input directory.\n")
+        p ("python clean_html_text.py --version\n Prints out the current version of this program.")
+    elif command == 'all':
 
+        p ("OPTIONS:")
+        p ("--version (-v): prints out current version of the program. If an input directory is given, the program is also executed.")
+        p ("--usage (-u): prints out an explanation of how to use this program. The program is not executed.")
+        p ("--all (-a): prints out a full overview of how to use this program. The program is not executed.")
+        
+
+        p ("ARGUMENTS:")
+        p ("input_dir: path to directory where files that need to be cleaned are located")
+        p ("output_dir: (optional) path to directory where files that are cleaned will be stored. If none given a default output directory ending in '-html-cleaned' is created in the same directory as the input directory.")
+    
 
 def main(argv=None):
 
-    if argv is None:
-        argv = sys.argv
+    #option to print version
+    try:
+        opts, args = getopt.getopt(sys.argv[1:], 'vua', ['version','usage','all'])
+    except:
+        print str(err)
+        usage()
+
+    #boolean storing whether program is executed or not (default is True)
+    execute = True
+
+    for o in opts:
+        if o in ('-v','--version'):
+            print_version()
+            if len(args) < 1:
+                execute = False
+        elif o in ('-a','--all'):
+            usage('all')
+            execute = False
+        elif o in ('-u','--usage'):
+            execute = False
+            usage('usage')
+
+    if execute:
     #check if at least one argument was provided (argv[0] is program name)
-    if len(argv) < 2:
-        #print warning and explanation if argument is missing
-        print 'You must provide an input directory and may optionally provide an output directory.\n\tUsage: python clean_files.py input_dir (output_dir)\n'
-    else:
-        #first argument is input dir
-        in_dir = argv[1]
-        #check if second argument is given
-        if len(argv) > 2:
-            #second argument if given, is outdir
-            out_dir = argv[2]
+        if len(args) < 1:
+            usage()
+        else:
+            #first argument is input dir
+            in_dir = args[0]
+            #check if second argument is given
+            if len(args) > 1:
+                #second argument if given, is outdir
+                out_dir = args[1]
         else:
             #outdir is default which will be created by the program
             out_dir = ''
