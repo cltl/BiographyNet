@@ -85,25 +85,93 @@ def process_files(input_dir, output_dir, print_out = False):
             process_xml_file(xmlfile, output_dir, print_out)
 
 
+def print_version():
+    """ Prints out version nr of the program """
+    print version_nr
+
+
+# standard function for usage
+def usage(command=None):
+    """ Print appropriate usage message and exit. """
+    
+    
+    def p(msg, nobreak=False):
+        """ Print the message with necessary indentation and linebreaks. """
+        if nobreak:
+            print " " * indent + msg,
+        else:
+            print " " * indent + msg
+    p ("Usage: get_tags_and_values.py input_dir (output_dir).")
+    
+    if not command:
+        p ("run: get_tags_and_values.py --usage for more explanations or")
+        p ("run: get_tags_and_values.py --all for a complete overview of options")
+    elif command == 'usage':
+        
+        p ("You must provide an input directory with xml files containing text with xml files.\n")
+        p ("You may optionally provide an output directory where cleaned files need to be placed. If you do not provide an output directory, the cleaned files will be placed in a new directory called 'metadata_values'.\n This directory is located in the input directory.\n")
+        p ("python get_tags_and_values.py --version\n Prints out the current version of this program.")
+    elif command == 'all':
+        
+        p ("OPTIONS:")
+        p ("--printout (-p): print output in outputfiles and pairs that cannot be dealt with because of encoding issues in the commandline.")
+        p ("--version (-v): prints out current version of the program. If an input directory is given, the program is also executed.")
+        p ("--usage (-u): prints out an explanation of how to use this program. The program is not executed.")
+        p ("--all (-a): prints out a full overview of how to use this program. The program is not executed.")
+        
+        
+        p ("ARGUMENTS:")
+        p ("input_dir: path to directory where files that need to be cleaned are located")
+        p ("output_dir: (optional) path to directory where files that are cleaned will be stored. If none given a default output directory called 'metadata_values' is created in the input directory.")
+
+
 def main(argv=None):
 
-    if argv is None:
-        argv = sys.argv
-    if len(argv) < 2:
-        print 'Error: you must provide an input directory and may optionally provide an output directory.'
-    else:
-        #first argument is input dir
-        input_dir = argv[1]
-        #second argument is output dir
-        #if no output directory is given, a default output directory is created.
-        output_dir = ''
-        if len(argv) >= 3:
-            output_dir = argv[2]
+    #option to print version
+    try:
+        opts, args = getopt.getopt(sys.argv[1:], 'vuap', ['version','usage','all','printout'])
+    except:
+        print str(err)
+        usage()
+    
+            
+    for o in opts:
+        
+        if o in ('-p','--printout'):
+            print_out = True
+        else:
+            print_out = False
 
-        #call function, third argument indicates whether information from XML
-        #should be print out. This is always the case when this function is called from here.
-        print_out = True
-        process_files(input_dir, output_dir, print_out)
+        if o in ('-v','--version'):
+            print_version()
+            if len(args) < 1:
+                execute = False
+        elif o in ('-a','--all'):
+            usage('all')
+            execute = False
+        elif o in ('-u','--usage'):
+            execute = False
+            usage('usage')
+        
+            
+    #boolean storing whether program is executed or not (default is True)
+    execute = True
+    
+    if execute:
+
+        if len(args) < 1:
+            usage()
+
+        else:
+            #first argument is input dir
+            input_dir = args[0]
+            #second argument is output dir
+            #if no output directory is given, a default output directory is created.
+            output_dir = ''
+            if len(args) >= 2:
+                output_dir = args[1]
+
+            process_files(input_dir, output_dir, print_out)
             
 
 
