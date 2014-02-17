@@ -3,6 +3,7 @@
 
 import os
 import sys
+import getopt
 import nltk
 import extract_from_xml
 import xml.etree.ElementTree as ET
@@ -109,9 +110,9 @@ def usage(command=None):
     def p(msg, nobreak=False):
         """ Print the message with necessary indentation and linebreaks. """
         if nobreak:
-            print " " * indent + msg,
+            print " " + msg,
         else:
-            print " " * indent + msg
+            print " " + msg
     p ("Usage: clean_html_texts.py input_dir (output_dir).")
 
     if not command:
@@ -140,14 +141,14 @@ def main(argv=None):
     #option to print version
     try:
         opts, args = getopt.getopt(sys.argv[1:], 'vua', ['version','usage','all'])
-    except:
+    except IOError as err:
         print str(err)
         usage()
 
     #boolean storing whether program is executed or not (default is True)
     execute = True
-
-    for o in opts:
+    
+    for o in opts[0]:
         if o in ('-v','--version'):
             print_version()
             if len(args) < 1:
@@ -170,11 +171,11 @@ def main(argv=None):
             if len(args) > 1:
                 #second argument if given, is outdir
                 out_dir = args[1]
-        else:
+            else:
             #outdir is default which will be created by the program
-            out_dir = ''
+                out_dir = ''
         #call program
-        clean_data_in_dir(in_dir, out_dir)
+            clean_data_in_dir(in_dir, out_dir)
 
 
 if __name__ == '__main__':
