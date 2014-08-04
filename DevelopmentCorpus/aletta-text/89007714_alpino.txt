@@ -1,0 +1,3497 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<KAF xml:lang="nl">
+  <kafHeader>
+    <linguisticProcessors>
+      <lp name="alpino" version="unknown"/>
+    </linguisticProcessors>
+  </kafHeader>
+  <text>
+    <wf page="0" para="0" sent="1" wid="w1.4">Ze</wf>
+    <wf page="0" para="0" sent="1" wid="w1.5">was</wf>
+    <wf page="0" para="0" sent="1" wid="w1.7">de</wf>
+    <wf page="0" para="0" sent="1" wid="w1.8">dochter</wf>
+    <wf page="0" para="0" sent="1" wid="w1.10">van</wf>
+    <wf page="0" para="0" sent="1" wid="w1.13">Bernard</wf>
+    <wf page="0" para="0" sent="1" wid="w1.14">Westerdijk</wf>
+    <wf page="0" para="0" sent="1" wid="w1.1">,</wf>
+    <wf page="0" para="0" sent="1" wid="w1.15">arts</wf>
+    <wf page="0" para="0" sent="1" wid="w1.2">,</wf>
+    <wf page="0" para="0" sent="1" wid="w1.16">en</wf>
+    <wf page="0" para="0" sent="1" wid="w1.18">Aleida</wf>
+    <wf page="0" para="0" sent="1" wid="w1.19">Catharina</wf>
+    <wf page="0" para="0" sent="1" wid="w1.20">Scheffer</wf>
+    <wf page="0" para="0" sent="1" wid="w1.21">.</wf>
+    <wf page="0" para="0" sent="2" wid="w2.3">Ze</wf>
+    <wf page="0" para="0" sent="2" wid="w2.4">studeerde</wf>
+    <wf page="0" para="0" sent="2" wid="w2.5">biologie</wf>
+    <wf page="0" para="0" sent="2" wid="w2.6">en</wf>
+    <wf page="0" para="0" sent="2" wid="w2.9">promoveerde</wf>
+    <wf page="0" para="0" sent="2" wid="w2.11">in</wf>
+    <wf page="0" para="0" sent="2" wid="w2.12">1906</wf>
+    <wf page="0" para="0" sent="2" wid="w2.13">.</wf>
+    <wf page="0" para="0" sent="3" wid="w3.4">Ze</wf>
+    <wf page="0" para="0" sent="3" wid="w3.5">werd</wf>
+    <wf page="0" para="0" sent="3" wid="w3.7">directrice</wf>
+    <wf page="0" para="0" sent="3" wid="w3.9">van</wf>
+    <wf page="0" para="0" sent="3" wid="w3.11">het</wf>
+    <wf page="0" para="0" sent="3" wid="w3.12">fytopathologisch</wf>
+    <wf page="0" para="0" sent="3" wid="w3.13">laboratorium</wf>
+    <wf page="0" para="0" sent="3" wid="w3.15">Willy</wf>
+    <wf page="0" para="0" sent="3" wid="w3.16">Commelin</wf>
+    <wf page="0" para="0" sent="3" wid="w3.17">Scholten</wf>
+    <wf page="0" para="0" sent="3" wid="w3.18">(WCS</wf>
+    <wf page="0" para="0" sent="3" wid="w3.1">)</wf>
+    <wf page="0" para="0" sent="3" wid="w3.20">in</wf>
+    <wf page="0" para="0" sent="3" wid="w3.21">Amsterdam</wf>
+    <wf page="0" para="0" sent="3" wid="w3.22">.</wf>
+    <wf page="0" para="0" sent="4" wid="w4.3">In</wf>
+    <wf page="0" para="0" sent="4" wid="w4.4">1907</wf>
+    <wf page="0" para="0" sent="4" wid="w4.5">kreeg</wf>
+    <wf page="0" para="0" sent="4" wid="w4.8">Johanna</wf>
+    <wf page="0" para="0" sent="4" wid="w4.9">Westerdijk</wf>
+    <wf page="0" para="0" sent="4" wid="w4.11">van</wf>
+    <wf page="0" para="0" sent="4" wid="w4.12">professor</wf>
+    <wf page="0" para="0" sent="4" wid="w4.14">F</wf>
+    <wf page="0" para="0" sent="4" wid="w4.15">.A</wf>
+    <wf page="0" para="0" sent="4" wid="w4.16">.F</wf>
+    <wf page="0" para="0" sent="4" wid="w4.17">.C</wf>
+    <wf page="0" para="0" sent="4" wid="w4.18">.</wf>
+    <wf page="0" para="0" sent="5" wid="w5.3">Went</wf>
+    <wf page="0" para="0" sent="5" wid="w5.5">uit</wf>
+    <wf page="0" para="0" sent="5" wid="w5.6">Utrecht</wf>
+    <wf page="0" para="0" sent="5" wid="w5.8">een</wf>
+    <wf page="0" para="0" sent="5" wid="w5.9">collectie</wf>
+    <wf page="0" para="0" sent="5" wid="w5.11">levende</wf>
+    <wf page="0" para="0" sent="5" wid="w5.12">schimmels</wf>
+    <wf page="0" para="0" sent="5" wid="w5.13">.</wf>
+    <wf page="0" para="0" sent="6" wid="w6.5">Op</wf>
+    <wf page="0" para="0" sent="6" wid="w6.6">basis</wf>
+    <wf page="0" para="0" sent="6" wid="w6.7">daarvan</wf>
+    <wf page="0" para="0" sent="6" wid="w6.8">ontwikkelde</wf>
+    <wf page="0" para="0" sent="6" wid="w6.9">zij</wf>
+    <wf page="0" para="0" sent="6" wid="w6.11">het</wf>
+    <wf page="0" para="0" sent="6" wid="w6.13">Centraal</wf>
+    <wf page="0" para="0" sent="6" wid="w6.14">Bureau</wf>
+    <wf page="0" para="0" sent="6" wid="w6.15">voor</wf>
+    <wf page="0" para="0" sent="6" wid="w6.16">Schimmelcultures</wf>
+    <wf page="0" para="0" sent="6" wid="w6.17">(CBS</wf>
+    <wf page="0" para="0" sent="6" wid="w6.1">)</wf>
+    <wf page="0" para="0" sent="6" wid="w6.19">met</wf>
+    <wf page="0" para="0" sent="6" wid="w6.21">de</wf>
+    <wf page="0" para="0" sent="6" wid="w6.22">grootste</wf>
+    <wf page="0" para="0" sent="6" wid="w6.23">verzameling</wf>
+    <wf page="0" para="0" sent="6" wid="w6.24">schimmels</wf>
+    <wf page="0" para="0" sent="6" wid="w6.26">ter</wf>
+    <wf page="0" para="0" sent="6" wid="w6.27">wereld</wf>
+    <wf page="0" para="0" sent="6" wid="w6.28">.</wf>
+    <wf page="0" para="0" sent="7" wid="w7.3">Het</wf>
+    <wf page="0" para="0" sent="7" wid="w7.4">laboratorium</wf>
+    <wf page="0" para="0" sent="7" wid="w7.5">verhuisde</wf>
+    <wf page="0" para="0" sent="7" wid="w7.7">in</wf>
+    <wf page="0" para="0" sent="7" wid="w7.8">1921</wf>
+    <wf page="0" para="0" sent="7" wid="w7.10">naar</wf>
+    <wf page="0" para="0" sent="7" wid="w7.11">Baarn</wf>
+    <wf page="0" para="0" sent="7" wid="w7.12">.</wf>
+    <wf page="0" para="0" sent="8" wid="w8.3">Vanaf</wf>
+    <wf page="0" para="0" sent="8" wid="w8.4">1913</wf>
+    <wf page="0" para="0" sent="8" wid="w8.5">bestudeerde</wf>
+    <wf page="0" para="0" sent="8" wid="w8.6">ze</wf>
+    <wf page="0" para="0" sent="8" wid="w8.8">in</wf>
+    <wf page="0" para="0" sent="8" wid="w8.10">Nederlands</wf>
+    <wf page="0" para="0" sent="8" wid="w8.11">-Indië</wf>
+    <wf page="0" para="0" sent="8" wid="w8.13">ziekten</wf>
+    <wf page="0" para="0" sent="8" wid="w8.15">van</wf>
+    <wf page="0" para="0" sent="8" wid="w8.17">tropische</wf>
+    <wf page="0" para="0" sent="8" wid="w8.18">cultuurgewassen</wf>
+    <wf page="0" para="0" sent="8" wid="w8.19">.</wf>
+    <wf page="0" para="0" sent="9" wid="w9.3">Ze</wf>
+    <wf page="0" para="0" sent="9" wid="w9.4">maakte</wf>
+    <wf page="0" para="0" sent="9" wid="w9.5">studiereizen</wf>
+    <wf page="0" para="0" sent="9" wid="w9.7">in</wf>
+    <wf page="0" para="0" sent="9" wid="w9.9">China</wf>
+    <wf page="0" para="0" sent="9" wid="w9.1">,</wf>
+    <wf page="0" para="0" sent="9" wid="w9.10">Japan</wf>
+    <wf page="0" para="0" sent="9" wid="w9.11">en</wf>
+    <wf page="0" para="0" sent="9" wid="w9.13">de</wf>
+    <wf page="0" para="0" sent="9" wid="w9.15">Verenigde</wf>
+    <wf page="0" para="0" sent="9" wid="w9.16">Staten</wf>
+    <wf page="0" para="0" sent="9" wid="w9.17">.</wf>
+    <wf page="0" para="0" sent="10" wid="w10.3">In</wf>
+    <wf page="0" para="0" sent="10" wid="w10.4">1917</wf>
+    <wf page="0" para="0" sent="10" wid="w10.5">werd</wf>
+    <wf page="0" para="0" sent="10" wid="w10.6">Westerdijk</wf>
+    <wf page="0" para="0" sent="10" wid="w10.8">buitengewoon</wf>
+    <wf page="0" para="0" sent="10" wid="w10.9">hoogleraar</wf>
+    <wf page="0" para="0" sent="10" wid="w10.11">in</wf>
+    <wf page="0" para="0" sent="10" wid="w10.13">de</wf>
+    <wf page="0" para="0" sent="10" wid="w10.14">plantenziekten</wf>
+    <wf page="0" para="0" sent="10" wid="w10.16">te</wf>
+    <wf page="0" para="0" sent="10" wid="w10.17">Utrecht</wf>
+    <wf page="0" para="0" sent="10" wid="w10.18">.</wf>
+    <wf page="0" para="0" sent="11" wid="w11.2">Ze</wf>
+    <wf page="0" para="0" sent="11" wid="w11.3">was</wf>
+    <wf page="0" para="0" sent="11" wid="w11.4">daarmee</wf>
+    <wf page="0" para="0" sent="11" wid="w11.6">de</wf>
+    <wf page="0" para="0" sent="11" wid="w11.7">eerste</wf>
+    <wf page="0" para="0" sent="11" wid="w11.8">vrouwelijke</wf>
+    <wf page="0" para="0" sent="11" wid="w11.9">hoogleraar</wf>
+    <wf page="0" para="0" sent="11" wid="w11.11">in</wf>
+    <wf page="0" para="0" sent="11" wid="w11.12">Nederland</wf>
+    <wf page="0" para="0" sent="11" wid="w11.13">.</wf>
+    <wf page="0" para="0" sent="12" wid="w12.3">In</wf>
+    <wf page="0" para="0" sent="12" wid="w12.4">1930</wf>
+    <wf page="0" para="0" sent="12" wid="w12.5">werd</wf>
+    <wf page="0" para="0" sent="12" wid="w12.6">ze</wf>
+    <wf page="0" para="0" sent="12" wid="w12.7">bovendien</wf>
+    <wf page="0" para="0" sent="12" wid="w12.9">buitengewoon</wf>
+    <wf page="0" para="0" sent="12" wid="w12.10">hoogleraar</wf>
+    <wf page="0" para="0" sent="12" wid="w12.12">in</wf>
+    <wf page="0" para="0" sent="12" wid="w12.14">de</wf>
+    <wf page="0" para="0" sent="12" wid="w12.15">fytopathologie</wf>
+    <wf page="0" para="0" sent="12" wid="w12.17">te</wf>
+    <wf page="0" para="0" sent="12" wid="w12.18">Amsterdam</wf>
+    <wf page="0" para="0" sent="12" wid="w12.19">.</wf>
+    <wf page="0" para="0" sent="13" wid="w13.3">Op</wf>
+    <wf page="0" para="0" sent="13" wid="w13.5">de</wf>
+    <wf page="0" para="0" sent="13" wid="w13.7">Universiteit</wf>
+    <wf page="0" para="0" sent="13" wid="w13.8">Utrecht</wf>
+    <wf page="0" para="0" sent="13" wid="w13.9">kwam</wf>
+    <wf page="0" para="0" sent="13" wid="w13.10">Westerdijk</wf>
+    <wf page="0" para="0" sent="13" wid="w13.11">terecht</wf>
+    <wf page="0" para="0" sent="13" wid="w13.13">in</wf>
+    <wf page="0" para="0" sent="13" wid="w13.15">een</wf>
+    <wf page="0" para="0" sent="13" wid="w13.16">mannenwereld</wf>
+    <wf page="0" para="0" sent="13" wid="w13.17">.</wf>
+    <wf page="0" para="0" sent="14" wid="w14.3">Haar</wf>
+    <wf page="0" para="0" sent="14" wid="w14.4">collega’s</wf>
+    <wf page="0" para="0" sent="14" wid="w14.6">op</wf>
+    <wf page="0" para="0" sent="14" wid="w14.8">de</wf>
+    <wf page="0" para="0" sent="14" wid="w14.9">faculteit</wf>
+    <wf page="0" para="0" sent="14" wid="w14.10">plantkunde</wf>
+    <wf page="0" para="0" sent="14" wid="w14.11">konden</wf>
+    <wf page="0" para="0" sent="14" wid="w14.15">de</wf>
+    <wf page="0" para="0" sent="14" wid="w14.16">vrouwelijke</wf>
+    <wf page="0" para="0" sent="14" wid="w14.17">hoogleraar</wf>
+    <wf page="0" para="0" sent="14" wid="w14.18">maar</wf>
+    <wf page="0" para="0" sent="14" wid="w14.19">moeilijk</wf>
+    <wf page="0" para="0" sent="14" wid="w14.20">accepteren</wf>
+    <wf page="0" para="0" sent="14" wid="w14.21">.</wf>
+    <wf page="0" para="0" sent="15" wid="w15.2">Westerdijk</wf>
+    <wf page="0" para="0" sent="15" wid="w15.3">trok</wf>
+    <wf page="0" para="0" sent="15" wid="w15.4">zich</wf>
+    <wf page="0" para="0" sent="15" wid="w15.8">daar</wf>
+    <wf page="0" para="0" sent="15" wid="w15.5">niet</wf>
+    <wf page="0" para="0" sent="15" wid="w15.6">veel</wf>
+    <wf page="0" para="0" sent="15" wid="w15.9">van</wf>
+    <wf page="0" para="0" sent="15" wid="w15.10">aan</wf>
+    <wf page="0" para="0" sent="15" wid="w15.11">.</wf>
+    <wf page="0" para="0" sent="16" wid="w16.3">Ze</wf>
+    <wf page="0" para="0" sent="16" wid="w16.4">was</wf>
+    <wf page="0" para="0" sent="16" wid="w16.6">een</wf>
+    <wf page="0" para="0" sent="16" wid="w16.7">grote</wf>
+    <wf page="0" para="0" sent="16" wid="w16.8">stimulans</wf>
+    <wf page="0" para="0" sent="16" wid="w16.10">voor</wf>
+    <wf page="0" para="0" sent="16" wid="w16.12">vrouwelijke</wf>
+    <wf page="0" para="0" sent="16" wid="w16.13">studenten</wf>
+    <wf page="0" para="0" sent="16" wid="w16.15">in</wf>
+    <wf page="0" para="0" sent="16" wid="w16.17">de</wf>
+    <wf page="0" para="0" sent="16" wid="w16.18">biologie</wf>
+    <wf page="0" para="0" sent="16" wid="w16.19">en</wf>
+    <wf page="0" para="0" sent="16" wid="w16.22">spoorde</wf>
+    <wf page="0" para="0" sent="16" wid="w16.23">hen</wf>
+    <wf page="0" para="0" sent="16" wid="w16.24">aan</wf>
+    <wf page="0" para="0" sent="16" wid="w16.29">zich</wf>
+    <wf page="0" para="0" sent="16" wid="w16.30">vrij</wf>
+    <wf page="0" para="0" sent="16" wid="w16.26">te</wf>
+    <wf page="0" para="0" sent="16" wid="w16.31">vechten</wf>
+    <wf page="0" para="0" sent="16" wid="w16.33">van</wf>
+    <wf page="0" para="0" sent="16" wid="w16.35">hun</wf>
+    <wf page="0" para="0" sent="16" wid="w16.36">huishoudelijke</wf>
+    <wf page="0" para="0" sent="16" wid="w16.37">plichten</wf>
+    <wf page="0" para="0" sent="16" wid="w16.38">.</wf>
+    <wf page="0" para="0" sent="17" wid="w17.3">Als</wf>
+    <wf page="0" para="0" sent="17" wid="w17.4">rolmodel</wf>
+    <wf page="0" para="0" sent="17" wid="w17.5">was</wf>
+    <wf page="0" para="0" sent="17" wid="w17.6">ze</wf>
+    <wf page="0" para="0" sent="17" wid="w17.8">zeer</wf>
+    <wf page="0" para="0" sent="17" wid="w17.9">belangrijk</wf>
+    <wf page="0" para="0" sent="17" wid="w17.11">voor</wf>
+    <wf page="0" para="0" sent="17" wid="w17.12">vrouwen</wf>
+    <wf page="0" para="0" sent="17" wid="w17.13">.</wf>
+    <wf page="0" para="0" sent="18" wid="w18.4">Johanna</wf>
+    <wf page="0" para="0" sent="18" wid="w18.5">Westerdijk</wf>
+    <wf page="0" para="0" sent="18" wid="w18.6">stond</wf>
+    <wf page="0" para="0" sent="18" wid="w18.7">bekend</wf>
+    <wf page="0" para="0" sent="18" wid="w18.9">als</wf>
+    <wf page="0" para="0" sent="18" wid="w18.11">gastvrij</wf>
+    <wf page="0" para="0" sent="18" wid="w18.12">en</wf>
+    <wf page="0" para="0" sent="18" wid="w18.13">muzikaal</wf>
+    <wf page="0" para="0" sent="18" wid="w18.14">en</wf>
+    <wf page="0" para="0" sent="18" wid="w18.17">hield</wf>
+    <wf page="0" para="0" sent="18" wid="w18.18">erg</wf>
+    <wf page="0" para="0" sent="18" wid="w18.20">van</wf>
+    <wf page="0" para="0" sent="18" wid="w18.21">feestjes</wf>
+    <wf page="0" para="0" sent="18" wid="w18.22">.</wf>
+    <wf page="0" para="0" sent="19" wid="w19.2">Westerdijk</wf>
+    <wf page="0" para="0" sent="19" wid="w19.3">was</wf>
+    <wf page="0" para="0" sent="19" wid="w19.5">actief</wf>
+    <wf page="0" para="0" sent="19" wid="w19.7">in</wf>
+    <wf page="0" para="0" sent="19" wid="w19.9">universitaire</wf>
+    <wf page="0" para="0" sent="19" wid="w19.10">vrouwenverenigingen</wf>
+    <wf page="0" para="0" sent="19" wid="w19.11">.</wf>
+    <wf page="0" para="0" sent="20" wid="w20.3">Van</wf>
+    <wf page="0" para="0" sent="20" wid="w20.5">1918</wf>
+    <wf page="0" para="0" sent="20" wid="w20.7">tot</wf>
+    <wf page="0" para="0" sent="20" wid="w20.8">1932</wf>
+    <wf page="0" para="0" sent="20" wid="w20.9">was</wf>
+    <wf page="0" para="0" sent="20" wid="w20.10">ze</wf>
+    <wf page="0" para="0" sent="20" wid="w20.12">bestuurlid</wf>
+    <wf page="0" para="0" sent="20" wid="w20.14">van</wf>
+    <wf page="0" para="0" sent="20" wid="w20.16">de</wf>
+    <wf page="0" para="0" sent="20" wid="w20.18">Vereniging</wf>
+    <wf page="0" para="0" sent="20" wid="w20.19">van</wf>
+    <wf page="0" para="0" sent="20" wid="w20.20">Vrouwen</wf>
+    <wf page="0" para="0" sent="20" wid="w20.22">met</wf>
+    <wf page="0" para="0" sent="20" wid="w20.24">een</wf>
+    <wf page="0" para="0" sent="20" wid="w20.25">Academische</wf>
+    <wf page="0" para="0" sent="20" wid="w20.26">Opleiding</wf>
+    <wf page="0" para="0" sent="20" wid="w20.27">(VVAO</wf>
+    <wf page="0" para="0" sent="20" wid="w20.28">)</wf>
+    <wf page="0" para="0" sent="20" wid="w20.29">.</wf>
+    <wf page="0" para="0" sent="21" wid="w21.4">Daarna</wf>
+    <wf page="0" para="0" sent="21" wid="w21.5">werd</wf>
+    <wf page="0" para="0" sent="21" wid="w21.6">ze</wf>
+    <wf page="0" para="0" sent="21" wid="w21.8">presidente</wf>
+    <wf page="0" para="0" sent="21" wid="w21.10">van</wf>
+    <wf page="0" para="0" sent="21" wid="w21.12">the</wf>
+    <wf page="0" para="0" sent="21" wid="w21.13">International</wf>
+    <wf page="0" para="0" sent="21" wid="w21.14">Federation</wf>
+    <wf page="0" para="0" sent="21" wid="w21.15">of</wf>
+    <wf page="0" para="0" sent="21" wid="w21.16">University</wf>
+    <wf page="0" para="0" sent="21" wid="w21.17">Women</wf>
+    <wf page="0" para="0" sent="21" wid="w21.18">(IFUW</wf>
+    <wf page="0" para="0" sent="21" wid="w21.1">)</wf>
+    <wf page="0" para="0" sent="21" wid="w21.20">tussen</wf>
+    <wf page="0" para="0" sent="21" wid="w21.22">1932</wf>
+    <wf page="0" para="0" sent="21" wid="w21.23">en</wf>
+    <wf page="0" para="0" sent="21" wid="w21.24">1937</wf>
+    <wf page="0" para="0" sent="21" wid="w21.25">.</wf>
+    <wf page="0" para="0" sent="22" wid="w22.3">In</wf>
+    <wf page="0" para="0" sent="22" wid="w22.4">1951</wf>
+    <wf page="0" para="0" sent="22" wid="w22.5">werd</wf>
+    <wf page="0" para="0" sent="22" wid="w22.6">zij</wf>
+    <wf page="0" para="0" sent="22" wid="w22.8">als</wf>
+    <wf page="0" para="0" sent="22" wid="w22.10">tweede</wf>
+    <wf page="0" para="0" sent="22" wid="w22.11">vrouw</wf>
+    <wf page="0" para="0" sent="22" wid="w22.13">lid</wf>
+    <wf page="0" para="0" sent="22" wid="w22.15">van</wf>
+    <wf page="0" para="0" sent="22" wid="w22.17">de</wf>
+    <wf page="0" para="0" sent="22" wid="w22.19">Koninklijke</wf>
+    <wf page="0" para="0" sent="22" wid="w22.20">Nederlandse</wf>
+    <wf page="0" para="0" sent="22" wid="w22.21">Academie</wf>
+    <wf page="0" para="0" sent="22" wid="w22.23">van</wf>
+    <wf page="0" para="0" sent="22" wid="w22.24">Wetenschappen</wf>
+    <wf page="0" para="0" sent="22" wid="w22.25">.</wf>
+    <wf page="0" para="0" sent="23" wid="w23.5">Ze</wf>
+    <wf page="0" para="0" sent="23" wid="w23.6">kreeg</wf>
+    <wf page="0" para="0" sent="23" wid="w23.8">eredoctoraten</wf>
+    <wf page="0" para="0" sent="23" wid="w23.10">aan</wf>
+    <wf page="0" para="0" sent="23" wid="w23.12">de</wf>
+    <wf page="0" para="0" sent="23" wid="w23.13">universiteiten</wf>
+    <wf page="0" para="0" sent="23" wid="w23.15">van</wf>
+    <wf page="0" para="0" sent="23" wid="w23.17">Upsala</wf>
+    <wf page="0" para="0" sent="23" wid="w23.18">(1957</wf>
+    <wf page="0" para="0" sent="23" wid="w23.1">)</wf>
+    <wf page="0" para="0" sent="23" wid="w23.2">en</wf>
+    <wf page="0" para="0" sent="23" wid="w23.20">Giessen</wf>
+    <wf page="0" para="0" sent="23" wid="w23.21">(1958</wf>
+    <wf page="0" para="0" sent="23" wid="w23.22">)</wf>
+    <wf page="0" para="0" sent="23" wid="w23.23">.</wf>
+    <wf page="0" para="0" sent="24" wid="w24.4">Als</wf>
+    <wf page="0" para="0" sent="24" wid="w24.6">VVAO</wf>
+    <wf page="0" para="0" sent="24" wid="w24.7">-bestuurdlid</wf>
+    <wf page="0" para="0" sent="24" wid="w24.8">schreef</wf>
+    <wf page="0" para="0" sent="24" wid="w24.9">ze</wf>
+    <wf page="0" para="0" sent="24" wid="w24.11">de</wf>
+    <wf page="0" para="0" sent="24" wid="w24.12">brochure</wf>
+    <wf page="0" para="0" sent="24" wid="w24.14">‘Wat</wf>
+    <wf page="0" para="0" sent="24" wid="w24.15">heeft</wf>
+    <wf page="0" para="0" sent="24" wid="w24.19">het</wf>
+    <wf page="0" para="0" sent="24" wid="w24.21">Feminisme</wf>
+    <wf page="0" para="0" sent="24" wid="w24.22">de</wf>
+    <wf page="0" para="0" sent="24" wid="w24.23">Nederlandsche</wf>
+    <wf page="0" para="0" sent="24" wid="w24.24">Vrouw</wf>
+    <wf page="0" para="0" sent="24" wid="w24.25">gebracht</wf>
+    <wf page="0" para="0" sent="24" wid="w24.26">?</wf>
+    <wf page="0" para="0" sent="25" wid="w25.3">Wat</wf>
+    <wf page="0" para="0" sent="25" wid="w25.5">heeft</wf>
+    <wf page="0" para="0" sent="25" wid="w25.6">het</wf>
+    <wf page="0" para="0" sent="25" wid="w25.12">derhalve</wf>
+    <wf page="0" para="0" sent="25" wid="w25.14">van</wf>
+    <wf page="0" para="0" sent="25" wid="w25.15">haar</wf>
+    <wf page="0" para="0" sent="25" wid="w25.8">te</wf>
+    <wf page="0" para="0" sent="25" wid="w25.16">verwachten</wf>
+    <wf page="0" para="0" sent="25" wid="w25.19">?’</wf>
+    <wf page="0" para="0" sent="25" wid="w25.20">Die</wf>
+    <wf page="0" para="0" sent="25" wid="w25.21">brochure</wf>
+    <wf page="0" para="0" sent="25" wid="w25.22">was</wf>
+    <wf page="0" para="0" sent="25" wid="w25.24">bedoeld</wf>
+    <wf page="0" para="0" sent="25" wid="w25.26">om</wf>
+    <wf page="0" para="0" sent="25" wid="w25.31">meisjes</wf>
+    <wf page="0" para="0" sent="25" wid="w25.33">met</wf>
+    <wf page="0" para="0" sent="25" wid="w25.35">een</wf>
+    <wf page="0" para="0" sent="25" wid="w25.36">middelbare</wf>
+    <wf page="0" para="0" sent="25" wid="w25.37">schoolopleiding</wf>
+    <wf page="0" para="0" sent="25" wid="w25.29">te</wf>
+    <wf page="0" para="0" sent="25" wid="w25.38">stimuleren</wf>
+    <wf page="0" para="0" sent="25" wid="w25.40">tot</wf>
+    <wf page="0" para="0" sent="25" wid="w25.41">beroepsarbeid</wf>
+    <wf page="0" para="0" sent="25" wid="w25.42">en</wf>
+    <wf page="0" para="0" sent="25" wid="w25.50">af</wf>
+    <wf page="0" para="0" sent="25" wid="w25.44">te</wf>
+    <wf page="0" para="0" sent="25" wid="w25.47">laten</wf>
+    <wf page="0" para="0" sent="25" wid="w25.51">zien</wf>
+    <wf page="0" para="0" sent="25" wid="w25.53">van</wf>
+    <wf page="0" para="0" sent="25" wid="w25.55">een</wf>
+    <wf page="0" para="0" sent="25" wid="w25.56">bestaan</wf>
+    <wf page="0" para="0" sent="25" wid="w25.58">als</wf>
+    <wf page="0" para="0" sent="25" wid="w25.59">huisvrouw</wf>
+    <wf page="0" para="0" sent="25" wid="w25.60">.</wf>
+  </text>
+  <terms>
+    <term lemma="ze" pos="O.pron" tid="t1.4" type="closed">
+      <span>
+        <target id="w1.4"/>
+      </span>
+    </term>
+    <term lemma="zijn" pos="V.verb" tid="t1.5" type="open">
+      <span>
+        <target id="w1.5"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t1.7" type="closed">
+      <span>
+        <target id="w1.7"/>
+      </span>
+    </term>
+    <term lemma="dochter" pos="N.noun" tid="t1.8" type="open">
+      <span>
+        <target id="w1.8"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t1.10" type="closed">
+      <span>
+        <target id="w1.10"/>
+      </span>
+    </term>
+    <term lemma="Bernard Westerdijk" netype="unknown" pos="N.name" tid="t1.12" type="entity">
+      <span>
+        <target id="w1.13"/>
+        <target id="w1.14"/>
+      </span>
+    </term>
+    <term lemma="arts" pos="N.noun" tid="t1.15" type="open">
+      <span>
+        <target id="w1.15"/>
+      </span>
+    </term>
+    <term lemma="en" pos="O.vg" tid="t1.16" type="none">
+      <span>
+        <target id="w1.16"/>
+      </span>
+    </term>
+    <term lemma="Aleida Catharina Scheffer" netype="unknown" pos="N.name" tid="t1.17" type="entity">
+      <span>
+        <target id="w1.18"/>
+        <target id="w1.19"/>
+        <target id="w1.20"/>
+      </span>
+    </term>
+    <term lemma="ze" pos="O.pron" tid="t2.3" type="closed">
+      <span>
+        <target id="w2.3"/>
+      </span>
+    </term>
+    <term lemma="studeren" pos="V.verb" tid="t2.4" type="open">
+      <span>
+        <target id="w2.4"/>
+      </span>
+    </term>
+    <term lemma="biologie" pos="N.noun" tid="t2.5" type="open">
+      <span>
+        <target id="w2.5"/>
+      </span>
+    </term>
+    <term lemma="en" pos="O.vg" tid="t2.6" type="none">
+      <span>
+        <target id="w2.6"/>
+      </span>
+    </term>
+    <term lemma="promoveren" pos="V.verb" tid="t2.9" type="open">
+      <span>
+        <target id="w2.9"/>
+      </span>
+    </term>
+    <term lemma="in" pos="P.prep" tid="t2.11" type="closed">
+      <span>
+        <target id="w2.11"/>
+      </span>
+    </term>
+    <term lemma="1906" pos="N.noun" tid="t2.12" type="open">
+      <span>
+        <target id="w2.12"/>
+      </span>
+    </term>
+    <term lemma="ze" pos="O.pron" tid="t3.4" type="closed">
+      <span>
+        <target id="w3.4"/>
+      </span>
+    </term>
+    <term lemma="worden" pos="V.verb" tid="t3.5" type="open">
+      <span>
+        <target id="w3.5"/>
+      </span>
+    </term>
+    <term lemma="directrice" pos="N.noun" tid="t3.7" type="open">
+      <span>
+        <target id="w3.7"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t3.9" type="closed">
+      <span>
+        <target id="w3.9"/>
+      </span>
+    </term>
+    <term lemma="het" pos="D.det" tid="t3.11" type="closed">
+      <span>
+        <target id="w3.11"/>
+      </span>
+    </term>
+    <term lemma="fytopathologisch" pos="G.adj" tid="t3.12" type="open">
+      <span>
+        <target id="w3.12"/>
+      </span>
+    </term>
+    <term lemma="laboratorium" pos="N.noun" tid="t3.13" type="open">
+      <span>
+        <target id="w3.13"/>
+      </span>
+    </term>
+    <term lemma="Willy Commelin Scholten (WCS" netype="unknown" pos="N.name" tid="t3.14" type="entity">
+      <span>
+        <target id="w3.15"/>
+        <target id="w3.16"/>
+        <target id="w3.17"/>
+        <target id="w3.18"/>
+      </span>
+    </term>
+    <term lemma="in" pos="P.prep" tid="t3.20" type="closed">
+      <span>
+        <target id="w3.20"/>
+      </span>
+    </term>
+    <term lemma="Amsterdam" netype="unknown" pos="N.name" tid="t3.21" type="entity">
+      <span>
+        <target id="w3.21"/>
+      </span>
+    </term>
+    <term lemma="in" pos="P.prep" tid="t4.3" type="closed">
+      <span>
+        <target id="w4.3"/>
+      </span>
+    </term>
+    <term lemma="1907" pos="N.noun" tid="t4.4" type="open">
+      <span>
+        <target id="w4.4"/>
+      </span>
+    </term>
+    <term lemma="krijgen" pos="V.verb" tid="t4.5" type="open">
+      <span>
+        <target id="w4.5"/>
+      </span>
+    </term>
+    <term lemma="Johanna Westerdijk" netype="unknown" pos="N.name" tid="t4.7" type="entity">
+      <span>
+        <target id="w4.8"/>
+        <target id="w4.9"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t4.11" type="closed">
+      <span>
+        <target id="w4.11"/>
+      </span>
+    </term>
+    <term lemma="professor" pos="N.noun" tid="t4.12" type="open">
+      <span>
+        <target id="w4.12"/>
+      </span>
+    </term>
+    <term lemma="F .A .F .C" netype="unknown" pos="N.name" tid="t4.13" type="entity">
+      <span>
+        <target id="w4.14"/>
+        <target id="w4.15"/>
+        <target id="w4.16"/>
+        <target id="w4.17"/>
+      </span>
+    </term>
+    <term lemma="Went" netype="unknown" pos="N.name" tid="t5.3" type="entity">
+      <span>
+        <target id="w5.3"/>
+      </span>
+    </term>
+    <term lemma="uit" pos="P.prep" tid="t5.5" type="closed">
+      <span>
+        <target id="w5.5"/>
+      </span>
+    </term>
+    <term lemma="Utrecht" netype="unknown" pos="N.name" tid="t5.6" type="entity">
+      <span>
+        <target id="w5.6"/>
+      </span>
+    </term>
+    <term lemma="een" pos="D.det" tid="t5.8" type="closed">
+      <span>
+        <target id="w5.8"/>
+      </span>
+    </term>
+    <term lemma="collectie" pos="N.noun" tid="t5.9" type="open">
+      <span>
+        <target id="w5.9"/>
+      </span>
+    </term>
+    <term lemma="levend" pos="G.adj" tid="t5.11" type="open">
+      <span>
+        <target id="w5.11"/>
+      </span>
+    </term>
+    <term lemma="schimmel" pos="N.noun" tid="t5.12" type="open">
+      <span>
+        <target id="w5.12"/>
+      </span>
+    </term>
+    <term lemma="op_basis_van" pos="P.pp" tid="t6.4" type="closed">
+      <span>
+        <target id="w6.5"/>
+        <target id="w6.6"/>
+        <target id="w6.7"/>
+      </span>
+    </term>
+    <term lemma="ontwikkelen" pos="V.verb" tid="t6.8" type="open">
+      <span>
+        <target id="w6.8"/>
+      </span>
+    </term>
+    <term lemma="zij" pos="O.pron" tid="t6.9" type="closed">
+      <span>
+        <target id="w6.9"/>
+      </span>
+    </term>
+    <term lemma="het" pos="D.det" tid="t6.11" type="closed">
+      <span>
+        <target id="w6.11"/>
+      </span>
+    </term>
+    <term lemma="Centraal Bureau voor Schimmelcultures (CBS" netype="unknown" pos="N.name" tid="t6.12" type="entity">
+      <span>
+        <target id="w6.13"/>
+        <target id="w6.14"/>
+        <target id="w6.15"/>
+        <target id="w6.16"/>
+        <target id="w6.17"/>
+      </span>
+    </term>
+    <term lemma="met" pos="P.prep" tid="t6.19" type="closed">
+      <span>
+        <target id="w6.19"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t6.21" type="closed">
+      <span>
+        <target id="w6.21"/>
+      </span>
+    </term>
+    <term lemma="groot" pos="G.adj" tid="t6.22" type="open">
+      <span>
+        <target id="w6.22"/>
+      </span>
+    </term>
+    <term lemma="verzameling" pos="N.noun" tid="t6.23" type="open">
+      <span>
+        <target id="w6.23"/>
+      </span>
+    </term>
+    <term lemma="schimmel" pos="N.noun" tid="t6.24" type="open">
+      <span>
+        <target id="w6.24"/>
+      </span>
+    </term>
+    <term lemma="ter" pos="P.prep" tid="t6.26" type="closed">
+      <span>
+        <target id="w6.26"/>
+      </span>
+    </term>
+    <term lemma="wereld" pos="N.noun" tid="t6.27" type="open">
+      <span>
+        <target id="w6.27"/>
+      </span>
+    </term>
+    <term lemma="het" pos="D.det" tid="t7.3" type="closed">
+      <span>
+        <target id="w7.3"/>
+      </span>
+    </term>
+    <term lemma="laboratorium" pos="N.noun" tid="t7.4" type="open">
+      <span>
+        <target id="w7.4"/>
+      </span>
+    </term>
+    <term lemma="verhusenzven" pos="V.verb" tid="t7.5" type="open">
+      <span>
+        <target id="w7.5"/>
+      </span>
+    </term>
+    <term lemma="in" pos="P.prep" tid="t7.7" type="closed">
+      <span>
+        <target id="w7.7"/>
+      </span>
+    </term>
+    <term lemma="1921" pos="N.noun" tid="t7.8" type="open">
+      <span>
+        <target id="w7.8"/>
+      </span>
+    </term>
+    <term lemma="naar" pos="P.prep" tid="t7.10" type="closed">
+      <span>
+        <target id="w7.10"/>
+      </span>
+    </term>
+    <term lemma="Baarn" netype="unknown" pos="N.name" tid="t7.11" type="entity">
+      <span>
+        <target id="w7.11"/>
+      </span>
+    </term>
+    <term lemma="vanaf" pos="P.prep" tid="t8.3" type="closed">
+      <span>
+        <target id="w8.3"/>
+      </span>
+    </term>
+    <term lemma="1913" pos="N.noun" tid="t8.4" type="open">
+      <span>
+        <target id="w8.4"/>
+      </span>
+    </term>
+    <term lemma="bestuderen" pos="V.verb" tid="t8.5" type="open">
+      <span>
+        <target id="w8.5"/>
+      </span>
+    </term>
+    <term lemma="ze" pos="O.pron" tid="t8.6" type="closed">
+      <span>
+        <target id="w8.6"/>
+      </span>
+    </term>
+    <term lemma="in" pos="P.prep" tid="t8.8" type="closed">
+      <span>
+        <target id="w8.8"/>
+      </span>
+    </term>
+    <term lemma="Nederlands" pos="N.noun" tid="t8.10" type="open">
+      <span>
+        <target id="w8.10"/>
+      </span>
+    </term>
+    <term lemma="Indië" netype="unknown" pos="N.name" tid="t8.11" type="entity">
+      <span>
+        <target id="w8.11"/>
+      </span>
+    </term>
+    <term lemma="ziekte" pos="N.noun" tid="t8.13" type="open">
+      <span>
+        <target id="w8.13"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t8.15" type="closed">
+      <span>
+        <target id="w8.15"/>
+      </span>
+    </term>
+    <term lemma="tropisch" pos="G.adj" tid="t8.17" type="open">
+      <span>
+        <target id="w8.17"/>
+      </span>
+    </term>
+    <term head="t8.18.1" lemma="cultuurgewas" pos="N.noun" tid="t8.18" type="open">
+      <span>
+        <target id="w8.18"/>
+      </span>
+      <component id="t8.18.0" lemma="cultuur"/>
+      <component id="t8.18.1" lemma="gewas"/>
+    </term>
+    <term lemma="ze" pos="O.pron" tid="t9.3" type="closed">
+      <span>
+        <target id="w9.3"/>
+      </span>
+    </term>
+    <term lemma="maken" pos="V.verb" tid="t9.4" type="open">
+      <span>
+        <target id="w9.4"/>
+      </span>
+    </term>
+    <term head="t9.5.1" lemma="studiereis" pos="N.noun" tid="t9.5" type="open">
+      <span>
+        <target id="w9.5"/>
+      </span>
+      <component id="t9.5.0" lemma="studie"/>
+      <component id="t9.5.1" lemma="reis"/>
+    </term>
+    <term lemma="in" pos="P.prep" tid="t9.7" type="closed">
+      <span>
+        <target id="w9.7"/>
+      </span>
+    </term>
+    <term lemma="China" netype="unknown" pos="N.name" tid="t9.9" type="entity">
+      <span>
+        <target id="w9.9"/>
+      </span>
+    </term>
+    <term lemma="Japan" netype="unknown" pos="N.name" tid="t9.10" type="entity">
+      <span>
+        <target id="w9.10"/>
+      </span>
+    </term>
+    <term lemma="en" pos="O.vg" tid="t9.11" type="none">
+      <span>
+        <target id="w9.11"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t9.13" type="closed">
+      <span>
+        <target id="w9.13"/>
+      </span>
+    </term>
+    <term lemma="Verenigde Staten" netype="unknown" pos="N.name" tid="t9.14" type="entity">
+      <span>
+        <target id="w9.15"/>
+        <target id="w9.16"/>
+      </span>
+    </term>
+    <term lemma="in" pos="P.prep" tid="t10.3" type="closed">
+      <span>
+        <target id="w10.3"/>
+      </span>
+    </term>
+    <term lemma="1917" pos="N.noun" tid="t10.4" type="open">
+      <span>
+        <target id="w10.4"/>
+      </span>
+    </term>
+    <term lemma="worden" pos="V.verb" tid="t10.5" type="open">
+      <span>
+        <target id="w10.5"/>
+      </span>
+    </term>
+    <term lemma="Westerdijk" netype="unknown" pos="N.name" tid="t10.6" type="entity">
+      <span>
+        <target id="w10.6"/>
+      </span>
+    </term>
+    <term lemma="buitengewoon" pos="G.adj" tid="t10.8" type="open">
+      <span>
+        <target id="w10.8"/>
+      </span>
+    </term>
+    <term lemma="hoogleraar" pos="N.noun" tid="t10.9" type="open">
+      <span>
+        <target id="w10.9"/>
+      </span>
+    </term>
+    <term lemma="in" pos="P.prep" tid="t10.11" type="closed">
+      <span>
+        <target id="w10.11"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t10.13" type="closed">
+      <span>
+        <target id="w10.13"/>
+      </span>
+    </term>
+    <term head="t10.14.1" lemma="plantenziekte" pos="N.noun" tid="t10.14" type="open">
+      <span>
+        <target id="w10.14"/>
+      </span>
+      <component id="t10.14.0" lemma="plant"/>
+      <component id="t10.14.1" lemma="ziekte"/>
+    </term>
+    <term lemma="te" pos="P.prep" tid="t10.16" type="closed">
+      <span>
+        <target id="w10.16"/>
+      </span>
+    </term>
+    <term lemma="Utrecht" netype="unknown" pos="N.name" tid="t10.17" type="entity">
+      <span>
+        <target id="w10.17"/>
+      </span>
+    </term>
+    <term lemma="ze" pos="O.pron" tid="t11.2" type="closed">
+      <span>
+        <target id="w11.2"/>
+      </span>
+    </term>
+    <term lemma="zijn" pos="V.verb" tid="t11.3" type="open">
+      <span>
+        <target id="w11.3"/>
+      </span>
+    </term>
+    <term lemma="daarmee" pos="P.pp" tid="t11.4" type="closed">
+      <span>
+        <target id="w11.4"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t11.6" type="closed">
+      <span>
+        <target id="w11.6"/>
+      </span>
+    </term>
+    <term lemma="eerste" netype="number" pos="D.num" tid="t11.7" type="entity">
+      <span>
+        <target id="w11.7"/>
+      </span>
+    </term>
+    <term lemma="vrouwelijk" pos="G.adj" tid="t11.8" type="open">
+      <span>
+        <target id="w11.8"/>
+      </span>
+    </term>
+    <term lemma="hoogleraar" pos="N.noun" tid="t11.9" type="open">
+      <span>
+        <target id="w11.9"/>
+      </span>
+    </term>
+    <term lemma="in" pos="P.prep" tid="t11.11" type="closed">
+      <span>
+        <target id="w11.11"/>
+      </span>
+    </term>
+    <term lemma="Nederland" netype="unknown" pos="N.name" tid="t11.12" type="entity">
+      <span>
+        <target id="w11.12"/>
+      </span>
+    </term>
+    <term lemma="in" pos="P.prep" tid="t12.3" type="closed">
+      <span>
+        <target id="w12.3"/>
+      </span>
+    </term>
+    <term lemma="1930" pos="N.noun" tid="t12.4" type="open">
+      <span>
+        <target id="w12.4"/>
+      </span>
+    </term>
+    <term lemma="worden" pos="V.verb" tid="t12.5" type="open">
+      <span>
+        <target id="w12.5"/>
+      </span>
+    </term>
+    <term lemma="ze" pos="O.pron" tid="t12.6" type="closed">
+      <span>
+        <target id="w12.6"/>
+      </span>
+    </term>
+    <term lemma="bovendien" pos="A.adv" tid="t12.7" type="open">
+      <span>
+        <target id="w12.7"/>
+      </span>
+    </term>
+    <term lemma="buitengewoon" pos="G.adj" tid="t12.9" type="open">
+      <span>
+        <target id="w12.9"/>
+      </span>
+    </term>
+    <term lemma="hoogleraar" pos="N.noun" tid="t12.10" type="open">
+      <span>
+        <target id="w12.10"/>
+      </span>
+    </term>
+    <term lemma="in" pos="P.prep" tid="t12.12" type="closed">
+      <span>
+        <target id="w12.12"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t12.14" type="closed">
+      <span>
+        <target id="w12.14"/>
+      </span>
+    </term>
+    <term lemma="fytopathologie" pos="N.noun" tid="t12.15" type="open">
+      <span>
+        <target id="w12.15"/>
+      </span>
+    </term>
+    <term lemma="te" pos="P.prep" tid="t12.17" type="closed">
+      <span>
+        <target id="w12.17"/>
+      </span>
+    </term>
+    <term lemma="Amsterdam" netype="unknown" pos="N.name" tid="t12.18" type="entity">
+      <span>
+        <target id="w12.18"/>
+      </span>
+    </term>
+    <term lemma="op" pos="P.prep" tid="t13.3" type="closed">
+      <span>
+        <target id="w13.3"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t13.5" type="closed">
+      <span>
+        <target id="w13.5"/>
+      </span>
+    </term>
+    <term lemma="Universiteit Utrecht" netype="unknown" pos="N.name" tid="t13.6" type="entity">
+      <span>
+        <target id="w13.7"/>
+        <target id="w13.8"/>
+      </span>
+    </term>
+    <term lemma="terechtkomen" pos="V.verb" tid="t13.9" type="open">
+      <span>
+        <target id="w13.9"/>
+      </span>
+    </term>
+    <term lemma="Westerdijk" netype="unknown" pos="N.name" tid="t13.10" type="entity">
+      <span>
+        <target id="w13.10"/>
+      </span>
+    </term>
+    <term lemma="terecht" pos="O.part" tid="t13.11" type="none">
+      <span>
+        <target id="w13.11"/>
+      </span>
+    </term>
+    <term lemma="in" pos="P.prep" tid="t13.13" type="closed">
+      <span>
+        <target id="w13.13"/>
+      </span>
+    </term>
+    <term lemma="een" pos="D.det" tid="t13.15" type="closed">
+      <span>
+        <target id="w13.15"/>
+      </span>
+    </term>
+    <term head="t13.16.1" lemma="mannenwereld" pos="N.noun" tid="t13.16" type="open">
+      <span>
+        <target id="w13.16"/>
+      </span>
+      <component id="t13.16.0" lemma="man"/>
+      <component id="t13.16.1" lemma="wereld"/>
+    </term>
+    <term lemma="haar" pos="D.det" tid="t14.3" type="closed">
+      <span>
+        <target id="w14.3"/>
+      </span>
+    </term>
+    <term lemma="collega’s" pos="N.noun" tid="t14.4" type="open">
+      <span>
+        <target id="w14.4"/>
+      </span>
+    </term>
+    <term lemma="op" pos="P.prep" tid="t14.6" type="closed">
+      <span>
+        <target id="w14.6"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t14.8" type="closed">
+      <span>
+        <target id="w14.8"/>
+      </span>
+    </term>
+    <term lemma="faculteit" pos="N.noun" tid="t14.9" type="open">
+      <span>
+        <target id="w14.9"/>
+      </span>
+    </term>
+    <term head="t14.10.1" lemma="plantkunde" pos="N.noun" tid="t14.10" type="open">
+      <span>
+        <target id="w14.10"/>
+      </span>
+      <component id="t14.10.0" lemma="plant"/>
+      <component id="t14.10.1" lemma="kunde"/>
+    </term>
+    <term lemma="kunnen" pos="V.verb" tid="t14.11" type="open">
+      <span>
+        <target id="w14.11"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t14.15" type="closed">
+      <span>
+        <target id="w14.15"/>
+      </span>
+    </term>
+    <term lemma="vrouwelijk" pos="G.adj" tid="t14.16" type="open">
+      <span>
+        <target id="w14.16"/>
+      </span>
+    </term>
+    <term lemma="hoogleraar" pos="N.noun" tid="t14.17" type="open">
+      <span>
+        <target id="w14.17"/>
+      </span>
+    </term>
+    <term lemma="maar" pos="A.adv" tid="t14.18" type="open">
+      <span>
+        <target id="w14.18"/>
+      </span>
+    </term>
+    <term lemma="moeilijk" pos="G.adj" tid="t14.19" type="open">
+      <span>
+        <target id="w14.19"/>
+      </span>
+    </term>
+    <term lemma="accepteren" pos="V.verb" tid="t14.20" type="open">
+      <span>
+        <target id="w14.20"/>
+      </span>
+    </term>
+    <term lemma="Westerdijk" netype="unknown" pos="N.name" tid="t15.2" type="entity">
+      <span>
+        <target id="w15.2"/>
+      </span>
+    </term>
+    <term lemma="aantrekken" pos="V.verb" tid="t15.3" type="open">
+      <span>
+        <target id="w15.3"/>
+      </span>
+    </term>
+    <term lemma="zich" pos="O.pron" tid="t15.4" type="closed">
+      <span>
+        <target id="w15.4"/>
+      </span>
+    </term>
+    <term lemma="niet" pos="A.adv" tid="t15.5" type="open">
+      <span>
+        <target id="w15.5"/>
+      </span>
+    </term>
+    <term lemma="veel" pos="G.adj" tid="t15.6" type="open">
+      <span>
+        <target id="w15.6"/>
+      </span>
+    </term>
+    <term lemma="daar" pos="A.adv" tid="t15.8" type="open">
+      <span>
+        <target id="w15.8"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t15.9" type="closed">
+      <span>
+        <target id="w15.9"/>
+      </span>
+    </term>
+    <term lemma="aan" pos="O.part" tid="t15.10" type="none">
+      <span>
+        <target id="w15.10"/>
+      </span>
+    </term>
+    <term lemma="ze" pos="O.pron" tid="t16.3" type="closed">
+      <span>
+        <target id="w16.3"/>
+      </span>
+    </term>
+    <term lemma="zijn" pos="V.verb" tid="t16.4" type="open">
+      <span>
+        <target id="w16.4"/>
+      </span>
+    </term>
+    <term lemma="een" pos="D.det" tid="t16.6" type="closed">
+      <span>
+        <target id="w16.6"/>
+      </span>
+    </term>
+    <term lemma="groot" pos="G.adj" tid="t16.7" type="open">
+      <span>
+        <target id="w16.7"/>
+      </span>
+    </term>
+    <term lemma="stimulans" pos="N.noun" tid="t16.8" type="open">
+      <span>
+        <target id="w16.8"/>
+      </span>
+    </term>
+    <term lemma="voor" pos="P.prep" tid="t16.10" type="closed">
+      <span>
+        <target id="w16.10"/>
+      </span>
+    </term>
+    <term lemma="vrouwelijk" pos="G.adj" tid="t16.12" type="open">
+      <span>
+        <target id="w16.12"/>
+      </span>
+    </term>
+    <term lemma="student" pos="N.noun" tid="t16.13" type="open">
+      <span>
+        <target id="w16.13"/>
+      </span>
+    </term>
+    <term lemma="in" pos="P.prep" tid="t16.15" type="closed">
+      <span>
+        <target id="w16.15"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t16.17" type="closed">
+      <span>
+        <target id="w16.17"/>
+      </span>
+    </term>
+    <term lemma="biologie" pos="N.noun" tid="t16.18" type="open">
+      <span>
+        <target id="w16.18"/>
+      </span>
+    </term>
+    <term lemma="en" pos="O.vg" tid="t16.19" type="none">
+      <span>
+        <target id="w16.19"/>
+      </span>
+    </term>
+    <term lemma="aansporen" pos="V.verb" tid="t16.22" type="open">
+      <span>
+        <target id="w16.22"/>
+      </span>
+    </term>
+    <term lemma="hen" pos="O.pron" tid="t16.23" type="closed">
+      <span>
+        <target id="w16.23"/>
+      </span>
+    </term>
+    <term lemma="aan" pos="O.part" tid="t16.24" type="none">
+      <span>
+        <target id="w16.24"/>
+      </span>
+    </term>
+    <term lemma="te" pos="O.comp" tid="t16.26" type="none">
+      <span>
+        <target id="w16.26"/>
+      </span>
+    </term>
+    <term lemma="zich" pos="O.pron" tid="t16.29" type="closed">
+      <span>
+        <target id="w16.29"/>
+      </span>
+    </term>
+    <term lemma="vrij" pos="G.adj" tid="t16.30" type="open">
+      <span>
+        <target id="w16.30"/>
+      </span>
+    </term>
+    <term lemma="vechten" pos="V.verb" tid="t16.31" type="open">
+      <span>
+        <target id="w16.31"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t16.33" type="closed">
+      <span>
+        <target id="w16.33"/>
+      </span>
+    </term>
+    <term lemma="hun" pos="D.det" tid="t16.35" type="closed">
+      <span>
+        <target id="w16.35"/>
+      </span>
+    </term>
+    <term lemma="huishoudelijk" pos="G.adj" tid="t16.36" type="open">
+      <span>
+        <target id="w16.36"/>
+      </span>
+    </term>
+    <term lemma="plicht" pos="N.noun" tid="t16.37" type="open">
+      <span>
+        <target id="w16.37"/>
+      </span>
+    </term>
+    <term lemma="als" pos="O.comp" tid="t17.3" type="none">
+      <span>
+        <target id="w17.3"/>
+      </span>
+    </term>
+    <term head="t17.4.1" lemma="rolmodel" pos="N.noun" tid="t17.4" type="open">
+      <span>
+        <target id="w17.4"/>
+      </span>
+      <component id="t17.4.0" lemma="rol"/>
+      <component id="t17.4.1" lemma="model"/>
+    </term>
+    <term lemma="zijn" pos="V.verb" tid="t17.5" type="open">
+      <span>
+        <target id="w17.5"/>
+      </span>
+    </term>
+    <term lemma="ze" pos="O.pron" tid="t17.6" type="closed">
+      <span>
+        <target id="w17.6"/>
+      </span>
+    </term>
+    <term lemma="zeer" pos="A.adv" tid="t17.8" type="open">
+      <span>
+        <target id="w17.8"/>
+      </span>
+    </term>
+    <term lemma="belangrijk" pos="G.adj" tid="t17.9" type="open">
+      <span>
+        <target id="w17.9"/>
+      </span>
+    </term>
+    <term lemma="voor" pos="P.prep" tid="t17.11" type="closed">
+      <span>
+        <target id="w17.11"/>
+      </span>
+    </term>
+    <term lemma="vrouw" pos="N.noun" tid="t17.12" type="open">
+      <span>
+        <target id="w17.12"/>
+      </span>
+    </term>
+    <term lemma="Johanna Westerdijk" netype="unknown" pos="N.name" tid="t18.3" type="entity">
+      <span>
+        <target id="w18.4"/>
+        <target id="w18.5"/>
+      </span>
+    </term>
+    <term lemma="bekendstaan" pos="V.verb" tid="t18.6" type="open">
+      <span>
+        <target id="w18.6"/>
+      </span>
+    </term>
+    <term lemma="bekend" pos="O.part" tid="t18.7" type="none">
+      <span>
+        <target id="w18.7"/>
+      </span>
+    </term>
+    <term lemma="als" pos="O.comp" tid="t18.9" type="none">
+      <span>
+        <target id="w18.9"/>
+      </span>
+    </term>
+    <term lemma="gastvrij" pos="G.adj" tid="t18.11" type="open">
+      <span>
+        <target id="w18.11"/>
+      </span>
+    </term>
+    <term lemma="en" pos="O.vg" tid="t18.12" type="none">
+      <span>
+        <target id="w18.12"/>
+      </span>
+    </term>
+    <term lemma="muzikaal" pos="G.adj" tid="t18.13" type="open">
+      <span>
+        <target id="w18.13"/>
+      </span>
+    </term>
+    <term lemma="en" pos="O.vg" tid="t18.14" type="none">
+      <span>
+        <target id="w18.14"/>
+      </span>
+    </term>
+    <term lemma="houden" pos="V.verb" tid="t18.17" type="open">
+      <span>
+        <target id="w18.17"/>
+      </span>
+    </term>
+    <term lemma="erg" pos="G.adj" tid="t18.18" type="open">
+      <span>
+        <target id="w18.18"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t18.20" type="closed">
+      <span>
+        <target id="w18.20"/>
+      </span>
+    </term>
+    <term head="t18.21.0" lemma="feest" pos="N.noun.DIM" tid="t18.21" type="open">
+      <span>
+        <target id="w18.21"/>
+      </span>
+      <component id="t18.21.0" lemma="feest"/>
+    </term>
+    <term lemma="Westerdijk" netype="unknown" pos="N.name" tid="t19.2" type="entity">
+      <span>
+        <target id="w19.2"/>
+      </span>
+    </term>
+    <term lemma="zijn" pos="V.verb" tid="t19.3" type="open">
+      <span>
+        <target id="w19.3"/>
+      </span>
+    </term>
+    <term lemma="actief" pos="G.adj" tid="t19.5" type="open">
+      <span>
+        <target id="w19.5"/>
+      </span>
+    </term>
+    <term lemma="in" pos="P.prep" tid="t19.7" type="closed">
+      <span>
+        <target id="w19.7"/>
+      </span>
+    </term>
+    <term lemma="universitair" pos="G.adj" tid="t19.9" type="open">
+      <span>
+        <target id="w19.9"/>
+      </span>
+    </term>
+    <term head="t19.10.1" lemma="vrouwenvereniging" pos="N.noun" tid="t19.10" type="open">
+      <span>
+        <target id="w19.10"/>
+      </span>
+      <component id="t19.10.0" lemma="vrouw"/>
+      <component id="t19.10.1" lemma="vereniging"/>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t20.3" type="closed">
+      <span>
+        <target id="w20.3"/>
+      </span>
+    </term>
+    <term lemma="1918" pos="N.noun" tid="t20.5" type="open">
+      <span>
+        <target id="w20.5"/>
+      </span>
+    </term>
+    <term lemma="tot" pos="P.prep" tid="t20.7" type="closed">
+      <span>
+        <target id="w20.7"/>
+      </span>
+    </term>
+    <term lemma="1932" pos="N.noun" tid="t20.8" type="open">
+      <span>
+        <target id="w20.8"/>
+      </span>
+    </term>
+    <term lemma="zijn" pos="V.verb" tid="t20.9" type="open">
+      <span>
+        <target id="w20.9"/>
+      </span>
+    </term>
+    <term lemma="ze" pos="O.pron" tid="t20.10" type="closed">
+      <span>
+        <target id="w20.10"/>
+      </span>
+    </term>
+    <term head="t20.12.1" lemma="bestuurlid" pos="N.noun" tid="t20.12" type="open">
+      <span>
+        <target id="w20.12"/>
+      </span>
+      <component id="t20.12.0" lemma="bestuur"/>
+      <component id="t20.12.1" lemma="lid"/>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t20.14" type="closed">
+      <span>
+        <target id="w20.14"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t20.16" type="closed">
+      <span>
+        <target id="w20.16"/>
+      </span>
+    </term>
+    <term lemma="Vereniging van Vrouwen" netype="unknown" pos="N.name" tid="t20.17" type="entity">
+      <span>
+        <target id="w20.18"/>
+        <target id="w20.19"/>
+        <target id="w20.20"/>
+      </span>
+    </term>
+    <term lemma="met" pos="P.prep" tid="t20.22" type="closed">
+      <span>
+        <target id="w20.22"/>
+      </span>
+    </term>
+    <term lemma="een" pos="D.det" tid="t20.24" type="closed">
+      <span>
+        <target id="w20.24"/>
+      </span>
+    </term>
+    <term lemma="academisch" pos="G.adj" tid="t20.25" type="open">
+      <span>
+        <target id="w20.25"/>
+      </span>
+    </term>
+    <term lemma="opleiding" pos="N.noun" tid="t20.26" type="open">
+      <span>
+        <target id="w20.26"/>
+      </span>
+    </term>
+    <term lemma="(VVAO" pos="N.noun" tid="t20.27" type="open">
+      <span>
+        <target id="w20.27"/>
+      </span>
+    </term>
+    <term lemma="daarna" pos="P.pp" tid="t21.4" type="closed">
+      <span>
+        <target id="w21.4"/>
+      </span>
+    </term>
+    <term lemma="worden" pos="V.verb" tid="t21.5" type="open">
+      <span>
+        <target id="w21.5"/>
+      </span>
+    </term>
+    <term lemma="ze" pos="O.pron" tid="t21.6" type="closed">
+      <span>
+        <target id="w21.6"/>
+      </span>
+    </term>
+    <term lemma="presidente" pos="N.noun" tid="t21.8" type="open">
+      <span>
+        <target id="w21.8"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t21.10" type="closed">
+      <span>
+        <target id="w21.10"/>
+      </span>
+    </term>
+    <term lemma="the International Federation of University Women (IFUW" netype="unknown" pos="N.name" tid="t21.11" type="entity">
+      <span>
+        <target id="w21.12"/>
+        <target id="w21.13"/>
+        <target id="w21.14"/>
+        <target id="w21.15"/>
+        <target id="w21.16"/>
+        <target id="w21.17"/>
+        <target id="w21.18"/>
+      </span>
+    </term>
+    <term lemma="tussen" pos="P.prep" tid="t21.20" type="closed">
+      <span>
+        <target id="w21.20"/>
+      </span>
+    </term>
+    <term lemma="1932" pos="N.noun" tid="t21.22" type="open">
+      <span>
+        <target id="w21.22"/>
+      </span>
+    </term>
+    <term lemma="en" pos="O.vg" tid="t21.23" type="none">
+      <span>
+        <target id="w21.23"/>
+      </span>
+    </term>
+    <term lemma="1937" pos="N.noun" tid="t21.24" type="open">
+      <span>
+        <target id="w21.24"/>
+      </span>
+    </term>
+    <term lemma="in" pos="P.prep" tid="t22.3" type="closed">
+      <span>
+        <target id="w22.3"/>
+      </span>
+    </term>
+    <term lemma="1951" pos="N.noun" tid="t22.4" type="open">
+      <span>
+        <target id="w22.4"/>
+      </span>
+    </term>
+    <term lemma="worden" pos="V.verb" tid="t22.5" type="open">
+      <span>
+        <target id="w22.5"/>
+      </span>
+    </term>
+    <term lemma="zij" pos="O.pron" tid="t22.6" type="closed">
+      <span>
+        <target id="w22.6"/>
+      </span>
+    </term>
+    <term lemma="als" pos="O.comp" tid="t22.8" type="none">
+      <span>
+        <target id="w22.8"/>
+      </span>
+    </term>
+    <term lemma="tweede" netype="number" pos="D.num" tid="t22.10" type="entity">
+      <span>
+        <target id="w22.10"/>
+      </span>
+    </term>
+    <term lemma="vrouw" pos="N.noun" tid="t22.11" type="open">
+      <span>
+        <target id="w22.11"/>
+      </span>
+    </term>
+    <term lemma="lid" pos="N.noun" tid="t22.13" type="open">
+      <span>
+        <target id="w22.13"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t22.15" type="closed">
+      <span>
+        <target id="w22.15"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t22.17" type="closed">
+      <span>
+        <target id="w22.17"/>
+      </span>
+    </term>
+    <term lemma="Koninklijke Nederlandse Academie" netype="unknown" pos="N.name" tid="t22.18" type="entity">
+      <span>
+        <target id="w22.19"/>
+        <target id="w22.20"/>
+        <target id="w22.21"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t22.23" type="closed">
+      <span>
+        <target id="w22.23"/>
+      </span>
+    </term>
+    <term lemma="Wetenschappen" netype="unknown" pos="N.name" tid="t22.24" type="entity">
+      <span>
+        <target id="w22.24"/>
+      </span>
+    </term>
+    <term lemma="en" pos="O.vg" tid="t23.2" type="none">
+      <span>
+        <target id="w23.2"/>
+      </span>
+    </term>
+    <term lemma="ze" pos="O.pron" tid="t23.5" type="closed">
+      <span>
+        <target id="w23.5"/>
+      </span>
+    </term>
+    <term lemma="krijgen" pos="V.verb" tid="t23.6" type="open">
+      <span>
+        <target id="w23.6"/>
+      </span>
+    </term>
+    <term head="t23.8.1" lemma="eredoctoraat" pos="N.noun" tid="t23.8" type="open">
+      <span>
+        <target id="w23.8"/>
+      </span>
+      <component id="t23.8.0" lemma="ere"/>
+      <component id="t23.8.1" lemma="doctoraat"/>
+    </term>
+    <term lemma="aan" pos="P.prep" tid="t23.10" type="closed">
+      <span>
+        <target id="w23.10"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t23.12" type="closed">
+      <span>
+        <target id="w23.12"/>
+      </span>
+    </term>
+    <term lemma="universiteit" pos="N.noun" tid="t23.13" type="open">
+      <span>
+        <target id="w23.13"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t23.15" type="closed">
+      <span>
+        <target id="w23.15"/>
+      </span>
+    </term>
+    <term lemma="Upsala (1957" netype="unknown" pos="N.name" tid="t23.16" type="entity">
+      <span>
+        <target id="w23.17"/>
+        <target id="w23.18"/>
+      </span>
+    </term>
+    <term lemma="Giessen (1958" netype="unknown" pos="N.name" tid="t23.19" type="entity">
+      <span>
+        <target id="w23.20"/>
+        <target id="w23.21"/>
+      </span>
+    </term>
+    <term lemma="als" pos="O.comp" tid="t24.4" type="none">
+      <span>
+        <target id="w24.4"/>
+      </span>
+    </term>
+    <term lemma="VVAO -bestuurdlid" netype="unknown" pos="N.name" tid="t24.5" type="entity">
+      <span>
+        <target id="w24.6"/>
+        <target id="w24.7"/>
+      </span>
+    </term>
+    <term lemma="schrijven" pos="V.verb" tid="t24.8" type="open">
+      <span>
+        <target id="w24.8"/>
+      </span>
+    </term>
+    <term lemma="ze" pos="O.pron" tid="t24.9" type="closed">
+      <span>
+        <target id="w24.9"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t24.11" type="closed">
+      <span>
+        <target id="w24.11"/>
+      </span>
+    </term>
+    <term lemma="brochure" pos="N.noun" tid="t24.12" type="open">
+      <span>
+        <target id="w24.12"/>
+      </span>
+    </term>
+    <term lemma="‘Wat" pos="N.noun" tid="t24.14" type="open">
+      <span>
+        <target id="w24.14"/>
+      </span>
+    </term>
+    <term lemma="hebben" pos="V.verb" tid="t24.15" type="open">
+      <span>
+        <target id="w24.15"/>
+      </span>
+    </term>
+    <term lemma="het" pos="D.det" tid="t24.19" type="closed">
+      <span>
+        <target id="w24.19"/>
+      </span>
+    </term>
+    <term lemma="Feminisme de Nederlandsche Vrouw" netype="unknown" pos="N.name" tid="t24.20" type="entity">
+      <span>
+        <target id="w24.21"/>
+        <target id="w24.22"/>
+        <target id="w24.23"/>
+        <target id="w24.24"/>
+      </span>
+    </term>
+    <term lemma="brengen" pos="V.verb" tid="t24.25" type="open">
+      <span>
+        <target id="w24.25"/>
+      </span>
+    </term>
+    <term lemma="wat" pos="O.pron" tid="t25.3" type="closed">
+      <span>
+        <target id="w25.3"/>
+      </span>
+    </term>
+    <term lemma="hebben" pos="V.verb" tid="t25.5" type="open">
+      <span>
+        <target id="w25.5"/>
+      </span>
+    </term>
+    <term lemma="het" pos="D.det" tid="t25.6" type="closed">
+      <span>
+        <target id="w25.6"/>
+      </span>
+    </term>
+    <term lemma="te" pos="O.comp" tid="t25.8" type="none">
+      <span>
+        <target id="w25.8"/>
+      </span>
+    </term>
+    <term lemma="derhalve" pos="A.adv" tid="t25.12" type="open">
+      <span>
+        <target id="w25.12"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t25.14" type="closed">
+      <span>
+        <target id="w25.14"/>
+      </span>
+    </term>
+    <term lemma="haar" pos="O.pron" tid="t25.15" type="closed">
+      <span>
+        <target id="w25.15"/>
+      </span>
+    </term>
+    <term lemma="verwachten" pos="V.verb" tid="t25.16" type="open">
+      <span>
+        <target id="w25.16"/>
+      </span>
+    </term>
+    <term lemma="?’" netype="number" pos="D.num" tid="t25.19" type="entity">
+      <span>
+        <target id="w25.19"/>
+      </span>
+    </term>
+    <term lemma="die" netype="unknown" pos="N.name" tid="t25.20" type="entity">
+      <span>
+        <target id="w25.20"/>
+      </span>
+    </term>
+    <term lemma="brochure" pos="N.noun" tid="t25.21" type="open">
+      <span>
+        <target id="w25.21"/>
+      </span>
+    </term>
+    <term lemma="zijn" pos="V.verb" tid="t25.22" type="open">
+      <span>
+        <target id="w25.22"/>
+      </span>
+    </term>
+    <term lemma="bedoeld" pos="G.adj" tid="t25.24" type="open">
+      <span>
+        <target id="w25.24"/>
+      </span>
+    </term>
+    <term lemma="om" pos="O.comp" tid="t25.26" type="none">
+      <span>
+        <target id="w25.26"/>
+      </span>
+    </term>
+    <term lemma="te" pos="O.comp" tid="t25.29" type="none">
+      <span>
+        <target id="w25.29"/>
+      </span>
+    </term>
+    <term lemma="meisje" pos="N.noun" tid="t25.31" type="open">
+      <span>
+        <target id="w25.31"/>
+      </span>
+    </term>
+    <term lemma="met" pos="P.prep" tid="t25.33" type="closed">
+      <span>
+        <target id="w25.33"/>
+      </span>
+    </term>
+    <term lemma="een" pos="D.det" tid="t25.35" type="closed">
+      <span>
+        <target id="w25.35"/>
+      </span>
+    </term>
+    <term lemma="middelbaar" pos="G.adj" tid="t25.36" type="open">
+      <span>
+        <target id="w25.36"/>
+      </span>
+    </term>
+    <term head="t25.37.1" lemma="schoolopleiding" pos="N.noun" tid="t25.37" type="open">
+      <span>
+        <target id="w25.37"/>
+      </span>
+      <component id="t25.37.0" lemma="school"/>
+      <component id="t25.37.1" lemma="opleiding"/>
+    </term>
+    <term lemma="stimuleren" pos="V.verb" tid="t25.38" type="open">
+      <span>
+        <target id="w25.38"/>
+      </span>
+    </term>
+    <term lemma="tot" pos="P.prep" tid="t25.40" type="closed">
+      <span>
+        <target id="w25.40"/>
+      </span>
+    </term>
+    <term head="t25.41.1" lemma="beroepsarbeid" pos="N.noun" tid="t25.41" type="open">
+      <span>
+        <target id="w25.41"/>
+      </span>
+      <component id="t25.41.0" lemma="beroeps"/>
+      <component id="t25.41.1" lemma="arbeid"/>
+    </term>
+    <term lemma="en" pos="O.vg" tid="t25.42" type="none">
+      <span>
+        <target id="w25.42"/>
+      </span>
+    </term>
+    <term lemma="te" pos="O.comp" tid="t25.44" type="none">
+      <span>
+        <target id="w25.44"/>
+      </span>
+    </term>
+    <term lemma="laten" pos="V.verb" tid="t25.47" type="open">
+      <span>
+        <target id="w25.47"/>
+      </span>
+    </term>
+    <term lemma="af" pos="O.part" tid="t25.50" type="none">
+      <span>
+        <target id="w25.50"/>
+      </span>
+    </term>
+    <term lemma="afzien" pos="V.verb" tid="t25.51" type="open">
+      <span>
+        <target id="w25.51"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t25.53" type="closed">
+      <span>
+        <target id="w25.53"/>
+      </span>
+    </term>
+    <term lemma="een" pos="D.det" tid="t25.55" type="closed">
+      <span>
+        <target id="w25.55"/>
+      </span>
+    </term>
+    <term lemma="bestaan" pos="N.noun" tid="t25.56" type="open">
+      <span>
+        <target id="w25.56"/>
+      </span>
+    </term>
+    <term lemma="als" pos="O.comp" tid="t25.58" type="none">
+      <span>
+        <target id="w25.58"/>
+      </span>
+    </term>
+    <term lemma="huisvrouw" pos="N.noun" tid="t25.59" type="open">
+      <span>
+        <target id="w25.59"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1.4" rfunc="subj" to="t1.5">
+      <!--subj(ze,zijn)-->
+    </dep>
+    <dep from="t1.7" rfunc="none" to="t1.8">
+      <!--none(de,dochter)-->
+    </dep>
+    <dep from="t2.3" rfunc="subj" to="t2.4">
+      <!--subj(ze,studeren)-->
+    </dep>
+    <dep from="t2.11" rfunc="mod" to="t2.9">
+      <!--mod(in,promoveren)-->
+    </dep>
+    <dep from="t2.12" rfunc="dobj" to="t2.11">
+      <!--dobj(1906,in)-->
+    </dep>
+    <dep from="t3.4" rfunc="subj" to="t3.5">
+      <!--subj(ze,worden)-->
+    </dep>
+    <dep from="t3.9" rfunc="mod" to="t3.7">
+      <!--mod(van,directrice)-->
+    </dep>
+    <dep from="t3.11" rfunc="none" to="t3.13">
+      <!--none(het,laboratorium)-->
+    </dep>
+    <dep from="t3.13" rfunc="dobj" to="t3.9">
+      <!--dobj(laboratorium,van)-->
+    </dep>
+    <dep from="t3.21" rfunc="dobj" to="t3.20">
+      <!--dobj(Amsterdam,in)-->
+    </dep>
+    <dep from="t4.3" rfunc="mod" to="t4.5">
+      <!--mod(in,krijgen)-->
+    </dep>
+    <dep from="t4.4" rfunc="dobj" to="t4.3">
+      <!--dobj(1907,in)-->
+    </dep>
+    <dep from="t4.12" rfunc="dobj" to="t4.11">
+      <!--dobj(professor,van)-->
+    </dep>
+    <dep from="t5.5" rfunc="mod" to="t5.3">
+      <!--mod(uit,Went)-->
+    </dep>
+    <dep from="t5.6" rfunc="dobj" to="t5.5">
+      <!--dobj(Utrecht,uit)-->
+    </dep>
+    <dep from="t5.8" rfunc="none" to="t5.9">
+      <!--none(een,collectie)-->
+    </dep>
+    <dep from="t5.11" rfunc="mod" to="t5.12">
+      <!--:q
+:q
+mod(levend,schimmel)-->
+    </dep>
+    <dep from="t6.4" rfunc="mod" to="t6.8">
+      <!--mod(op_basis_van,ontwikkelen)-->
+    </dep>
+    <dep from="t6.21" rfunc="none" to="t6.23">
+      <!--none(de,verzameling)-->
+    </dep>
+    <dep from="t6.23" rfunc="dobj" to="t6.19">
+      <!--dobj(verzameling,met)-->
+    </dep>
+    <dep from="t6.27" rfunc="dobj" to="t6.26">
+      <!--dobj(wereld,ter)-->
+    </dep>
+    <dep from="t7.3" rfunc="none" to="t7.4">
+      <!--none(het,laboratorium)-->
+    </dep>
+    <dep from="t7.4" rfunc="subj" to="t7.5">
+      <!--subj(laboratorium,verhusenzven)-->
+    </dep>
+    <dep from="t7.8" rfunc="dobj" to="t7.7">
+      <!--dobj(1921,in)-->
+    </dep>
+    <dep from="t7.11" rfunc="dobj" to="t7.10">
+      <!--dobj(Baarn,naar)-->
+    </dep>
+    <dep from="t8.3" rfunc="mod" to="t8.5">
+      <!--mod(vanaf,bestuderen)-->
+    </dep>
+    <dep from="t8.4" rfunc="dobj" to="t8.3">
+      <!--dobj(1913,vanaf)-->
+    </dep>
+    <dep from="t8.10" rfunc="dobj" to="t8.8">
+      <!--dobj(Nederlands,in)-->
+    </dep>
+    <dep from="t8.11" rfunc="none" to="t8.10">
+      <!--none(Indië,Nederlands)-->
+    </dep>
+    <dep from="t8.15" rfunc="mod" to="t8.13">
+      <!--mod(van,ziekte)-->
+    </dep>
+    <dep from="t8.17" rfunc="mod" to="t8.18">
+      <!--mod(tropisch,cultuurgewas)-->
+    </dep>
+    <dep from="t8.18" rfunc="dobj" to="t8.15">
+      <!--dobj(cultuurgewas,van)-->
+    </dep>
+    <dep from="t9.3" rfunc="subj" to="t9.4">
+      <!--subj(ze,maken)-->
+    </dep>
+    <dep from="t10.3" rfunc="mod" to="t10.5">
+      <!--mod(in,worden)-->
+    </dep>
+    <dep from="t10.4" rfunc="dobj" to="t10.3">
+      <!--dobj(1917,in)-->
+    </dep>
+    <dep from="t10.8" rfunc="mod" to="t10.9">
+      <!--mod(buitengewoon,hoogleraar)-->
+    </dep>
+    <dep from="t10.13" rfunc="none" to="t10.14">
+      <!--none(de,plantenziekte)-->
+    </dep>
+    <dep from="t10.14" rfunc="dobj" to="t10.11">
+      <!--dobj(plantenziekte,in)-->
+    </dep>
+    <dep from="t10.17" rfunc="dobj" to="t10.16">
+      <!--dobj(Utrecht,te)-->
+    </dep>
+    <dep from="t11.2" rfunc="subj" to="t11.3">
+      <!--subj(ze,zijn)-->
+    </dep>
+    <dep from="t11.6" rfunc="none" to="t11.9">
+      <!--none(de,hoogleraar)-->
+    </dep>
+    <dep from="t11.12" rfunc="dobj" to="t11.11">
+      <!--dobj(Nederland,in)-->
+    </dep>
+    <dep from="t12.3" rfunc="mod" to="t12.5">
+      <!--mod(in,worden)-->
+    </dep>
+    <dep from="t12.4" rfunc="dobj" to="t12.3">
+      <!--dobj(1930,in)-->
+    </dep>
+    <dep from="t12.9" rfunc="mod" to="t12.10">
+      <!--mod(buitengewoon,hoogleraar)-->
+    </dep>
+    <dep from="t12.14" rfunc="none" to="t12.15">
+      <!--none(de,fytopathologie)-->
+    </dep>
+    <dep from="t12.15" rfunc="dobj" to="t12.12">
+      <!--dobj(fytopathologie,in)-->
+    </dep>
+    <dep from="t12.18" rfunc="dobj" to="t12.17">
+      <!--dobj(Amsterdam,te)-->
+    </dep>
+    <dep from="t13.3" rfunc="mod" to="t13.9">
+      <!--mod(op,terechtkomen)-->
+    </dep>
+    <dep from="t13.6" rfunc="dobj" to="t13.3">
+      <!--dobj(Universiteit Utrecht,op)-->
+    </dep>
+    <dep from="t13.15" rfunc="none" to="t13.16">
+      <!--none(een,mannenwereld)-->
+    </dep>
+    <dep from="t13.16" rfunc="dobj" to="t13.13">
+      <!--dobj(mannenwereld,in)-->
+    </dep>
+    <dep from="t14.3" rfunc="none" to="t14.4">
+      <!--none(haar,collega’s)-->
+    </dep>
+    <dep from="t14.4" rfunc="subj" to="t14.11">
+      <!--subj(collega’s,kunnen)-->
+    </dep>
+    <dep from="t14.8" rfunc="none" to="t14.9">
+      <!--none(de,faculteit)-->
+    </dep>
+    <dep from="t14.9" rfunc="dobj" to="t14.6">
+      <!--dobj(faculteit,op)-->
+    </dep>
+    <dep from="t14.15" rfunc="none" to="t14.17">
+      <!--none(de,hoogleraar)-->
+    </dep>
+    <dep from="t14.17" rfunc="dobj" to="t14.20">
+      <!--dobj(hoogleraar,accepteren)-->
+    </dep>
+    <dep from="t15.2" rfunc="subj" to="t15.3">
+      <!--subj(Westerdijk,aantrekken)-->
+    </dep>
+    <dep from="t15.8" rfunc="dobj" to="t15.9">
+      <!--dobj(daar,van)-->
+    </dep>
+    <dep from="t16.3" rfunc="subj" to="t16.4">
+      <!--subj(ze,zijn)-->
+    </dep>
+    <dep from="t16.6" rfunc="none" to="t16.8">
+      <!--none(een,stimulans)-->
+    </dep>
+    <dep from="t16.12" rfunc="mod" to="t16.13">
+      <!--mod(vrouwelijk,student)-->
+    </dep>
+    <dep from="t16.13" rfunc="dobj" to="t16.10">
+      <!--dobj(student,voor)-->
+    </dep>
+    <dep from="t16.17" rfunc="none" to="t16.18">
+      <!--none(de,biologie)-->
+    </dep>
+    <dep from="t16.18" rfunc="dobj" to="t16.15">
+      <!--dobj(biologie,in)-->
+    </dep>
+    <dep from="t16.23" rfunc="dobj" to="t16.22">
+      <!--dobj(hen,aansporen)-->
+    </dep>
+    <dep from="t16.29" rfunc="UNKNOWN:se" to="t16.31">
+      <!--UNKNOWN:se(zich,vechten)-->
+    </dep>
+    <dep from="t16.35" rfunc="none" to="t16.37">
+      <!--none(hun,plicht)-->
+    </dep>
+    <dep from="t16.37" rfunc="dobj" to="t16.33">
+      <!--dobj(plicht,van)-->
+    </dep>
+    <dep from="t17.6" rfunc="subj" to="t17.5">
+      <!--subj(ze,zijn)-->
+    </dep>
+    <dep from="t17.8" rfunc="mod" to="t17.9">
+      <!--mod(zeer,belangrijk)-->
+    </dep>
+    <dep from="t17.12" rfunc="dobj" to="t17.11">
+      <!--dobj(vrouw,voor)-->
+    </dep>
+    <dep from="t18.3" rfunc="subj" to="t18.6">
+      <!--subj(Johanna Westerdijk,bekendstaan)-->
+    </dep>
+    <dep from="t18.18" rfunc="mod" to="t18.17">
+      <!--mod(erg,houden)-->
+    </dep>
+    <dep from="t18.21" rfunc="dobj" to="t18.20">
+      <!--dobj(feest,van)-->
+    </dep>
+    <dep from="t19.2" rfunc="subj" to="t19.3">
+      <!--subj(Westerdijk,zijn)-->
+    </dep>
+    <dep from="t19.7" rfunc="none" to="t19.5">
+      <!--none(in,actief)-->
+    </dep>
+    <dep from="t19.9" rfunc="mod" to="t19.10">
+      <!--mod(universitair,vrouwenvereniging)-->
+    </dep>
+    <dep from="t19.10" rfunc="dobj" to="t19.7">
+      <!--dobj(vrouwenvereniging,in)-->
+    </dep>
+    <dep from="t20.3" rfunc="mod" to="t20.9">
+      <!--mod(van,zijn)-->
+    </dep>
+    <dep from="t20.5" rfunc="dobj" to="t20.3">
+      <!--dobj(1918,van)-->
+    </dep>
+    <dep from="t20.7" rfunc="mod" to="t20.5">
+      <!--mod(tot,1918)-->
+    </dep>
+    <dep from="t20.8" rfunc="dobj" to="t20.7">
+      <!--dobj(1932,tot)-->
+    </dep>
+    <dep from="t20.14" rfunc="mod" to="t20.12">
+      <!--mod(van,bestuurlid)-->
+    </dep>
+    <dep from="t20.17" rfunc="dobj" to="t20.14">
+      <!--dobj(Vereniging van Vrouwen,van)-->
+    </dep>
+    <dep from="t20.24" rfunc="none" to="t20.26">
+      <!--none(een,opleiding)-->
+    </dep>
+    <dep from="t20.26" rfunc="dobj" to="t20.22">
+      <!--dobj(opleiding,met)-->
+    </dep>
+    <dep from="t21.4" rfunc="mod" to="t21.5">
+      <!--mod(daarna,worden)-->
+    </dep>
+    <dep from="t21.10" rfunc="mod" to="t21.8">
+      <!--mod(van,presidente)-->
+    </dep>
+    <dep from="t21.11" rfunc="dobj" to="t21.10">
+      <!--dobj(the International Federation of University Women (IFUW,van)-->
+    </dep>
+    <dep from="t22.3" rfunc="mod" to="t22.5">
+      <!--mod(in,worden)-->
+    </dep>
+    <dep from="t22.4" rfunc="dobj" to="t22.3">
+      <!--dobj(1951,in)-->
+    </dep>
+    <dep from="t22.10" rfunc="mod" to="t22.11">
+      <!--mod(tweede,vrouw)-->
+    </dep>
+    <dep from="t22.15" rfunc="mod" to="t22.13">
+      <!--mod(van,lid)-->
+    </dep>
+    <dep from="t22.18" rfunc="dobj" to="t22.15">
+      <!--dobj(Koninklijke Nederlandse Academie,van)-->
+    </dep>
+    <dep from="t22.24" rfunc="dobj" to="t22.23">
+      <!--dobj(Wetenschappen,van)-->
+    </dep>
+    <dep from="t23.5" rfunc="subj" to="t23.6">
+      <!--subj(ze,krijgen)-->
+    </dep>
+    <dep from="t23.10" rfunc="mod" to="t23.8">
+      <!--mod(aan,eredoctoraat)-->
+    </dep>
+    <dep from="t23.12" rfunc="none" to="t23.13">
+      <!--none(de,universiteit)-->
+    </dep>
+    <dep from="t23.13" rfunc="dobj" to="t23.10">
+      <!--dobj(universiteit,aan)-->
+    </dep>
+    <dep from="t23.16" rfunc="dobj" to="t23.15">
+      <!--dobj(Upsala (1957,van)-->
+    </dep>
+    <dep from="t24.9" rfunc="subj" to="t24.8">
+      <!--subj(ze,schrijven)-->
+    </dep>
+    <dep from="t24.11" rfunc="none" to="t24.12">
+      <!--none(de,brochure)-->
+    </dep>
+    <dep from="t24.14" rfunc="subj" to="t24.15">
+      <!--subj(‘Wat,hebben)-->
+    </dep>
+    <dep from="t24.20" rfunc="dobj" to="t24.25">
+      <!--dobj(Feminisme de Nederlandsche Vrouw,brengen)-->
+    </dep>
+    <dep from="t25.6" rfunc="subj" to="t25.5">
+      <!--subj(het,hebben)-->
+    </dep>
+    <dep from="t25.12" rfunc="mod" to="t25.16">
+      <!--mod(derhalve,verwachten)-->
+    </dep>
+    <dep from="t25.15" rfunc="dobj" to="t25.14">
+      <!--dobj(haar,van)-->
+    </dep>
+    <dep from="t25.19" rfunc="none" to="t25.21">
+      <!--none(?’,brochure)-->
+    </dep>
+    <dep from="t25.21" rfunc="subj" to="t25.22">
+      <!--subj(brochure,zijn)-->
+    </dep>
+    <dep from="t25.31" rfunc="dobj" to="t25.38">
+      <!--dobj(meisje,stimuleren)-->
+    </dep>
+    <dep from="t25.35" rfunc="none" to="t25.37">
+      <!--none(een,schoolopleiding)-->
+    </dep>
+    <dep from="t25.37" rfunc="dobj" to="t25.33">
+      <!--dobj(schoolopleiding,met)-->
+    </dep>
+    <dep from="t25.41" rfunc="dobj" to="t25.40">
+      <!--dobj(beroepsarbeid,tot)-->
+    </dep>
+    <dep from="t25.50" rfunc="none" to="t25.51">
+      <!--none(af,afzien)-->
+    </dep>
+    <dep from="t25.51" rfunc="none" to="t25.47">
+      <!--none(afzien,laten)-->
+    </dep>
+    <dep from="t25.55" rfunc="none" to="t25.56">
+      <!--none(een,bestaan)-->
+    </dep>
+    <dep from="t25.56" rfunc="dobj" to="t25.53">
+      <!--dobj(bestaan,van)-->
+    </dep>
+  </deps>
+  <chunks>
+    <chunk cid="c1.3" head="t1.5" phrase="smain">
+      <!--ze zijn de dochter van Bernard Westerdijk arts en Aleida Catharina Scheffer-->
+      <span>
+        <target id="t1.4"/>
+        <target id="t1.5"/>
+        <target id="t1.7"/>
+        <target id="t1.8"/>
+        <target id="t1.10"/>
+        <target id="t1.12"/>
+        <target id="t1.15"/>
+        <target id="t1.16"/>
+        <target id="t1.17"/>
+      </span>
+    </chunk>
+    <chunk cid="c1.6" head="t1.8" phrase="np">
+      <!--de dochter van Bernard Westerdijk arts en Aleida Catharina Scheffer-->
+      <span>
+        <target id="t1.7"/>
+        <target id="t1.8"/>
+        <target id="t1.10"/>
+        <target id="t1.12"/>
+        <target id="t1.15"/>
+        <target id="t1.16"/>
+        <target id="t1.17"/>
+      </span>
+    </chunk>
+    <chunk cid="c1.9" head="t1.10" phrase="pp">
+      <!--van Bernard Westerdijk arts en Aleida Catharina Scheffer-->
+      <span>
+        <target id="t1.10"/>
+        <target id="t1.12"/>
+        <target id="t1.15"/>
+        <target id="t1.16"/>
+        <target id="t1.17"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.2" head="t2.4" phrase="smain">
+      <!--ze studeren biologie-->
+      <span>
+        <target id="t2.3"/>
+        <target id="t2.4"/>
+        <target id="t2.5"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.7" head="t2.9" phrase="smain">
+      <!--promoveren in 1906-->
+      <span>
+        <target id="t2.9"/>
+        <target id="t2.11"/>
+        <target id="t2.12"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.10" head="t2.11" phrase="pp">
+      <!--in 1906-->
+      <span>
+        <target id="t2.11"/>
+        <target id="t2.12"/>
+      </span>
+    </chunk>
+    <chunk cid="c3.3" head="t3.5" phrase="smain">
+      <!--ze worden directrice van het fytopathologisch laboratorium Willy Commelin Scholten (WCS-->
+      <span>
+        <target id="t3.4"/>
+        <target id="t3.5"/>
+        <target id="t3.7"/>
+        <target id="t3.9"/>
+        <target id="t3.11"/>
+        <target id="t3.12"/>
+        <target id="t3.13"/>
+        <target id="t3.14"/>
+      </span>
+    </chunk>
+    <chunk cid="c3.6" head="t3.7" phrase="np">
+      <!--directrice van het fytopathologisch laboratorium Willy Commelin Scholten (WCS-->
+      <span>
+        <target id="t3.7"/>
+        <target id="t3.9"/>
+        <target id="t3.11"/>
+        <target id="t3.12"/>
+        <target id="t3.13"/>
+        <target id="t3.14"/>
+      </span>
+    </chunk>
+    <chunk cid="c3.8" head="t3.9" phrase="pp">
+      <!--van het fytopathologisch laboratorium Willy Commelin Scholten (WCS-->
+      <span>
+        <target id="t3.9"/>
+        <target id="t3.11"/>
+        <target id="t3.12"/>
+        <target id="t3.13"/>
+        <target id="t3.14"/>
+      </span>
+    </chunk>
+    <chunk cid="c3.10" head="t3.13" phrase="np">
+      <!--het fytopathologisch laboratorium Willy Commelin Scholten (WCS-->
+      <span>
+        <target id="t3.11"/>
+        <target id="t3.12"/>
+        <target id="t3.13"/>
+        <target id="t3.14"/>
+      </span>
+    </chunk>
+    <chunk cid="c3.19" head="t3.20" phrase="pp">
+      <!--in Amsterdam-->
+      <span>
+        <target id="t3.20"/>
+        <target id="t3.21"/>
+      </span>
+    </chunk>
+    <chunk cid="c4.1" head="t4.5" phrase="smain">
+      <!--in 1907 krijgen Johanna Westerdijk van professor F .A .F .C-->
+      <span>
+        <target id="t4.3"/>
+        <target id="t4.4"/>
+        <target id="t4.5"/>
+        <target id="t4.7"/>
+        <target id="t4.11"/>
+        <target id="t4.12"/>
+        <target id="t4.13"/>
+      </span>
+    </chunk>
+    <chunk cid="c4.2" head="t4.3" phrase="pp">
+      <!--in 1907-->
+      <span>
+        <target id="t4.3"/>
+        <target id="t4.4"/>
+      </span>
+    </chunk>
+    <chunk cid="c4.6" head="t4.7" phrase="np">
+      <!--Johanna Westerdijk van professor-->
+      <span>
+        <target id="t4.7"/>
+        <target id="t4.11"/>
+        <target id="t4.12"/>
+      </span>
+    </chunk>
+    <chunk cid="c4.10" head="t4.11" phrase="pp">
+      <!--van professor-->
+      <span>
+        <target id="t4.11"/>
+        <target id="t4.12"/>
+      </span>
+    </chunk>
+    <chunk cid="c5.2" head="t5.3" phrase="np">
+      <!--Went uit Utrecht-->
+      <span>
+        <target id="t5.3"/>
+        <target id="t5.5"/>
+        <target id="t5.6"/>
+      </span>
+    </chunk>
+    <chunk cid="c5.4" head="t5.5" phrase="pp">
+      <!--uit Utrecht-->
+      <span>
+        <target id="t5.5"/>
+        <target id="t5.6"/>
+      </span>
+    </chunk>
+    <chunk cid="c5.7" head="t5.9" phrase="np">
+      <!--een collectie levend schimmel-->
+      <span>
+        <target id="t5.8"/>
+        <target id="t5.9"/>
+        <target id="t5.11"/>
+        <target id="t5.12"/>
+      </span>
+    </chunk>
+    <chunk cid="c5.10" head="t5.12" phrase="np">
+      <!--levend schimmel-->
+      <span>
+        <target id="t5.11"/>
+        <target id="t5.12"/>
+      </span>
+    </chunk>
+    <chunk cid="c6.3" head="t6.8" phrase="smain">
+      <!--op_basis_van ontwikkelen zij het Centraal Bureau voor Schimmelcultures (CBS-->
+      <span>
+        <target id="t6.4"/>
+        <target id="t6.8"/>
+        <target id="t6.9"/>
+        <target id="t6.11"/>
+        <target id="t6.12"/>
+      </span>
+    </chunk>
+    <chunk cid="c6.10" head="t6.12" phrase="np">
+      <!--het Centraal Bureau voor Schimmelcultures (CBS-->
+      <span>
+        <target id="t6.11"/>
+        <target id="t6.12"/>
+      </span>
+    </chunk>
+    <chunk cid="c6.18" head="t6.19" phrase="pp">
+      <!--met de groot verzameling schimmel ter wereld-->
+      <span>
+        <target id="t6.19"/>
+        <target id="t6.21"/>
+        <target id="t6.22"/>
+        <target id="t6.23"/>
+        <target id="t6.24"/>
+        <target id="t6.26"/>
+        <target id="t6.27"/>
+      </span>
+    </chunk>
+    <chunk cid="c6.20" head="t6.23" phrase="np">
+      <!--de groot verzameling schimmel ter wereld-->
+      <span>
+        <target id="t6.21"/>
+        <target id="t6.22"/>
+        <target id="t6.23"/>
+        <target id="t6.24"/>
+        <target id="t6.26"/>
+        <target id="t6.27"/>
+      </span>
+    </chunk>
+    <chunk cid="c6.25" head="t6.26" phrase="pp">
+      <!--ter wereld-->
+      <span>
+        <target id="t6.26"/>
+        <target id="t6.27"/>
+      </span>
+    </chunk>
+    <chunk cid="c7.1" head="t7.5" phrase="smain">
+      <!--het laboratorium verhusenzven in 1921 naar Baarn-->
+      <span>
+        <target id="t7.3"/>
+        <target id="t7.4"/>
+        <target id="t7.5"/>
+        <target id="t7.7"/>
+        <target id="t7.8"/>
+        <target id="t7.10"/>
+        <target id="t7.11"/>
+      </span>
+    </chunk>
+    <chunk cid="c7.2" head="t7.4" phrase="np">
+      <!--het laboratorium-->
+      <span>
+        <target id="t7.3"/>
+        <target id="t7.4"/>
+      </span>
+    </chunk>
+    <chunk cid="c7.6" head="t7.7" phrase="pp">
+      <!--in 1921-->
+      <span>
+        <target id="t7.7"/>
+        <target id="t7.8"/>
+      </span>
+    </chunk>
+    <chunk cid="c7.9" head="t7.10" phrase="pp">
+      <!--naar Baarn-->
+      <span>
+        <target id="t7.10"/>
+        <target id="t7.11"/>
+      </span>
+    </chunk>
+    <chunk cid="c8.1" head="t8.5" phrase="smain">
+      <!--vanaf 1913 bestuderen ze in Nederlands Indië ziekte van tropisch cultuurgewas-->
+      <span>
+        <target id="t8.3"/>
+        <target id="t8.4"/>
+        <target id="t8.5"/>
+        <target id="t8.6"/>
+        <target id="t8.8"/>
+        <target id="t8.10"/>
+        <target id="t8.11"/>
+        <target id="t8.13"/>
+        <target id="t8.15"/>
+        <target id="t8.17"/>
+        <target id="t8.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c8.2" head="t8.3" phrase="pp">
+      <!--vanaf 1913-->
+      <span>
+        <target id="t8.3"/>
+        <target id="t8.4"/>
+      </span>
+    </chunk>
+    <chunk cid="c8.7" head="t8.8" phrase="pp">
+      <!--in Nederlands Indië-->
+      <span>
+        <target id="t8.8"/>
+        <target id="t8.10"/>
+        <target id="t8.11"/>
+      </span>
+    </chunk>
+    <chunk cid="c8.9" head="t8.10" phrase="np">
+      <!--Nederlands Indië-->
+      <span>
+        <target id="t8.10"/>
+        <target id="t8.11"/>
+      </span>
+    </chunk>
+    <chunk cid="c8.12" head="t8.13" phrase="np">
+      <!--ziekte van tropisch cultuurgewas-->
+      <span>
+        <target id="t8.13"/>
+        <target id="t8.15"/>
+        <target id="t8.17"/>
+        <target id="t8.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c8.14" head="t8.15" phrase="pp">
+      <!--van tropisch cultuurgewas-->
+      <span>
+        <target id="t8.15"/>
+        <target id="t8.17"/>
+        <target id="t8.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c8.16" head="t8.18" phrase="np">
+      <!--tropisch cultuurgewas-->
+      <span>
+        <target id="t8.17"/>
+        <target id="t8.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.2" head="t9.4" phrase="smain">
+      <!--ze maken studiereis in China Japan en de Verenigde Staten-->
+      <span>
+        <target id="t9.3"/>
+        <target id="t9.4"/>
+        <target id="t9.5"/>
+        <target id="t9.7"/>
+        <target id="t9.9"/>
+        <target id="t9.10"/>
+        <target id="t9.11"/>
+        <target id="t9.13"/>
+        <target id="t9.14"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.6" head="t9.7" phrase="pp">
+      <!--in China Japan en de Verenigde Staten-->
+      <span>
+        <target id="t9.7"/>
+        <target id="t9.9"/>
+        <target id="t9.10"/>
+        <target id="t9.11"/>
+        <target id="t9.13"/>
+        <target id="t9.14"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.12" head="t9.14" phrase="np">
+      <!--de Verenigde Staten-->
+      <span>
+        <target id="t9.13"/>
+        <target id="t9.14"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.1" head="t10.5" phrase="smain">
+      <!--in 1917 worden Westerdijk buitengewoon hoogleraar in de plantenziekte te Utrecht-->
+      <span>
+        <target id="t10.3"/>
+        <target id="t10.4"/>
+        <target id="t10.5"/>
+        <target id="t10.6"/>
+        <target id="t10.8"/>
+        <target id="t10.9"/>
+        <target id="t10.11"/>
+        <target id="t10.13"/>
+        <target id="t10.14"/>
+        <target id="t10.16"/>
+        <target id="t10.17"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.2" head="t10.3" phrase="pp">
+      <!--in 1917-->
+      <span>
+        <target id="t10.3"/>
+        <target id="t10.4"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.7" head="t10.9" phrase="np">
+      <!--buitengewoon hoogleraar in de plantenziekte te Utrecht-->
+      <span>
+        <target id="t10.8"/>
+        <target id="t10.9"/>
+        <target id="t10.11"/>
+        <target id="t10.13"/>
+        <target id="t10.14"/>
+        <target id="t10.16"/>
+        <target id="t10.17"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.10" head="t10.11" phrase="pp">
+      <!--in de plantenziekte te Utrecht-->
+      <span>
+        <target id="t10.11"/>
+        <target id="t10.13"/>
+        <target id="t10.14"/>
+        <target id="t10.16"/>
+        <target id="t10.17"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.12" head="t10.14" phrase="np">
+      <!--de plantenziekte te Utrecht-->
+      <span>
+        <target id="t10.13"/>
+        <target id="t10.14"/>
+        <target id="t10.16"/>
+        <target id="t10.17"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.15" head="t10.16" phrase="pp">
+      <!--te Utrecht-->
+      <span>
+        <target id="t10.16"/>
+        <target id="t10.17"/>
+      </span>
+    </chunk>
+    <chunk cid="c11.1" head="t11.3" phrase="smain">
+      <!--ze zijn daarmee de eerste vrouwelijk hoogleraar in Nederland-->
+      <span>
+        <target id="t11.2"/>
+        <target id="t11.3"/>
+        <target id="t11.4"/>
+        <target id="t11.6"/>
+        <target id="t11.7"/>
+        <target id="t11.8"/>
+        <target id="t11.9"/>
+        <target id="t11.11"/>
+        <target id="t11.12"/>
+      </span>
+    </chunk>
+    <chunk cid="c11.5" head="t11.9" phrase="np">
+      <!--de eerste vrouwelijk hoogleraar in Nederland-->
+      <span>
+        <target id="t11.6"/>
+        <target id="t11.7"/>
+        <target id="t11.8"/>
+        <target id="t11.9"/>
+        <target id="t11.11"/>
+        <target id="t11.12"/>
+      </span>
+    </chunk>
+    <chunk cid="c11.10" head="t11.11" phrase="pp">
+      <!--in Nederland-->
+      <span>
+        <target id="t11.11"/>
+        <target id="t11.12"/>
+      </span>
+    </chunk>
+    <chunk cid="c12.1" head="t12.5" phrase="smain">
+      <!--in 1930 worden ze bovendien buitengewoon hoogleraar in de fytopathologie te Amsterdam-->
+      <span>
+        <target id="t12.3"/>
+        <target id="t12.4"/>
+        <target id="t12.5"/>
+        <target id="t12.6"/>
+        <target id="t12.7"/>
+        <target id="t12.9"/>
+        <target id="t12.10"/>
+        <target id="t12.12"/>
+        <target id="t12.14"/>
+        <target id="t12.15"/>
+        <target id="t12.17"/>
+        <target id="t12.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c12.2" head="t12.3" phrase="pp">
+      <!--in 1930-->
+      <span>
+        <target id="t12.3"/>
+        <target id="t12.4"/>
+      </span>
+    </chunk>
+    <chunk cid="c12.8" head="t12.10" phrase="np">
+      <!--buitengewoon hoogleraar in de fytopathologie te Amsterdam-->
+      <span>
+        <target id="t12.9"/>
+        <target id="t12.10"/>
+        <target id="t12.12"/>
+        <target id="t12.14"/>
+        <target id="t12.15"/>
+        <target id="t12.17"/>
+        <target id="t12.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c12.11" head="t12.12" phrase="pp">
+      <!--in de fytopathologie te Amsterdam-->
+      <span>
+        <target id="t12.12"/>
+        <target id="t12.14"/>
+        <target id="t12.15"/>
+        <target id="t12.17"/>
+        <target id="t12.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c12.13" head="t12.15" phrase="np">
+      <!--de fytopathologie te Amsterdam-->
+      <span>
+        <target id="t12.14"/>
+        <target id="t12.15"/>
+        <target id="t12.17"/>
+        <target id="t12.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c12.16" head="t12.17" phrase="pp">
+      <!--te Amsterdam-->
+      <span>
+        <target id="t12.17"/>
+        <target id="t12.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c13.1" head="t13.9" phrase="smain">
+      <!--op de Universiteit Utrecht terechtkomen Westerdijk terecht in een mannenwereld-->
+      <span>
+        <target id="t13.3"/>
+        <target id="t13.5"/>
+        <target id="t13.6"/>
+        <target id="t13.9"/>
+        <target id="t13.10"/>
+        <target id="t13.11"/>
+        <target id="t13.13"/>
+        <target id="t13.15"/>
+        <target id="t13.16"/>
+      </span>
+    </chunk>
+    <chunk cid="c13.2" head="t13.3" phrase="pp">
+      <!--op de Universiteit Utrecht-->
+      <span>
+        <target id="t13.3"/>
+        <target id="t13.5"/>
+        <target id="t13.6"/>
+      </span>
+    </chunk>
+    <chunk cid="c13.4" head="t13.6" phrase="np">
+      <!--de Universiteit Utrecht-->
+      <span>
+        <target id="t13.5"/>
+        <target id="t13.6"/>
+      </span>
+    </chunk>
+    <chunk cid="c13.12" head="t13.13" phrase="pp">
+      <!--in een mannenwereld-->
+      <span>
+        <target id="t13.13"/>
+        <target id="t13.15"/>
+        <target id="t13.16"/>
+      </span>
+    </chunk>
+    <chunk cid="c13.14" head="t13.16" phrase="np">
+      <!--een mannenwereld-->
+      <span>
+        <target id="t13.15"/>
+        <target id="t13.16"/>
+      </span>
+    </chunk>
+    <chunk cid="c14.1" head="t14.11" phrase="smain">
+      <!--haar collega’s op de faculteit plantkunde kunnen de vrouwelijk hoogleraar maar moeilijk accepteren-->
+      <span>
+        <target id="t14.3"/>
+        <target id="t14.4"/>
+        <target id="t14.6"/>
+        <target id="t14.8"/>
+        <target id="t14.9"/>
+        <target id="t14.10"/>
+        <target id="t14.11"/>
+        <target id="t14.15"/>
+        <target id="t14.16"/>
+        <target id="t14.17"/>
+        <target id="t14.18"/>
+        <target id="t14.19"/>
+        <target id="t14.20"/>
+      </span>
+    </chunk>
+    <chunk cid="c14.2" head="t14.4" phrase="np">
+      <!--haar collega’s op de faculteit plantkunde-->
+      <span>
+        <target id="t14.3"/>
+        <target id="t14.4"/>
+        <target id="t14.6"/>
+        <target id="t14.8"/>
+        <target id="t14.9"/>
+        <target id="t14.10"/>
+      </span>
+    </chunk>
+    <chunk cid="c14.5" head="t14.6" phrase="pp">
+      <!--op de faculteit plantkunde-->
+      <span>
+        <target id="t14.6"/>
+        <target id="t14.8"/>
+        <target id="t14.9"/>
+        <target id="t14.10"/>
+      </span>
+    </chunk>
+    <chunk cid="c14.7" head="t14.9" phrase="np">
+      <!--de faculteit plantkunde-->
+      <span>
+        <target id="t14.8"/>
+        <target id="t14.9"/>
+        <target id="t14.10"/>
+      </span>
+    </chunk>
+    <chunk cid="c14.12" head="t14.20" phrase="inf">
+      <!--de vrouwelijk hoogleraar maar moeilijk accepteren-->
+      <span>
+        <target id="t14.15"/>
+        <target id="t14.16"/>
+        <target id="t14.17"/>
+        <target id="t14.18"/>
+        <target id="t14.19"/>
+        <target id="t14.20"/>
+      </span>
+    </chunk>
+    <chunk cid="c14.14" head="t14.17" phrase="np">
+      <!--de vrouwelijk hoogleraar-->
+      <span>
+        <target id="t14.15"/>
+        <target id="t14.16"/>
+        <target id="t14.17"/>
+      </span>
+    </chunk>
+    <chunk cid="c15.1" head="t15.3" phrase="smain">
+      <!--Westerdijk aantrekken zich daar niet veel van aan-->
+      <span>
+        <target id="t15.2"/>
+        <target id="t15.3"/>
+        <target id="t15.4"/>
+        <target id="t15.8"/>
+        <target id="t15.5"/>
+        <target id="t15.6"/>
+        <target id="t15.9"/>
+        <target id="t15.10"/>
+      </span>
+    </chunk>
+    <chunk cid="c15.7" head="t15.9" phrase="pp">
+      <!--daar van-->
+      <span>
+        <target id="t15.8"/>
+        <target id="t15.9"/>
+      </span>
+    </chunk>
+    <chunk cid="c16.2" head="t16.4" phrase="smain">
+      <!--ze zijn een groot stimulans voor vrouwelijk student in de biologie-->
+      <span>
+        <target id="t16.3"/>
+        <target id="t16.4"/>
+        <target id="t16.6"/>
+        <target id="t16.7"/>
+        <target id="t16.8"/>
+        <target id="t16.10"/>
+        <target id="t16.12"/>
+        <target id="t16.13"/>
+        <target id="t16.15"/>
+        <target id="t16.17"/>
+        <target id="t16.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c16.5" head="t16.8" phrase="np">
+      <!--een groot stimulans voor vrouwelijk student in de biologie-->
+      <span>
+        <target id="t16.6"/>
+        <target id="t16.7"/>
+        <target id="t16.8"/>
+        <target id="t16.10"/>
+        <target id="t16.12"/>
+        <target id="t16.13"/>
+        <target id="t16.15"/>
+        <target id="t16.17"/>
+        <target id="t16.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c16.9" head="t16.10" phrase="pp">
+      <!--voor vrouwelijk student in de biologie-->
+      <span>
+        <target id="t16.10"/>
+        <target id="t16.12"/>
+        <target id="t16.13"/>
+        <target id="t16.15"/>
+        <target id="t16.17"/>
+        <target id="t16.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c16.11" head="t16.13" phrase="np">
+      <!--vrouwelijk student in de biologie-->
+      <span>
+        <target id="t16.12"/>
+        <target id="t16.13"/>
+        <target id="t16.15"/>
+        <target id="t16.17"/>
+        <target id="t16.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c16.14" head="t16.15" phrase="pp">
+      <!--in de biologie-->
+      <span>
+        <target id="t16.15"/>
+        <target id="t16.17"/>
+        <target id="t16.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c16.16" head="t16.18" phrase="np">
+      <!--de biologie-->
+      <span>
+        <target id="t16.17"/>
+        <target id="t16.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c16.20" head="t16.22" phrase="smain">
+      <!--aansporen hen aan zich vrij te vechten van hun huishoudelijk plicht-->
+      <span>
+        <target id="t16.22"/>
+        <target id="t16.23"/>
+        <target id="t16.24"/>
+        <target id="t16.29"/>
+        <target id="t16.30"/>
+        <target id="t16.26"/>
+        <target id="t16.31"/>
+        <target id="t16.33"/>
+        <target id="t16.35"/>
+        <target id="t16.36"/>
+        <target id="t16.37"/>
+      </span>
+    </chunk>
+    <chunk cid="c16.27" head="t16.31" phrase="inf">
+      <!--zich vrij vechten van hun huishoudelijk plicht-->
+      <span>
+        <target id="t16.29"/>
+        <target id="t16.30"/>
+        <target id="t16.31"/>
+        <target id="t16.33"/>
+        <target id="t16.35"/>
+        <target id="t16.36"/>
+        <target id="t16.37"/>
+      </span>
+    </chunk>
+    <chunk cid="c16.32" head="t16.33" phrase="pp">
+      <!--van hun huishoudelijk plicht-->
+      <span>
+        <target id="t16.33"/>
+        <target id="t16.35"/>
+        <target id="t16.36"/>
+        <target id="t16.37"/>
+      </span>
+    </chunk>
+    <chunk cid="c16.34" head="t16.37" phrase="np">
+      <!--hun huishoudelijk plicht-->
+      <span>
+        <target id="t16.35"/>
+        <target id="t16.36"/>
+        <target id="t16.37"/>
+      </span>
+    </chunk>
+    <chunk cid="c17.1" head="t17.5" phrase="smain">
+      <!--als rolmodel zijn ze zeer belangrijk voor vrouw-->
+      <span>
+        <target id="t17.3"/>
+        <target id="t17.4"/>
+        <target id="t17.5"/>
+        <target id="t17.6"/>
+        <target id="t17.8"/>
+        <target id="t17.9"/>
+        <target id="t17.11"/>
+        <target id="t17.12"/>
+      </span>
+    </chunk>
+    <chunk cid="c17.7" head="t17.9" phrase="ap">
+      <!--zeer belangrijk voor vrouw-->
+      <span>
+        <target id="t17.8"/>
+        <target id="t17.9"/>
+        <target id="t17.11"/>
+        <target id="t17.12"/>
+      </span>
+    </chunk>
+    <chunk cid="c17.10" head="t17.11" phrase="pp">
+      <!--voor vrouw-->
+      <span>
+        <target id="t17.11"/>
+        <target id="t17.12"/>
+      </span>
+    </chunk>
+    <chunk cid="c18.2" head="t18.6" phrase="smain">
+      <!--Johanna Westerdijk bekendstaan bekend als gastvrij en muzikaal-->
+      <span>
+        <target id="t18.3"/>
+        <target id="t18.6"/>
+        <target id="t18.7"/>
+        <target id="t18.9"/>
+        <target id="t18.11"/>
+        <target id="t18.12"/>
+        <target id="t18.13"/>
+      </span>
+    </chunk>
+    <chunk cid="c18.15" head="t18.17" phrase="smain">
+      <!--houden erg van feest-->
+      <span>
+        <target id="t18.17"/>
+        <target id="t18.18"/>
+        <target id="t18.20"/>
+        <target id="t18.21"/>
+      </span>
+    </chunk>
+    <chunk cid="c18.19" head="t18.20" phrase="pp">
+      <!--van feest-->
+      <span>
+        <target id="t18.20"/>
+        <target id="t18.21"/>
+      </span>
+    </chunk>
+    <chunk cid="c19.1" head="t19.3" phrase="smain">
+      <!--Westerdijk zijn actief in universitair vrouwenvereniging-->
+      <span>
+        <target id="t19.2"/>
+        <target id="t19.3"/>
+        <target id="t19.5"/>
+        <target id="t19.7"/>
+        <target id="t19.9"/>
+        <target id="t19.10"/>
+      </span>
+    </chunk>
+    <chunk cid="c19.4" head="t19.5" phrase="ap">
+      <!--actief in universitair vrouwenvereniging-->
+      <span>
+        <target id="t19.5"/>
+        <target id="t19.7"/>
+        <target id="t19.9"/>
+        <target id="t19.10"/>
+      </span>
+    </chunk>
+    <chunk cid="c19.6" head="t19.7" phrase="pp">
+      <!--in universitair vrouwenvereniging-->
+      <span>
+        <target id="t19.7"/>
+        <target id="t19.9"/>
+        <target id="t19.10"/>
+      </span>
+    </chunk>
+    <chunk cid="c19.8" head="t19.10" phrase="np">
+      <!--universitair vrouwenvereniging-->
+      <span>
+        <target id="t19.9"/>
+        <target id="t19.10"/>
+      </span>
+    </chunk>
+    <chunk cid="c20.1" head="t20.9" phrase="smain">
+      <!--van 1918 tot 1932 zijn ze bestuurlid van de Vereniging van Vrouwen met een academisch opleiding (VVAO-->
+      <span>
+        <target id="t20.3"/>
+        <target id="t20.5"/>
+        <target id="t20.7"/>
+        <target id="t20.8"/>
+        <target id="t20.9"/>
+        <target id="t20.10"/>
+        <target id="t20.12"/>
+        <target id="t20.14"/>
+        <target id="t20.16"/>
+        <target id="t20.17"/>
+        <target id="t20.22"/>
+        <target id="t20.24"/>
+        <target id="t20.25"/>
+        <target id="t20.26"/>
+        <target id="t20.27"/>
+      </span>
+    </chunk>
+    <chunk cid="c20.2" head="t20.3" phrase="pp">
+      <!--van 1918 tot 1932-->
+      <span>
+        <target id="t20.3"/>
+        <target id="t20.5"/>
+        <target id="t20.7"/>
+        <target id="t20.8"/>
+      </span>
+    </chunk>
+    <chunk cid="c20.4" head="t20.5" phrase="np">
+      <!--1918 tot 1932-->
+      <span>
+        <target id="t20.5"/>
+        <target id="t20.7"/>
+        <target id="t20.8"/>
+      </span>
+    </chunk>
+    <chunk cid="c20.6" head="t20.7" phrase="pp">
+      <!--tot 1932-->
+      <span>
+        <target id="t20.7"/>
+        <target id="t20.8"/>
+      </span>
+    </chunk>
+    <chunk cid="c20.11" head="t20.12" phrase="np">
+      <!--bestuurlid van de Vereniging van Vrouwen met een academisch opleiding (VVAO-->
+      <span>
+        <target id="t20.12"/>
+        <target id="t20.14"/>
+        <target id="t20.16"/>
+        <target id="t20.17"/>
+        <target id="t20.22"/>
+        <target id="t20.24"/>
+        <target id="t20.25"/>
+        <target id="t20.26"/>
+        <target id="t20.27"/>
+      </span>
+    </chunk>
+    <chunk cid="c20.13" head="t20.14" phrase="pp">
+      <!--van de Vereniging van Vrouwen met een academisch opleiding (VVAO-->
+      <span>
+        <target id="t20.14"/>
+        <target id="t20.16"/>
+        <target id="t20.17"/>
+        <target id="t20.22"/>
+        <target id="t20.24"/>
+        <target id="t20.25"/>
+        <target id="t20.26"/>
+        <target id="t20.27"/>
+      </span>
+    </chunk>
+    <chunk cid="c20.15" head="t20.17" phrase="np">
+      <!--de Vereniging van Vrouwen met een academisch opleiding (VVAO-->
+      <span>
+        <target id="t20.16"/>
+        <target id="t20.17"/>
+        <target id="t20.22"/>
+        <target id="t20.24"/>
+        <target id="t20.25"/>
+        <target id="t20.26"/>
+        <target id="t20.27"/>
+      </span>
+    </chunk>
+    <chunk cid="c20.21" head="t20.22" phrase="pp">
+      <!--met een academisch opleiding (VVAO-->
+      <span>
+        <target id="t20.22"/>
+        <target id="t20.24"/>
+        <target id="t20.25"/>
+        <target id="t20.26"/>
+        <target id="t20.27"/>
+      </span>
+    </chunk>
+    <chunk cid="c20.23" head="t20.26" phrase="np">
+      <!--een academisch opleiding (VVAO-->
+      <span>
+        <target id="t20.24"/>
+        <target id="t20.25"/>
+        <target id="t20.26"/>
+        <target id="t20.27"/>
+      </span>
+    </chunk>
+    <chunk cid="c21.3" head="t21.5" phrase="smain">
+      <!--daarna worden ze presidente van the International Federation of University Women (IFUW-->
+      <span>
+        <target id="t21.4"/>
+        <target id="t21.5"/>
+        <target id="t21.6"/>
+        <target id="t21.8"/>
+        <target id="t21.10"/>
+        <target id="t21.11"/>
+      </span>
+    </chunk>
+    <chunk cid="c21.7" head="t21.8" phrase="np">
+      <!--presidente van the International Federation of University Women (IFUW-->
+      <span>
+        <target id="t21.8"/>
+        <target id="t21.10"/>
+        <target id="t21.11"/>
+      </span>
+    </chunk>
+    <chunk cid="c21.9" head="t21.10" phrase="pp">
+      <!--van the International Federation of University Women (IFUW-->
+      <span>
+        <target id="t21.10"/>
+        <target id="t21.11"/>
+      </span>
+    </chunk>
+    <chunk cid="c21.19" head="t21.20" phrase="pp">
+      <!--tussen 1932 en 1937-->
+      <span>
+        <target id="t21.20"/>
+        <target id="t21.22"/>
+        <target id="t21.23"/>
+        <target id="t21.24"/>
+      </span>
+    </chunk>
+    <chunk cid="c22.1" head="t22.5" phrase="smain">
+      <!--in 1951 worden zij als tweede vrouw lid van de Koninklijke Nederlandse Academie van Wetenschappen-->
+      <span>
+        <target id="t22.3"/>
+        <target id="t22.4"/>
+        <target id="t22.5"/>
+        <target id="t22.6"/>
+        <target id="t22.8"/>
+        <target id="t22.10"/>
+        <target id="t22.11"/>
+        <target id="t22.13"/>
+        <target id="t22.15"/>
+        <target id="t22.17"/>
+        <target id="t22.18"/>
+        <target id="t22.23"/>
+        <target id="t22.24"/>
+      </span>
+    </chunk>
+    <chunk cid="c22.2" head="t22.3" phrase="pp">
+      <!--in 1951-->
+      <span>
+        <target id="t22.3"/>
+        <target id="t22.4"/>
+      </span>
+    </chunk>
+    <chunk cid="c22.9" head="t22.11" phrase="np">
+      <!--tweede vrouw-->
+      <span>
+        <target id="t22.10"/>
+        <target id="t22.11"/>
+      </span>
+    </chunk>
+    <chunk cid="c22.12" head="t22.13" phrase="np">
+      <!--lid van de Koninklijke Nederlandse Academie van Wetenschappen-->
+      <span>
+        <target id="t22.13"/>
+        <target id="t22.15"/>
+        <target id="t22.17"/>
+        <target id="t22.18"/>
+        <target id="t22.23"/>
+        <target id="t22.24"/>
+      </span>
+    </chunk>
+    <chunk cid="c22.14" head="t22.15" phrase="pp">
+      <!--van de Koninklijke Nederlandse Academie-->
+      <span>
+        <target id="t22.15"/>
+        <target id="t22.17"/>
+        <target id="t22.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c22.16" head="t22.18" phrase="np">
+      <!--de Koninklijke Nederlandse Academie-->
+      <span>
+        <target id="t22.17"/>
+        <target id="t22.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c22.22" head="t22.23" phrase="pp">
+      <!--van Wetenschappen-->
+      <span>
+        <target id="t22.23"/>
+        <target id="t22.24"/>
+      </span>
+    </chunk>
+    <chunk cid="c23.4" head="t23.6" phrase="smain">
+      <!--ze krijgen eredoctoraat aan de universiteit van Upsala (1957-->
+      <span>
+        <target id="t23.5"/>
+        <target id="t23.6"/>
+        <target id="t23.8"/>
+        <target id="t23.10"/>
+        <target id="t23.12"/>
+        <target id="t23.13"/>
+        <target id="t23.15"/>
+        <target id="t23.16"/>
+      </span>
+    </chunk>
+    <chunk cid="c23.7" head="t23.8" phrase="np">
+      <!--eredoctoraat aan de universiteit van Upsala (1957-->
+      <span>
+        <target id="t23.8"/>
+        <target id="t23.10"/>
+        <target id="t23.12"/>
+        <target id="t23.13"/>
+        <target id="t23.15"/>
+        <target id="t23.16"/>
+      </span>
+    </chunk>
+    <chunk cid="c23.9" head="t23.10" phrase="pp">
+      <!--aan de universiteit van Upsala (1957-->
+      <span>
+        <target id="t23.10"/>
+        <target id="t23.12"/>
+        <target id="t23.13"/>
+        <target id="t23.15"/>
+        <target id="t23.16"/>
+      </span>
+    </chunk>
+    <chunk cid="c23.11" head="t23.13" phrase="np">
+      <!--de universiteit van Upsala (1957-->
+      <span>
+        <target id="t23.12"/>
+        <target id="t23.13"/>
+        <target id="t23.15"/>
+        <target id="t23.16"/>
+      </span>
+    </chunk>
+    <chunk cid="c23.14" head="t23.15" phrase="pp">
+      <!--van Upsala (1957-->
+      <span>
+        <target id="t23.15"/>
+        <target id="t23.16"/>
+      </span>
+    </chunk>
+    <chunk cid="c24.2" head="t24.8" phrase="smain">
+      <!--als VVAO -bestuurdlid schrijven ze de brochure-->
+      <span>
+        <target id="t24.4"/>
+        <target id="t24.5"/>
+        <target id="t24.8"/>
+        <target id="t24.9"/>
+        <target id="t24.11"/>
+        <target id="t24.12"/>
+      </span>
+    </chunk>
+    <chunk cid="c24.10" head="t24.12" phrase="np">
+      <!--de brochure-->
+      <span>
+        <target id="t24.11"/>
+        <target id="t24.12"/>
+      </span>
+    </chunk>
+    <chunk cid="c24.13" head="t24.15" phrase="smain">
+      <!--‘Wat hebben het Feminisme de Nederlandsche Vrouw brengen-->
+      <span>
+        <target id="t24.14"/>
+        <target id="t24.15"/>
+        <target id="t24.19"/>
+        <target id="t24.20"/>
+        <target id="t24.25"/>
+      </span>
+    </chunk>
+    <chunk cid="c24.16" head="t24.25" phrase="ppart">
+      <!--het Feminisme de Nederlandsche Vrouw brengen-->
+      <span>
+        <target id="t24.19"/>
+        <target id="t24.20"/>
+        <target id="t24.25"/>
+      </span>
+    </chunk>
+    <chunk cid="c24.18" head="t24.20" phrase="np">
+      <!--het Feminisme de Nederlandsche Vrouw-->
+      <span>
+        <target id="t24.19"/>
+        <target id="t24.20"/>
+      </span>
+    </chunk>
+    <chunk cid="c25.4" head="t25.5" phrase="sv1">
+      <!--hebben het derhalve van haar te verwachten-->
+      <span>
+        <target id="t25.5"/>
+        <target id="t25.6"/>
+        <target id="t25.12"/>
+        <target id="t25.14"/>
+        <target id="t25.15"/>
+        <target id="t25.8"/>
+        <target id="t25.16"/>
+      </span>
+    </chunk>
+    <chunk cid="c25.9" head="t25.16" phrase="inf">
+      <!--derhalve van haar verwachten-->
+      <span>
+        <target id="t25.12"/>
+        <target id="t25.14"/>
+        <target id="t25.15"/>
+        <target id="t25.16"/>
+      </span>
+    </chunk>
+    <chunk cid="c25.13" head="t25.14" phrase="pp">
+      <!--van haar-->
+      <span>
+        <target id="t25.14"/>
+        <target id="t25.15"/>
+      </span>
+    </chunk>
+    <chunk cid="c25.17" head="t25.22" phrase="smain">
+      <!--?’ die brochure zijn bedoeld om meisje met een middelbaar schoolopleiding te stimuleren tot beroepsarbeid en af te laten afzien van een bestaan als huisvrouw-->
+      <span>
+        <target id="t25.19"/>
+        <target id="t25.20"/>
+        <target id="t25.21"/>
+        <target id="t25.22"/>
+        <target id="t25.24"/>
+        <target id="t25.26"/>
+        <target id="t25.31"/>
+        <target id="t25.33"/>
+        <target id="t25.35"/>
+        <target id="t25.36"/>
+        <target id="t25.37"/>
+        <target id="t25.29"/>
+        <target id="t25.38"/>
+        <target id="t25.40"/>
+        <target id="t25.41"/>
+        <target id="t25.42"/>
+        <target id="t25.50"/>
+        <target id="t25.44"/>
+        <target id="t25.47"/>
+        <target id="t25.51"/>
+        <target id="t25.53"/>
+        <target id="t25.55"/>
+        <target id="t25.56"/>
+        <target id="t25.58"/>
+        <target id="t25.59"/>
+      </span>
+    </chunk>
+    <chunk cid="c25.18" head="t25.21" phrase="np">
+      <!--?’ die brochure-->
+      <span>
+        <target id="t25.19"/>
+        <target id="t25.20"/>
+        <target id="t25.21"/>
+      </span>
+    </chunk>
+    <chunk cid="c25.23" head="t25.24" phrase="ppart">
+      <!--bedoeld om meisje met een middelbaar schoolopleiding te stimuleren tot beroepsarbeid en af te laten afzien van een bestaan als huisvrouw-->
+      <span>
+        <target id="t25.24"/>
+        <target id="t25.26"/>
+        <target id="t25.31"/>
+        <target id="t25.33"/>
+        <target id="t25.35"/>
+        <target id="t25.36"/>
+        <target id="t25.37"/>
+        <target id="t25.29"/>
+        <target id="t25.38"/>
+        <target id="t25.40"/>
+        <target id="t25.41"/>
+        <target id="t25.42"/>
+        <target id="t25.50"/>
+        <target id="t25.44"/>
+        <target id="t25.47"/>
+        <target id="t25.51"/>
+        <target id="t25.53"/>
+        <target id="t25.55"/>
+        <target id="t25.56"/>
+        <target id="t25.58"/>
+        <target id="t25.59"/>
+      </span>
+    </chunk>
+    <chunk cid="c25.30" head="t25.38" phrase="inf">
+      <!--meisje met een middelbaar schoolopleiding stimuleren tot beroepsarbeid-->
+      <span>
+        <target id="t25.31"/>
+        <target id="t25.33"/>
+        <target id="t25.35"/>
+        <target id="t25.36"/>
+        <target id="t25.37"/>
+        <target id="t25.38"/>
+        <target id="t25.40"/>
+        <target id="t25.41"/>
+      </span>
+    </chunk>
+    <chunk cid="c25.32" head="t25.33" phrase="pp">
+      <!--met een middelbaar schoolopleiding-->
+      <span>
+        <target id="t25.33"/>
+        <target id="t25.35"/>
+        <target id="t25.36"/>
+        <target id="t25.37"/>
+      </span>
+    </chunk>
+    <chunk cid="c25.34" head="t25.37" phrase="np">
+      <!--een middelbaar schoolopleiding-->
+      <span>
+        <target id="t25.35"/>
+        <target id="t25.36"/>
+        <target id="t25.37"/>
+      </span>
+    </chunk>
+    <chunk cid="c25.39" head="t25.40" phrase="pp">
+      <!--tot beroepsarbeid-->
+      <span>
+        <target id="t25.40"/>
+        <target id="t25.41"/>
+      </span>
+    </chunk>
+    <chunk cid="c25.45" head="t25.47" phrase="inf">
+      <!--af laten afzien van een bestaan als huisvrouw-->
+      <span>
+        <target id="t25.50"/>
+        <target id="t25.47"/>
+        <target id="t25.51"/>
+        <target id="t25.53"/>
+        <target id="t25.55"/>
+        <target id="t25.56"/>
+        <target id="t25.58"/>
+        <target id="t25.59"/>
+      </span>
+    </chunk>
+    <chunk cid="c25.48" head="t25.51" phrase="inf">
+      <!--af afzien van een bestaan als huisvrouw-->
+      <span>
+        <target id="t25.50"/>
+        <target id="t25.51"/>
+        <target id="t25.53"/>
+        <target id="t25.55"/>
+        <target id="t25.56"/>
+        <target id="t25.58"/>
+        <target id="t25.59"/>
+      </span>
+    </chunk>
+    <chunk cid="c25.52" head="t25.53" phrase="pp">
+      <!--van een bestaan als huisvrouw-->
+      <span>
+        <target id="t25.53"/>
+        <target id="t25.55"/>
+        <target id="t25.56"/>
+        <target id="t25.58"/>
+        <target id="t25.59"/>
+      </span>
+    </chunk>
+    <chunk cid="c25.54" head="t25.56" phrase="np">
+      <!--een bestaan als huisvrouw-->
+      <span>
+        <target id="t25.55"/>
+        <target id="t25.56"/>
+        <target id="t25.58"/>
+        <target id="t25.59"/>
+      </span>
+    </chunk>
+  </chunks>
+</KAF>

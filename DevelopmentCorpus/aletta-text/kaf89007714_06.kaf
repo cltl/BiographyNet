@@ -1,0 +1,2139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<KAF xml:lang="nl">
+  <kafHeader>
+    <linguisticProcessors layer="text">
+      <lp name="TreeTagger" timestamp="2014-06-16T17:15:35CEST" version="1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp name="TreeTagger" timestamp="2014-06-16T17:15:35CEST" version="1.0"/>
+    </linguisticProcessors>
+  </kafHeader>
+  <text>
+    <wf para="1" sent="1" wid="w_1">Ze</wf>
+    <wf para="1" sent="1" wid="w_2">was</wf>
+    <wf para="1" sent="1" wid="w_3">de</wf>
+    <wf para="1" sent="1" wid="w_4">dochter</wf>
+    <wf para="1" sent="1" wid="w_5">van</wf>
+    <wf para="1" sent="1" wid="w_6">Bernard</wf>
+    <wf para="1" sent="1" wid="w_7">Westerdijk</wf>
+    <wf para="1" sent="1" wid="w_8">,</wf>
+    <wf para="1" sent="1" wid="w_9">arts</wf>
+    <wf para="1" sent="1" wid="w_10">,</wf>
+    <wf para="1" sent="1" wid="w_11">en</wf>
+    <wf para="1" sent="1" wid="w_12">Aleida</wf>
+    <wf para="1" sent="1" wid="w_13">Catharina</wf>
+    <wf para="1" sent="1" wid="w_14">Scheffer</wf>
+    <wf para="1" sent="1" wid="w_15">.</wf>
+    <wf para="1" sent="2" wid="w_16">Ze</wf>
+    <wf para="1" sent="2" wid="w_17">studeerde</wf>
+    <wf para="1" sent="2" wid="w_18">biologie</wf>
+    <wf para="1" sent="2" wid="w_19">en</wf>
+    <wf para="1" sent="2" wid="w_20">promoveerde</wf>
+    <wf para="1" sent="2" wid="w_21">in</wf>
+    <wf para="1" sent="2" wid="w_22">1906.</wf>
+    <wf para="1" sent="2" wid="w_23">Ze</wf>
+    <wf para="1" sent="2" wid="w_24">werd</wf>
+    <wf para="1" sent="2" wid="w_25">directrice</wf>
+    <wf para="1" sent="2" wid="w_26">van</wf>
+    <wf para="1" sent="2" wid="w_27">het</wf>
+    <wf para="1" sent="2" wid="w_28">fytopathologisch</wf>
+    <wf para="1" sent="2" wid="w_29">laboratorium</wf>
+    <wf para="1" sent="2" wid="w_30">Willy</wf>
+    <wf para="1" sent="2" wid="w_31">Commelin</wf>
+    <wf para="1" sent="2" wid="w_32">Scholten</wf>
+    <wf para="1" sent="2" wid="w_33">(</wf>
+    <wf para="1" sent="2" wid="w_34">WCS</wf>
+    <wf para="1" sent="2" wid="w_35">)</wf>
+    <wf para="1" sent="2" wid="w_36">in</wf>
+    <wf para="1" sent="2" wid="w_37">Amsterdam</wf>
+    <wf para="1" sent="2" wid="w_38">.</wf>
+    <wf para="1" sent="3" wid="w_39">In</wf>
+    <wf para="1" sent="3" wid="w_40">1907</wf>
+    <wf para="1" sent="3" wid="w_41">kreeg</wf>
+    <wf para="1" sent="3" wid="w_42">Johanna</wf>
+    <wf para="1" sent="3" wid="w_43">Westerdijk</wf>
+    <wf para="1" sent="3" wid="w_44">van</wf>
+    <wf para="1" sent="3" wid="w_45">professor</wf>
+    <wf para="1" sent="3" wid="w_46">F.</wf>
+    <wf para="1" sent="3" wid="w_47">A.</wf>
+    <wf para="1" sent="3" wid="w_48">F.</wf>
+    <wf para="1" sent="3" wid="w_49">C.</wf>
+    <wf para="1" sent="3" wid="w_50">Went</wf>
+    <wf para="1" sent="3" wid="w_51">uit</wf>
+    <wf para="1" sent="3" wid="w_52">Utrecht</wf>
+    <wf para="1" sent="3" wid="w_53">een</wf>
+    <wf para="1" sent="3" wid="w_54">collectie</wf>
+    <wf para="1" sent="3" wid="w_55">levende</wf>
+    <wf para="1" sent="3" wid="w_56">schimmels</wf>
+    <wf para="1" sent="3" wid="w_57">.</wf>
+    <wf para="1" sent="4" wid="w_58">Op</wf>
+    <wf para="1" sent="4" wid="w_59">basis</wf>
+    <wf para="1" sent="4" wid="w_60">daarvan</wf>
+    <wf para="1" sent="4" wid="w_61">ontwikkelde</wf>
+    <wf para="1" sent="4" wid="w_62">zij</wf>
+    <wf para="1" sent="4" wid="w_63">het</wf>
+    <wf para="1" sent="4" wid="w_64">Centraal</wf>
+    <wf para="1" sent="4" wid="w_65">Bureau</wf>
+    <wf para="1" sent="4" wid="w_66">voor</wf>
+    <wf para="1" sent="4" wid="w_67">Schimmelcultures</wf>
+    <wf para="1" sent="4" wid="w_68">(</wf>
+    <wf para="1" sent="4" wid="w_69">CBS</wf>
+    <wf para="1" sent="4" wid="w_70">)</wf>
+    <wf para="1" sent="4" wid="w_71">met</wf>
+    <wf para="1" sent="4" wid="w_72">de</wf>
+    <wf para="1" sent="4" wid="w_73">grootste</wf>
+    <wf para="1" sent="4" wid="w_74">verzameling</wf>
+    <wf para="1" sent="4" wid="w_75">schimmels</wf>
+    <wf para="1" sent="4" wid="w_76">ter</wf>
+    <wf para="1" sent="4" wid="w_77">wereld</wf>
+    <wf para="1" sent="4" wid="w_78">.</wf>
+    <wf para="1" sent="5" wid="w_79">Het</wf>
+    <wf para="1" sent="5" wid="w_80">laboratorium</wf>
+    <wf para="1" sent="5" wid="w_81">verhuisde</wf>
+    <wf para="1" sent="5" wid="w_82">in</wf>
+    <wf para="1" sent="5" wid="w_83">1921</wf>
+    <wf para="1" sent="5" wid="w_84">naar</wf>
+    <wf para="1" sent="5" wid="w_85">Baarn</wf>
+    <wf para="1" sent="5" wid="w_86">.</wf>
+    <wf para="1" sent="6" wid="w_87">Vanaf</wf>
+    <wf para="1" sent="6" wid="w_88">1913</wf>
+    <wf para="1" sent="6" wid="w_89">bestudeerde</wf>
+    <wf para="1" sent="6" wid="w_90">ze</wf>
+    <wf para="1" sent="6" wid="w_91">in</wf>
+    <wf para="1" sent="6" wid="w_92">Nederlands-Indië</wf>
+    <wf para="1" sent="6" wid="w_93">ziekten</wf>
+    <wf para="1" sent="6" wid="w_94">van</wf>
+    <wf para="1" sent="6" wid="w_95">tropische</wf>
+    <wf para="1" sent="6" wid="w_96">cultuurgewassen</wf>
+    <wf para="1" sent="6" wid="w_97">.</wf>
+    <wf para="1" sent="7" wid="w_98">Ze</wf>
+    <wf para="1" sent="7" wid="w_99">maakte</wf>
+    <wf para="1" sent="7" wid="w_100">studiereizen</wf>
+    <wf para="1" sent="7" wid="w_101">in</wf>
+    <wf para="1" sent="7" wid="w_102">China</wf>
+    <wf para="1" sent="7" wid="w_103">,</wf>
+    <wf para="1" sent="7" wid="w_104">Japan</wf>
+    <wf para="1" sent="7" wid="w_105">en</wf>
+    <wf para="1" sent="7" wid="w_106">de</wf>
+    <wf para="1" sent="7" wid="w_107">Verenigde</wf>
+    <wf para="1" sent="7" wid="w_108">Staten</wf>
+    <wf para="1" sent="7" wid="w_109">.</wf>
+    <wf para="1" sent="8" wid="w_110">In</wf>
+    <wf para="1" sent="8" wid="w_111">1917</wf>
+    <wf para="1" sent="8" wid="w_112">werd</wf>
+    <wf para="1" sent="8" wid="w_113">Westerdijk</wf>
+    <wf para="1" sent="8" wid="w_114">buitengewoon</wf>
+    <wf para="1" sent="8" wid="w_115">hoogleraar</wf>
+    <wf para="1" sent="8" wid="w_116">in</wf>
+    <wf para="1" sent="8" wid="w_117">de</wf>
+    <wf para="1" sent="8" wid="w_118">plantenziekten</wf>
+    <wf para="1" sent="8" wid="w_119">te</wf>
+    <wf para="1" sent="8" wid="w_120">Utrecht</wf>
+    <wf para="1" sent="8" wid="w_121">.</wf>
+    <wf para="1" sent="9" wid="w_122">Ze</wf>
+    <wf para="1" sent="9" wid="w_123">was</wf>
+    <wf para="1" sent="9" wid="w_124">daarmee</wf>
+    <wf para="1" sent="9" wid="w_125">de</wf>
+    <wf para="1" sent="9" wid="w_126">eerste</wf>
+    <wf para="1" sent="9" wid="w_127">vrouwelijke</wf>
+    <wf para="1" sent="9" wid="w_128">hoogleraar</wf>
+    <wf para="1" sent="9" wid="w_129">in</wf>
+    <wf para="1" sent="9" wid="w_130">Nederland</wf>
+    <wf para="1" sent="9" wid="w_131">.</wf>
+    <wf para="1" sent="10" wid="w_132">In</wf>
+    <wf para="1" sent="10" wid="w_133">1930</wf>
+    <wf para="1" sent="10" wid="w_134">werd</wf>
+    <wf para="1" sent="10" wid="w_135">ze</wf>
+    <wf para="1" sent="10" wid="w_136">bovendien</wf>
+    <wf para="1" sent="10" wid="w_137">buitengewoon</wf>
+    <wf para="1" sent="10" wid="w_138">hoogleraar</wf>
+    <wf para="1" sent="10" wid="w_139">in</wf>
+    <wf para="1" sent="10" wid="w_140">de</wf>
+    <wf para="1" sent="10" wid="w_141">fytopathologie</wf>
+    <wf para="1" sent="10" wid="w_142">te</wf>
+    <wf para="1" sent="10" wid="w_143">Amsterdam</wf>
+    <wf para="1" sent="10" wid="w_144">.</wf>
+    <wf para="1" sent="11" wid="w_145">Op</wf>
+    <wf para="1" sent="11" wid="w_146">de</wf>
+    <wf para="1" sent="11" wid="w_147">Universiteit</wf>
+    <wf para="1" sent="11" wid="w_148">Utrecht</wf>
+    <wf para="1" sent="11" wid="w_149">kwam</wf>
+    <wf para="1" sent="11" wid="w_150">Westerdijk</wf>
+    <wf para="1" sent="11" wid="w_151">terecht</wf>
+    <wf para="1" sent="11" wid="w_152">in</wf>
+    <wf para="1" sent="11" wid="w_153">een</wf>
+    <wf para="1" sent="11" wid="w_154">mannenwereld</wf>
+    <wf para="1" sent="11" wid="w_155">.</wf>
+    <wf para="1" sent="12" wid="w_156">Haar</wf>
+    <wf para="1" sent="12" wid="w_157">collega’s</wf>
+    <wf para="1" sent="12" wid="w_158">op</wf>
+    <wf para="1" sent="12" wid="w_159">de</wf>
+    <wf para="1" sent="12" wid="w_160">faculteit</wf>
+    <wf para="1" sent="12" wid="w_161">plantkunde</wf>
+    <wf para="1" sent="12" wid="w_162">konden</wf>
+    <wf para="1" sent="12" wid="w_163">de</wf>
+    <wf para="1" sent="12" wid="w_164">vrouwelijke</wf>
+    <wf para="1" sent="12" wid="w_165">hoogleraar</wf>
+    <wf para="1" sent="12" wid="w_166">maar</wf>
+    <wf para="1" sent="12" wid="w_167">moeilijk</wf>
+    <wf para="1" sent="12" wid="w_168">accepteren</wf>
+    <wf para="1" sent="12" wid="w_169">.</wf>
+    <wf para="1" sent="13" wid="w_170">Westerdijk</wf>
+    <wf para="1" sent="13" wid="w_171">trok</wf>
+    <wf para="1" sent="13" wid="w_172">zich</wf>
+    <wf para="1" sent="13" wid="w_173">daar</wf>
+    <wf para="1" sent="13" wid="w_174">niet</wf>
+    <wf para="1" sent="13" wid="w_175">veel</wf>
+    <wf para="1" sent="13" wid="w_176">van</wf>
+    <wf para="1" sent="13" wid="w_177">aan</wf>
+    <wf para="1" sent="13" wid="w_178">.</wf>
+    <wf para="1" sent="14" wid="w_179">Ze</wf>
+    <wf para="1" sent="14" wid="w_180">was</wf>
+    <wf para="1" sent="14" wid="w_181">een</wf>
+    <wf para="1" sent="14" wid="w_182">grote</wf>
+    <wf para="1" sent="14" wid="w_183">stimulans</wf>
+    <wf para="1" sent="14" wid="w_184">voor</wf>
+    <wf para="1" sent="14" wid="w_185">vrouwelijke</wf>
+    <wf para="1" sent="14" wid="w_186">studenten</wf>
+    <wf para="1" sent="14" wid="w_187">in</wf>
+    <wf para="1" sent="14" wid="w_188">de</wf>
+    <wf para="1" sent="14" wid="w_189">biologie</wf>
+    <wf para="1" sent="14" wid="w_190">en</wf>
+    <wf para="1" sent="14" wid="w_191">spoorde</wf>
+    <wf para="1" sent="14" wid="w_192">hen</wf>
+    <wf para="1" sent="14" wid="w_193">aan</wf>
+    <wf para="1" sent="14" wid="w_194">zich</wf>
+    <wf para="1" sent="14" wid="w_195">vrij</wf>
+    <wf para="1" sent="14" wid="w_196">te</wf>
+    <wf para="1" sent="14" wid="w_197">vechten</wf>
+    <wf para="1" sent="14" wid="w_198">van</wf>
+    <wf para="1" sent="14" wid="w_199">hun</wf>
+    <wf para="1" sent="14" wid="w_200">huishoudelijke</wf>
+    <wf para="1" sent="14" wid="w_201">plichten</wf>
+    <wf para="1" sent="14" wid="w_202">.</wf>
+    <wf para="1" sent="15" wid="w_203">Als</wf>
+    <wf para="1" sent="15" wid="w_204">rolmodel</wf>
+    <wf para="1" sent="15" wid="w_205">was</wf>
+    <wf para="1" sent="15" wid="w_206">ze</wf>
+    <wf para="1" sent="15" wid="w_207">zeer</wf>
+    <wf para="1" sent="15" wid="w_208">belangrijk</wf>
+    <wf para="1" sent="15" wid="w_209">voor</wf>
+    <wf para="1" sent="15" wid="w_210">vrouwen</wf>
+    <wf para="1" sent="15" wid="w_211">.</wf>
+    <wf para="1" sent="16" wid="w_212">Johanna</wf>
+    <wf para="1" sent="16" wid="w_213">Westerdijk</wf>
+    <wf para="1" sent="16" wid="w_214">stond</wf>
+    <wf para="1" sent="16" wid="w_215">bekend</wf>
+    <wf para="1" sent="16" wid="w_216">als</wf>
+    <wf para="1" sent="16" wid="w_217">gastvrij</wf>
+    <wf para="1" sent="16" wid="w_218">en</wf>
+    <wf para="1" sent="16" wid="w_219">muzikaal</wf>
+    <wf para="1" sent="16" wid="w_220">en</wf>
+    <wf para="1" sent="16" wid="w_221">hield</wf>
+    <wf para="1" sent="16" wid="w_222">erg</wf>
+    <wf para="1" sent="16" wid="w_223">van</wf>
+    <wf para="1" sent="16" wid="w_224">feestjes</wf>
+    <wf para="1" sent="16" wid="w_225">.</wf>
+    <wf para="1" sent="17" wid="w_226">Westerdijk</wf>
+    <wf para="1" sent="17" wid="w_227">was</wf>
+    <wf para="1" sent="17" wid="w_228">actief</wf>
+    <wf para="1" sent="17" wid="w_229">in</wf>
+    <wf para="1" sent="17" wid="w_230">universitaire</wf>
+    <wf para="1" sent="17" wid="w_231">vrouwenverenigingen</wf>
+    <wf para="1" sent="17" wid="w_232">.</wf>
+    <wf para="1" sent="18" wid="w_233">Van</wf>
+    <wf para="1" sent="18" wid="w_234">1918</wf>
+    <wf para="1" sent="18" wid="w_235">tot</wf>
+    <wf para="1" sent="18" wid="w_236">1932</wf>
+    <wf para="1" sent="18" wid="w_237">was</wf>
+    <wf para="1" sent="18" wid="w_238">ze</wf>
+    <wf para="1" sent="18" wid="w_239">bestuurlid</wf>
+    <wf para="1" sent="18" wid="w_240">van</wf>
+    <wf para="1" sent="18" wid="w_241">de</wf>
+    <wf para="1" sent="18" wid="w_242">Vereniging</wf>
+    <wf para="1" sent="18" wid="w_243">van</wf>
+    <wf para="1" sent="18" wid="w_244">Vrouwen</wf>
+    <wf para="1" sent="18" wid="w_245">met</wf>
+    <wf para="1" sent="18" wid="w_246">een</wf>
+    <wf para="1" sent="18" wid="w_247">Academische</wf>
+    <wf para="1" sent="18" wid="w_248">Opleiding</wf>
+    <wf para="1" sent="18" wid="w_249">(</wf>
+    <wf para="1" sent="18" wid="w_250">VVAO</wf>
+    <wf para="1" sent="18" wid="w_251">)</wf>
+    <wf para="1" sent="18" wid="w_252">.</wf>
+    <wf para="1" sent="19" wid="w_253">Daarna</wf>
+    <wf para="1" sent="19" wid="w_254">werd</wf>
+    <wf para="1" sent="19" wid="w_255">ze</wf>
+    <wf para="1" sent="19" wid="w_256">presidente</wf>
+    <wf para="1" sent="19" wid="w_257">van</wf>
+    <wf para="1" sent="19" wid="w_258">the</wf>
+    <wf para="1" sent="19" wid="w_259">International</wf>
+    <wf para="1" sent="19" wid="w_260">Federation</wf>
+    <wf para="1" sent="19" wid="w_261">of</wf>
+    <wf para="1" sent="19" wid="w_262">University</wf>
+    <wf para="1" sent="19" wid="w_263">Women</wf>
+    <wf para="1" sent="19" wid="w_264">(</wf>
+    <wf para="1" sent="19" wid="w_265">IFUW</wf>
+    <wf para="1" sent="19" wid="w_266">)</wf>
+    <wf para="1" sent="19" wid="w_267">tussen</wf>
+    <wf para="1" sent="19" wid="w_268">1932</wf>
+    <wf para="1" sent="19" wid="w_269">en</wf>
+    <wf para="1" sent="19" wid="w_270">1937.</wf>
+    <wf para="1" sent="19" wid="w_271">In</wf>
+    <wf para="1" sent="19" wid="w_272">1951</wf>
+    <wf para="1" sent="19" wid="w_273">werd</wf>
+    <wf para="1" sent="19" wid="w_274">zij</wf>
+    <wf para="1" sent="19" wid="w_275">als</wf>
+    <wf para="1" sent="19" wid="w_276">tweede</wf>
+    <wf para="1" sent="19" wid="w_277">vrouw</wf>
+    <wf para="1" sent="19" wid="w_278">lid</wf>
+    <wf para="1" sent="19" wid="w_279">van</wf>
+    <wf para="1" sent="19" wid="w_280">de</wf>
+    <wf para="1" sent="19" wid="w_281">Koninklijke</wf>
+    <wf para="1" sent="19" wid="w_282">Nederlandse</wf>
+    <wf para="1" sent="19" wid="w_283">Academie</wf>
+    <wf para="1" sent="19" wid="w_284">van</wf>
+    <wf para="1" sent="19" wid="w_285">Wetenschappen</wf>
+    <wf para="1" sent="19" wid="w_286">.</wf>
+    <wf para="1" sent="20" wid="w_287">Ze</wf>
+    <wf para="1" sent="20" wid="w_288">kreeg</wf>
+    <wf para="1" sent="20" wid="w_289">eredoctoraten</wf>
+    <wf para="1" sent="20" wid="w_290">aan</wf>
+    <wf para="1" sent="20" wid="w_291">de</wf>
+    <wf para="1" sent="20" wid="w_292">universiteiten</wf>
+    <wf para="1" sent="20" wid="w_293">van</wf>
+    <wf para="1" sent="20" wid="w_294">Upsala</wf>
+    <wf para="1" sent="20" wid="w_295">(</wf>
+    <wf para="1" sent="20" wid="w_296">1957</wf>
+    <wf para="1" sent="20" wid="w_297">)</wf>
+    <wf para="1" sent="20" wid="w_298">en</wf>
+    <wf para="1" sent="20" wid="w_299">Giessen</wf>
+    <wf para="1" sent="20" wid="w_300">(</wf>
+    <wf para="1" sent="20" wid="w_301">1958</wf>
+    <wf para="1" sent="20" wid="w_302">)</wf>
+    <wf para="1" sent="20" wid="w_303">.</wf>
+    <wf para="1" sent="21" wid="w_304">Als</wf>
+    <wf para="1" sent="21" wid="w_305">VVAO-bestuurdlid</wf>
+    <wf para="1" sent="21" wid="w_306">schreef</wf>
+    <wf para="1" sent="21" wid="w_307">ze</wf>
+    <wf para="1" sent="21" wid="w_308">de</wf>
+    <wf para="1" sent="21" wid="w_309">brochure</wf>
+    <wf para="1" sent="21" wid="w_310">‘</wf>
+    <wf para="1" sent="21" wid="w_311">Wat</wf>
+    <wf para="1" sent="21" wid="w_312">heeft</wf>
+    <wf para="1" sent="21" wid="w_313">het</wf>
+    <wf para="1" sent="21" wid="w_314">Feminisme</wf>
+    <wf para="1" sent="21" wid="w_315">de</wf>
+    <wf para="1" sent="21" wid="w_316">Nederlandsche</wf>
+    <wf para="1" sent="21" wid="w_317">Vrouw</wf>
+    <wf para="1" sent="21" wid="w_318">gebracht</wf>
+    <wf para="1" sent="21" wid="w_319">?</wf>
+    <wf para="1" sent="22" wid="w_320">Wat</wf>
+    <wf para="1" sent="22" wid="w_321">heeft</wf>
+    <wf para="1" sent="22" wid="w_322">het</wf>
+    <wf para="1" sent="22" wid="w_323">derhalve</wf>
+    <wf para="1" sent="22" wid="w_324">van</wf>
+    <wf para="1" sent="22" wid="w_325">haar</wf>
+    <wf para="1" sent="22" wid="w_326">te</wf>
+    <wf para="1" sent="22" wid="w_327">verwachten</wf>
+    <wf para="1" sent="22" wid="w_328">?</wf>
+    <wf para="1" sent="23" wid="w_329">’</wf>
+    <wf para="1" sent="23" wid="w_330">Die</wf>
+    <wf para="1" sent="23" wid="w_331">brochure</wf>
+    <wf para="1" sent="23" wid="w_332">was</wf>
+    <wf para="1" sent="23" wid="w_333">bedoeld</wf>
+    <wf para="1" sent="23" wid="w_334">om</wf>
+    <wf para="1" sent="23" wid="w_335">meisjes</wf>
+    <wf para="1" sent="23" wid="w_336">met</wf>
+    <wf para="1" sent="23" wid="w_337">een</wf>
+    <wf para="1" sent="23" wid="w_338">middelbare</wf>
+    <wf para="1" sent="23" wid="w_339">schoolopleiding</wf>
+    <wf para="1" sent="23" wid="w_340">te</wf>
+    <wf para="1" sent="23" wid="w_341">stimuleren</wf>
+    <wf para="1" sent="23" wid="w_342">tot</wf>
+    <wf para="1" sent="23" wid="w_343">beroepsarbeid</wf>
+    <wf para="1" sent="23" wid="w_344">en</wf>
+    <wf para="1" sent="23" wid="w_345">af</wf>
+    <wf para="1" sent="23" wid="w_346">te</wf>
+    <wf para="1" sent="23" wid="w_347">laten</wf>
+    <wf para="1" sent="23" wid="w_348">zien</wf>
+    <wf para="1" sent="23" wid="w_349">van</wf>
+    <wf para="1" sent="23" wid="w_350">een</wf>
+    <wf para="1" sent="23" wid="w_351">bestaan</wf>
+    <wf para="1" sent="23" wid="w_352">als</wf>
+    <wf para="1" sent="23" wid="w_353">huisvrouw</wf>
+    <wf para="1" sent="23" wid="w_354">.</wf>
+  </text>
+  <terms>
+    <term lemma="ze" morphofeat="pronpers" pos="Q" tid="t_1" type="close">
+      <span>
+        <target id="w_1"/>
+      </span>
+    </term>
+    <term lemma="wezen|zijn" morphofeat="verbpastsg" pos="V" tid="t_2" type="open">
+      <span>
+        <target id="w_2"/>
+      </span>
+    </term>
+    <term lemma="de" morphofeat="det__art" pos="D" tid="t_3" type="close">
+      <span>
+        <target id="w_3"/>
+      </span>
+    </term>
+    <term lemma="dochter" morphofeat="nounsg" pos="N" tid="t_4" type="open">
+      <span>
+        <target id="w_4"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="prep" pos="P" tid="t_5" type="close">
+      <span>
+        <target id="w_5"/>
+      </span>
+    </term>
+    <term lemma="Bernard" morphofeat="nounsg unknown_lemma" pos="O" tid="t_6" type="open">
+      <span>
+        <target id="w_6"/>
+      </span>
+    </term>
+    <term lemma="Westerdijk" morphofeat="nounprop unknown_lemma" pos="O" tid="t_7" type="open">
+      <span>
+        <target id="w_7"/>
+      </span>
+    </term>
+    <term lemma="," morphofeat="punc" pos="O" tid="t_8" type="open">
+      <span>
+        <target id="w_8"/>
+      </span>
+    </term>
+    <term lemma="arts" morphofeat="nounsg" pos="N" tid="t_9" type="open">
+      <span>
+        <target id="w_9"/>
+      </span>
+    </term>
+    <term lemma="," morphofeat="punc" pos="O" tid="t_10" type="open">
+      <span>
+        <target id="w_10"/>
+      </span>
+    </term>
+    <term lemma="en" morphofeat="conjcoord" pos="C" tid="t_11" type="close">
+      <span>
+        <target id="w_11"/>
+      </span>
+    </term>
+    <term lemma="Aleida" morphofeat="nounsg unknown_lemma" pos="O" tid="t_12" type="open">
+      <span>
+        <target id="w_12"/>
+      </span>
+    </term>
+    <term lemma="Catharina" morphofeat="nounsg unknown_lemma" pos="O" tid="t_13" type="open">
+      <span>
+        <target id="w_13"/>
+      </span>
+    </term>
+    <term lemma="Scheffer" morphofeat="nounsg unknown_lemma" pos="O" tid="t_14" type="open">
+      <span>
+        <target id="w_14"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_15" type="open">
+      <span>
+        <target id="w_15"/>
+      </span>
+    </term>
+    <term lemma="ze" morphofeat="pronpers" pos="Q" tid="t_16" type="close">
+      <span>
+        <target id="w_16"/>
+      </span>
+    </term>
+    <term lemma="studeren" morphofeat="verbpastsg" pos="V" tid="t_17" type="open">
+      <span>
+        <target id="w_17"/>
+      </span>
+    </term>
+    <term lemma="biologie" morphofeat="nounsg" pos="N" tid="t_18" type="open">
+      <span>
+        <target id="w_18"/>
+      </span>
+    </term>
+    <term lemma="en" morphofeat="conjcoord" pos="C" tid="t_19" type="close">
+      <span>
+        <target id="w_19"/>
+      </span>
+    </term>
+    <term lemma="promoveren" morphofeat="verbpastsg" pos="V" tid="t_20" type="open">
+      <span>
+        <target id="w_20"/>
+      </span>
+    </term>
+    <term lemma="in" morphofeat="prep" pos="P" tid="t_21" type="close">
+      <span>
+        <target id="w_21"/>
+      </span>
+    </term>
+    <term lemma="@ord@" morphofeat="num__ord" pos="O" tid="t_22" type="open">
+      <span>
+        <target id="w_22"/>
+      </span>
+    </term>
+    <term lemma="Ze" morphofeat="nounsg unknown_lemma" pos="O" tid="t_23" type="open">
+      <span>
+        <target id="w_23"/>
+      </span>
+    </term>
+    <term lemma="worden" morphofeat="verbpastsg" pos="V" tid="t_24" type="open">
+      <span>
+        <target id="w_24"/>
+      </span>
+    </term>
+    <term lemma="directrice" morphofeat="nounsg" pos="N" tid="t_25" type="open">
+      <span>
+        <target id="w_25"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="prep" pos="P" tid="t_26" type="close">
+      <span>
+        <target id="w_26"/>
+      </span>
+    </term>
+    <term lemma="het" morphofeat="det__art" pos="D" tid="t_27" type="close">
+      <span>
+        <target id="w_27"/>
+      </span>
+    </term>
+    <term lemma="fytopathologisch" morphofeat="adj unknown_lemma" pos="O" tid="t_28" type="open">
+      <span>
+        <target id="w_28"/>
+      </span>
+    </term>
+    <term lemma="laboratorium" morphofeat="nounsg" pos="N" tid="t_29" type="open">
+      <span>
+        <target id="w_29"/>
+      </span>
+    </term>
+    <term lemma="Willy" morphofeat="adj unknown_lemma" pos="O" tid="t_30" type="open">
+      <span>
+        <target id="w_30"/>
+      </span>
+    </term>
+    <term lemma="Commelin" morphofeat="adj unknown_lemma" pos="O" tid="t_31" type="open">
+      <span>
+        <target id="w_31"/>
+      </span>
+    </term>
+    <term lemma="Scholten" morphofeat="nounpl unknown_lemma" pos="O" tid="t_32" type="open">
+      <span>
+        <target id="w_32"/>
+      </span>
+    </term>
+    <term lemma="(" morphofeat="punc" pos="O" tid="t_33" type="open">
+      <span>
+        <target id="w_33"/>
+      </span>
+    </term>
+    <term lemma="WCS" morphofeat="nounpl unknown_lemma" pos="O" tid="t_34" type="open">
+      <span>
+        <target id="w_34"/>
+      </span>
+    </term>
+    <term lemma=")" morphofeat="punc" pos="O" tid="t_35" type="open">
+      <span>
+        <target id="w_35"/>
+      </span>
+    </term>
+    <term lemma="in" morphofeat="prep" pos="P" tid="t_36" type="close">
+      <span>
+        <target id="w_36"/>
+      </span>
+    </term>
+    <term lemma="Amsterdam" morphofeat="nounprop" pos="R" tid="t_37" type="open">
+      <span>
+        <target id="w_37"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_38" type="open">
+      <span>
+        <target id="w_38"/>
+      </span>
+    </term>
+    <term lemma="in" morphofeat="prep" pos="P" tid="t_39" type="close">
+      <span>
+        <target id="w_39"/>
+      </span>
+    </term>
+    <term lemma="@card@" morphofeat="num__card" pos="O" tid="t_40" type="open">
+      <span>
+        <target id="w_40"/>
+      </span>
+    </term>
+    <term lemma="krijgen" morphofeat="verbpastsg" pos="V" tid="t_41" type="open">
+      <span>
+        <target id="w_41"/>
+      </span>
+    </term>
+    <term lemma="Johanna" morphofeat="nounsg unknown_lemma" pos="O" tid="t_42" type="open">
+      <span>
+        <target id="w_42"/>
+      </span>
+    </term>
+    <term lemma="Westerdijk" morphofeat="nounprop unknown_lemma" pos="O" tid="t_43" type="open">
+      <span>
+        <target id="w_43"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="prep" pos="P" tid="t_44" type="close">
+      <span>
+        <target id="w_44"/>
+      </span>
+    </term>
+    <term lemma="professor" morphofeat="nounsg" pos="N" tid="t_45" type="open">
+      <span>
+        <target id="w_45"/>
+      </span>
+    </term>
+    <term lemma="F." morphofeat="nounabbr" pos="N" tid="t_46" type="open">
+      <span>
+        <target id="w_46"/>
+      </span>
+    </term>
+    <term lemma="A." morphofeat="num__ord" pos="O" tid="t_47" type="open">
+      <span>
+        <target id="w_47"/>
+      </span>
+    </term>
+    <term lemma="F." morphofeat="nounabbr" pos="N" tid="t_48" type="open">
+      <span>
+        <target id="w_48"/>
+      </span>
+    </term>
+    <term lemma="C." morphofeat="num__ord" pos="O" tid="t_49" type="open">
+      <span>
+        <target id="w_49"/>
+      </span>
+    </term>
+    <term lemma="Went" morphofeat="nounsg unknown_lemma" pos="O" tid="t_50" type="open">
+      <span>
+        <target id="w_50"/>
+      </span>
+    </term>
+    <term lemma="uit" morphofeat="prep" pos="P" tid="t_51" type="close">
+      <span>
+        <target id="w_51"/>
+      </span>
+    </term>
+    <term lemma="Utrecht" morphofeat="nounprop" pos="R" tid="t_52" type="open">
+      <span>
+        <target id="w_52"/>
+      </span>
+    </term>
+    <term lemma="een" morphofeat="det__art" pos="D" tid="t_53" type="close">
+      <span>
+        <target id="w_53"/>
+      </span>
+    </term>
+    <term lemma="collectie" morphofeat="nounsg" pos="N" tid="t_54" type="open">
+      <span>
+        <target id="w_54"/>
+      </span>
+    </term>
+    <term lemma="leven" morphofeat="verbpresp" pos="V" tid="t_55" type="open">
+      <span>
+        <target id="w_55"/>
+      </span>
+    </term>
+    <term lemma="schimmel" morphofeat="nounpl" pos="N" tid="t_56" type="open">
+      <span>
+        <target id="w_56"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_57" type="open">
+      <span>
+        <target id="w_57"/>
+      </span>
+    </term>
+    <term lemma="op" morphofeat="prep" pos="P" tid="t_58" type="close">
+      <span>
+        <target id="w_58"/>
+      </span>
+    </term>
+    <term lemma="basis" morphofeat="nounsg" pos="N" tid="t_59" type="open">
+      <span>
+        <target id="w_59"/>
+      </span>
+    </term>
+    <term lemma="daarvan" morphofeat="pronadv" pos="Q" tid="t_60" type="close">
+      <span>
+        <target id="w_60"/>
+      </span>
+    </term>
+    <term lemma="ontwikkelen" morphofeat="verbpastsg" pos="V" tid="t_61" type="open">
+      <span>
+        <target id="w_61"/>
+      </span>
+    </term>
+    <term lemma="zij" morphofeat="pronpers" pos="Q" tid="t_62" type="close">
+      <span>
+        <target id="w_62"/>
+      </span>
+    </term>
+    <term lemma="het" morphofeat="det__art" pos="D" tid="t_63" type="close">
+      <span>
+        <target id="w_63"/>
+      </span>
+    </term>
+    <term lemma="centraal" morphofeat="adj" pos="G" tid="t_64" type="open">
+      <span>
+        <target id="w_64"/>
+      </span>
+    </term>
+    <term lemma="bureau" morphofeat="nounsg" pos="N" tid="t_65" type="open">
+      <span>
+        <target id="w_65"/>
+      </span>
+    </term>
+    <term lemma="voor" morphofeat="prep" pos="P" tid="t_66" type="close">
+      <span>
+        <target id="w_66"/>
+      </span>
+    </term>
+    <term lemma="Schimmelcultures" morphofeat="nounpl unknown_lemma" pos="O" tid="t_67" type="open">
+      <span>
+        <target id="w_67"/>
+      </span>
+    </term>
+    <term lemma="(" morphofeat="punc" pos="O" tid="t_68" type="open">
+      <span>
+        <target id="w_68"/>
+      </span>
+    </term>
+    <term lemma="CBS" morphofeat="nounabbr" pos="N" tid="t_69" type="open">
+      <span>
+        <target id="w_69"/>
+      </span>
+    </term>
+    <term lemma=")" morphofeat="punc" pos="O" tid="t_70" type="open">
+      <span>
+        <target id="w_70"/>
+      </span>
+    </term>
+    <term lemma="met" morphofeat="prep" pos="P" tid="t_71" type="close">
+      <span>
+        <target id="w_71"/>
+      </span>
+    </term>
+    <term lemma="de" morphofeat="det__art" pos="D" tid="t_72" type="close">
+      <span>
+        <target id="w_72"/>
+      </span>
+    </term>
+    <term lemma="groot|groots" morphofeat="adj" pos="G" tid="t_73" type="open">
+      <span>
+        <target id="w_73"/>
+      </span>
+    </term>
+    <term lemma="verzameling" morphofeat="nounsg" pos="N" tid="t_74" type="open">
+      <span>
+        <target id="w_74"/>
+      </span>
+    </term>
+    <term lemma="schimmel" morphofeat="nounpl" pos="N" tid="t_75" type="open">
+      <span>
+        <target id="w_75"/>
+      </span>
+    </term>
+    <term lemma="te" morphofeat="prep" pos="P" tid="t_76" type="close">
+      <span>
+        <target id="w_76"/>
+      </span>
+    </term>
+    <term lemma="wereld" morphofeat="nounsg" pos="N" tid="t_77" type="open">
+      <span>
+        <target id="w_77"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_78" type="open">
+      <span>
+        <target id="w_78"/>
+      </span>
+    </term>
+    <term lemma="het" morphofeat="det__art" pos="D" tid="t_79" type="close">
+      <span>
+        <target id="w_79"/>
+      </span>
+    </term>
+    <term lemma="laboratorium" morphofeat="nounsg" pos="N" tid="t_80" type="open">
+      <span>
+        <target id="w_80"/>
+      </span>
+    </term>
+    <term lemma="verhuizen" morphofeat="verbpapa" pos="V" tid="t_81" type="open">
+      <span>
+        <target id="w_81"/>
+      </span>
+    </term>
+    <term lemma="in" morphofeat="prep" pos="P" tid="t_82" type="close">
+      <span>
+        <target id="w_82"/>
+      </span>
+    </term>
+    <term lemma="@card@" morphofeat="num__card" pos="O" tid="t_83" type="open">
+      <span>
+        <target id="w_83"/>
+      </span>
+    </term>
+    <term lemma="naar" morphofeat="prep" pos="P" tid="t_84" type="close">
+      <span>
+        <target id="w_84"/>
+      </span>
+    </term>
+    <term lemma="Baarn" morphofeat="nounsg unknown_lemma" pos="O" tid="t_85" type="open">
+      <span>
+        <target id="w_85"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_86" type="open">
+      <span>
+        <target id="w_86"/>
+      </span>
+    </term>
+    <term lemma="vanaf" morphofeat="prep" pos="P" tid="t_87" type="close">
+      <span>
+        <target id="w_87"/>
+      </span>
+    </term>
+    <term lemma="@card@" morphofeat="num__card" pos="O" tid="t_88" type="open">
+      <span>
+        <target id="w_88"/>
+      </span>
+    </term>
+    <term lemma="bestuderen" morphofeat="verbpastsg" pos="V" tid="t_89" type="open">
+      <span>
+        <target id="w_89"/>
+      </span>
+    </term>
+    <term lemma="ze" morphofeat="pronpers" pos="Q" tid="t_90" type="close">
+      <span>
+        <target id="w_90"/>
+      </span>
+    </term>
+    <term lemma="in" morphofeat="prep" pos="P" tid="t_91" type="close">
+      <span>
+        <target id="w_91"/>
+      </span>
+    </term>
+    <term lemma="Nederlands-Indië" morphofeat="nounprop" pos="R" tid="t_92" type="open">
+      <span>
+        <target id="w_92"/>
+      </span>
+    </term>
+    <term lemma="ziekte" morphofeat="nounpl" pos="N" tid="t_93" type="open">
+      <span>
+        <target id="w_93"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="prep" pos="P" tid="t_94" type="close">
+      <span>
+        <target id="w_94"/>
+      </span>
+    </term>
+    <term lemma="tropisch" morphofeat="adj" pos="G" tid="t_95" type="open">
+      <span>
+        <target id="w_95"/>
+      </span>
+    </term>
+    <term lemma="cultuurgewassen" morphofeat="nounpl unknown_lemma" pos="O" tid="t_96" type="open">
+      <span>
+        <target id="w_96"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_97" type="open">
+      <span>
+        <target id="w_97"/>
+      </span>
+    </term>
+    <term lemma="ze" morphofeat="pronpers" pos="Q" tid="t_98" type="close">
+      <span>
+        <target id="w_98"/>
+      </span>
+    </term>
+    <term lemma="maken" morphofeat="verbpastsg" pos="V" tid="t_99" type="open">
+      <span>
+        <target id="w_99"/>
+      </span>
+    </term>
+    <term lemma="studiereis" morphofeat="nounpl" pos="N" tid="t_100" type="open">
+      <span>
+        <target id="w_100"/>
+      </span>
+    </term>
+    <term lemma="in" morphofeat="prep" pos="P" tid="t_101" type="close">
+      <span>
+        <target id="w_101"/>
+      </span>
+    </term>
+    <term lemma="China" morphofeat="nounprop" pos="R" tid="t_102" type="open">
+      <span>
+        <target id="w_102"/>
+      </span>
+    </term>
+    <term lemma="," morphofeat="punc" pos="O" tid="t_103" type="open">
+      <span>
+        <target id="w_103"/>
+      </span>
+    </term>
+    <term lemma="Japan" morphofeat="nounprop" pos="R" tid="t_104" type="open">
+      <span>
+        <target id="w_104"/>
+      </span>
+    </term>
+    <term lemma="en" morphofeat="conjcoord" pos="C" tid="t_105" type="close">
+      <span>
+        <target id="w_105"/>
+      </span>
+    </term>
+    <term lemma="de" morphofeat="det__art" pos="D" tid="t_106" type="close">
+      <span>
+        <target id="w_106"/>
+      </span>
+    </term>
+    <term lemma="Verenigde" morphofeat="adj unknown_lemma" pos="O" tid="t_107" type="open">
+      <span>
+        <target id="w_107"/>
+      </span>
+    </term>
+    <term lemma="Staten" morphofeat="nounpl" pos="N" tid="t_108" type="open">
+      <span>
+        <target id="w_108"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_109" type="open">
+      <span>
+        <target id="w_109"/>
+      </span>
+    </term>
+    <term lemma="in" morphofeat="prep" pos="P" tid="t_110" type="close">
+      <span>
+        <target id="w_110"/>
+      </span>
+    </term>
+    <term lemma="@card@" morphofeat="num__card" pos="O" tid="t_111" type="open">
+      <span>
+        <target id="w_111"/>
+      </span>
+    </term>
+    <term lemma="worden" morphofeat="verbpastsg" pos="V" tid="t_112" type="open">
+      <span>
+        <target id="w_112"/>
+      </span>
+    </term>
+    <term lemma="Westerdijk" morphofeat="nounprop unknown_lemma" pos="O" tid="t_113" type="open">
+      <span>
+        <target id="w_113"/>
+      </span>
+    </term>
+    <term lemma="buitengewoon" morphofeat="adj" pos="G" tid="t_114" type="open">
+      <span>
+        <target id="w_114"/>
+      </span>
+    </term>
+    <term lemma="hoogleraar" morphofeat="nounsg" pos="N" tid="t_115" type="open">
+      <span>
+        <target id="w_115"/>
+      </span>
+    </term>
+    <term lemma="in" morphofeat="prep" pos="P" tid="t_116" type="close">
+      <span>
+        <target id="w_116"/>
+      </span>
+    </term>
+    <term lemma="de" morphofeat="det__art" pos="D" tid="t_117" type="close">
+      <span>
+        <target id="w_117"/>
+      </span>
+    </term>
+    <term lemma="plantenziekte" morphofeat="nounpl" pos="N" tid="t_118" type="open">
+      <span>
+        <target id="w_118"/>
+      </span>
+    </term>
+    <term lemma="te" morphofeat="partte" pos="O" tid="t_119" type="open">
+      <span>
+        <target id="w_119"/>
+      </span>
+    </term>
+    <term lemma="Utrecht" morphofeat="nounprop" pos="R" tid="t_120" type="open">
+      <span>
+        <target id="w_120"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_121" type="open">
+      <span>
+        <target id="w_121"/>
+      </span>
+    </term>
+    <term lemma="ze" morphofeat="pronpers" pos="Q" tid="t_122" type="close">
+      <span>
+        <target id="w_122"/>
+      </span>
+    </term>
+    <term lemma="wezen|zijn" morphofeat="verbpastsg" pos="V" tid="t_123" type="open">
+      <span>
+        <target id="w_123"/>
+      </span>
+    </term>
+    <term lemma="daarmee" morphofeat="pronadv" pos="Q" tid="t_124" type="close">
+      <span>
+        <target id="w_124"/>
+      </span>
+    </term>
+    <term lemma="de" morphofeat="det__art" pos="D" tid="t_125" type="close">
+      <span>
+        <target id="w_125"/>
+      </span>
+    </term>
+    <term lemma="een" morphofeat="num__ord" pos="O" tid="t_126" type="open">
+      <span>
+        <target id="w_126"/>
+      </span>
+    </term>
+    <term lemma="vrouwelijk" morphofeat="adj" pos="G" tid="t_127" type="open">
+      <span>
+        <target id="w_127"/>
+      </span>
+    </term>
+    <term lemma="hoogleraar" morphofeat="nounsg" pos="N" tid="t_128" type="open">
+      <span>
+        <target id="w_128"/>
+      </span>
+    </term>
+    <term lemma="in" morphofeat="prep" pos="P" tid="t_129" type="close">
+      <span>
+        <target id="w_129"/>
+      </span>
+    </term>
+    <term lemma="Nederland" morphofeat="nounprop" pos="R" tid="t_130" type="open">
+      <span>
+        <target id="w_130"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_131" type="open">
+      <span>
+        <target id="w_131"/>
+      </span>
+    </term>
+    <term lemma="in" morphofeat="prep" pos="P" tid="t_132" type="close">
+      <span>
+        <target id="w_132"/>
+      </span>
+    </term>
+    <term lemma="@card@" morphofeat="num__card" pos="O" tid="t_133" type="open">
+      <span>
+        <target id="w_133"/>
+      </span>
+    </term>
+    <term lemma="worden" morphofeat="verbpastsg" pos="V" tid="t_134" type="open">
+      <span>
+        <target id="w_134"/>
+      </span>
+    </term>
+    <term lemma="ze" morphofeat="pronpers" pos="Q" tid="t_135" type="close">
+      <span>
+        <target id="w_135"/>
+      </span>
+    </term>
+    <term lemma="bovendien" morphofeat="adv" pos="A" tid="t_136" type="open">
+      <span>
+        <target id="w_136"/>
+      </span>
+    </term>
+    <term lemma="buitengewoon" morphofeat="adj" pos="G" tid="t_137" type="open">
+      <span>
+        <target id="w_137"/>
+      </span>
+    </term>
+    <term lemma="hoogleraar" morphofeat="nounsg" pos="N" tid="t_138" type="open">
+      <span>
+        <target id="w_138"/>
+      </span>
+    </term>
+    <term lemma="in" morphofeat="prep" pos="P" tid="t_139" type="close">
+      <span>
+        <target id="w_139"/>
+      </span>
+    </term>
+    <term lemma="de" morphofeat="det__art" pos="D" tid="t_140" type="close">
+      <span>
+        <target id="w_140"/>
+      </span>
+    </term>
+    <term lemma="fytopathologie" morphofeat="nounsg unknown_lemma" pos="O" tid="t_141" type="open">
+      <span>
+        <target id="w_141"/>
+      </span>
+    </term>
+    <term lemma="te" morphofeat="partte" pos="O" tid="t_142" type="open">
+      <span>
+        <target id="w_142"/>
+      </span>
+    </term>
+    <term lemma="Amsterdam" morphofeat="nounprop" pos="R" tid="t_143" type="open">
+      <span>
+        <target id="w_143"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_144" type="open">
+      <span>
+        <target id="w_144"/>
+      </span>
+    </term>
+    <term lemma="op" morphofeat="prep" pos="P" tid="t_145" type="close">
+      <span>
+        <target id="w_145"/>
+      </span>
+    </term>
+    <term lemma="de" morphofeat="det__art" pos="D" tid="t_146" type="close">
+      <span>
+        <target id="w_146"/>
+      </span>
+    </term>
+    <term lemma="universiteit" morphofeat="nounsg" pos="N" tid="t_147" type="open">
+      <span>
+        <target id="w_147"/>
+      </span>
+    </term>
+    <term lemma="Utrecht" morphofeat="nounprop" pos="R" tid="t_148" type="open">
+      <span>
+        <target id="w_148"/>
+      </span>
+    </term>
+    <term lemma="komen" morphofeat="verbpastsg" pos="V" tid="t_149" type="open">
+      <span>
+        <target id="w_149"/>
+      </span>
+    </term>
+    <term lemma="Westerdijk" morphofeat="nounprop unknown_lemma" pos="O" tid="t_150" type="open">
+      <span>
+        <target id="w_150"/>
+      </span>
+    </term>
+    <term lemma="terecht" morphofeat="adj" pos="G" tid="t_151" type="open">
+      <span>
+        <target id="w_151"/>
+      </span>
+    </term>
+    <term lemma="in" morphofeat="prep" pos="P" tid="t_152" type="close">
+      <span>
+        <target id="w_152"/>
+      </span>
+    </term>
+    <term lemma="een" morphofeat="det__art" pos="D" tid="t_153" type="close">
+      <span>
+        <target id="w_153"/>
+      </span>
+    </term>
+    <term lemma="mannenwereld" morphofeat="nounsg unknown_lemma" pos="O" tid="t_154" type="open">
+      <span>
+        <target id="w_154"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_155" type="open">
+      <span>
+        <target id="w_155"/>
+      </span>
+    </term>
+    <term lemma="haar" morphofeat="det__poss" pos="D" tid="t_156" type="close">
+      <span>
+        <target id="w_156"/>
+      </span>
+    </term>
+    <term lemma="collega’s" morphofeat="nounsg unknown_lemma" pos="O" tid="t_157" type="open">
+      <span>
+        <target id="w_157"/>
+      </span>
+    </term>
+    <term lemma="op" morphofeat="prep" pos="P" tid="t_158" type="close">
+      <span>
+        <target id="w_158"/>
+      </span>
+    </term>
+    <term lemma="de" morphofeat="det__art" pos="D" tid="t_159" type="close">
+      <span>
+        <target id="w_159"/>
+      </span>
+    </term>
+    <term lemma="faculteit" morphofeat="nounsg" pos="N" tid="t_160" type="open">
+      <span>
+        <target id="w_160"/>
+      </span>
+    </term>
+    <term lemma="plantkunde" morphofeat="nounsg" pos="N" tid="t_161" type="open">
+      <span>
+        <target id="w_161"/>
+      </span>
+    </term>
+    <term lemma="kunnen" morphofeat="verbpastpl" pos="V" tid="t_162" type="open">
+      <span>
+        <target id="w_162"/>
+      </span>
+    </term>
+    <term lemma="de" morphofeat="det__art" pos="D" tid="t_163" type="close">
+      <span>
+        <target id="w_163"/>
+      </span>
+    </term>
+    <term lemma="vrouwelijk" morphofeat="adj" pos="G" tid="t_164" type="open">
+      <span>
+        <target id="w_164"/>
+      </span>
+    </term>
+    <term lemma="hoogleraar" morphofeat="nounsg" pos="N" tid="t_165" type="open">
+      <span>
+        <target id="w_165"/>
+      </span>
+    </term>
+    <term lemma="maar" morphofeat="conjcoord" pos="C" tid="t_166" type="close">
+      <span>
+        <target id="w_166"/>
+      </span>
+    </term>
+    <term lemma="moeilijk" morphofeat="adj" pos="G" tid="t_167" type="open">
+      <span>
+        <target id="w_167"/>
+      </span>
+    </term>
+    <term lemma="accepteren" morphofeat="verbinf" pos="V" tid="t_168" type="open">
+      <span>
+        <target id="w_168"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_169" type="open">
+      <span>
+        <target id="w_169"/>
+      </span>
+    </term>
+    <term lemma="Westerdijk" morphofeat="nounprop unknown_lemma" pos="O" tid="t_170" type="open">
+      <span>
+        <target id="w_170"/>
+      </span>
+    </term>
+    <term lemma="trekken" morphofeat="verbpastsg" pos="V" tid="t_171" type="open">
+      <span>
+        <target id="w_171"/>
+      </span>
+    </term>
+    <term lemma="zich" morphofeat="pronrefl" pos="Q" tid="t_172" type="close">
+      <span>
+        <target id="w_172"/>
+      </span>
+    </term>
+    <term lemma="daar" morphofeat="adv" pos="A" tid="t_173" type="open">
+      <span>
+        <target id="w_173"/>
+      </span>
+    </term>
+    <term lemma="niet" morphofeat="adv" pos="A" tid="t_174" type="open">
+      <span>
+        <target id="w_174"/>
+      </span>
+    </term>
+    <term lemma="veel" morphofeat="adv" pos="A" tid="t_175" type="open">
+      <span>
+        <target id="w_175"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="prep" pos="P" tid="t_176" type="close">
+      <span>
+        <target id="w_176"/>
+      </span>
+    </term>
+    <term lemma="aan" morphofeat="adv" pos="A" tid="t_177" type="open">
+      <span>
+        <target id="w_177"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_178" type="open">
+      <span>
+        <target id="w_178"/>
+      </span>
+    </term>
+    <term lemma="ze" morphofeat="pronpers" pos="Q" tid="t_179" type="close">
+      <span>
+        <target id="w_179"/>
+      </span>
+    </term>
+    <term lemma="wezen|zijn" morphofeat="verbpastsg" pos="V" tid="t_180" type="open">
+      <span>
+        <target id="w_180"/>
+      </span>
+    </term>
+    <term lemma="een" morphofeat="det__art" pos="D" tid="t_181" type="close">
+      <span>
+        <target id="w_181"/>
+      </span>
+    </term>
+    <term lemma="groot" morphofeat="adj" pos="G" tid="t_182" type="open">
+      <span>
+        <target id="w_182"/>
+      </span>
+    </term>
+    <term lemma="stimulans" morphofeat="nounsg" pos="N" tid="t_183" type="open">
+      <span>
+        <target id="w_183"/>
+      </span>
+    </term>
+    <term lemma="voor" morphofeat="prep" pos="P" tid="t_184" type="close">
+      <span>
+        <target id="w_184"/>
+      </span>
+    </term>
+    <term lemma="vrouwelijk" morphofeat="adj" pos="G" tid="t_185" type="open">
+      <span>
+        <target id="w_185"/>
+      </span>
+    </term>
+    <term lemma="student|studente" morphofeat="nounpl" pos="N" tid="t_186" type="open">
+      <span>
+        <target id="w_186"/>
+      </span>
+    </term>
+    <term lemma="in" morphofeat="prep" pos="P" tid="t_187" type="close">
+      <span>
+        <target id="w_187"/>
+      </span>
+    </term>
+    <term lemma="de" morphofeat="det__art" pos="D" tid="t_188" type="close">
+      <span>
+        <target id="w_188"/>
+      </span>
+    </term>
+    <term lemma="biologie" morphofeat="nounsg" pos="N" tid="t_189" type="open">
+      <span>
+        <target id="w_189"/>
+      </span>
+    </term>
+    <term lemma="en" morphofeat="conjcoord" pos="C" tid="t_190" type="close">
+      <span>
+        <target id="w_190"/>
+      </span>
+    </term>
+    <term lemma="sporen" morphofeat="verbpastsg" pos="V" tid="t_191" type="open">
+      <span>
+        <target id="w_191"/>
+      </span>
+    </term>
+    <term lemma="hen" morphofeat="pronpers" pos="Q" tid="t_192" type="close">
+      <span>
+        <target id="w_192"/>
+      </span>
+    </term>
+    <term lemma="aan" morphofeat="prep" pos="P" tid="t_193" type="close">
+      <span>
+        <target id="w_193"/>
+      </span>
+    </term>
+    <term lemma="zich" morphofeat="pronrefl" pos="Q" tid="t_194" type="close">
+      <span>
+        <target id="w_194"/>
+      </span>
+    </term>
+    <term lemma="vrij" morphofeat="adv" pos="A" tid="t_195" type="open">
+      <span>
+        <target id="w_195"/>
+      </span>
+    </term>
+    <term lemma="te" morphofeat="partte" pos="O" tid="t_196" type="open">
+      <span>
+        <target id="w_196"/>
+      </span>
+    </term>
+    <term lemma="vechten" morphofeat="verbinf" pos="V" tid="t_197" type="open">
+      <span>
+        <target id="w_197"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="prep" pos="P" tid="t_198" type="close">
+      <span>
+        <target id="w_198"/>
+      </span>
+    </term>
+    <term lemma="hun" morphofeat="det__poss" pos="D" tid="t_199" type="close">
+      <span>
+        <target id="w_199"/>
+      </span>
+    </term>
+    <term lemma="huishoudelijk" morphofeat="adj" pos="G" tid="t_200" type="open">
+      <span>
+        <target id="w_200"/>
+      </span>
+    </term>
+    <term lemma="plicht" morphofeat="nounpl" pos="N" tid="t_201" type="open">
+      <span>
+        <target id="w_201"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_202" type="open">
+      <span>
+        <target id="w_202"/>
+      </span>
+    </term>
+    <term lemma="als" morphofeat="conjsubo" pos="C" tid="t_203" type="close">
+      <span>
+        <target id="w_203"/>
+      </span>
+    </term>
+    <term lemma="rolmodel" morphofeat="nounsg" pos="N" tid="t_204" type="open">
+      <span>
+        <target id="w_204"/>
+      </span>
+    </term>
+    <term lemma="wezen|zijn" morphofeat="verbpastsg" pos="V" tid="t_205" type="open">
+      <span>
+        <target id="w_205"/>
+      </span>
+    </term>
+    <term lemma="ze" morphofeat="pronpers" pos="Q" tid="t_206" type="close">
+      <span>
+        <target id="w_206"/>
+      </span>
+    </term>
+    <term lemma="zeer" morphofeat="adj" pos="G" tid="t_207" type="open">
+      <span>
+        <target id="w_207"/>
+      </span>
+    </term>
+    <term lemma="belangrijk" morphofeat="adj" pos="G" tid="t_208" type="open">
+      <span>
+        <target id="w_208"/>
+      </span>
+    </term>
+    <term lemma="voor" morphofeat="prep" pos="P" tid="t_209" type="close">
+      <span>
+        <target id="w_209"/>
+      </span>
+    </term>
+    <term lemma="vrouw" morphofeat="nounpl" pos="N" tid="t_210" type="open">
+      <span>
+        <target id="w_210"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_211" type="open">
+      <span>
+        <target id="w_211"/>
+      </span>
+    </term>
+    <term lemma="Johanna" morphofeat="nounsg unknown_lemma" pos="O" tid="t_212" type="open">
+      <span>
+        <target id="w_212"/>
+      </span>
+    </term>
+    <term lemma="Westerdijk" morphofeat="nounprop unknown_lemma" pos="O" tid="t_213" type="open">
+      <span>
+        <target id="w_213"/>
+      </span>
+    </term>
+    <term lemma="staan" morphofeat="verbpastsg" pos="V" tid="t_214" type="open">
+      <span>
+        <target id="w_214"/>
+      </span>
+    </term>
+    <term lemma="bekennen" morphofeat="verbpapa" pos="V" tid="t_215" type="open">
+      <span>
+        <target id="w_215"/>
+      </span>
+    </term>
+    <term lemma="als" morphofeat="conjsubo" pos="C" tid="t_216" type="close">
+      <span>
+        <target id="w_216"/>
+      </span>
+    </term>
+    <term lemma="gastvrij" morphofeat="adj" pos="G" tid="t_217" type="open">
+      <span>
+        <target id="w_217"/>
+      </span>
+    </term>
+    <term lemma="en" morphofeat="conjcoord" pos="C" tid="t_218" type="close">
+      <span>
+        <target id="w_218"/>
+      </span>
+    </term>
+    <term lemma="muzikaal" morphofeat="adj" pos="G" tid="t_219" type="open">
+      <span>
+        <target id="w_219"/>
+      </span>
+    </term>
+    <term lemma="en" morphofeat="conjcoord" pos="C" tid="t_220" type="close">
+      <span>
+        <target id="w_220"/>
+      </span>
+    </term>
+    <term lemma="houden" morphofeat="verbpastsg" pos="V" tid="t_221" type="open">
+      <span>
+        <target id="w_221"/>
+      </span>
+    </term>
+    <term lemma="erg" morphofeat="adv" pos="A" tid="t_222" type="open">
+      <span>
+        <target id="w_222"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="prep" pos="P" tid="t_223" type="close">
+      <span>
+        <target id="w_223"/>
+      </span>
+    </term>
+    <term lemma="feest" morphofeat="nounpl" pos="N" tid="t_224" type="open">
+      <span>
+        <target id="w_224"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_225" type="open">
+      <span>
+        <target id="w_225"/>
+      </span>
+    </term>
+    <term lemma="Westerdijk" morphofeat="nounsg unknown_lemma" pos="O" tid="t_226" type="open">
+      <span>
+        <target id="w_226"/>
+      </span>
+    </term>
+    <term lemma="wezen|zijn" morphofeat="verbpastsg" pos="V" tid="t_227" type="open">
+      <span>
+        <target id="w_227"/>
+      </span>
+    </term>
+    <term lemma="actief" morphofeat="adj" pos="G" tid="t_228" type="open">
+      <span>
+        <target id="w_228"/>
+      </span>
+    </term>
+    <term lemma="in" morphofeat="prep" pos="P" tid="t_229" type="close">
+      <span>
+        <target id="w_229"/>
+      </span>
+    </term>
+    <term lemma="universitair" morphofeat="adj" pos="G" tid="t_230" type="open">
+      <span>
+        <target id="w_230"/>
+      </span>
+    </term>
+    <term lemma="vrouwenverenigingen" morphofeat="nounpl unknown_lemma" pos="O" tid="t_231" type="open">
+      <span>
+        <target id="w_231"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_232" type="open">
+      <span>
+        <target id="w_232"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="prep" pos="P" tid="t_233" type="close">
+      <span>
+        <target id="w_233"/>
+      </span>
+    </term>
+    <term lemma="@card@" morphofeat="num__card" pos="O" tid="t_234" type="open">
+      <span>
+        <target id="w_234"/>
+      </span>
+    </term>
+    <term lemma="tot" morphofeat="prep" pos="P" tid="t_235" type="close">
+      <span>
+        <target id="w_235"/>
+      </span>
+    </term>
+    <term lemma="@card@" morphofeat="num__card" pos="O" tid="t_236" type="open">
+      <span>
+        <target id="w_236"/>
+      </span>
+    </term>
+    <term lemma="wezen|zijn" morphofeat="verbpastsg" pos="V" tid="t_237" type="open">
+      <span>
+        <target id="w_237"/>
+      </span>
+    </term>
+    <term lemma="ze" morphofeat="pronpers" pos="Q" tid="t_238" type="close">
+      <span>
+        <target id="w_238"/>
+      </span>
+    </term>
+    <term lemma="bestuurlid" morphofeat="nounsg unknown_lemma" pos="O" tid="t_239" type="open">
+      <span>
+        <target id="w_239"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="prep" pos="P" tid="t_240" type="close">
+      <span>
+        <target id="w_240"/>
+      </span>
+    </term>
+    <term lemma="de" morphofeat="det__art" pos="D" tid="t_241" type="close">
+      <span>
+        <target id="w_241"/>
+      </span>
+    </term>
+    <term lemma="vereniging" morphofeat="nounsg" pos="N" tid="t_242" type="open">
+      <span>
+        <target id="w_242"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="prep" pos="P" tid="t_243" type="close">
+      <span>
+        <target id="w_243"/>
+      </span>
+    </term>
+    <term lemma="Vrouwen" morphofeat="nounprop unknown_lemma" pos="O" tid="t_244" type="open">
+      <span>
+        <target id="w_244"/>
+      </span>
+    </term>
+    <term lemma="met" morphofeat="prep" pos="P" tid="t_245" type="close">
+      <span>
+        <target id="w_245"/>
+      </span>
+    </term>
+    <term lemma="een" morphofeat="det__art" pos="D" tid="t_246" type="close">
+      <span>
+        <target id="w_246"/>
+      </span>
+    </term>
+    <term lemma="academisch" morphofeat="adj" pos="G" tid="t_247" type="open">
+      <span>
+        <target id="w_247"/>
+      </span>
+    </term>
+    <term lemma="opleiding" morphofeat="nounsg" pos="N" tid="t_248" type="open">
+      <span>
+        <target id="w_248"/>
+      </span>
+    </term>
+    <term lemma="(" morphofeat="punc" pos="O" tid="t_249" type="open">
+      <span>
+        <target id="w_249"/>
+      </span>
+    </term>
+    <term lemma="VVAO" morphofeat="nounsg unknown_lemma" pos="O" tid="t_250" type="open">
+      <span>
+        <target id="w_250"/>
+      </span>
+    </term>
+    <term lemma=")" morphofeat="punc" pos="O" tid="t_251" type="open">
+      <span>
+        <target id="w_251"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_252" type="open">
+      <span>
+        <target id="w_252"/>
+      </span>
+    </term>
+    <term lemma="daarna" morphofeat="pronadv" pos="Q" tid="t_253" type="close">
+      <span>
+        <target id="w_253"/>
+      </span>
+    </term>
+    <term lemma="worden" morphofeat="verbpastsg" pos="V" tid="t_254" type="open">
+      <span>
+        <target id="w_254"/>
+      </span>
+    </term>
+    <term lemma="ze" morphofeat="pronpers" pos="Q" tid="t_255" type="close">
+      <span>
+        <target id="w_255"/>
+      </span>
+    </term>
+    <term lemma="presidente" morphofeat="adj unknown_lemma" pos="O" tid="t_256" type="open">
+      <span>
+        <target id="w_256"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="prep" pos="P" tid="t_257" type="close">
+      <span>
+        <target id="w_257"/>
+      </span>
+    </term>
+    <term lemma="the" morphofeat="nounprop unknown_lemma" pos="O" tid="t_258" type="open">
+      <span>
+        <target id="w_258"/>
+      </span>
+    </term>
+    <term lemma="international" morphofeat="nounsg" pos="N" tid="t_259" type="open">
+      <span>
+        <target id="w_259"/>
+      </span>
+    </term>
+    <term lemma="Federation" morphofeat="nounsg unknown_lemma" pos="O" tid="t_260" type="open">
+      <span>
+        <target id="w_260"/>
+      </span>
+    </term>
+    <term lemma="of" morphofeat="conjcoord" pos="C" tid="t_261" type="close">
+      <span>
+        <target id="w_261"/>
+      </span>
+    </term>
+    <term lemma="University" morphofeat="nounsg unknown_lemma" pos="O" tid="t_262" type="open">
+      <span>
+        <target id="w_262"/>
+      </span>
+    </term>
+    <term lemma="Women" morphofeat="nounsg unknown_lemma" pos="O" tid="t_263" type="open">
+      <span>
+        <target id="w_263"/>
+      </span>
+    </term>
+    <term lemma="(" morphofeat="punc" pos="O" tid="t_264" type="open">
+      <span>
+        <target id="w_264"/>
+      </span>
+    </term>
+    <term lemma="IFUW" morphofeat="nounsg unknown_lemma" pos="O" tid="t_265" type="open">
+      <span>
+        <target id="w_265"/>
+      </span>
+    </term>
+    <term lemma=")" morphofeat="punc" pos="O" tid="t_266" type="open">
+      <span>
+        <target id="w_266"/>
+      </span>
+    </term>
+    <term lemma="tussen" morphofeat="prep" pos="P" tid="t_267" type="close">
+      <span>
+        <target id="w_267"/>
+      </span>
+    </term>
+    <term lemma="@card@" morphofeat="num__card" pos="O" tid="t_268" type="open">
+      <span>
+        <target id="w_268"/>
+      </span>
+    </term>
+    <term lemma="en" morphofeat="conjcoord" pos="C" tid="t_269" type="close">
+      <span>
+        <target id="w_269"/>
+      </span>
+    </term>
+    <term lemma="@ord@" morphofeat="num__ord" pos="O" tid="t_270" type="open">
+      <span>
+        <target id="w_270"/>
+      </span>
+    </term>
+    <term lemma="In" morphofeat="nounsg unknown_lemma" pos="O" tid="t_271" type="open">
+      <span>
+        <target id="w_271"/>
+      </span>
+    </term>
+    <term lemma="@card@" morphofeat="num__card" pos="O" tid="t_272" type="open">
+      <span>
+        <target id="w_272"/>
+      </span>
+    </term>
+    <term lemma="worden" morphofeat="verbpastsg" pos="V" tid="t_273" type="open">
+      <span>
+        <target id="w_273"/>
+      </span>
+    </term>
+    <term lemma="zij" morphofeat="pronpers" pos="Q" tid="t_274" type="close">
+      <span>
+        <target id="w_274"/>
+      </span>
+    </term>
+    <term lemma="als" morphofeat="conjsubo" pos="C" tid="t_275" type="close">
+      <span>
+        <target id="w_275"/>
+      </span>
+    </term>
+    <term lemma="twee" morphofeat="num__ord" pos="O" tid="t_276" type="open">
+      <span>
+        <target id="w_276"/>
+      </span>
+    </term>
+    <term lemma="vrouw" morphofeat="nounsg" pos="N" tid="t_277" type="open">
+      <span>
+        <target id="w_277"/>
+      </span>
+    </term>
+    <term lemma="lid" morphofeat="nounsg" pos="N" tid="t_278" type="open">
+      <span>
+        <target id="w_278"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="prep" pos="P" tid="t_279" type="close">
+      <span>
+        <target id="w_279"/>
+      </span>
+    </term>
+    <term lemma="de" morphofeat="det__art" pos="D" tid="t_280" type="close">
+      <span>
+        <target id="w_280"/>
+      </span>
+    </term>
+    <term lemma="koninklijk" morphofeat="adj" pos="G" tid="t_281" type="open">
+      <span>
+        <target id="w_281"/>
+      </span>
+    </term>
+    <term lemma="Nederlands" morphofeat="adj" pos="G" tid="t_282" type="open">
+      <span>
+        <target id="w_282"/>
+      </span>
+    </term>
+    <term lemma="academie" morphofeat="nounsg" pos="N" tid="t_283" type="open">
+      <span>
+        <target id="w_283"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="prep" pos="P" tid="t_284" type="close">
+      <span>
+        <target id="w_284"/>
+      </span>
+    </term>
+    <term lemma="wetenschap" morphofeat="nounpl" pos="N" tid="t_285" type="open">
+      <span>
+        <target id="w_285"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_286" type="open">
+      <span>
+        <target id="w_286"/>
+      </span>
+    </term>
+    <term lemma="ze" morphofeat="pronpers" pos="Q" tid="t_287" type="close">
+      <span>
+        <target id="w_287"/>
+      </span>
+    </term>
+    <term lemma="krijgen" morphofeat="verbpastsg" pos="V" tid="t_288" type="open">
+      <span>
+        <target id="w_288"/>
+      </span>
+    </term>
+    <term lemma="eredoctoraat" morphofeat="nounpl" pos="N" tid="t_289" type="open">
+      <span>
+        <target id="w_289"/>
+      </span>
+    </term>
+    <term lemma="aan" morphofeat="prep" pos="P" tid="t_290" type="close">
+      <span>
+        <target id="w_290"/>
+      </span>
+    </term>
+    <term lemma="de" morphofeat="det__art" pos="D" tid="t_291" type="close">
+      <span>
+        <target id="w_291"/>
+      </span>
+    </term>
+    <term lemma="universiteit" morphofeat="nounpl" pos="N" tid="t_292" type="open">
+      <span>
+        <target id="w_292"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="prep" pos="P" tid="t_293" type="close">
+      <span>
+        <target id="w_293"/>
+      </span>
+    </term>
+    <term lemma="Upsala" morphofeat="nounsg unknown_lemma" pos="O" tid="t_294" type="open">
+      <span>
+        <target id="w_294"/>
+      </span>
+    </term>
+    <term lemma="(" morphofeat="punc" pos="O" tid="t_295" type="open">
+      <span>
+        <target id="w_295"/>
+      </span>
+    </term>
+    <term lemma="@card@" morphofeat="num__card" pos="O" tid="t_296" type="open">
+      <span>
+        <target id="w_296"/>
+      </span>
+    </term>
+    <term lemma=")" morphofeat="punc" pos="O" tid="t_297" type="open">
+      <span>
+        <target id="w_297"/>
+      </span>
+    </term>
+    <term lemma="en" morphofeat="conjcoord" pos="C" tid="t_298" type="close">
+      <span>
+        <target id="w_298"/>
+      </span>
+    </term>
+    <term lemma="Giessen" morphofeat="nounpl unknown_lemma" pos="O" tid="t_299" type="open">
+      <span>
+        <target id="w_299"/>
+      </span>
+    </term>
+    <term lemma="(" morphofeat="punc" pos="O" tid="t_300" type="open">
+      <span>
+        <target id="w_300"/>
+      </span>
+    </term>
+    <term lemma="@card@" morphofeat="num__card" pos="O" tid="t_301" type="open">
+      <span>
+        <target id="w_301"/>
+      </span>
+    </term>
+    <term lemma=")" morphofeat="punc" pos="O" tid="t_302" type="open">
+      <span>
+        <target id="w_302"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_303" type="open">
+      <span>
+        <target id="w_303"/>
+      </span>
+    </term>
+    <term lemma="als" morphofeat="conjsubo" pos="C" tid="t_304" type="close">
+      <span>
+        <target id="w_304"/>
+      </span>
+    </term>
+    <term lemma="VVAO-bestuurdlid" morphofeat="nounsg unknown_lemma" pos="O" tid="t_305" type="open">
+      <span>
+        <target id="w_305"/>
+      </span>
+    </term>
+    <term lemma="schrijven" morphofeat="verbpastsg" pos="V" tid="t_306" type="open">
+      <span>
+        <target id="w_306"/>
+      </span>
+    </term>
+    <term lemma="ze" morphofeat="pronpers" pos="Q" tid="t_307" type="close">
+      <span>
+        <target id="w_307"/>
+      </span>
+    </term>
+    <term lemma="de" morphofeat="det__art" pos="D" tid="t_308" type="close">
+      <span>
+        <target id="w_308"/>
+      </span>
+    </term>
+    <term lemma="brochure" morphofeat="nounsg" pos="N" tid="t_309" type="open">
+      <span>
+        <target id="w_309"/>
+      </span>
+    </term>
+    <term lemma="‘" morphofeat="adj unknown_lemma" pos="O" tid="t_310" type="open">
+      <span>
+        <target id="w_310"/>
+      </span>
+    </term>
+    <term lemma="Wat" morphofeat="nounsg unknown_lemma" pos="O" tid="t_311" type="open">
+      <span>
+        <target id="w_311"/>
+      </span>
+    </term>
+    <term lemma="hebben" morphofeat="verbpressg" pos="V" tid="t_312" type="open">
+      <span>
+        <target id="w_312"/>
+      </span>
+    </term>
+    <term lemma="het" morphofeat="det__art" pos="D" tid="t_313" type="close">
+      <span>
+        <target id="w_313"/>
+      </span>
+    </term>
+    <term lemma="feminisme" morphofeat="nounsg" pos="N" tid="t_314" type="open">
+      <span>
+        <target id="w_314"/>
+      </span>
+    </term>
+    <term lemma="de" morphofeat="det__art" pos="D" tid="t_315" type="close">
+      <span>
+        <target id="w_315"/>
+      </span>
+    </term>
+    <term lemma="Nederlandsche" morphofeat="adj unknown_lemma" pos="O" tid="t_316" type="open">
+      <span>
+        <target id="w_316"/>
+      </span>
+    </term>
+    <term lemma="vrouw" morphofeat="nounsg" pos="N" tid="t_317" type="open">
+      <span>
+        <target id="w_317"/>
+      </span>
+    </term>
+    <term lemma="brengen" morphofeat="verbpapa" pos="V" tid="t_318" type="open">
+      <span>
+        <target id="w_318"/>
+      </span>
+    </term>
+    <term lemma="?" morphofeat="$." pos="O" tid="t_319" type="open">
+      <span>
+        <target id="w_319"/>
+      </span>
+    </term>
+    <term lemma="wat" morphofeat="det__excl" pos="O" tid="t_320" type="open">
+      <span>
+        <target id="w_320"/>
+      </span>
+    </term>
+    <term lemma="hebben" morphofeat="verbpressg" pos="V" tid="t_321" type="open">
+      <span>
+        <target id="w_321"/>
+      </span>
+    </term>
+    <term lemma="het" morphofeat="pronpers" pos="Q" tid="t_322" type="close">
+      <span>
+        <target id="w_322"/>
+      </span>
+    </term>
+    <term lemma="derhalve" morphofeat="adv" pos="A" tid="t_323" type="open">
+      <span>
+        <target id="w_323"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="prep" pos="P" tid="t_324" type="close">
+      <span>
+        <target id="w_324"/>
+      </span>
+    </term>
+    <term lemma="haar" morphofeat="pronpers" pos="Q" tid="t_325" type="close">
+      <span>
+        <target id="w_325"/>
+      </span>
+    </term>
+    <term lemma="te" morphofeat="partte" pos="O" tid="t_326" type="open">
+      <span>
+        <target id="w_326"/>
+      </span>
+    </term>
+    <term lemma="verwachten" morphofeat="verbinf" pos="V" tid="t_327" type="open">
+      <span>
+        <target id="w_327"/>
+      </span>
+    </term>
+    <term lemma="?" morphofeat="$." pos="O" tid="t_328" type="open">
+      <span>
+        <target id="w_328"/>
+      </span>
+    </term>
+    <term lemma="’" morphofeat="adj unknown_lemma" pos="O" tid="t_329" type="open">
+      <span>
+        <target id="w_329"/>
+      </span>
+    </term>
+    <term lemma="Die" morphofeat="nounsg unknown_lemma" pos="O" tid="t_330" type="open">
+      <span>
+        <target id="w_330"/>
+      </span>
+    </term>
+    <term lemma="brochure" morphofeat="nounsg" pos="N" tid="t_331" type="open">
+      <span>
+        <target id="w_331"/>
+      </span>
+    </term>
+    <term lemma="wezen|zijn" morphofeat="verbpastsg" pos="V" tid="t_332" type="open">
+      <span>
+        <target id="w_332"/>
+      </span>
+    </term>
+    <term lemma="bedoelen" morphofeat="verbpapa" pos="V" tid="t_333" type="open">
+      <span>
+        <target id="w_333"/>
+      </span>
+    </term>
+    <term lemma="om" morphofeat="conjsubo" pos="C" tid="t_334" type="close">
+      <span>
+        <target id="w_334"/>
+      </span>
+    </term>
+    <term lemma="meisje" morphofeat="nounpl" pos="N" tid="t_335" type="open">
+      <span>
+        <target id="w_335"/>
+      </span>
+    </term>
+    <term lemma="met" morphofeat="prep" pos="P" tid="t_336" type="close">
+      <span>
+        <target id="w_336"/>
+      </span>
+    </term>
+    <term lemma="een" morphofeat="det__art" pos="D" tid="t_337" type="close">
+      <span>
+        <target id="w_337"/>
+      </span>
+    </term>
+    <term lemma="middelbaar" morphofeat="adj" pos="G" tid="t_338" type="open">
+      <span>
+        <target id="w_338"/>
+      </span>
+    </term>
+    <term lemma="schoolopleiding" morphofeat="nounsg" pos="N" tid="t_339" type="open">
+      <span>
+        <target id="w_339"/>
+      </span>
+    </term>
+    <term lemma="te" morphofeat="partte" pos="O" tid="t_340" type="open">
+      <span>
+        <target id="w_340"/>
+      </span>
+    </term>
+    <term lemma="stimuleren" morphofeat="verbinf" pos="V" tid="t_341" type="open">
+      <span>
+        <target id="w_341"/>
+      </span>
+    </term>
+    <term lemma="tot" morphofeat="prep" pos="P" tid="t_342" type="close">
+      <span>
+        <target id="w_342"/>
+      </span>
+    </term>
+    <term lemma="beroepsarbeid" morphofeat="nounsg unknown_lemma" pos="O" tid="t_343" type="open">
+      <span>
+        <target id="w_343"/>
+      </span>
+    </term>
+    <term lemma="en" morphofeat="conjcoord" pos="C" tid="t_344" type="close">
+      <span>
+        <target id="w_344"/>
+      </span>
+    </term>
+    <term lemma="af" morphofeat="adv" pos="A" tid="t_345" type="open">
+      <span>
+        <target id="w_345"/>
+      </span>
+    </term>
+    <term lemma="te" morphofeat="partte" pos="O" tid="t_346" type="open">
+      <span>
+        <target id="w_346"/>
+      </span>
+    </term>
+    <term lemma="laten" morphofeat="verbinf" pos="V" tid="t_347" type="open">
+      <span>
+        <target id="w_347"/>
+      </span>
+    </term>
+    <term lemma="zien" morphofeat="verbinf" pos="V" tid="t_348" type="open">
+      <span>
+        <target id="w_348"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="prep" pos="P" tid="t_349" type="close">
+      <span>
+        <target id="w_349"/>
+      </span>
+    </term>
+    <term lemma="een" morphofeat="det__art" pos="D" tid="t_350" type="close">
+      <span>
+        <target id="w_350"/>
+      </span>
+    </term>
+    <term lemma="bestaan" morphofeat="nounsg" pos="N" tid="t_351" type="open">
+      <span>
+        <target id="w_351"/>
+      </span>
+    </term>
+    <term lemma="als" morphofeat="conjsubo" pos="C" tid="t_352" type="close">
+      <span>
+        <target id="w_352"/>
+      </span>
+    </term>
+    <term lemma="huisvrouw" morphofeat="nounsg" pos="N" tid="t_353" type="open">
+      <span>
+        <target id="w_353"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="$." pos="O" tid="t_354" type="open">
+      <span>
+        <target id="w_354"/>
+      </span>
+    </term>
+  </terms>
+</KAF>
