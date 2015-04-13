@@ -1,0 +1,30 @@
+<biodes version="1.0">
+  <fileDesc>
+    <author>Nationaal Archief</author>
+    <ref target="http://proxy.handle.net/10648/d54ff1d1-70fc-4876-89e3-371fde99cc45" />
+    <date when="" />
+    <publisher>
+      <name>Nationaal Archief</name>
+      <ref target="http://www.gahetna.nl/collectie/archief" />
+    </publisher>
+    <bibl>
+      <num>2.14.09.01</num>
+      <title>Inventaris van het archief van de Rijksarchiefdienst: Centrale Directie: Jhr. D.P.M. Graswinckel [levensjaren 1888-1960], 1945-1954</title>
+    </bibl>
+  <title /><idno type="source">na</idno></fileDesc>
+  <person>
+    <persName>Graswinckel, Jhr. D.P.M</persName>
+    <sex value="1" />
+    <event type="birth" when="1888">geboren in 1888</event>
+    <event type="death" when="1960">overleden in 1960</event>
+    <CONTROLE>
+      <origination label="Archiefvormers: ">
+        <persname>Graswinckel, Jhr. D.P.M. (1888-1960)</persname>
+      </origination>
+    </CONTROLE>
+  <idno type="id">d54ff1d1-70fc-4876-89e3-371fde99cc45__1</idno><idno type="bioport">95070710</idno><idno type="bioport">76987589</idno></person>
+  <biography>
+    <text><title>Inventaris van het archief van de Rijksarchiefdienst: Centrale Directie: Jhr. D.P.M. Graswinckel [levensjaren 1888-1960], 1945-1954</title>
+    </text>
+  </biography>
+</biodes>

@@ -1,0 +1,178 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>Freudenthal, H.</author>
+    <author>Woerdeman, M.W.</author>
+    <ref target="http://www.dwc.knaw.nl/english/academy/past-members/?pagetype=authorDetail&amp;aId=PE00002055"/>
+    <publisher>
+      <name>KNAW - Levensberichten en Herdenkingen</name>
+      <ref target="http://www.digitallibrary.nl/levensberichten/works.cfm"/>
+    </publisher>
+  <idno type="source">knaw</idno></fileDesc>
+  <person>
+    <idno type="id">1183</idno>
+    <persName><name type="voornaam">John</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">Neumann</name></persName>
+    <sex value="1"/>
+    <event type="birth" when="1903-12-28">
+      <place>Budapest, Hongarije</place>
+    </event>
+    <event type="death" when="1957-02-08">
+      <place>Princeton, Verenigde Staten van Amerika</place>
+    </event>
+    <state type="occupation">Wiskunde</state>
+  <idno type="PE00002055">huygens_id</idno><idno type="bioport">99135541</idno></person>
+  <biography>
+    <text>&lt;body lang="EN-US" style="tab-interval:36.0pt;text-justify-trim:punctuation"&gt;
+&lt;div class="Section1"&gt;
+&lt;p align="center" style="margin-right:1.2pt;text-align:center;&amp;#13;&amp;#10;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="font-size:12.0pt;color:#000099;letter-spacing:&amp;#13;&amp;#10;1.1pt;mso-ansi-language:NL"&gt;LEVENSBERICHT&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" style="margin-top:7.9pt;margin-right:.25pt;&amp;#13;&amp;#10;margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;&amp;#13;&amp;#10;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="font-size:12.0pt;color:#000099;letter-spacing:&amp;#13;&amp;#10;-1.2pt;mso-ansi-language:NL"&gt;VAN&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top:10.8pt;margin-right:0cm;margin-bottom:&amp;#13;&amp;#10;0cm;margin-left:63.6pt;margin-bottom:.0001pt;text-indent:17.3pt;line-height:17pt;&amp;#13;&amp;#10;11.3pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="font-size:12.0pt;color:#000099;letter-spacing:-.45pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;JOHN VON NEUMANN&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:-.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;(28 december 1903&amp;#151;8 februari 1957)&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top:21.6pt;margin-right:0cm;margin-bottom:&amp;#13;&amp;#10;0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:9.1pt;&amp;#13;&amp;#10;line-height:17pt;12.7pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:NL"&gt;Janos&amp;#13;
+Neumann von Margitta werd in Budapest geboren, in een&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;zeer welgesteld milieu. Hij studeerde van 1921 tot 1923 wis- en&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;natuurkunde aan de Berlijnse universiteit; daarna ging hij naar&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;Z&amp;#252;rich, waar hij in 1925 aan de &amp;#132;Eidgen&amp;#246;ssische Technische Hoch-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;schule" de graad van &amp;#132;Diplomingenieur" in de Scheikunde ver-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;wierf. In 1926 promoveerde hij aan de universiteit te Budapest op&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.3pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;een wiskundig proefschrift. Daarna keerde hij te Berlijn terug,&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.35pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;waar hij als privaat-docent met onderwijsopdracht van 1926 tot&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left:0cm;text-indent:0cm;line-height:17pt;12.7pt;&amp;#13;&amp;#10;mso-line-height:17pt;-rule:exactly;mso-list:l0 level1 lfo1;tab-stops:23.05pt;&amp;#13;&amp;#10;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;&amp;#13;&amp;#10;letter-spacing:-.5pt;mso-ansi-language:NL"&gt;&lt;span style="mso-list:Ignore"&gt;1929&lt;span style="font:7.0pt &amp;quot;Times New Roman&amp;quot;"&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#13;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:&amp;#13;&amp;#10;.15pt;mso-ansi-language:NL"&gt;werkzaam was. In een dergelijke functie trad hij&amp;#13;
+van 1929 tot&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:-.5pt;&amp;#13;&amp;#10;mso-ansi-language:NL"&gt;&lt;o:p/&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left:0cm;text-indent:0cm;line-height:17pt;12.7pt;&amp;#13;&amp;#10;mso-line-height:17pt;-rule:exactly;mso-list:l0 level1 lfo1;tab-stops:23.05pt;&amp;#13;&amp;#10;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;&amp;#13;&amp;#10;letter-spacing:-.45pt;mso-ansi-language:NL"&gt;&lt;span style="mso-list:Ignore"&gt;1930&lt;span style="font:7.0pt &amp;quot;Times New Roman&amp;quot;"&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#13;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:&amp;#13;&amp;#10;.4pt;mso-ansi-language:NL"&gt;aan de Hamburgse universiteit op. In 1930 vertrok&amp;#13;
+hij als&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.35pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;Visiting Lecturer naar Princeton University (N.J.-U.S.A.), waar&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;hij later Visiting Professor werd. In 1933 werd hij tot Professor aan&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;het net opgerichte Institute for Advanced Study benoemd. Uit deze&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.4pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;functie is hij door de dood gescheiden. Vanaf 1945 was hij ook&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;Directeur van het Electronic Computer Project aan hetzelfde Insti-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;tuut. Na 1940 was hij tevens lid of adviseur van vei scheiden licha-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.3pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;men, die de wetenschappelijke organisatie van oorlogvoering en&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;bewapening behartigden, vanaf 1952 tengevolge van presidenti&amp;#235;le&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;benoemingen tevens adviseur, later lid van de U.S. Atomic Energy&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:-.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;Commission.&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:-.45pt;&amp;#13;&amp;#10;mso-ansi-language:NL"&gt;&lt;o:p/&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top:.25pt;margin-right:0cm;margin-bottom:0cm;&amp;#13;&amp;#10;margin-left:.7pt;margin-bottom:.0001pt;text-align:justify;text-indent:9.35pt;&amp;#13;&amp;#10;line-height:17pt;12.7pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:NL"&gt;Er zullen&amp;#13;
+wel niet veel gevallen zijn te vermelden van een&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;&amp;#132;Habilitation" op een leeftijd van 23 jaar aan de Berlijnse univer-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;siteit. Maar von Neumann's genie was al jaren te voren gebleken,&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;toen hij in Berlijn studeerde, alleen de hoogste colleges en de&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;seminaria en colloquia liep en docenten en medestudenten verraste&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;door spontane opmerkingen. Een ervan, een vereenvoudiging van&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;body lang="EN-US" style="tab-interval:36.0pt;text-justify-trim:punctuation"&gt;
+&lt;div class="Section1"&gt;
+&lt;p align="center" style="margin-left:.5pt;text-align:center;&amp;#13;&amp;#10;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="font-size:9.0pt;font-family:Arial;&amp;#13;&amp;#10;color:#000099;mso-ansi-language:NL"&gt;233&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top:12.95pt;margin-right:.25pt;margin-bottom:&amp;#13;&amp;#10;0cm;margin-left:.25pt;margin-bottom:.0001pt;text-align:justify;line-height:17pt;&amp;#13;&amp;#10;12.7pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:NL"&gt;een bewijs voor&amp;#13;
+een stelling van Minkowski werd door &lt;/span&gt;&lt;span style="color:#000099;&amp;#13;&amp;#10;letter-spacing:.25pt"&gt;I. &lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:&amp;#13;&amp;#10;.25pt;mso-ansi-language:NL"&gt;Schur&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;later telkens gememoreerd; zij is trouwens ook gepubliceerd.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;text-indent:9.1pt;line-height:17pt;&amp;#13;&amp;#10;12.7pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;mso-ansi-language:NL"&gt;Von Neumann's proefschrift en eerste&amp;#13;
+belangrijke onderzoekingen&lt;br/&gt;
+&lt;span style="letter-spacing:.1pt"&gt;lagen op het gebied der grondslagen der&amp;#13;
+wiskunde, speciaal der&lt;br/&gt;&amp;#13;
+verzamelingsleer. Hoewel von Neumann daarna van onderwerp&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.15pt"&gt;veranderd en niet weer tot het&amp;#13;
+grondslagenonderzoek teruggekeerd&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.1pt"&gt;is, draagt dit eerste werk reeds alle&amp;#13;
+kenmerken van von Neumann's&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.15pt"&gt;stijl: de scherpe logica, die geen&amp;#13;
+schakel overslaat, en desondanks&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.2pt"&gt;een als een gezellig gesprek vloeiend&amp;#13;
+betoog, waarin de spreker&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.1pt"&gt;telkens het woord herneemt, om het&amp;#13;
+centrale probleem nog eens in&lt;br/&gt;&amp;#13;
+het middelpunt te plaatsen en opnieuw vanuit een ander punt te&lt;br/&gt;&amp;#13;
+belichten; de soevereine heerschappij over een gebied, waarvan hij&lt;br/&gt;&amp;#13;
+echter de donkere plekken even scherp aanwijst als het reeds&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.2pt"&gt;ge&amp;#235;xploreerde; het onbegrensd&amp;#13;
+abstraheren, maar toch steeds met&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.15pt"&gt;een concreet doel voor ogen; voor&amp;#13;
+alles echter de geweldig ont-&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.35pt"&gt;ledende kracht van deze geest, die&amp;#13;
+het geheim kent, moeilijk&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.05pt"&gt;lijkende of slecht geformuleerde&amp;#13;
+problemen zolang te bewerken,&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.3pt"&gt;opnieuw te formuleren, in andere&amp;#13;
+samenhang te plaatsen, tot zij&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.15pt"&gt;rijp zijn geworden voor een volledige&amp;#13;
+likwidatie, die neerkomt op&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.25pt"&gt;het beantwoorden van enkele haast&amp;#13;
+triviale vragen.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top:.25pt;margin-right:.25pt;margin-bottom:&amp;#13;&amp;#10;0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:8.9pt;&amp;#13;&amp;#10;line-height:17pt;12.7pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:-.15pt;mso-ansi-language:NL"&gt;De&amp;#13;
+axiomatische methode, zoals Hilbert die in het slotwoord van zijn&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;&amp;#132;Grundlagen der Geometrie" heeft gekenschetst, is von Neumann's&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;mathematische modus vivendi: Elk probleem van zijn franje te ont-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;doen en van elke veronderstelling na te gaan, in welke mate zij&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;noodzakelijk is en hoe ver zij draagt.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top:.25pt;text-align:justify;text-indent:9.35pt;&amp;#13;&amp;#10;line-height:17pt;12.7pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.35pt;mso-ansi-language:NL"&gt;In von&amp;#13;
+Neumann's eerste publikaties is de axiomatiek tevens&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.3pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;doel. Dit jeugdwerk is gespleten door een kloof, zoals we niet&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;kennen in zijn later werk met zijn indrukwekkende ge&amp;#239;ntegreerd-&lt;br/&gt;&amp;#13;
+heid. Die kloof was historisch gegeven, maar wordt nergens zo&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;duidelijk zichtbaar, als wanneer men von Neumann's axiomatiek&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;der verzamelingsleer en zijn bijdrage tot de bewijstheorie naast&lt;br/&gt;&amp;#13;
+elkaar legt. Die objecten van de verzamelingstheoretische axio-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;matiek zijn &lt;i&gt;dingen, &lt;/i&gt;waarover geheel na&amp;#239;ef in termen van de mathe-&lt;br/&gt;&amp;#13;
+matische omgangstaal wordt geredeneerd (zoals Hilbert zijn Grund-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.3pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;lagen begint met de woorden &amp;#132;Wir denken uns drei verschiedene&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;body lang="EN-US" style="tab-interval:36.0pt;text-justify-trim:punctuation"&gt;
+&lt;div class="Section1"&gt;
+&lt;p align="center" style="text-align:center;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="font-size:8.0pt;font-family:Arial;color:#000099;letter-spacing:&amp;#13;&amp;#10;.05pt;mso-ansi-language:NL"&gt;234&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top:12.95pt;margin-right:1.45pt;margin-bottom:&amp;#13;&amp;#10;0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:17pt;12.95pt;&amp;#13;&amp;#10;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;&amp;#13;&amp;#10;letter-spacing:.1pt;mso-ansi-language:NL"&gt;Systeme von Dingen" en voortgaat&amp;#13;
+in een weinig geformaliseerd&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;proza). In zijn bewijstheoretisch onderzoek zijn de objecten niet&lt;br/&gt;
+&lt;/span&gt;&lt;i&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;dingen, &lt;/span&gt;&lt;/i&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;&amp;#13;&amp;#10;mso-ansi-language:NL"&gt;maar &lt;i&gt;tekens, &lt;/i&gt;waarover in een sterk geformaliseerde&amp;#13;
+taal&lt;br/&gt;&amp;#13;
+wordt gesproken die zelf studieobject is.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top:0cm;margin-right:.25pt;margin-bottom:0cm;&amp;#13;&amp;#10;margin-left:.25pt;margin-bottom:.0001pt;text-align:justify;text-indent:9.1pt;&amp;#13;&amp;#10;line-height:17pt;12.95pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:NL"&gt;Von&amp;#13;
+Neumann's bewijstheoretische resultaten waren niet specta-&lt;br/&gt;&amp;#13;
+culair; hij toonde aan, wat men zou kunnen noemen, de niet-&lt;br/&gt;&amp;#13;
+tegenstrijdigheid van de elementair-recursieve wiskunde, maar over&lt;br/&gt;&amp;#13;
+het geheel genomen was de uitkomst veeleer negatief, doordat dui-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;delijk bleek, dat bepaalde wegen onbegaanbaar waren; indrukwek-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;mso-ansi-language:NL"&gt;kend is de wijze&amp;#13;
+waarop von Neumann zich van de taak kwijt, een&lt;br/&gt;
+&lt;span style="letter-spacing:.1pt"&gt;oneindig axioma-stelsel stringent te&amp;#13;
+formuleren, en hoe hij aan de&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.15pt"&gt;andere kant doorziet, dat bij zijn&amp;#13;
+probleem van niet-tegenstrijdig-&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.05pt"&gt;heid slechts eindig veel axioma's&amp;#13;
+meespelen. Maar de echte von&lt;br/&gt;&amp;#13;
+Neumann komen we in zijn axiomatiek 3er verzamelingsleer tegen.&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.15pt"&gt;Met zijn scherpe blik heeft hij als&amp;#13;
+eerste de (niet-semantische)&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.1pt"&gt;paradoxen der verzamelingsleer&amp;#13;
+volledig doorzien. Het komt erop&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.15pt"&gt;aan, te grote verzamelingen te&amp;#13;
+vermijden &amp;#151; dit was bekend. Maar&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.1pt"&gt;wat een te grote verzameling is, heeft&amp;#13;
+pas von Neumann begrepen:&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.25pt"&gt;een die met de verzameling van alle&amp;#13;
+dingen gelijkmachtig is. En&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.05pt"&gt;deze ontdekking wordt&amp;#13;
+gecomplementeerd door een tweede, bijzon-&lt;br/&gt;
+&lt;/span&gt;&lt;span style="letter-spacing:.15pt"&gt;der verrassende: dat men de te grote&amp;#13;
+verzamelingen niet als ver-&lt;br/&gt;&amp;#13;
+zamelingen, maar alleen als elementen van verzamelingen behoeft&lt;br/&gt;&amp;#13;
+te verbieden.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left:.95pt;text-align:justify;text-indent:&amp;#13;&amp;#10;9.85pt;line-height:17pt;12.95pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:NL"&gt;Ik ben op&amp;#13;
+dit jeugdwerk van von Neumann zo uitvoerig inge-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;gaan, juist omdat hij het niet heeft voortgezet. Hij heeft de kloof,&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;waarvan ik daarstraks sprak, toen vermoedelijk niet opgemerkt; dit&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;en de taak de kloof te overbruggen, bleef aan G&amp;#246;del voorbehouden.&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;Toen G&amp;#246;del in 1930 zijn befaamde ontdekking deed &amp;#151; de formeel&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;niet beslisbare problemen &amp;#151; hield von Neumann zich reeds met&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;geheel andere vragen bezig. Von Neumann's belangstelling werd&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.3pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;in hoge mate bepaald door de kringen, waarin hij verkeerde, en&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;door de concrete problemen, die hij in deze milieus leerde kennen.&lt;br/&gt;&amp;#13;
+Hoewel zijn werk sterk filosofisch gekleurd is, voelde hij zich niet&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;thuis in de kringen van filosofen met hun problemen en hun taal,&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+</text>
+  </biography>
+</biodes>

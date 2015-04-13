@@ -1,0 +1,26 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://nl.wikipedia.org/wiki/Anthony_Oberman" />
+    <publisher>
+      <name>wikipedia</name>
+      <ref target="http://nl.wikipedia.org/" />
+    </publisher>
+  <idno type="source">wikipedia</idno></fileDesc>
+  <person>
+    <idno type="bioport">37568523</idno>
+    <persName>Anthony Oberman</persName>
+  <idno type="id">wikipedia/Anthony_Oberman.xml</idno><idno type="bioport">96967761</idno></person>
+  <biography>
+    <text>Anthony Oberman ( Amsterdam , juli 1781 - aldaar, 20 oktober 1845 ), was een Nederlandse kunstschilder .
+ Oberman was een zoon van Jan Oberman en Grietje ten Cate. Hij werd op 21 juli 1781 gedoopt in de Amsterdamse Westerkerk .
+ Hij schilderde onder andere stilleven s met bloemen en portretten van paarden, zoals voor de Amsterdamse bankier en kunstverzamelaar Adriaan van der Hoop (1778-1854).
+ Bron 
+ Christiaan Kramm (1864) De levens en werken der Hollandsche en Vlaamsche kunstschilders, beeldhouwers, graveurs en bouwmeesters, van den vroegsten tot op onzen tijd, Digitaal 
+  Externe link 
+ Anthony Oberman op de site van het Rijksbureau voor Kunsthistorische Documentatie 
+ 4 schilderijen van Oberman in de collectie van het Rijksmuseum Twenthe 
+ {{DEFAULTSORT:Oberman}}
+ Categorie:Nederlands kunstschilder</text>
+  </biography>
+</biodes>

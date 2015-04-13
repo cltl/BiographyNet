@@ -1,0 +1,30 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://nl.wikipedia.org/wiki/David_de_Wied" />
+    <publisher>
+      <name>wikipedia</name>
+      <ref target="http://nl.wikipedia.org/" />
+    </publisher>
+  <idno type="source">wikipedia</idno></fileDesc>
+  <person>
+    <idno type="bioport">99354894</idno>
+    <persName>David de Wied</persName>
+    <event type="birth" when="1925-01-12">
+      <place>Deventer</place>
+    </event>
+    <event type="death" when="2004-02-21">
+      <place>Utrecht stad|Utrecht</place>
+    </event>
+  </person>
+  <biography>
+    <text>David de Wied ( Deventer , 12 januari 1925 - Utrecht , 21 februari 2004 ) was een Nederland se hoogleraar farmacie aan de Universiteit Utrecht . 
+ Als gevolg van de oorlog kon De Wied pas in 1947 beginnen met zijn studie geneeskunde aan de Universiteit van Groningen , waar hij in 1952 promoveerde op het proefschrift Vitamine C, Bijnier en Adaptie, en in 1955 afstudeerde als arts . Hij werd in 1961 benoemd tot hoogleraar experimentele endocrinologie , en vanaf 1963 was hij directeur van het Rudolf Magnus Instituut en hoogleraar farmacie in Utrecht. 
+ De Wied was lid van diverse geleerde genootschappen, waaronder de Koninklijke Nederlandse Akademie van Wetenschappen , (KNAW). Hij was van 1981 tot 1984 voorzitter van de afdeling natuurkunde van de KNAW, en van 1984 tot 1990 president. 
+ In 1996 ontving hij de Dr. A.H. Heinekenprijs voor medicijnen . Hij was Commandeur in de Orde van Oranje-Nassau en Ridder in de Orde van de Nederlandse Leeuw .
+ Externe link 
+  KNAW Levensbericht Dr D. de Wied 
+  Wied, David de 
+ Wied, David de</text>
+  </biography>
+</biodes>

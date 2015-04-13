@@ -1,0 +1,18 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.inghist.nl/retroboeken/vdaa?source=aa__001biog12_01.xml&amp;page_number=63"/>
+    <publisher>
+      <name>Van der Aa (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/vdaa"/>
+    </publisher>
+  <idno type="source">vdaa</idno></fileDesc>
+  <person>
+    <idno type="id">k0073</idno>
+    <persName>W.J.G. <name type="geslachtsnaam">Karsten</name></persName>
+    <idno type="dbnl_id">kars016</idno>
+  <idno type="bioport">99761661</idno></person>
+  <biography>
+    <text>KARSTEN (W.J.G.) schreef:  Theorie der schuinsliggende rosenkrans-molens of schepwerken. (Haarl. 1773) 8o. met kaart. Grondbeginselen der scheikunde; uit het Hoogduitsch, Zutph. 1803. gr. 8o. Zie de Jong, Naaml. van Boek.; Muller, Cat. van Boeken en Kaart. over Neerlands Waterst. bl. 23.</text>
+  </biography>
+</biodes>

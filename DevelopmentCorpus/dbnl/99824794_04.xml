@@ -1,0 +1,25 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.dbnl.org/tekst/_jaa003199501_01/_jaa003199501_01_0010.php"/>
+    <publisher>
+      <name>Jaarboek van de Maatschappij der Nederlandse Letterkunde, 1995 (1995) in de Digitale Bibliotheek voor de Nederlandse Letteren</name>
+      <ref target="http://www.dbnl.org"/>
+    </publisher>
+  <idno type="source">dbnl</idno></fileDesc>
+  <person>
+    <idno type="id">2036501999</idno>
+    <persName>Schram, Peter Leendert </persName>
+    <sex value="1"/>
+    <event type="birth" when="1922-06-30">
+      <date>30 juni 1922</date>
+      <place>Utrecht</place>
+    </event>
+    <event type="death" when="1994-06-07">
+      <date>7 juni 1994</date>
+      <place>Abcoude</place>
+    </event>
+    <idno type="dbnl_id">schr003</idno>
+  <idno type="bioport">48838228</idno><idno type="bioport">94676139</idno><idno type="bioport">99824794</idno></person>
+  <biography/>
+</biodes>

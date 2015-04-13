@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.inghist.nl/retroboeken/nbwv?source=4&amp;page_number=389"/>
+    <publisher>
+      <name>XXX</name>
+      <ref target="http://www.inghist.nl"/>
+    </publisher>
+  <idno type="source">nbwv</idno></fileDesc>
+  <person>
+    <persName>HALMALE, Costen van </persName>
+    <event type="birth" when="1435"/>
+    <event type="death" when="1508"/>
+  <idno type="bioport">99609466</idno><idno type="id">nbwv/1156.xml</idno></person>
+  <biography/>
+</biodes>

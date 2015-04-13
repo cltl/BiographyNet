@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/3986" />
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen" />
+    </publisher>
+  <idno type="source">raa</idno></fileDesc>
+  <person>
+    <persName><name type="voornaam">Tinco</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Andringa</name></persName>
+    <event type="birth">
+      <place />
+    </event>
+    <event type="death" when="1619-02-14">
+      <place />
+    </event>
+  <idno type="bioport">99847312</idno><idno type="id">raa/3986.xml</idno></person>
+  <biography />
+</biodes>

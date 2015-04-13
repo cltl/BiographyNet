@@ -1,0 +1,25 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.rkd.nl/rkddb/dispatcher.aspx?action=search&database=ChoiceArtists&search=priref=109209" />
+    <publisher>
+      <name>Rijksbureau voor Kunsthistorische Documentatie</name>
+      <ref target="http://www.rkd.nl/" />
+    </publisher>
+  <idno type="source">rkdartists</idno></fileDesc>
+  <person>
+    <persName><name type="geslachtsnaam">Smit</name>, Hein</persName>
+    <persName><name type="geslachtsnaam">Smit</name>, Heinrich</persName>
+    <sex value="1" />
+    <event type="birth" when="1902-12-13">
+      <place>Groningen</place>
+    </event>
+    <event type="death" when="1976-07-09">
+      <place>Groningen</place>
+    </event>
+    <idno type="id">109209</idno>
+  <idno type="bioport">99957785</idno></person>
+  <biography>
+    <text>Geboren: 13 december 1902, Groningen. Gestorven: 9 juli 1976, Groningen.</text>
+  </biography>
+</biodes>

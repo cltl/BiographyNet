@@ -1,0 +1,53 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09ll0mxtyq" />
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/" />
+  </publisher>
+ <title /><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09ll0mxtyq">
+  <persName>
+   <name type="voornaam">J.J.</name>
+    <name type="geslachtsnaam">Fens</name>
+  </persName>
+  <persName>
+   <name type="voornaam">Johannes</name>
+   <name type="voornaam">Josephus</name>
+    <name type="geslachtsnaam">Fens</name>
+  </persName>
+  <sex value="1" />
+  <event type="birth" when="1900-12-04">in <place>Breda</place></event>
+  <event type="death" when="1968-11-30">in <place>Breda</place></event>
+  <event type="marriage" when="1927-11-03">gehuwd te Den Helder</event>
+  <state type="residence">Breda</state>
+  <state to="1930-11" type="residence">Den Helder,</state>
+  <state from="1930-11" to="1936-03" type="residence">Curaçao</state>
+  <state from="1936-03-11" to="1937-08" type="residence">Den Helder, Loodsgracht 47</state>
+  <state from="1937-08-21" to="1938-10" type="residence">Utrecht, Dantelaan 53</state>
+  <state from="1938-10-28" to="1939-08" type="residence">Den Helder</state>
+  <state from="1939-08-01" to="1940-12" type="residence">Voorburg</state>
+  <state from="1940-12-21" to="1966-09" type="residence">Breda, Boeimeersingel 16</state>
+  <state from="1966-09-26" to="1967-10" type="residence">Voorburg, Laan van Nieuw Oosteinde 148</state>
+  <state from="1967-10-02" to="1968-11-30" type="residence">Breda, Jan Nieuwenhuizenstraat 48</state>
+  <state type="education">gymnasium-a</state>
+  <state type="education">h.b.s.-b</state>
+  <state from="1920" to="1924" type="education">officiersopleiding KMA (Koninklijke Militaire Academie) te Breda</state>
+  <state type="faith">Rooms-Katholiek</state>
+  <state from="1924-08-14" to="1928" type="occupation">tweede luitenant der artillerie</state>
+  <state from="1928-08-14" to="1930-12" type="occupation">officier bij de kustartillerie te Den Helder</state>
+  <state from="1931-01" to="1936-06" type="occupation">adjunct van de Gouverneur van Curaçao</state>
+  <state from="1936" to="1939-01-01" type="occupation">docent SROA (School voor Reserve Officieren Artillerie)</state>
+  <state from="1939-01-01" to="1940-05" type="occupation">officier bij de kustartillerie te Den Helder</state>
+  <state from="1940" to="1941" type="occupation">particulier secretaris van de burgemeester van Breda</state>
+  <state from="1942" to="1945" type="occupation">krijgsgevangene</state>
+  <state from="1946" to="1949-07" type="occupation">docent en commandant SROA te Breda</state>
+  <state from="1948" to="1949-07" type="occupation">algemeen hoofd onderwijs KMA (Koninklijke Militaire Academie) te Breda</state>
+  <state from="1949-07-23" to="1961-12-16" type="occupation">lid Tweede Kamer der Staten-Generaal</state>
+  <state from="1961-12-18" to="1968-11-30" type="occupation">lid Raad van State</state>
+ <idno type="bioport">98632837</idno><idno type="id">pdc/vg09ll0mxtyq.xml</idno></person>
+ <biography>
+  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/004/00403g.jpg" />
+  <text>In de periode 1949-1961 de voornaamste defensie-woordvoerder van de KVP in de Tweede Kamer. Was luitenant-kolonel der artillerie en hoofd algemeen onderwijs aan de Koninklijke Militaire Academie, nadat hij daarvoor onder meer inlichtingenwerk op Curaçao had gedaan en officier was geweest bij de kustbewaking. Was ook actief in het NAVO-parlement en de parlementaire vergadering van de West-Europese Unie. Krachtig pleitbezorger van Europese samenwerking op defensiegebied. Na zijn Kamerlidmaatschap lid van de Raad van State.</text>
+ </biography>
+</biodes>

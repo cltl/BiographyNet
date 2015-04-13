@@ -1,0 +1,37 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09llsb8mzr"/>
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/"/>
+  </publisher>
+ <title/><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09llsb8mzr">
+  <persName>
+   <name type="voornaam">J.I.H.</name>
+    <name type="intrapositie">van</name>
+    <name type="geslachtsnaam">Wickevoort Crommelin</name>
+  </persName>
+  <persName>
+   <name type="voornaam">Jan</name>
+   <name type="voornaam">Iman</name>
+   <name type="voornaam">Hendrik</name>
+    <name type="intrapositie">van</name>
+    <name type="geslachtsnaam">Wickevoort Crommelin</name>
+  </persName>
+  <persName>Crommelin, J.I.H. van Wickevoort</persName>
+  <sex value="1"/>
+  <event type="birth" when="1775-06-27">in <place>Waverveen (Holland)</place></event>
+  <event type="death" when="1841-12-04">in <place>Utrecht</place></event>
+  <event type="marriage" when="1799-03-12">gehuwd te Rotterdam</event>
+  <state type="residence">Hoorn</state>
+  <state type="faith">Gereformeerd (Ned. Hervormd)</state>
+  <state type="occupation">landeigenaar</state>
+  <state type="occupation" from="1819-06-01" to="1823-10-21">lid Provinciale Staten van Holland voor de landelijke stand (Broek op Langedijk)</state>
+  <state type="occupation" from="1823-10-21" to="1840-10-19">lid Tweede Kamer der Staten-Generaal voor Holland</state>
+  <state type="occupation" from="1840-10-20" to="1841-12-04">lid Eerste Kamer der Staten-Generaal</state>
+ <idno type="bioport">99417566</idno><idno type="id">pdc/vg09llsb8mzr.xml</idno></person>
+ <biography>
+  <text>Regeringsgezinde grondbezitter uit het noordelijke deel van Holland die namens de landeigenaren in Provinciale Staten zat. Die kozen hem in 1823 tot Tweede Kamerlid. Kwam oorspronkelijk uit Waverveen op de grens van Holland en Utrecht. In 1840 was hij een van de eersten die door de nieuwe koning Willem II tot lid van de Eerste Kamer werden benoemd, maar daarvan maakte hij slechts korte tijd deel uit.</text>
+ </biography>
+</biodes>

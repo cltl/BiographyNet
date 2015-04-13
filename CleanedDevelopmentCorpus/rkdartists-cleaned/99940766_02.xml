@@ -1,0 +1,27 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.rkd.nl/rkddb/dispatcher.aspx?action=search&database=ChoiceArtists&search=priref=37529" />
+    <publisher>
+      <name>Rijksbureau voor Kunsthistorische Documentatie</name>
+      <ref target="http://www.rkd.nl/" />
+    </publisher>
+  <idno type="source">rkdartists</idno></fileDesc>
+  <person>
+    <persName>Henkes, Gerke</persName>
+    <sex value="1" />
+    <event type="birth" when="1844-06-25">
+      <place>Delfshaven (Rotterdam)</place>
+    </event>
+    <event type="death" when="1927-04-30">
+      <place>Rotterdam</place>
+    </event>
+    <state type="occupation">aquarellist</state>
+    <state type="occupation">schilder</state>
+    <state type="occupation">tekenaar</state>
+    <idno type="id">37529</idno>
+  <idno type="bioport">99940766</idno></person>
+  <biography>
+    <text>Aquarellist, schilder, tekenaar. Geboren: 25 juni 1844, Delfshaven (Rotterdam). Gestorven: 30 april 1927, Rotterdam. Plaats en periode van werkzaamheid: Voorburg, van 1919 tot 1919 Tot 1919. Rotterdam, van 1919 tot 1919 Vanaf 1919.</text>
+  </biography>
+</biodes>

@@ -1,0 +1,25 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.dbnl.org/tekst/bork001nede01_01/bork001nede01_01_1102.php"/>
+    <publisher>
+      <name>De Nederlandse en Vlaamse auteurs (1985) in de Digitale Bibliotheek voor de Nederlandse Letteren</name>
+      <ref target="http://www.dbnl.org"/>
+    </publisher>
+  <idno type="source">dbnl</idno></fileDesc>
+  <person>
+    <idno type="id">-1947389074</idno>
+    <persName>Rispens, J.A. </persName>
+    <sex value="1"/>
+    <event type="birth" when="1889-12-05">
+      <date>5 december 1889</date>
+      <place>Noordwijk aan Zee</place>
+    </event>
+    <event type="death" when="1962-03-27">
+      <date>27 maart 1962</date>
+      <place>Deventer</place>
+    </event>
+    <idno type="dbnl_id">risp001</idno>
+  <idno type="bioport">13784919</idno><idno type="bioport">99927623</idno></person>
+  <biography/>
+</biodes>

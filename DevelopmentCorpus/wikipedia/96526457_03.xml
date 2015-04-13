@@ -1,0 +1,91 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://nl.wikipedia.org/wiki/Felix_Bloch"/>
+    <publisher>
+      <name>wikipedia</name>
+      <ref target="http://nl.wikipedia.org/"/>
+    </publisher>
+  <idno type="source">wikipedia</idno></fileDesc>
+  <person>
+    <idno type="bioport">96526457</idno>
+    <persName>Felix Bloch</persName>
+    <event type="birth" when="1905-10-23">
+      <place>Z&#252;rich stad|Z&#252;rich</place>
+    </event>
+    <event type="death" when="1983-09-10">
+      <place>Z&#252;rich stad|Z&#252;rich</place>
+    </event>
+  </person>
+  <biography>
+    <text>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;head&gt;&lt;title /&gt;&lt;style media="screen, projection" type="text/css"&gt;
+                        @import "http://en.wikipedia.org/skins-1.5/common/shared.css?156";
+                        @import "http://en.wikipedia.org//skins-1.5/monobook/main.css?156";
+&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class="mwx.article"&gt;&lt;h1 /&gt;&lt;div class="mwx.paragraph"&gt;
+Felix Bloch (&lt;a class="mwx.link.article" href="#"&gt;Z&amp;#252;rich&lt;/a&gt;, &lt;a class="mwx.link.article" href="#"&gt;23 oktober&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;1905&lt;/a&gt; &amp;#8211; aldaar, &lt;a class="mwx.link.article" href="#"&gt;10 september&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;1983&lt;/a&gt;) was een in &lt;a class="mwx.link.article" href="#"&gt;Zwitserland&lt;/a&gt; geboren natuurkundige, die vooral in de &lt;a class="mwx.link.article" href="#"&gt;Verenigde Staten&lt;/a&gt; werkte.
+&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Biografie &lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+Hij studeerde tot 1927 in Z&amp;#252;rich, en studeerde een jaar later in &lt;a class="mwx.link.article" href="#"&gt;Leipzig&lt;/a&gt; af. Hij bleef in &lt;a class="mwx.link.article" href="#"&gt;Duitsland&lt;/a&gt;, en studeerde bij &lt;a class="mwx.link.article" href="#"&gt;Werner Heisenberg&lt;/a&gt;, &lt;a class="mwx.link.article" href="#"&gt;Wolfgang Pauli&lt;/a&gt;, &lt;a class="mwx.link.article" href="#"&gt;Niels Bohr&lt;/a&gt; en &lt;a class="mwx.link.article" href="#"&gt;Enrico Fermi&lt;/a&gt;. Na de &lt;a class="mwx.link.article" href="#"&gt;machtsovername door Hitler&lt;/a&gt; in 1933 verliet hij onmiddellijk Duitsland (Bloch was van &lt;a class="mwx.link.article" href="#"&gt;Joodse&lt;/a&gt; komaf) om in 1934 aan &lt;a class="mwx.link.article" href="#"&gt;Stanford University&lt;/a&gt; te gaan werken, waaraan hij de eerste &lt;a class="mwx.link.article" href="#"&gt;hoogleraar&lt;/a&gt; in de &lt;a class="mwx.link.article" href="#"&gt;theoretische natuurkunde&lt;/a&gt; werd. In 1939 werd hij Amerikaan. In de &lt;a class="mwx.link.article" href="#"&gt;Tweede Wereldoorlog&lt;/a&gt; werkte hij eerst aan &lt;a class="mwx.link.article" href="#"&gt;atoomenergie&lt;/a&gt; bij het &lt;a class="mwx.link.article" href="#"&gt;Los Alamos&lt;/a&gt; National Laboratory, later aan het &lt;a class="mwx.link.article" href="#"&gt;radar&lt;/a&gt;project aan &lt;a class="mwx.link.article" href="#"&gt;Harvard University&lt;/a&gt;. Na de oorlog concentreerde hij zich op &lt;a class="mwx.link.article" href="#"&gt;nucleaire inductie&lt;/a&gt; en &lt;a class="mwx.link.article" href="#"&gt;kernspinresonantie&lt;/a&gt;, die de grondslag vormen van de &lt;a class="mwx.link.article" href="#"&gt;MRI&lt;/a&gt;. In 1954/55 was hij de eerste directeur van &lt;a class="mwx.link.article" href="#"&gt;CERN&lt;/a&gt;. In 1961 werd hij opnieuw hoogleraar in de natuurkunde aan Stanford University.
+&lt;/div&gt;&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Vernoemingen&lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+De volgende natuurkundige begrippen zijn naar hem vernoemd:
+&lt;ul&gt;&lt;li&gt; &lt;a class="mwx.link.article" href="#"&gt;Bloch vector&lt;/a&gt;
+&lt;/li&gt;&lt;li&gt; &lt;a class="mwx.link.article" href="#"&gt;Bloch wand&lt;/a&gt;en
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Externe links&lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+&lt;ul&gt;&lt;li&gt; {{en}}&lt;a class="mwx.link.external" href="http://nobelprize.org/physics/laureates/1952/bloch-bio.html"&gt; Biografie Bloch&lt;/a&gt; Van Nobelprice.org
+&lt;/li&gt;&lt;li&gt; {{en}}&lt;a class="mwx.link.external" href="http://www-sul.stanford.edu/depts/spc/xml/sc0303.xml"&gt; Guide to the Felix Bloch Papers, 1931-1987&lt;/a&gt; Stanford University
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;{{Bron|bronvermelding=
+{{References}}
+}}
+{{Navigatie winnaars van de Nobelprijs voor de Natuurkunde 1951-1975}}
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;{{DEFAULTSORT:Bloch, Felix}}
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Winnaar van de Nobelprijs voor de Natuurkunde&lt;/a&gt;
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Amerikaans hoogleraar&lt;/a&gt;
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Amerikaans immigrant&lt;/a&gt;
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Amerikaans natuurkundige&lt;/a&gt;
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Zwitsers natuurkundige&lt;/a&gt;
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Theoretisch natuurkundige&lt;/a&gt;
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;/div&gt;&lt;/div&gt;&lt;ol class="mwx.languagelinks"&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="ar:&amp;#1601;&amp;#1604;&amp;#1610;&amp;#1603;&amp;#1587; &amp;#1576;&amp;#1604;&amp;#1608;&amp;#1582;"&gt;ar:&amp;#1601;&amp;#1604;&amp;#1610;&amp;#1603;&amp;#1587; &amp;#1576;&amp;#1604;&amp;#1608;&amp;#1582;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="bg:&amp;#1060;&amp;#1077;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1089; &amp;#1041;&amp;#1083;&amp;#1086;&amp;#1093;"&gt;bg:&amp;#1060;&amp;#1077;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1089; &amp;#1041;&amp;#1083;&amp;#1086;&amp;#1093;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="bn:&amp;#2475;&amp;#2503;&amp;#2482;&amp;#2495;&amp;#2453;&amp;#2509;&amp;#2488; &amp;#2476;&amp;#2509;&amp;#2482;&amp;#2454;"&gt;bn:&amp;#2475;&amp;#2503;&amp;#2482;&amp;#2495;&amp;#2453;&amp;#2509;&amp;#2488; &amp;#2476;&amp;#2509;&amp;#2482;&amp;#2454;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="bs:Felix Bloch"&gt;bs:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="ca:Felix Bloch"&gt;ca:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="cs:Felix Bloch"&gt;cs:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="de:Felix Bloch"&gt;de:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="en:Felix Bloch"&gt;en:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="eo:Felix Bloch"&gt;eo:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="es:Felix Bloch"&gt;es:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="fa:&amp;#1601;&amp;#1604;&amp;#1740;&amp;#1705;&amp;#1587; &amp;#1576;&amp;#1604;&amp;#1575;&amp;#1705;"&gt;fa:&amp;#1601;&amp;#1604;&amp;#1740;&amp;#1705;&amp;#1587; &amp;#1576;&amp;#1604;&amp;#1575;&amp;#1705;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="fi:Felix Bloch"&gt;fi:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="fr:F&amp;#233;lix Bloch"&gt;fr:F&amp;#233;lix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="gl:Felix Bloch"&gt;gl:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="he:&amp;#1508;&amp;#1500;&amp;#1497;&amp;#1511;&amp;#1505; &amp;#1489;&amp;#1500;&amp;#1493;&amp;#1498;"&gt;he:&amp;#1508;&amp;#1500;&amp;#1497;&amp;#1511;&amp;#1505; &amp;#1489;&amp;#1500;&amp;#1493;&amp;#1498;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="hi:&amp;#2347;&amp;#2368;&amp;#2354;&amp;#2367;&amp;#2325;&amp;#2381;&amp;#2360; &amp;#2348;&amp;#2381;&amp;#2354;&amp;#2366;&amp;#2326;"&gt;hi:&amp;#2347;&amp;#2368;&amp;#2354;&amp;#2367;&amp;#2325;&amp;#2381;&amp;#2360; &amp;#2348;&amp;#2381;&amp;#2354;&amp;#2366;&amp;#2326;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="ht:Felix Bloch"&gt;ht:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="hu:Felix Bloch"&gt;hu:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="id:Felix Bloch"&gt;id:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="io:Felix Bloch"&gt;io:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="it:Felix Bloch"&gt;it:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="ja:&amp;#12501;&amp;#12455;&amp;#12522;&amp;#12483;&amp;#12463;&amp;#12473;&amp;#12539;&amp;#12502;&amp;#12525;&amp;#12483;&amp;#12507;"&gt;ja:&amp;#12501;&amp;#12455;&amp;#12522;&amp;#12483;&amp;#12463;&amp;#12473;&amp;#12539;&amp;#12502;&amp;#12525;&amp;#12483;&amp;#12507;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="ko:&amp;#54176;&amp;#47533;&amp;#49828; &amp;#48660;&amp;#47196;&amp;#55120;"&gt;ko:&amp;#54176;&amp;#47533;&amp;#49828; &amp;#48660;&amp;#47196;&amp;#55120;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="ku:Felix Bloch"&gt;ku:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="la:Felix Bloch"&gt;la:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="lv:F&amp;#275;likss Blohs"&gt;lv:F&amp;#275;likss Blohs&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="mr:&amp;#2347;&amp;#2375;&amp;#2354;&amp;#2367;&amp;#2325;&amp;#2381;&amp;#2360; &amp;#2348;&amp;#2381;&amp;#2354;&amp;#2377;&amp;#2325;"&gt;mr:&amp;#2347;&amp;#2375;&amp;#2354;&amp;#2367;&amp;#2325;&amp;#2381;&amp;#2360; &amp;#2348;&amp;#2381;&amp;#2354;&amp;#2377;&amp;#2325;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="no:Felix Bloch"&gt;no:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="oc:Felix Bloch"&gt;oc:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="pl:Felix Bloch"&gt;pl:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="pnb:&amp;#1601;&amp;#1740;&amp;#1604;&amp;#1705;&amp;#1587; &amp;#1576;&amp;#1604;&amp;#1608;&amp;#1582;"&gt;pnb:&amp;#1601;&amp;#1740;&amp;#1604;&amp;#1705;&amp;#1587; &amp;#1576;&amp;#1604;&amp;#1608;&amp;#1582;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="pt:Felix Bloch"&gt;pt:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="ro:Felix Bloch"&gt;ro:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="ru:&amp;#1041;&amp;#1083;&amp;#1086;&amp;#1093;, &amp;#1060;&amp;#1077;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1089;"&gt;ru:&amp;#1041;&amp;#1083;&amp;#1086;&amp;#1093;, &amp;#1060;&amp;#1077;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1089;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="sk:Felix Bloch"&gt;sk:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="sl:Felix Bloch"&gt;sl:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="sr:&amp;#1060;&amp;#1077;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1089; &amp;#1041;&amp;#1083;&amp;#1086;&amp;#1093;"&gt;sr:&amp;#1060;&amp;#1077;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1089; &amp;#1041;&amp;#1083;&amp;#1086;&amp;#1093;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="sv:Felix Bloch"&gt;sv:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="sw:Felix Bloch"&gt;sw:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="tr:Felix Bloch"&gt;tr:Felix Bloch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="uk:&amp;#1060;&amp;#1077;&amp;#1083;&amp;#1110;&amp;#1082;&amp;#1089; &amp;#1041;&amp;#1083;&amp;#1086;&amp;#1093;"&gt;uk:&amp;#1060;&amp;#1077;&amp;#1083;&amp;#1110;&amp;#1082;&amp;#1089; &amp;#1041;&amp;#1083;&amp;#1086;&amp;#1093;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="zh:&amp;#36153;&amp;#21033;&amp;#20811;&amp;#26031;&amp;#183;&amp;#24067;&amp;#27931;&amp;#36203;"&gt;zh:&amp;#36153;&amp;#21033;&amp;#20811;&amp;#26031;&amp;#183;&amp;#24067;&amp;#27931;&amp;#36203;&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</text>
+  </biography>
+</biodes>

@@ -1,0 +1,3386 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<KAF xml:lang="nl">
+  <kafHeader>
+    <linguisticProcessors>
+      <lp name="alpino" version="unknown"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp timestamp="2014-06-23T16:32:35CEST" version="21may2014_1.2" name="VUA polarity tagger multilanguage"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="opinions">
+      <lp timestamp="2014-06-23T16:47:28CEST" version="1.0" name="Basic opinion detector with Pos"/>
+    </linguisticProcessors>
+  </kafHeader>
+  <text>
+    <wf page="0" para="0" sent="1" wid="w1.3">De</wf>
+    <wf page="0" para="0" sent="1" wid="w1.4">economie</wf>
+    <wf page="0" para="0" sent="1" wid="w1.5">is</wf>
+    <wf page="0" para="0" sent="1" wid="w1.6">natuurlijk</wf>
+    <wf page="0" para="0" sent="1" wid="w1.7">ook</wf>
+    <wf page="0" para="0" sent="1" wid="w1.9">heel</wf>
+    <wf page="0" para="0" sent="1" wid="w1.10">belangrijk</wf>
+    <wf page="0" para="0" sent="1" wid="w1.12">voor</wf>
+    <wf page="0" para="0" sent="1" wid="w1.14">de</wf>
+    <wf page="0" para="0" sent="1" wid="w1.15">consument</wf>
+    <wf page="0" para="0" sent="1" wid="w1.16">.</wf>
+    <wf page="0" para="0" sent="2" wid="w2.6">Ik</wf>
+    <wf page="0" para="0" sent="2" wid="w2.7">zou</wf>
+    <wf page="0" para="0" sent="2" wid="w2.13">dan</wf>
+    <wf page="0" para="0" sent="2" wid="w2.14">ook</wf>
+    <wf page="0" para="0" sent="2" wid="w2.16">alleen</wf>
+    <wf page="0" para="0" sent="2" wid="w2.17">maar</wf>
+    <wf page="0" para="0" sent="2" wid="w2.10">willen</wf>
+    <wf page="0" para="0" sent="2" wid="w2.18">zeggen</wf>
+    <wf page="0" para="0" sent="2" wid="w2.21">dat</wf>
+    <wf page="0" para="0" sent="2" wid="w2.23">voor</wf>
+    <wf page="0" para="0" sent="2" wid="w2.25">de</wf>
+    <wf page="0" para="0" sent="2" wid="w2.26">toegang</wf>
+    <wf page="0" para="0" sent="2" wid="w2.28">tot</wf>
+    <wf page="0" para="0" sent="2" wid="w2.29">noodhulpdiensten</wf>
+    <wf page="0" para="0" sent="2" wid="w2.1">,</wf>
+    <wf page="0" para="0" sent="2" wid="w2.31">minder</wf>
+    <wf page="0" para="0" sent="2" wid="w2.32">belemmeringen</wf>
+    <wf page="0" para="0" sent="2" wid="w2.34">om</wf>
+    <wf page="0" para="0" sent="2" wid="w2.39">binnen</wf>
+    <wf page="0" para="0" sent="2" wid="w2.41">één</wf>
+    <wf page="0" para="0" sent="2" wid="w2.42">dag</wf>
+    <wf page="0" para="0" sent="2" wid="w2.44">van</wf>
+    <wf page="0" para="0" sent="2" wid="w2.45">telefonie</wf>
+    <wf page="0" para="0" sent="2" wid="w2.46">-exploitant</wf>
+    <wf page="0" para="0" sent="2" wid="w2.36">te</wf>
+    <wf page="0" para="0" sent="2" wid="w2.47">veranderen</wf>
+    <wf page="0" para="0" sent="2" wid="w2.2">,</wf>
+    <wf page="0" para="0" sent="2" wid="w2.49">bescherming</wf>
+    <wf page="0" para="0" sent="2" wid="w2.51">van</wf>
+    <wf page="0" para="0" sent="2" wid="w2.53">de</wf>
+    <wf page="0" para="0" sent="2" wid="w2.54">persoonlijke</wf>
+    <wf page="0" para="0" sent="2" wid="w2.55">levenssfeer</wf>
+    <wf page="0" para="0" sent="2" wid="w2.57">als</wf>
+    <wf page="0" para="0" sent="2" wid="w2.59">het</wf>
+    <wf page="0" para="0" sent="2" wid="w2.60">gaat</wf>
+    <wf page="0" para="0" sent="2" wid="w2.62">om</wf>
+    <wf page="0" para="0" sent="2" wid="w2.63">persoonsgegevens</wf>
+    <wf page="0" para="0" sent="2" wid="w2.3">–</wf>
+    <wf page="0" para="0" sent="2" wid="w2.65">voor</wf>
+    <wf page="0" para="0" sent="2" wid="w2.68">al</wf>
+    <wf page="0" para="0" sent="2" wid="w2.69">deze</wf>
+    <wf page="0" para="0" sent="2" wid="w2.70">punten</wf>
+    <wf page="0" para="0" sent="2" wid="w2.73">een</wf>
+    <wf page="0" para="0" sent="2" wid="w2.74">oplossing</wf>
+    <wf page="0" para="0" sent="2" wid="w2.75">is</wf>
+    <wf page="0" para="0" sent="2" wid="w2.78">gevonden</wf>
+    <wf page="0" para="0" sent="2" wid="w2.79">.</wf>
+    <wf page="0" para="0" sent="3" wid="w3.2">Ik</wf>
+    <wf page="0" para="0" sent="3" wid="w3.3">juich</wf>
+    <wf page="0" para="0" sent="3" wid="w3.4">het</wf>
+    <wf page="0" para="0" sent="3" wid="w3.5">toe</wf>
+    <wf page="0" para="0" sent="3" wid="w3.7">dat</wf>
+    <wf page="0" para="0" sent="3" wid="w3.10">het</wf>
+    <wf page="0" para="0" sent="3" wid="w3.11">Parlement</wf>
+    <wf page="0" para="0" sent="3" wid="w3.13">de</wf>
+    <wf page="0" para="0" sent="3" wid="w3.14">regels</wf>
+    <wf page="0" para="0" sent="3" wid="w3.16">voor</wf>
+    <wf page="0" para="0" sent="3" wid="w3.18">het</wf>
+    <wf page="0" para="0" sent="3" wid="w3.19">gebruik</wf>
+    <wf page="0" para="0" sent="3" wid="w3.21">van</wf>
+    <wf page="0" para="0" sent="3" wid="w3.23">cookies</wf>
+    <wf page="0" para="0" sent="3" wid="w3.24">en</wf>
+    <wf page="0" para="0" sent="3" wid="w3.26">soortgelijke</wf>
+    <wf page="0" para="0" sent="3" wid="w3.27">middelen</wf>
+    <wf page="0" para="0" sent="3" wid="w3.28">aanscherpt</wf>
+    <wf page="0" para="0" sent="3" wid="w3.29">.</wf>
+    <wf page="0" para="0" sent="4" wid="w4.5">De</wf>
+    <wf page="0" para="0" sent="4" wid="w4.6">internetgebruikers</wf>
+    <wf page="0" para="0" sent="4" wid="w4.7">worden</wf>
+    <wf page="0" para="0" sent="4" wid="w4.10">niet</wf>
+    <wf page="0" para="0" sent="4" wid="w4.11">alleen</wf>
+    <wf page="0" para="0" sent="4" wid="w4.12">beter</wf>
+    <wf page="0" para="0" sent="4" wid="w4.13">geïnformeerd</wf>
+    <wf page="0" para="0" sent="4" wid="w4.15">over</wf>
+    <wf page="0" para="0" sent="4" wid="w4.17">wat</wf>
+    <wf page="0" para="0" sent="4" wid="w4.20">er</wf>
+    <wf page="0" para="0" sent="4" wid="w4.21">gebeurt</wf>
+    <wf page="0" para="0" sent="4" wid="w4.23">met</wf>
+    <wf page="0" para="0" sent="4" wid="w4.25">hun</wf>
+    <wf page="0" para="0" sent="4" wid="w4.26">persoonsgegevens</wf>
+    <wf page="0" para="0" sent="4" wid="w4.1">,</wf>
+    <wf page="0" para="0" sent="4" wid="w4.27">maar</wf>
+    <wf page="0" para="0" sent="4" wid="w4.29">het</wf>
+    <wf page="0" para="0" sent="4" wid="w4.30">wordt</wf>
+    <wf page="0" para="0" sent="4" wid="w4.32">voor</wf>
+    <wf page="0" para="0" sent="4" wid="w4.33">hen</wf>
+    <wf page="0" para="0" sent="4" wid="w4.34">ook</wf>
+    <wf page="0" para="0" sent="4" wid="w4.35">makkelijker</wf>
+    <wf page="0" para="0" sent="4" wid="w4.37">om</wf>
+    <wf page="0" para="0" sent="4" wid="w4.44">controle</wf>
+    <wf page="0" para="0" sent="4" wid="w4.41">uit</wf>
+    <wf page="0" para="0" sent="4" wid="w4.39">te</wf>
+    <wf page="0" para="0" sent="4" wid="w4.42">oefenen</wf>
+    <wf page="0" para="0" sent="4" wid="w4.46">over</wf>
+    <wf page="0" para="0" sent="4" wid="w4.48">die</wf>
+    <wf page="0" para="0" sent="4" wid="w4.49">gegevens</wf>
+    <wf page="0" para="0" sent="4" wid="w4.50">.</wf>
+    <wf page="0" para="0" sent="5" wid="w5.2">Ik</wf>
+    <wf page="0" para="0" sent="5" wid="w5.3">ben</wf>
+    <wf page="0" para="0" sent="5" wid="w5.5">blij</wf>
+    <wf page="0" para="0" sent="5" wid="w5.7">met</wf>
+    <wf page="0" para="0" sent="5" wid="w5.9">de</wf>
+    <wf page="0" para="0" sent="5" wid="w5.10">steun</wf>
+    <wf page="0" para="0" sent="5" wid="w5.12">voor</wf>
+    <wf page="0" para="0" sent="5" wid="w5.14">de</wf>
+    <wf page="0" para="0" sent="5" wid="w5.15">meldingsplicht</wf>
+    <wf page="0" para="0" sent="5" wid="w5.17">bij</wf>
+    <wf page="0" para="0" sent="5" wid="w5.19">inbreuken</wf>
+    <wf page="0" para="0" sent="5" wid="w5.22">met</wf>
+    <wf page="0" para="0" sent="5" wid="w5.23">betrekking</wf>
+    <wf page="0" para="0" sent="5" wid="w5.24">tot</wf>
+    <wf page="0" para="0" sent="5" wid="w5.25">persoonsgegevens</wf>
+    <wf page="0" para="0" sent="5" wid="w5.26">.</wf>
+    <wf page="0" para="0" sent="6" wid="w6.2">Het</wf>
+    <wf page="0" para="0" sent="6" wid="w6.3">is</wf>
+    <wf page="0" para="0" sent="6" wid="w6.5">voor</wf>
+    <wf page="0" para="0" sent="6" wid="w6.6">het</wf>
+    <wf page="0" para="0" sent="6" wid="w6.7">eerst</wf>
+    <wf page="0" para="0" sent="6" wid="w6.9">dat</wf>
+    <wf page="0" para="0" sent="6" wid="w6.18">op</wf>
+    <wf page="0" para="0" sent="6" wid="w6.20">communautair</wf>
+    <wf page="0" para="0" sent="6" wid="w6.21">niveau</wf>
+    <wf page="0" para="0" sent="6" wid="w6.12">een</wf>
+    <wf page="0" para="0" sent="6" wid="w6.13">dergelijke</wf>
+    <wf page="0" para="0" sent="6" wid="w6.14">verplichting</wf>
+    <wf page="0" para="0" sent="6" wid="w6.15">wordt</wf>
+    <wf page="0" para="0" sent="6" wid="w6.23">ingevoerd</wf>
+    <wf page="0" para="0" sent="6" wid="w6.24">.</wf>
+    <wf page="0" para="0" sent="7" wid="w7.4">Ook</wf>
+    <wf page="0" para="0" sent="7" wid="w7.5">doet</wf>
+    <wf page="0" para="0" sent="7" wid="w7.6">het</wf>
+    <wf page="0" para="0" sent="7" wid="w7.7">mij</wf>
+    <wf page="0" para="0" sent="7" wid="w7.9">deugd</wf>
+    <wf page="0" para="0" sent="7" wid="w7.1">–</wf>
+    <wf page="0" para="0" sent="7" wid="w7.12">het</wf>
+    <wf page="0" para="0" sent="7" wid="w7.13">Parlement</wf>
+    <wf page="0" para="0" sent="7" wid="w7.14">heeft</wf>
+    <wf page="0" para="0" sent="7" wid="w7.17">zich</wf>
+    <wf page="0" para="0" sent="7" wid="w7.20">hier</wf>
+    <wf page="0" para="0" sent="7" wid="w7.18">altijd</wf>
+    <wf page="0" para="0" sent="7" wid="w7.21">voor</wf>
+    <wf page="0" para="0" sent="7" wid="w7.22">ingezet</wf>
+    <wf page="0" para="0" sent="7" wid="w7.2">–</wf>
+    <wf page="0" para="0" sent="7" wid="w7.24">dat</wf>
+    <wf page="0" para="0" sent="7" wid="w7.27">mensen</wf>
+    <wf page="0" para="0" sent="7" wid="w7.29">met</wf>
+    <wf page="0" para="0" sent="7" wid="w7.31">een</wf>
+    <wf page="0" para="0" sent="7" wid="w7.32">handicap</wf>
+    <wf page="0" para="0" sent="7" wid="w7.34">een</wf>
+    <wf page="0" para="0" sent="7" wid="w7.35">sterkere</wf>
+    <wf page="0" para="0" sent="7" wid="w7.36">positie</wf>
+    <wf page="0" para="0" sent="7" wid="w7.37">krijgen</wf>
+    <wf page="0" para="0" sent="7" wid="w7.38">.</wf>
+    <wf page="0" para="0" sent="8" wid="w8.3">Ik</wf>
+    <wf page="0" para="0" sent="8" wid="w8.4">ben</wf>
+    <wf page="0" para="0" sent="8" wid="w8.6">vooral</wf>
+    <wf page="0" para="0" sent="8" wid="w8.7">blij</wf>
+    <wf page="0" para="0" sent="8" wid="w8.9">dat</wf>
+    <wf page="0" para="0" sent="8" wid="w8.11">consumenten</wf>
+    <wf page="0" para="0" sent="8" wid="w8.12">nu</wf>
+    <wf page="0" para="0" sent="8" wid="w8.13">garanties</wf>
+    <wf page="0" para="0" sent="8" wid="w8.14">krijgen</wf>
+    <wf page="0" para="0" sent="8" wid="w8.17">in</wf>
+    <wf page="0" para="0" sent="8" wid="w8.18">verband</wf>
+    <wf page="0" para="0" sent="8" wid="w8.19">met</wf>
+    <wf page="0" para="0" sent="8" wid="w8.21">de</wf>
+    <wf page="0" para="0" sent="8" wid="w8.22">bescherming</wf>
+    <wf page="0" para="0" sent="8" wid="w8.24">van</wf>
+    <wf page="0" para="0" sent="8" wid="w8.27">de</wf>
+    <wf page="0" para="0" sent="8" wid="w8.28">persoonlijke</wf>
+    <wf page="0" para="0" sent="8" wid="w8.29">levenssfeer</wf>
+    <wf page="0" para="0" sent="8" wid="w8.1">,</wf>
+    <wf page="0" para="0" sent="8" wid="w8.31">de</wf>
+    <wf page="0" para="0" sent="8" wid="w8.32">vrijheid</wf>
+    <wf page="0" para="0" sent="8" wid="w8.34">van</wf>
+    <wf page="0" para="0" sent="8" wid="w8.35">meningsuiting</wf>
+    <wf page="0" para="0" sent="8" wid="w8.36">en</wf>
+    <wf page="0" para="0" sent="8" wid="w8.38">de</wf>
+    <wf page="0" para="0" sent="8" wid="w8.39">toegang</wf>
+    <wf page="0" para="0" sent="8" wid="w8.41">tot</wf>
+    <wf page="0" para="0" sent="8" wid="w8.42">informatie</wf>
+    <wf page="0" para="0" sent="8" wid="w8.43">.</wf>
+    <wf page="0" para="0" sent="9" wid="w9.6">Dit</wf>
+    <wf page="0" para="0" sent="9" wid="w9.7">alles</wf>
+    <wf page="0" para="0" sent="9" wid="w9.8">zal</wf>
+    <wf page="0" para="0" sent="9" wid="w9.1">–</wf>
+    <wf page="0" para="0" sent="9" wid="w9.12">hetzij</wf>
+    <wf page="0" para="0" sent="9" wid="w9.14">door</wf>
+    <wf page="0" para="0" sent="9" wid="w9.16">goedkeuring</wf>
+    <wf page="0" para="0" sent="9" wid="w9.18">van</wf>
+    <wf page="0" para="0" sent="9" wid="w9.19">harmonisatiemaatregelen</wf>
+    <wf page="0" para="0" sent="9" wid="w9.2">,</wf>
+    <wf page="0" para="0" sent="9" wid="w9.20">hetzij</wf>
+    <wf page="0" para="0" sent="9" wid="w9.22">door</wf>
+    <wf page="0" para="0" sent="9" wid="w9.24">meer</wf>
+    <wf page="0" para="0" sent="9" wid="w9.25">toezicht</wf>
+    <wf page="0" para="0" sent="9" wid="w9.27">op</wf>
+    <wf page="0" para="0" sent="9" wid="w9.29">de</wf>
+    <wf page="0" para="0" sent="9" wid="w9.30">rechtsmiddelen</wf>
+    <wf page="0" para="0" sent="9" wid="w9.32">die</wf>
+    <wf page="0" para="0" sent="9" wid="w9.36">de</wf>
+    <wf page="0" para="0" sent="9" wid="w9.37">nationale</wf>
+    <wf page="0" para="0" sent="9" wid="w9.38">toezichthouders</wf>
+    <wf page="0" para="0" sent="9" wid="w9.39">kiezen</wf>
+    <wf page="0" para="0" sent="9" wid="w9.3">–</wf>
+    <wf page="0" para="0" sent="9" wid="w9.40">zorgen</wf>
+    <wf page="0" para="0" sent="9" wid="w9.42">voor</wf>
+    <wf page="0" para="0" sent="9" wid="w9.44">meer</wf>
+    <wf page="0" para="0" sent="9" wid="w9.45">consistentie</wf>
+    <wf page="0" para="0" sent="9" wid="w9.47">in</wf>
+    <wf page="0" para="0" sent="9" wid="w9.49">de</wf>
+    <wf page="0" para="0" sent="9" wid="w9.50">interne</wf>
+    <wf page="0" para="0" sent="9" wid="w9.51">markt</wf>
+    <wf page="0" para="0" sent="9" wid="w9.52">.</wf>
+    <wf page="0" para="0" sent="10" wid="w10.7">Ook</wf>
+    <wf page="0" para="0" sent="10" wid="w10.4">zal</wf>
+    <wf page="0" para="0" sent="10" wid="w10.5">het</wf>
+    <wf page="0" para="0" sent="10" wid="w10.10">de</wf>
+    <wf page="0" para="0" sent="10" wid="w10.11">nieuwe</wf>
+    <wf page="0" para="0" sent="10" wid="w10.13">autoriteit</wf>
+    <wf page="0" para="0" sent="10" wid="w10.1">,</wf>
+    <wf page="0" para="0" sent="10" wid="w10.15">die</wf>
+    <wf page="0" para="0" sent="10" wid="w10.19">een</wf>
+    <wf page="0" para="0" sent="10" wid="w10.20">sleutelrol</wf>
+    <wf page="0" para="0" sent="10" wid="w10.21">vervult</wf>
+    <wf page="0" para="0" sent="10" wid="w10.23">in</wf>
+    <wf page="0" para="0" sent="10" wid="w10.25">dit</wf>
+    <wf page="0" para="0" sent="10" wid="w10.26">proces</wf>
+    <wf page="0" para="0" sent="10" wid="w10.2">,</wf>
+    <wf page="0" para="0" sent="10" wid="w10.30">in</wf>
+    <wf page="0" para="0" sent="10" wid="w10.31">staat</wf>
+    <wf page="0" para="0" sent="10" wid="w10.27">stellen</wf>
+    <wf page="0" para="0" sent="10" wid="w10.34">om</wf>
+    <wf page="0" para="0" sent="10" wid="w10.40">de</wf>
+    <wf page="0" para="0" sent="10" wid="w10.41">expertise</wf>
+    <wf page="0" para="0" sent="10" wid="w10.42">en</wf>
+    <wf page="0" para="0" sent="10" wid="w10.44">de</wf>
+    <wf page="0" para="0" sent="10" wid="w10.45">ervaring</wf>
+    <wf page="0" para="0" sent="10" wid="w10.47">van</wf>
+    <wf page="0" para="0" sent="10" wid="w10.49">27</wf>
+    <wf page="0" para="0" sent="10" wid="w10.50">nationale</wf>
+    <wf page="0" para="0" sent="10" wid="w10.51">toezichthouders</wf>
+    <wf page="0" para="0" sent="10" wid="w10.36">te</wf>
+    <wf page="0" para="0" sent="10" wid="w10.52">bundelen</wf>
+    <wf page="0" para="0" sent="10" wid="w10.53">en</wf>
+    <wf page="0" para="0" sent="10" wid="w10.55">om</wf>
+    <wf page="0" para="0" sent="10" wid="w10.60">de</wf>
+    <wf page="0" para="0" sent="10" wid="w10.61">laatste</wf>
+    <wf page="0" para="0" sent="10" wid="w10.62">obstakels</wf>
+    <wf page="0" para="0" sent="10" wid="w10.65">op</wf>
+    <wf page="0" para="0" sent="10" wid="w10.66">weg</wf>
+    <wf page="0" para="0" sent="10" wid="w10.68">naar</wf>
+    <wf page="0" para="0" sent="10" wid="w10.70">een</wf>
+    <wf page="0" para="0" sent="10" wid="w10.71">daadwerkelijk</wf>
+    <wf page="0" para="0" sent="10" wid="w10.72">grenzenloos</wf>
+    <wf page="0" para="0" sent="10" wid="w10.73">Europa</wf>
+    <wf page="0" para="0" sent="10" wid="w10.57">te</wf>
+    <wf page="0" para="0" sent="10" wid="w10.74">slechten</wf>
+    <wf page="0" para="0" sent="10" wid="w10.75">.</wf>
+  </text>
+  <terms>
+    <term lemma="de" pos="D.det" tid="t1.3" type="closed">
+      <span>
+        <target id="w1.3"/>
+      </span>
+    </term>
+    <term lemma="economie" pos="N.noun" tid="t1.4" type="open">
+      <span>
+        <target id="w1.4"/>
+      </span>
+    </term>
+    <term lemma="zijn" pos="V.verb" tid="t1.5" type="open">
+      <span>
+        <target id="w1.5"/>
+      </span>
+    </term>
+    <term lemma="natuurlijk" pos="G.adj" tid="t1.6" type="open">
+      <span>
+        <target id="w1.6"/>
+      </span>
+    </term>
+    <term lemma="ook" pos="A.adv" tid="t1.7" type="open">
+      <span>
+        <target id="w1.7"/>
+      </span>
+    </term>
+    <term lemma="heel" pos="A.adv" tid="t1.9" type="open">
+      <span>
+        <target id="w1.9"/>
+      </span>
+      <sentiment resource="Hotel domain lexicon for Dutch . VUA_olery_lexicon_nl_lmf" sentiment_modifier="intensifier"/>
+    </term>
+    <term lemma="belangrijk" pos="G.adj" tid="t1.10" type="open">
+      <span>
+        <target id="w1.10"/>
+      </span>
+    </term>
+    <term lemma="voor" pos="P.prep" tid="t1.12" type="closed">
+      <span>
+        <target id="w1.12"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t1.14" type="closed">
+      <span>
+        <target id="w1.14"/>
+      </span>
+    </term>
+    <term lemma="consument" pos="N.noun" tid="t1.15" type="open">
+      <span>
+        <target id="w1.15"/>
+      </span>
+    </term>
+    <term lemma="ik" pos="O.pron" tid="t2.6" type="closed">
+      <span>
+        <target id="w2.6"/>
+      </span>
+    </term>
+    <term lemma="zullen" pos="V.verb" tid="t2.7" type="open">
+      <span>
+        <target id="w2.7"/>
+      </span>
+    </term>
+    <term lemma="willen" pos="V.verb" tid="t2.10" type="open">
+      <span>
+        <target id="w2.10"/>
+      </span>
+    </term>
+    <term lemma="dan" pos="A.adv" tid="t2.13" type="open">
+      <span>
+        <target id="w2.13"/>
+      </span>
+    </term>
+    <term lemma="ook" pos="A.adv" tid="t2.14" type="open">
+      <span>
+        <target id="w2.14"/>
+      </span>
+    </term>
+    <term lemma="alleen" pos="A.adv" tid="t2.16" type="open">
+      <span>
+        <target id="w2.16"/>
+      </span>
+    </term>
+    <term lemma="maar" pos="A.adv" tid="t2.17" type="open">
+      <span>
+        <target id="w2.17"/>
+      </span>
+    </term>
+    <term lemma="zeggen" pos="V.verb" tid="t2.18" type="open">
+      <span>
+        <target id="w2.18"/>
+      </span>
+    </term>
+    <term lemma="dat" pos="D.det" tid="t2.21" type="closed">
+      <span>
+        <target id="w2.21"/>
+      </span>
+    </term>
+    <term lemma="voor" pos="P.prep" tid="t2.23" type="closed">
+      <span>
+        <target id="w2.23"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t2.25" type="closed">
+      <span>
+        <target id="w2.25"/>
+      </span>
+    </term>
+    <term lemma="toegang" pos="N.noun" tid="t2.26" type="open">
+      <span>
+        <target id="w2.26"/>
+      </span>
+    </term>
+    <term lemma="tot" pos="P.prep" tid="t2.28" type="closed">
+      <span>
+        <target id="w2.28"/>
+      </span>
+    </term>
+    <term head="t2.29.2" lemma="noodhulpdienst" pos="N.noun" tid="t2.29" type="open">
+      <span>
+        <target id="w2.29"/>
+      </span>
+      <component id="t2.29.0" lemma="nood"/>
+      <component id="t2.29.1" lemma="hulp"/>
+      <component id="t2.29.2" lemma="dienst"/>
+    </term>
+    <term lemma="minder" pos="G.adj" tid="t2.31" type="open">
+      <span>
+        <target id="w2.31"/>
+      </span>
+      <sentiment resource="Hotel domain lexicon for Dutch . VUA_olery_lexicon_nl_lmf" sentiment_modifier="shifter"/>
+    </term>
+    <term lemma="belemmering" pos="N.noun" tid="t2.32" type="open">
+      <span>
+        <target id="w2.32"/>
+      </span>
+    </term>
+    <term lemma="om" pos="O.comp" tid="t2.34" type="none">
+      <span>
+        <target id="w2.34"/>
+      </span>
+    </term>
+    <term lemma="te" pos="O.comp" tid="t2.36" type="none">
+      <span>
+        <target id="w2.36"/>
+      </span>
+    </term>
+    <term lemma="binnen" pos="P.prep" tid="t2.39" type="closed">
+      <span>
+        <target id="w2.39"/>
+      </span>
+    </term>
+    <term lemma="één" netype="number" pos="D.num" tid="t2.41" type="entity">
+      <span>
+        <target id="w2.41"/>
+      </span>
+    </term>
+    <term lemma="dag" pos="N.noun" tid="t2.42" type="open">
+      <span>
+        <target id="w2.42"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t2.44" type="closed">
+      <span>
+        <target id="w2.44"/>
+      </span>
+    </term>
+    <term lemma="telefonie" pos="N.noun" tid="t2.45" type="open">
+      <span>
+        <target id="w2.45"/>
+      </span>
+    </term>
+    <term lemma="exploitant" pos="N.noun" tid="t2.46" type="open">
+      <span>
+        <target id="w2.46"/>
+      </span>
+    </term>
+    <term lemma="veranderen" pos="V.verb" tid="t2.47" type="open">
+      <span>
+        <target id="w2.47"/>
+      </span>
+    </term>
+    <term lemma="bescherming" pos="N.noun" tid="t2.49" type="open">
+      <span>
+        <target id="w2.49"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t2.51" type="closed">
+      <span>
+        <target id="w2.51"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t2.53" type="closed">
+      <span>
+        <target id="w2.53"/>
+      </span>
+    </term>
+    <term lemma="persoonlijk" pos="G.adj" tid="t2.54" type="open">
+      <span>
+        <target id="w2.54"/>
+      </span>
+    </term>
+    <term head="t2.55.1" lemma="levenssfeer" pos="N.noun" tid="t2.55" type="open">
+      <span>
+        <target id="w2.55"/>
+      </span>
+      <component id="t2.55.0" lemma="leven"/>
+      <component id="t2.55.1" lemma="sfeer"/>
+    </term>
+    <term lemma="als" pos="O.comp" tid="t2.57" type="none">
+      <span>
+        <target id="w2.57"/>
+      </span>
+    </term>
+    <term lemma="het" pos="D.det" tid="t2.59" type="closed">
+      <span>
+        <target id="w2.59"/>
+      </span>
+    </term>
+    <term lemma="gaan" pos="V.verb" tid="t2.60" type="open">
+      <span>
+        <target id="w2.60"/>
+      </span>
+    </term>
+    <term lemma="om" pos="P.prep" tid="t2.62" type="closed">
+      <span>
+        <target id="w2.62"/>
+      </span>
+    </term>
+    <term head="t2.63.1" lemma="persoonsgegeven" pos="N.noun" tid="t2.63" type="open">
+      <span>
+        <target id="w2.63"/>
+      </span>
+      <component id="t2.63.0" lemma="persoon"/>
+      <component id="t2.63.1" lemma="gegeven"/>
+    </term>
+    <term lemma="voor" pos="P.prep" tid="t2.65" type="closed">
+      <span>
+        <target id="w2.65"/>
+      </span>
+    </term>
+    <term lemma="al" pos="D.det" tid="t2.68" type="closed">
+      <span>
+        <target id="w2.68"/>
+      </span>
+    </term>
+    <term lemma="deze" pos="D.det" tid="t2.69" type="closed">
+      <span>
+        <target id="w2.69"/>
+      </span>
+    </term>
+    <term lemma="punt" pos="N.noun" tid="t2.70" type="open">
+      <span>
+        <target id="w2.70"/>
+      </span>
+    </term>
+    <term lemma="een" pos="D.det" tid="t2.73" type="closed">
+      <span>
+        <target id="w2.73"/>
+      </span>
+    </term>
+    <term lemma="oplossing" pos="N.noun" tid="t2.74" type="open">
+      <span>
+        <target id="w2.74"/>
+      </span>
+    </term>
+    <term lemma="zijn" pos="V.verb" tid="t2.75" type="open">
+      <span>
+        <target id="w2.75"/>
+      </span>
+    </term>
+    <term lemma="vinden" pos="V.verb" tid="t2.78" type="open">
+      <span>
+        <target id="w2.78"/>
+      </span>
+    </term>
+    <term lemma="ik" pos="O.pron" tid="t3.2" type="closed">
+      <span>
+        <target id="w3.2"/>
+      </span>
+    </term>
+    <term lemma="toejuichen" pos="V.verb" tid="t3.3" type="open">
+      <span>
+        <target id="w3.3"/>
+      </span>
+    </term>
+    <term lemma="het" pos="N.noun" tid="t3.4" type="open">
+      <span>
+        <target id="w3.4"/>
+      </span>
+    </term>
+    <term lemma="toe" pos="O.part" tid="t3.5" type="none">
+      <span>
+        <target id="w3.5"/>
+      </span>
+    </term>
+    <term lemma="dat" pos="O.comp" tid="t3.7" type="none">
+      <span>
+        <target id="w3.7"/>
+      </span>
+    </term>
+    <term lemma="het" pos="D.det" tid="t3.10" type="closed">
+      <span>
+        <target id="w3.10"/>
+      </span>
+    </term>
+    <term lemma="Parlement" netype="unknown" pos="N.name" tid="t3.11" type="entity">
+      <span>
+        <target id="w3.11"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t3.13" type="closed">
+      <span>
+        <target id="w3.13"/>
+      </span>
+    </term>
+    <term lemma="regel" pos="N.noun" tid="t3.14" type="open">
+      <span>
+        <target id="w3.14"/>
+      </span>
+    </term>
+    <term lemma="voor" pos="P.prep" tid="t3.16" type="closed">
+      <span>
+        <target id="w3.16"/>
+      </span>
+    </term>
+    <term lemma="het" pos="D.det" tid="t3.18" type="closed">
+      <span>
+        <target id="w3.18"/>
+      </span>
+    </term>
+    <term lemma="gebruik" pos="N.noun" tid="t3.19" type="open">
+      <span>
+        <target id="w3.19"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t3.21" type="closed">
+      <span>
+        <target id="w3.21"/>
+      </span>
+    </term>
+    <term lemma="cooky" pos="N.noun" tid="t3.23" type="open">
+      <span>
+        <target id="w3.23"/>
+      </span>
+    </term>
+    <term lemma="en" pos="O.vg" tid="t3.24" type="none">
+      <span>
+        <target id="w3.24"/>
+      </span>
+    </term>
+    <term lemma="soortgelijk" pos="G.adj" tid="t3.26" type="open">
+      <span>
+        <target id="w3.26"/>
+      </span>
+    </term>
+    <term lemma="middel" pos="N.noun" tid="t3.27" type="open">
+      <span>
+        <target id="w3.27"/>
+      </span>
+    </term>
+    <term lemma="aanscherpen" pos="V.verb" tid="t3.28" type="open">
+      <span>
+        <target id="w3.28"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t4.5" type="closed">
+      <span>
+        <target id="w4.5"/>
+      </span>
+    </term>
+    <term head="t4.6.1" lemma="internetgebruiker" pos="N.noun" tid="t4.6" type="open">
+      <span>
+        <target id="w4.6"/>
+      </span>
+      <component id="t4.6.0" lemma="internet"/>
+      <component id="t4.6.1" lemma="gebruiker"/>
+    </term>
+    <term lemma="worden" pos="V.verb" tid="t4.7" type="open">
+      <span>
+        <target id="w4.7"/>
+      </span>
+    </term>
+    <term lemma="niet" pos="A.adv" tid="t4.10" type="open">
+      <span>
+        <target id="w4.10"/>
+      </span>
+      <sentiment resource="Hotel domain lexicon for Dutch . VUA_olery_lexicon_nl_lmf" sentiment_modifier="shifter"/>
+    </term>
+    <term lemma="alleen" pos="G.adj" tid="t4.11" type="open">
+      <span>
+        <target id="w4.11"/>
+      </span>
+    </term>
+    <term lemma="goed" pos="G.adj" tid="t4.12" type="open">
+      <span>
+        <target id="w4.12"/>
+      </span>
+      <sentiment polarity="positive" resource="Hotel domain lexicon for Dutch . VUA_olery_lexicon_nl_lmf"/>
+    </term>
+    <term lemma="geïnformeerd" pos="G.adj" tid="t4.13" type="open">
+      <span>
+        <target id="w4.13"/>
+      </span>
+    </term>
+    <term lemma="over" pos="P.prep" tid="t4.15" type="closed">
+      <span>
+        <target id="w4.15"/>
+      </span>
+    </term>
+    <term lemma="wat" pos="O.pron" tid="t4.17" type="closed">
+      <span>
+        <target id="w4.17"/>
+      </span>
+    </term>
+    <term lemma="er" pos="A.adv" tid="t4.20" type="open">
+      <span>
+        <target id="w4.20"/>
+      </span>
+    </term>
+    <term lemma="gebeuren" pos="V.verb" tid="t4.21" type="open">
+      <span>
+        <target id="w4.21"/>
+      </span>
+    </term>
+    <term lemma="met" pos="P.prep" tid="t4.23" type="closed">
+      <span>
+        <target id="w4.23"/>
+      </span>
+    </term>
+    <term lemma="hun" pos="D.det" tid="t4.25" type="closed">
+      <span>
+        <target id="w4.25"/>
+      </span>
+    </term>
+    <term head="t4.26.1" lemma="persoonsgegeven" pos="N.noun" tid="t4.26" type="open">
+      <span>
+        <target id="w4.26"/>
+      </span>
+      <component id="t4.26.0" lemma="persoon"/>
+      <component id="t4.26.1" lemma="gegeven"/>
+    </term>
+    <term lemma="maar" pos="O.vg" tid="t4.27" type="none">
+      <span>
+        <target id="w4.27"/>
+      </span>
+    </term>
+    <term lemma="het" pos="N.noun" tid="t4.29" type="open">
+      <span>
+        <target id="w4.29"/>
+      </span>
+    </term>
+    <term lemma="worden" pos="V.verb" tid="t4.30" type="open">
+      <span>
+        <target id="w4.30"/>
+      </span>
+    </term>
+    <term lemma="voor" pos="P.prep" tid="t4.32" type="closed">
+      <span>
+        <target id="w4.32"/>
+      </span>
+    </term>
+    <term lemma="hen" pos="O.pron" tid="t4.33" type="closed">
+      <span>
+        <target id="w4.33"/>
+      </span>
+    </term>
+    <term lemma="ook" pos="A.adv" tid="t4.34" type="open">
+      <span>
+        <target id="w4.34"/>
+      </span>
+    </term>
+    <term lemma="makkelijk" pos="G.adj" tid="t4.35" type="open">
+      <span>
+        <target id="w4.35"/>
+      </span>
+      <sentiment polarity="positive" resource="Hotel domain lexicon for Dutch . VUA_olery_lexicon_nl_lmf"/>
+    </term>
+    <term lemma="om" pos="O.comp" tid="t4.37" type="none">
+      <span>
+        <target id="w4.37"/>
+      </span>
+    </term>
+    <term lemma="te" pos="O.comp" tid="t4.39" type="none">
+      <span>
+        <target id="w4.39"/>
+      </span>
+    </term>
+    <term lemma="uit" pos="O.part" tid="t4.41" type="none">
+      <span>
+        <target id="w4.41"/>
+      </span>
+    </term>
+    <term lemma="uitoefenen" pos="V.verb" tid="t4.42" type="open">
+      <span>
+        <target id="w4.42"/>
+      </span>
+    </term>
+    <term lemma="controle" pos="N.noun" tid="t4.44" type="open">
+      <span>
+        <target id="w4.44"/>
+      </span>
+    </term>
+    <term lemma="over" pos="P.prep" tid="t4.46" type="closed">
+      <span>
+        <target id="w4.46"/>
+      </span>
+    </term>
+    <term lemma="die" pos="D.det" tid="t4.48" type="closed">
+      <span>
+        <target id="w4.48"/>
+      </span>
+    </term>
+    <term lemma="gegeven" pos="N.noun" tid="t4.49" type="open">
+      <span>
+        <target id="w4.49"/>
+      </span>
+    </term>
+    <term lemma="ik" pos="O.pron" tid="t5.2" type="closed">
+      <span>
+        <target id="w5.2"/>
+      </span>
+    </term>
+    <term lemma="zijn" pos="V.verb" tid="t5.3" type="open">
+      <span>
+        <target id="w5.3"/>
+      </span>
+    </term>
+    <term lemma="blij" pos="G.adj" tid="t5.5" type="open">
+      <span>
+        <target id="w5.5"/>
+      </span>
+      <sentiment polarity="positive" resource="Hotel domain lexicon for Dutch . VUA_olery_lexicon_nl_lmf"/>
+    </term>
+    <term lemma="met" pos="P.prep" tid="t5.7" type="closed">
+      <span>
+        <target id="w5.7"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t5.9" type="closed">
+      <span>
+        <target id="w5.9"/>
+      </span>
+    </term>
+    <term lemma="steun" pos="N.noun" tid="t5.10" type="open">
+      <span>
+        <target id="w5.10"/>
+      </span>
+    </term>
+    <term lemma="voor" pos="P.prep" tid="t5.12" type="closed">
+      <span>
+        <target id="w5.12"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t5.14" type="closed">
+      <span>
+        <target id="w5.14"/>
+      </span>
+    </term>
+    <term head="t5.15.1" lemma="meldingsplicht" pos="N.noun" tid="t5.15" type="open">
+      <span>
+        <target id="w5.15"/>
+      </span>
+      <component id="t5.15.0" lemma="melding"/>
+      <component id="t5.15.1" lemma="plicht"/>
+    </term>
+    <term lemma="bij" pos="P.prep" tid="t5.17" type="closed">
+      <span>
+        <target id="w5.17"/>
+      </span>
+    </term>
+    <term lemma="inbreuk" pos="N.noun" tid="t5.19" type="open">
+      <span>
+        <target id="w5.19"/>
+      </span>
+    </term>
+    <term lemma="met_betrekking_tot" pos="P.prep" tid="t5.21" type="closed">
+      <span>
+        <target id="w5.22"/>
+        <target id="w5.23"/>
+        <target id="w5.24"/>
+      </span>
+    </term>
+    <term head="t5.25.1" lemma="persoonsgegeven" pos="N.noun" tid="t5.25" type="open">
+      <span>
+        <target id="w5.25"/>
+      </span>
+      <component id="t5.25.0" lemma="persoon"/>
+      <component id="t5.25.1" lemma="gegeven"/>
+    </term>
+    <term lemma="het" pos="N.noun" tid="t6.2" type="open">
+      <span>
+        <target id="w6.2"/>
+      </span>
+    </term>
+    <term lemma="zijn" pos="V.verb" tid="t6.3" type="open">
+      <span>
+        <target id="w6.3"/>
+      </span>
+    </term>
+    <term lemma="voor_het_eerst" pos="G.adj" tid="t6.4" type="open">
+      <span>
+        <target id="w6.5"/>
+        <target id="w6.6"/>
+        <target id="w6.7"/>
+      </span>
+    </term>
+    <term lemma="dat" pos="O.comp" tid="t6.9" type="none">
+      <span>
+        <target id="w6.9"/>
+      </span>
+    </term>
+    <term lemma="een" pos="D.det" tid="t6.12" type="closed">
+      <span>
+        <target id="w6.12"/>
+      </span>
+    </term>
+    <term lemma="dergelijk" pos="G.adj" tid="t6.13" type="open">
+      <span>
+        <target id="w6.13"/>
+      </span>
+    </term>
+    <term lemma="verplichting" pos="N.noun" tid="t6.14" type="open">
+      <span>
+        <target id="w6.14"/>
+      </span>
+    </term>
+    <term lemma="worden" pos="V.verb" tid="t6.15" type="open">
+      <span>
+        <target id="w6.15"/>
+      </span>
+    </term>
+    <term lemma="op" pos="P.prep" tid="t6.18" type="closed">
+      <span>
+        <target id="w6.18"/>
+      </span>
+    </term>
+    <term lemma="communautair" pos="G.adj" tid="t6.20" type="open">
+      <span>
+        <target id="w6.20"/>
+      </span>
+    </term>
+    <term lemma="niveau" pos="N.noun" tid="t6.21" type="open">
+      <span>
+        <target id="w6.21"/>
+      </span>
+    </term>
+    <term lemma="invoeren" pos="V.verb" tid="t6.23" type="open">
+      <span>
+        <target id="w6.23"/>
+      </span>
+    </term>
+    <term lemma="ook" pos="A.adv" tid="t7.4" type="open">
+      <span>
+        <target id="w7.4"/>
+      </span>
+    </term>
+    <term lemma="doen" pos="V.verb" tid="t7.5" type="open">
+      <span>
+        <target id="w7.5"/>
+      </span>
+    </term>
+    <term lemma="het" pos="N.noun" tid="t7.6" type="open">
+      <span>
+        <target id="w7.6"/>
+      </span>
+    </term>
+    <term lemma="mij" pos="O.pron" tid="t7.7" type="closed">
+      <span>
+        <target id="w7.7"/>
+      </span>
+    </term>
+    <term lemma="deugd" pos="N.noun" tid="t7.9" type="open">
+      <span>
+        <target id="w7.9"/>
+      </span>
+    </term>
+    <term lemma="het" pos="D.det" tid="t7.12" type="closed">
+      <span>
+        <target id="w7.12"/>
+      </span>
+    </term>
+    <term lemma="Parlement" netype="unknown" pos="N.name" tid="t7.13" type="entity">
+      <span>
+        <target id="w7.13"/>
+      </span>
+    </term>
+    <term lemma="hebben" pos="V.verb" tid="t7.14" type="open">
+      <span>
+        <target id="w7.14"/>
+      </span>
+    </term>
+    <term lemma="zich" pos="O.pron" tid="t7.17" type="closed">
+      <span>
+        <target id="w7.17"/>
+      </span>
+    </term>
+    <term lemma="altijd" pos="A.adv" tid="t7.18" type="open">
+      <span>
+        <target id="w7.18"/>
+      </span>
+      <sentiment resource="Hotel domain lexicon for Dutch . VUA_olery_lexicon_nl_lmf" sentiment_modifier="intensifier"/>
+    </term>
+    <term lemma="hier" pos="A.adv" tid="t7.20" type="open">
+      <span>
+        <target id="w7.20"/>
+      </span>
+    </term>
+    <term lemma="voor" pos="P.prep" tid="t7.21" type="closed">
+      <span>
+        <target id="w7.21"/>
+      </span>
+    </term>
+    <term lemma="inzetten" pos="V.verb" tid="t7.22" type="open">
+      <span>
+        <target id="w7.22"/>
+      </span>
+    </term>
+    <term lemma="dat" pos="O.comp" tid="t7.24" type="none">
+      <span>
+        <target id="w7.24"/>
+      </span>
+    </term>
+    <term lemma="mens" pos="N.noun" tid="t7.27" type="open">
+      <span>
+        <target id="w7.27"/>
+      </span>
+    </term>
+    <term lemma="met" pos="P.prep" tid="t7.29" type="closed">
+      <span>
+        <target id="w7.29"/>
+      </span>
+    </term>
+    <term lemma="een" pos="D.det" tid="t7.31" type="closed">
+      <span>
+        <target id="w7.31"/>
+      </span>
+    </term>
+    <term lemma="handicap" pos="N.noun" tid="t7.32" type="open">
+      <span>
+        <target id="w7.32"/>
+      </span>
+    </term>
+    <term lemma="een" pos="D.det" tid="t7.34" type="closed">
+      <span>
+        <target id="w7.34"/>
+      </span>
+    </term>
+    <term lemma="sterk" pos="G.adj" tid="t7.35" type="open">
+      <span>
+        <target id="w7.35"/>
+      </span>
+      <sentiment resource="Hotel domain lexicon for Dutch . VUA_olery_lexicon_nl_lmf" sentiment_modifier="intensifier"/>
+    </term>
+    <term lemma="positie" pos="N.noun" tid="t7.36" type="open">
+      <span>
+        <target id="w7.36"/>
+      </span>
+    </term>
+    <term lemma="krijgen" pos="V.verb" tid="t7.37" type="open">
+      <span>
+        <target id="w7.37"/>
+      </span>
+    </term>
+    <term lemma="ik" pos="O.pron" tid="t8.3" type="closed">
+      <span>
+        <target id="w8.3"/>
+      </span>
+    </term>
+    <term lemma="zijn" pos="V.verb" tid="t8.4" type="open">
+      <span>
+        <target id="w8.4"/>
+      </span>
+    </term>
+    <term lemma="vooral" pos="A.adv" tid="t8.6" type="open">
+      <span>
+        <target id="w8.6"/>
+      </span>
+    </term>
+    <term lemma="blij" pos="G.adj" tid="t8.7" type="open">
+      <span>
+        <target id="w8.7"/>
+      </span>
+      <sentiment polarity="positive" resource="Hotel domain lexicon for Dutch . VUA_olery_lexicon_nl_lmf"/>
+    </term>
+    <term lemma="dat" pos="O.comp" tid="t8.9" type="none">
+      <span>
+        <target id="w8.9"/>
+      </span>
+    </term>
+    <term lemma="consument" pos="N.noun" tid="t8.11" type="open">
+      <span>
+        <target id="w8.11"/>
+      </span>
+    </term>
+    <term lemma="nu" pos="A.adv" tid="t8.12" type="open">
+      <span>
+        <target id="w8.12"/>
+      </span>
+    </term>
+    <term lemma="garantie" pos="N.noun" tid="t8.13" type="open">
+      <span>
+        <target id="w8.13"/>
+      </span>
+    </term>
+    <term lemma="krijgen" pos="V.verb" tid="t8.14" type="open">
+      <span>
+        <target id="w8.14"/>
+      </span>
+    </term>
+    <term lemma="in_verband_met" pos="P.prep" tid="t8.16" type="closed">
+      <span>
+        <target id="w8.17"/>
+        <target id="w8.18"/>
+        <target id="w8.19"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t8.21" type="closed">
+      <span>
+        <target id="w8.21"/>
+      </span>
+    </term>
+    <term lemma="bescherming" pos="N.noun" tid="t8.22" type="open">
+      <span>
+        <target id="w8.22"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t8.24" type="closed">
+      <span>
+        <target id="w8.24"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t8.27" type="closed">
+      <span>
+        <target id="w8.27"/>
+      </span>
+    </term>
+    <term lemma="persoonlijk" pos="G.adj" tid="t8.28" type="open">
+      <span>
+        <target id="w8.28"/>
+      </span>
+    </term>
+    <term head="t8.29.1" lemma="levenssfeer" pos="N.noun" tid="t8.29" type="open">
+      <span>
+        <target id="w8.29"/>
+      </span>
+      <component id="t8.29.0" lemma="leven"/>
+      <component id="t8.29.1" lemma="sfeer"/>
+    </term>
+    <term lemma="de" pos="D.det" tid="t8.31" type="closed">
+      <span>
+        <target id="w8.31"/>
+      </span>
+    </term>
+    <term lemma="vrijheid" pos="N.noun" tid="t8.32" type="open">
+      <span>
+        <target id="w8.32"/>
+      </span>
+      <sentiment polarity="positive" resource="Hotel domain lexicon for Dutch . VUA_olery_lexicon_nl_lmf"/>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t8.34" type="closed">
+      <span>
+        <target id="w8.34"/>
+      </span>
+    </term>
+    <term lemma="meningsuiting" pos="N.noun" tid="t8.35" type="open">
+      <span>
+        <target id="w8.35"/>
+      </span>
+    </term>
+    <term lemma="en" pos="O.vg" tid="t8.36" type="none">
+      <span>
+        <target id="w8.36"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t8.38" type="closed">
+      <span>
+        <target id="w8.38"/>
+      </span>
+    </term>
+    <term lemma="toegang" pos="N.noun" tid="t8.39" type="open">
+      <span>
+        <target id="w8.39"/>
+      </span>
+    </term>
+    <term lemma="tot" pos="P.prep" tid="t8.41" type="closed">
+      <span>
+        <target id="w8.41"/>
+      </span>
+    </term>
+    <term lemma="informatie" pos="N.noun" tid="t8.42" type="open">
+      <span>
+        <target id="w8.42"/>
+      </span>
+    </term>
+    <term lemma="dit" pos="D.det" tid="t9.6" type="closed">
+      <span>
+        <target id="w9.6"/>
+      </span>
+    </term>
+    <term lemma="alles" pos="N.noun" tid="t9.7" type="open">
+      <span>
+        <target id="w9.7"/>
+      </span>
+    </term>
+    <term lemma="zullen" pos="V.verb" tid="t9.8" type="open">
+      <span>
+        <target id="w9.8"/>
+      </span>
+    </term>
+    <term lemma="hetzij" pos="O.vg" tid="t9.12" type="none">
+      <span>
+        <target id="w9.12"/>
+      </span>
+    </term>
+    <term lemma="door" pos="P.prep" tid="t9.14" type="closed">
+      <span>
+        <target id="w9.14"/>
+      </span>
+    </term>
+    <term lemma="goedkeuring" pos="N.noun" tid="t9.16" type="open">
+      <span>
+        <target id="w9.16"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t9.18" type="closed">
+      <span>
+        <target id="w9.18"/>
+      </span>
+    </term>
+    <term head="t9.19.1" lemma="harmonisatiemaatregel" pos="N.noun" tid="t9.19" type="open">
+      <span>
+        <target id="w9.19"/>
+      </span>
+      <component id="t9.19.0" lemma="harmonisatie"/>
+      <component id="t9.19.1" lemma="maatregel"/>
+    </term>
+    <term lemma="hetzij" pos="O.vg" tid="t9.20" type="none">
+      <span>
+        <target id="w9.20"/>
+      </span>
+    </term>
+    <term lemma="door" pos="P.prep" tid="t9.22" type="closed">
+      <span>
+        <target id="w9.22"/>
+      </span>
+    </term>
+    <term lemma="meer" pos="G.adj" tid="t9.24" type="open">
+      <span>
+        <target id="w9.24"/>
+      </span>
+    </term>
+    <term lemma="toezicht" pos="N.noun" tid="t9.25" type="open">
+      <span>
+        <target id="w9.25"/>
+      </span>
+    </term>
+    <term lemma="op" pos="P.prep" tid="t9.27" type="closed">
+      <span>
+        <target id="w9.27"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t9.29" type="closed">
+      <span>
+        <target id="w9.29"/>
+      </span>
+    </term>
+    <term head="t9.30.1" lemma="rechtsmiddel" pos="N.noun" tid="t9.30" type="open">
+      <span>
+        <target id="w9.30"/>
+      </span>
+      <component id="t9.30.0" lemma="recht"/>
+      <component id="t9.30.1" lemma="middel"/>
+    </term>
+    <term lemma="die" pos="O.pron" tid="t9.32" type="closed">
+      <span>
+        <target id="w9.32"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t9.36" type="closed">
+      <span>
+        <target id="w9.36"/>
+      </span>
+    </term>
+    <term lemma="nationaal" pos="G.adj" tid="t9.37" type="open">
+      <span>
+        <target id="w9.37"/>
+      </span>
+    </term>
+    <term lemma="toezichthouder" pos="N.noun" tid="t9.38" type="open">
+      <span>
+        <target id="w9.38"/>
+      </span>
+    </term>
+    <term lemma="kisenzven" pos="V.verb" tid="t9.39" type="open">
+      <span>
+        <target id="w9.39"/>
+      </span>
+    </term>
+    <term lemma="zorgen" pos="V.verb" tid="t9.40" type="open">
+      <span>
+        <target id="w9.40"/>
+      </span>
+    </term>
+    <term lemma="voor" pos="P.prep" tid="t9.42" type="closed">
+      <span>
+        <target id="w9.42"/>
+      </span>
+    </term>
+    <term lemma="meer" pos="G.adj" tid="t9.44" type="open">
+      <span>
+        <target id="w9.44"/>
+      </span>
+    </term>
+    <term lemma="consistentie" pos="N.noun" tid="t9.45" type="open">
+      <span>
+        <target id="w9.45"/>
+      </span>
+    </term>
+    <term lemma="in" pos="P.prep" tid="t9.47" type="closed">
+      <span>
+        <target id="w9.47"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t9.49" type="closed">
+      <span>
+        <target id="w9.49"/>
+      </span>
+    </term>
+    <term lemma="intern" pos="G.adj" tid="t9.50" type="open">
+      <span>
+        <target id="w9.50"/>
+      </span>
+    </term>
+    <term lemma="markt" pos="N.noun" tid="t9.51" type="open">
+      <span>
+        <target id="w9.51"/>
+      </span>
+    </term>
+    <term lemma="zullen" pos="V.verb" tid="t10.4" type="open">
+      <span>
+        <target id="w10.4"/>
+      </span>
+    </term>
+    <term lemma="het" pos="D.det" tid="t10.5" type="closed">
+      <span>
+        <target id="w10.5"/>
+      </span>
+    </term>
+    <term lemma="ook" pos="A.adv" tid="t10.7" type="open">
+      <span>
+        <target id="w10.7"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t10.10" type="closed">
+      <span>
+        <target id="w10.10"/>
+      </span>
+    </term>
+    <term lemma="nieuw" pos="G.adj" tid="t10.11" type="open">
+      <span>
+        <target id="w10.11"/>
+      </span>
+    </term>
+    <term lemma="autoriteit" pos="N.noun" tid="t10.13" type="open">
+      <span>
+        <target id="w10.13"/>
+      </span>
+    </term>
+    <term lemma="die" pos="O.pron" tid="t10.15" type="closed">
+      <span>
+        <target id="w10.15"/>
+      </span>
+    </term>
+    <term lemma="een" pos="D.det" tid="t10.19" type="closed">
+      <span>
+        <target id="w10.19"/>
+      </span>
+    </term>
+    <term head="t10.20.1" lemma="sleutelrol" pos="N.noun" tid="t10.20" type="open">
+      <span>
+        <target id="w10.20"/>
+      </span>
+      <component id="t10.20.0" lemma="sleutel"/>
+      <component id="t10.20.1" lemma="rol"/>
+    </term>
+    <term lemma="vervullen" pos="V.verb" tid="t10.21" type="open">
+      <span>
+        <target id="w10.21"/>
+      </span>
+    </term>
+    <term lemma="in" pos="P.prep" tid="t10.23" type="closed">
+      <span>
+        <target id="w10.23"/>
+      </span>
+    </term>
+    <term lemma="dit" pos="D.det" tid="t10.25" type="closed">
+      <span>
+        <target id="w10.25"/>
+      </span>
+    </term>
+    <term lemma="proces" pos="N.noun" tid="t10.26" type="open">
+      <span>
+        <target id="w10.26"/>
+      </span>
+    </term>
+    <term lemma="stellen" pos="V.verb" tid="t10.27" type="open">
+      <span>
+        <target id="w10.27"/>
+      </span>
+    </term>
+    <term lemma="in_staat" pos="G.adj" tid="t10.29" type="open">
+      <span>
+        <target id="w10.30"/>
+        <target id="w10.31"/>
+      </span>
+    </term>
+    <term lemma="om" pos="O.comp" tid="t10.34" type="none">
+      <span>
+        <target id="w10.34"/>
+      </span>
+    </term>
+    <term lemma="te" pos="O.comp" tid="t10.36" type="none">
+      <span>
+        <target id="w10.36"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t10.40" type="closed">
+      <span>
+        <target id="w10.40"/>
+      </span>
+    </term>
+    <term lemma="expertise" pos="N.noun" tid="t10.41" type="open">
+      <span>
+        <target id="w10.41"/>
+      </span>
+    </term>
+    <term lemma="en" pos="O.vg" tid="t10.42" type="none">
+      <span>
+        <target id="w10.42"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t10.44" type="closed">
+      <span>
+        <target id="w10.44"/>
+      </span>
+    </term>
+    <term lemma="ervaring" pos="N.noun" tid="t10.45" type="open">
+      <span>
+        <target id="w10.45"/>
+      </span>
+    </term>
+    <term lemma="van" pos="P.prep" tid="t10.47" type="closed">
+      <span>
+        <target id="w10.47"/>
+      </span>
+    </term>
+    <term lemma="27" netype="number" pos="D.num" tid="t10.49" type="entity">
+      <span>
+        <target id="w10.49"/>
+      </span>
+    </term>
+    <term lemma="nationaal" pos="G.adj" tid="t10.50" type="open">
+      <span>
+        <target id="w10.50"/>
+      </span>
+    </term>
+    <term lemma="toezichthouder" pos="N.noun" tid="t10.51" type="open">
+      <span>
+        <target id="w10.51"/>
+      </span>
+    </term>
+    <term lemma="bundelen" pos="V.verb" tid="t10.52" type="open">
+      <span>
+        <target id="w10.52"/>
+      </span>
+    </term>
+    <term lemma="en" pos="O.vg" tid="t10.53" type="none">
+      <span>
+        <target id="w10.53"/>
+      </span>
+    </term>
+    <term lemma="om" pos="O.comp" tid="t10.55" type="none">
+      <span>
+        <target id="w10.55"/>
+      </span>
+    </term>
+    <term lemma="te" pos="O.comp" tid="t10.57" type="none">
+      <span>
+        <target id="w10.57"/>
+      </span>
+    </term>
+    <term lemma="de" pos="D.det" tid="t10.60" type="closed">
+      <span>
+        <target id="w10.60"/>
+      </span>
+    </term>
+    <term lemma="laat" pos="G.adj" tid="t10.61" type="open">
+      <span>
+        <target id="w10.61"/>
+      </span>
+    </term>
+    <term lemma="obstakel" pos="N.noun" tid="t10.62" type="open">
+      <span>
+        <target id="w10.62"/>
+      </span>
+    </term>
+    <term lemma="op_weg" pos="G.adj" tid="t10.64" type="open">
+      <span>
+        <target id="w10.65"/>
+        <target id="w10.66"/>
+      </span>
+    </term>
+    <term lemma="naar" pos="P.prep" tid="t10.68" type="closed">
+      <span>
+        <target id="w10.68"/>
+      </span>
+      <sentiment polarity="negative" resource="Hotel domain lexicon for Dutch . VUA_olery_lexicon_nl_lmf"/>
+    </term>
+    <term lemma="een" pos="D.det" tid="t10.70" type="closed">
+      <span>
+        <target id="w10.70"/>
+      </span>
+    </term>
+    <term lemma="daadwerkelijk" pos="G.adj" tid="t10.71" type="open">
+      <span>
+        <target id="w10.71"/>
+      </span>
+    </term>
+    <term lemma="grenzenloos" pos="G.adj" tid="t10.72" type="open">
+      <span>
+        <target id="w10.72"/>
+      </span>
+    </term>
+    <term lemma="Europa" netype="unknown" pos="N.name" tid="t10.73" type="entity">
+      <span>
+        <target id="w10.73"/>
+      </span>
+    </term>
+    <term lemma="slechten" pos="V.verb" tid="t10.74" type="open">
+      <span>
+        <target id="w10.74"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t1.3" rfunc="none" to="t1.4">
+      <!--none(de,economie)-->
+    </dep>
+    <dep from="t1.4" rfunc="subj" to="t1.5">
+      <!--subj(economie,zijn)-->
+    </dep>
+    <dep from="t1.9" rfunc="mod" to="t1.10">
+      <!--mod(heel,belangrijk)-->
+    </dep>
+    <dep from="t1.14" rfunc="none" to="t1.15">
+      <!--none(de,consument)-->
+    </dep>
+    <dep from="t1.15" rfunc="dobj" to="t1.12">
+      <!--dobj(consument,voor)-->
+    </dep>
+    <dep from="t2.6" rfunc="subj" to="t2.7">
+      <!--subj(ik,zullen)-->
+    </dep>
+    <dep from="t2.13" rfunc="mod" to="t2.18">
+      <!--mod(dan,zeggen)-->
+    </dep>
+    <dep from="t2.17" rfunc="mod" to="t2.16">
+      <!--mod(maar,alleen)-->
+    </dep>
+    <dep from="t2.18" rfunc="none" to="t2.10">
+      <!--none(zeggen,willen)-->
+    </dep>
+    <dep from="t2.23" rfunc="mod" to="t2.21">
+      <!--mod(voor,dat)-->
+    </dep>
+    <dep from="t2.25" rfunc="none" to="t2.26">
+      <!--none(de,toegang)-->
+    </dep>
+    <dep from="t2.26" rfunc="dobj" to="t2.23">
+      <!--dobj(toegang,voor)-->
+    </dep>
+    <dep from="t2.29" rfunc="dobj" to="t2.28">
+      <!--dobj(noodhulpdienst,tot)-->
+    </dep>
+    <dep from="t2.31" rfunc="none" to="t2.32">
+      <!--none(minder,belemmering)-->
+    </dep>
+    <dep from="t2.39" rfunc="mod" to="t2.47">
+      <!--mod(binnen,veranderen)-->
+    </dep>
+    <dep from="t2.41" rfunc="none" to="t2.42">
+      <!--none(één,dag)-->
+    </dep>
+    <dep from="t2.42" rfunc="dobj" to="t2.39">
+      <!--dobj(dag,binnen)-->
+    </dep>
+    <dep from="t2.45" rfunc="dobj" to="t2.44">
+      <!--dobj(telefonie,van)-->
+    </dep>
+    <dep from="t2.51" rfunc="mod" to="t2.49">
+      <!--mod(van,bescherming)-->
+    </dep>
+    <dep from="t2.53" rfunc="none" to="t2.55">
+      <!--none(de,levenssfeer)-->
+    </dep>
+    <dep from="t2.55" rfunc="dobj" to="t2.51">
+      <!--dobj(levenssfeer,van)-->
+    </dep>
+    <dep from="t2.59" rfunc="subj" to="t2.60">
+      <!--subj(het,gaan)-->
+    </dep>
+    <dep from="t2.63" rfunc="dobj" to="t2.62">
+      <!--dobj(persoonsgegeven,om)-->
+    </dep>
+    <dep from="t2.68" rfunc="mod" to="t2.69">
+      <!--mod(al,deze)-->
+    </dep>
+    <dep from="t2.69" rfunc="none" to="t2.70">
+      <!--none(deze,punt)-->
+    </dep>
+    <dep from="t2.70" rfunc="dobj" to="t2.65">
+      <!--dobj(punt,voor)-->
+    </dep>
+    <dep from="t2.73" rfunc="none" to="t2.74">
+      <!--none(een,oplossing)-->
+    </dep>
+    <dep from="t2.74" rfunc="subj" to="t2.75">
+      <!--subj(oplossing,zijn)-->
+    </dep>
+    <dep from="t3.2" rfunc="subj" to="t3.3">
+      <!--subj(ik,toejuichen)-->
+    </dep>
+    <dep from="t3.10" rfunc="none" to="t3.11">
+      <!--none(het,Parlement)-->
+    </dep>
+    <dep from="t3.11" rfunc="subj" to="t3.28">
+      <!--subj(Parlement,aanscherpen)-->
+    </dep>
+    <dep from="t3.13" rfunc="none" to="t3.14">
+      <!--none(de,regel)-->
+    </dep>
+    <dep from="t3.18" rfunc="none" to="t3.19">
+      <!--none(het,gebruik)-->
+    </dep>
+    <dep from="t3.19" rfunc="dobj" to="t3.16">
+      <!--dobj(gebruik,voor)-->
+    </dep>
+    <dep from="t3.26" rfunc="mod" to="t3.27">
+      <!--mod(soortgelijk,middel)-->
+    </dep>
+    <dep from="t4.5" rfunc="none" to="t4.6">
+      <!--none(de,internetgebruiker)-->
+    </dep>
+    <dep from="t4.6" rfunc="subj" to="t4.7">
+      <!--subj(internetgebruiker,worden)-->
+    </dep>
+    <dep from="t4.10" rfunc="mod" to="t4.11">
+      <!--mod(niet,alleen)-->
+    </dep>
+    <dep from="t4.11" rfunc="mod" to="t4.13">
+      <!--mod(alleen,geïnformeerd)-->
+    </dep>
+    <dep from="t4.20" rfunc="mod" to="t4.21">
+      <!--mod(er,gebeuren)-->
+    </dep>
+    <dep from="t4.25" rfunc="none" to="t4.26">
+      <!--none(hun,persoonsgegeven)-->
+    </dep>
+    <dep from="t4.26" rfunc="dobj" to="t4.23">
+      <!--dobj(persoonsgegeven,met)-->
+    </dep>
+    <dep from="t4.29" rfunc="UNKNOWN:sup" to="t4.30">
+      <!--UNKNOWN:sup(het,worden)-->
+    </dep>
+    <dep from="t4.33" rfunc="dobj" to="t4.32">
+      <!--dobj(hen,voor)-->
+    </dep>
+    <dep from="t4.41" rfunc="none" to="t4.42">
+      <!--none(uit,uitoefenen)-->
+    </dep>
+    <dep from="t4.46" rfunc="mod" to="t4.44">
+      <!--mod(over,controle)-->
+    </dep>
+    <dep from="t4.48" rfunc="none" to="t4.49">
+      <!--none(die,gegeven)-->
+    </dep>
+    <dep from="t4.49" rfunc="dobj" to="t4.46">
+      <!--dobj(gegeven,over)-->
+    </dep>
+    <dep from="t5.2" rfunc="subj" to="t5.3">
+      <!--subj(ik,zijn)-->
+    </dep>
+    <dep from="t5.7" rfunc="none" to="t5.5">
+      <!--none(met,blij)-->
+    </dep>
+    <dep from="t5.9" rfunc="none" to="t5.10">
+      <!--none(de,steun)-->
+    </dep>
+    <dep from="t5.10" rfunc="dobj" to="t5.7">
+      <!--dobj(steun,met)-->
+    </dep>
+    <dep from="t5.14" rfunc="none" to="t5.15">
+      <!--none(de,meldingsplicht)-->
+    </dep>
+    <dep from="t5.15" rfunc="dobj" to="t5.12">
+      <!--dobj(meldingsplicht,voor)-->
+    </dep>
+    <dep from="t5.19" rfunc="dobj" to="t5.17">
+      <!--dobj(inbreuk,bij)-->
+    </dep>
+    <dep from="t5.21" rfunc="mod" to="t5.19">
+      <!--mod(met_betrekking_tot,inbreuk)-->
+    </dep>
+    <dep from="t6.2" rfunc="UNKNOWN:sup" to="t6.3">
+      <!--UNKNOWN:sup(het,zijn)-->
+    </dep>
+    <dep from="t6.12" rfunc="none" to="t6.14">
+      <!--none(een,verplichting)-->
+    </dep>
+    <dep from="t6.14" rfunc="subj" to="t6.15">
+      <!--subj(verplichting,worden)-->
+    </dep>
+    <dep from="t6.18" rfunc="mod" to="t6.23">
+      <!--mod(op,invoeren)-->
+    </dep>
+    <dep from="t6.20" rfunc="mod" to="t6.21">
+      <!--mod(communautair,niveau)-->
+    </dep>
+    <dep from="t6.21" rfunc="dobj" to="t6.18">
+      <!--dobj(niveau,op)-->
+    </dep>
+    <dep from="t7.4" rfunc="mod" to="t7.5">
+      <!--mod(ook,doen)-->
+    </dep>
+    <dep from="t7.12" rfunc="none" to="t7.13">
+      <!--none(het,Parlement)-->
+    </dep>
+    <dep from="t7.13" rfunc="subj" to="t7.14">
+      <!--subj(Parlement,hebben)-->
+    </dep>
+    <dep from="t7.14" rfunc="mod" to="t7.9">
+      <!--mod(hebben,deugd)-->
+    </dep>
+    <dep from="t7.17" rfunc="UNKNOWN:se" to="t7.22">
+      <!--UNKNOWN:se(zich,inzetten)-->
+    </dep>
+    <dep from="t7.20" rfunc="dobj" to="t7.21">
+      <!--dobj(hier,voor)-->
+    </dep>
+    <dep from="t7.27" rfunc="subj" to="t7.37">
+      <!--subj(mens,krijgen)-->
+    </dep>
+    <dep from="t7.29" rfunc="mod" to="t7.27">
+      <!--mod(met,mens)-->
+    </dep>
+    <dep from="t7.31" rfunc="none" to="t7.32">
+      <!--none(een,handicap)-->
+    </dep>
+    <dep from="t7.32" rfunc="dobj" to="t7.29">
+      <!--dobj(handicap,met)-->
+    </dep>
+    <dep from="t7.34" rfunc="none" to="t7.36">
+      <!--none(een,positie)-->
+    </dep>
+    <dep from="t8.3" rfunc="subj" to="t8.4">
+      <!--subj(ik,zijn)-->
+    </dep>
+    <dep from="t8.6" rfunc="mod" to="t8.7">
+      <!--mod(vooral,blij)-->
+    </dep>
+    <dep from="t8.11" rfunc="subj" to="t8.14">
+      <!--subj(consument,krijgen)-->
+    </dep>
+    <dep from="t8.21" rfunc="none" to="t8.22">
+      <!--none(de,bescherming)-->
+    </dep>
+    <dep from="t8.27" rfunc="none" to="t8.29">
+      <!--none(de,levenssfeer)-->
+    </dep>
+    <dep from="t8.31" rfunc="none" to="t8.32">
+      <!--none(de,vrijheid)-->
+    </dep>
+    <dep from="t8.35" rfunc="dobj" to="t8.34">
+      <!--dobj(meningsuiting,van)-->
+    </dep>
+    <dep from="t8.38" rfunc="none" to="t8.39">
+      <!--none(de,toegang)-->
+    </dep>
+    <dep from="t8.42" rfunc="dobj" to="t8.41">
+      <!--dobj(informatie,tot)-->
+    </dep>
+    <dep from="t9.6" rfunc="none" to="t9.7">
+      <!--none(dit,alles)-->
+    </dep>
+    <dep from="t9.7" rfunc="subj" to="t9.8">
+      <!--subj(alles,zullen)-->
+    </dep>
+    <dep from="t9.16" rfunc="dobj" to="t9.14">
+      <!--dobj(goedkeuring,door)-->
+    </dep>
+    <dep from="t9.18" rfunc="mod" to="t9.16">
+      <!--mod(van,goedkeuring)-->
+    </dep>
+    <dep from="t9.19" rfunc="dobj" to="t9.18">
+      <!--dobj(harmonisatiemaatregel,van)-->
+    </dep>
+    <dep from="t9.24" rfunc="none" to="t9.25">
+      <!--none(meer,toezicht)-->
+    </dep>
+    <dep from="t9.25" rfunc="dobj" to="t9.22">
+      <!--dobj(toezicht,door)-->
+    </dep>
+    <dep from="t9.29" rfunc="none" to="t9.30">
+      <!--none(de,rechtsmiddel)-->
+    </dep>
+    <dep from="t9.30" rfunc="dobj" to="t9.27">
+      <!--dobj(rechtsmiddel,op)-->
+    </dep>
+    <dep from="t9.36" rfunc="none" to="t9.38">
+      <!--none(de,toezichthouder)-->
+    </dep>
+    <dep from="t9.38" rfunc="dobj" to="t9.39">
+      <!--dobj(toezichthouder,kisenzven)-->
+    </dep>
+    <dep from="t9.42" rfunc="none" to="t9.40">
+      <!--none(voor,zorgen)-->
+    </dep>
+    <dep from="t9.44" rfunc="none" to="t9.45">
+      <!--none(meer,consistentie)-->
+    </dep>
+    <dep from="t9.45" rfunc="dobj" to="t9.42">
+      <!--dobj(consistentie,voor)-->
+    </dep>
+    <dep from="t9.49" rfunc="none" to="t9.51">
+      <!--none(de,markt)-->
+    </dep>
+    <dep from="t9.51" rfunc="dobj" to="t9.47">
+      <!--dobj(markt,in)-->
+    </dep>
+    <dep from="t10.5" rfunc="subj" to="t10.4">
+      <!--subj(het,zullen)-->
+    </dep>
+    <dep from="t10.7" rfunc="mod" to="t10.27">
+      <!--mod(ook,stellen)-->
+    </dep>
+    <dep from="t10.10" rfunc="none" to="t10.11">
+      <!--none(de,nieuw)-->
+    </dep>
+    <dep from="t10.19" rfunc="none" to="t10.20">
+      <!--none(een,sleutelrol)-->
+    </dep>
+    <dep from="t10.20" rfunc="dobj" to="t10.21">
+      <!--dobj(sleutelrol,vervullen)-->
+    </dep>
+    <dep from="t10.25" rfunc="none" to="t10.26">
+      <!--none(dit,proces)-->
+    </dep>
+    <dep from="t10.26" rfunc="dobj" to="t10.23">
+      <!--dobj(proces,in)-->
+    </dep>
+    <dep from="t10.40" rfunc="none" to="t10.41">
+      <!--none(de,expertise)-->
+    </dep>
+    <dep from="t10.44" rfunc="none" to="t10.45">
+      <!--none(de,ervaring)-->
+    </dep>
+    <dep from="t10.49" rfunc="none" to="t10.51">
+      <!--none(27,toezichthouder)-->
+    </dep>
+    <dep from="t10.51" rfunc="dobj" to="t10.47">
+      <!--dobj(toezichthouder,van)-->
+    </dep>
+    <dep from="t10.60" rfunc="none" to="t10.62">
+      <!--none(de,obstakel)-->
+    </dep>
+    <dep from="t10.62" rfunc="dobj" to="t10.74">
+      <!--dobj(obstakel,slechten)-->
+    </dep>
+    <dep from="t10.70" rfunc="none" to="t10.73">
+      <!--none(een,Europa)-->
+    </dep>
+    <dep from="t10.73" rfunc="dobj" to="t10.68">
+      <!--dobj(Europa,naar)-->
+    </dep>
+  </deps>
+  <chunks>
+    <chunk cid="c1.1" head="t1.5" phrase="smain">
+      <!--de economie zijn natuurlijk ook heel belangrijk voor de consument-->
+      <span>
+        <target id="t1.3"/>
+        <target id="t1.4"/>
+        <target id="t1.5"/>
+        <target id="t1.6"/>
+        <target id="t1.7"/>
+        <target id="t1.9"/>
+        <target id="t1.10"/>
+        <target id="t1.12"/>
+        <target id="t1.14"/>
+        <target id="t1.15"/>
+      </span>
+    </chunk>
+    <chunk cid="c1.2" head="t1.4" phrase="np">
+      <!--de economie-->
+      <span>
+        <target id="t1.3"/>
+        <target id="t1.4"/>
+      </span>
+    </chunk>
+    <chunk cid="c1.8" head="t1.10" phrase="ap">
+      <!--heel belangrijk voor de consument-->
+      <span>
+        <target id="t1.9"/>
+        <target id="t1.10"/>
+        <target id="t1.12"/>
+        <target id="t1.14"/>
+        <target id="t1.15"/>
+      </span>
+    </chunk>
+    <chunk cid="c1.11" head="t1.12" phrase="pp">
+      <!--voor de consument-->
+      <span>
+        <target id="t1.12"/>
+        <target id="t1.14"/>
+        <target id="t1.15"/>
+      </span>
+    </chunk>
+    <chunk cid="c1.13" head="t1.15" phrase="np">
+      <!--de consument-->
+      <span>
+        <target id="t1.14"/>
+        <target id="t1.15"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.5" head="t2.7" phrase="smain">
+      <!--ik zullen dan ook alleen maar willen zeggen-->
+      <span>
+        <target id="t2.6"/>
+        <target id="t2.7"/>
+        <target id="t2.13"/>
+        <target id="t2.14"/>
+        <target id="t2.16"/>
+        <target id="t2.17"/>
+        <target id="t2.10"/>
+        <target id="t2.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.8" head="t2.10" phrase="inf">
+      <!--dan ook alleen maar willen zeggen-->
+      <span>
+        <target id="t2.13"/>
+        <target id="t2.14"/>
+        <target id="t2.16"/>
+        <target id="t2.17"/>
+        <target id="t2.10"/>
+        <target id="t2.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.11" head="t2.18" phrase="inf">
+      <!--dan ook alleen maar zeggen-->
+      <span>
+        <target id="t2.13"/>
+        <target id="t2.14"/>
+        <target id="t2.16"/>
+        <target id="t2.17"/>
+        <target id="t2.18"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.15" head="t2.16" phrase="advp">
+      <!--alleen maar-->
+      <span>
+        <target id="t2.16"/>
+        <target id="t2.17"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.20" head="t2.21" phrase="np">
+      <!--dat voor de toegang tot noodhulpdienst-->
+      <span>
+        <target id="t2.21"/>
+        <target id="t2.23"/>
+        <target id="t2.25"/>
+        <target id="t2.26"/>
+        <target id="t2.28"/>
+        <target id="t2.29"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.22" head="t2.23" phrase="pp">
+      <!--voor de toegang tot noodhulpdienst-->
+      <span>
+        <target id="t2.23"/>
+        <target id="t2.25"/>
+        <target id="t2.26"/>
+        <target id="t2.28"/>
+        <target id="t2.29"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.24" head="t2.26" phrase="np">
+      <!--de toegang tot noodhulpdienst-->
+      <span>
+        <target id="t2.25"/>
+        <target id="t2.26"/>
+        <target id="t2.28"/>
+        <target id="t2.29"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.27" head="t2.28" phrase="pp">
+      <!--tot noodhulpdienst-->
+      <span>
+        <target id="t2.28"/>
+        <target id="t2.29"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.30" head="t2.32" phrase="np">
+      <!--minder belemmering om binnen één dag van telefonie exploitant te veranderen-->
+      <span>
+        <target id="t2.31"/>
+        <target id="t2.32"/>
+        <target id="t2.34"/>
+        <target id="t2.39"/>
+        <target id="t2.41"/>
+        <target id="t2.42"/>
+        <target id="t2.44"/>
+        <target id="t2.45"/>
+        <target id="t2.46"/>
+        <target id="t2.36"/>
+        <target id="t2.47"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.37" head="t2.47" phrase="inf">
+      <!--binnen één dag van telefonie exploitant veranderen-->
+      <span>
+        <target id="t2.39"/>
+        <target id="t2.41"/>
+        <target id="t2.42"/>
+        <target id="t2.44"/>
+        <target id="t2.45"/>
+        <target id="t2.46"/>
+        <target id="t2.47"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.38" head="t2.39" phrase="pp">
+      <!--binnen één dag van telefonie-->
+      <span>
+        <target id="t2.39"/>
+        <target id="t2.41"/>
+        <target id="t2.42"/>
+        <target id="t2.44"/>
+        <target id="t2.45"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.40" head="t2.42" phrase="np">
+      <!--één dag van telefonie-->
+      <span>
+        <target id="t2.41"/>
+        <target id="t2.42"/>
+        <target id="t2.44"/>
+        <target id="t2.45"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.43" head="t2.44" phrase="pp">
+      <!--van telefonie-->
+      <span>
+        <target id="t2.44"/>
+        <target id="t2.45"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.48" head="t2.49" phrase="np">
+      <!--bescherming van de persoonlijk levenssfeer-->
+      <span>
+        <target id="t2.49"/>
+        <target id="t2.51"/>
+        <target id="t2.53"/>
+        <target id="t2.54"/>
+        <target id="t2.55"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.50" head="t2.51" phrase="pp">
+      <!--van de persoonlijk levenssfeer-->
+      <span>
+        <target id="t2.51"/>
+        <target id="t2.53"/>
+        <target id="t2.54"/>
+        <target id="t2.55"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.52" head="t2.55" phrase="np">
+      <!--de persoonlijk levenssfeer-->
+      <span>
+        <target id="t2.53"/>
+        <target id="t2.54"/>
+        <target id="t2.55"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.58" head="t2.60" phrase="ssub">
+      <!--het gaan om persoonsgegeven-->
+      <span>
+        <target id="t2.59"/>
+        <target id="t2.60"/>
+        <target id="t2.62"/>
+        <target id="t2.63"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.61" head="t2.62" phrase="pp">
+      <!--om persoonsgegeven-->
+      <span>
+        <target id="t2.62"/>
+        <target id="t2.63"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.64" head="t2.65" phrase="pp">
+      <!--voor al deze punt-->
+      <span>
+        <target id="t2.65"/>
+        <target id="t2.68"/>
+        <target id="t2.69"/>
+        <target id="t2.70"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.66" head="t2.70" phrase="np">
+      <!--al deze punt-->
+      <span>
+        <target id="t2.68"/>
+        <target id="t2.69"/>
+        <target id="t2.70"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.67" head="t2.69" phrase="detp">
+      <!--al deze-->
+      <span>
+        <target id="t2.68"/>
+        <target id="t2.69"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.71" head="t2.75" phrase="smain">
+      <!--een oplossing zijn vinden-->
+      <span>
+        <target id="t2.73"/>
+        <target id="t2.74"/>
+        <target id="t2.75"/>
+        <target id="t2.78"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.72" head="t2.74" phrase="np">
+      <!--een oplossing-->
+      <span>
+        <target id="t2.73"/>
+        <target id="t2.74"/>
+      </span>
+    </chunk>
+    <chunk cid="c2.76" head="t2.78" phrase="ppart">
+      <!--vinden-->
+      <span>
+        <target id="t2.78"/>
+      </span>
+    </chunk>
+    <chunk cid="c3.1" head="t3.3" phrase="smain">
+      <!--ik toejuichen het toe dat het Parlement de regel voor het gebruik van cooky en soortgelijk middel aanscherpen-->
+      <span>
+        <target id="t3.2"/>
+        <target id="t3.3"/>
+        <target id="t3.4"/>
+        <target id="t3.5"/>
+        <target id="t3.7"/>
+        <target id="t3.10"/>
+        <target id="t3.11"/>
+        <target id="t3.13"/>
+        <target id="t3.14"/>
+        <target id="t3.16"/>
+        <target id="t3.18"/>
+        <target id="t3.19"/>
+        <target id="t3.21"/>
+        <target id="t3.23"/>
+        <target id="t3.24"/>
+        <target id="t3.26"/>
+        <target id="t3.27"/>
+        <target id="t3.28"/>
+      </span>
+    </chunk>
+    <chunk cid="c3.8" head="t3.28" phrase="ssub">
+      <!--het Parlement de regel voor het gebruik van cooky en soortgelijk middel aanscherpen-->
+      <span>
+        <target id="t3.10"/>
+        <target id="t3.11"/>
+        <target id="t3.13"/>
+        <target id="t3.14"/>
+        <target id="t3.16"/>
+        <target id="t3.18"/>
+        <target id="t3.19"/>
+        <target id="t3.21"/>
+        <target id="t3.23"/>
+        <target id="t3.24"/>
+        <target id="t3.26"/>
+        <target id="t3.27"/>
+        <target id="t3.28"/>
+      </span>
+    </chunk>
+    <chunk cid="c3.9" head="t3.11" phrase="np">
+      <!--het Parlement-->
+      <span>
+        <target id="t3.10"/>
+        <target id="t3.11"/>
+      </span>
+    </chunk>
+    <chunk cid="c3.12" head="t3.14" phrase="np">
+      <!--de regel voor het gebruik van cooky en soortgelijk middel-->
+      <span>
+        <target id="t3.13"/>
+        <target id="t3.14"/>
+        <target id="t3.16"/>
+        <target id="t3.18"/>
+        <target id="t3.19"/>
+        <target id="t3.21"/>
+        <target id="t3.23"/>
+        <target id="t3.24"/>
+        <target id="t3.26"/>
+        <target id="t3.27"/>
+      </span>
+    </chunk>
+    <chunk cid="c3.15" head="t3.16" phrase="pp">
+      <!--voor het gebruik van cooky en soortgelijk middel-->
+      <span>
+        <target id="t3.16"/>
+        <target id="t3.18"/>
+        <target id="t3.19"/>
+        <target id="t3.21"/>
+        <target id="t3.23"/>
+        <target id="t3.24"/>
+        <target id="t3.26"/>
+        <target id="t3.27"/>
+      </span>
+    </chunk>
+    <chunk cid="c3.17" head="t3.19" phrase="np">
+      <!--het gebruik van cooky en soortgelijk middel-->
+      <span>
+        <target id="t3.18"/>
+        <target id="t3.19"/>
+        <target id="t3.21"/>
+        <target id="t3.23"/>
+        <target id="t3.24"/>
+        <target id="t3.26"/>
+        <target id="t3.27"/>
+      </span>
+    </chunk>
+    <chunk cid="c3.20" head="t3.21" phrase="pp">
+      <!--van cooky en soortgelijk middel-->
+      <span>
+        <target id="t3.21"/>
+        <target id="t3.23"/>
+        <target id="t3.24"/>
+        <target id="t3.26"/>
+        <target id="t3.27"/>
+      </span>
+    </chunk>
+    <chunk cid="c3.25" head="t3.27" phrase="np">
+      <!--soortgelijk middel-->
+      <span>
+        <target id="t3.26"/>
+        <target id="t3.27"/>
+      </span>
+    </chunk>
+    <chunk cid="c4.3" head="t4.7" phrase="smain">
+      <!--de internetgebruiker worden niet alleen goed geïnformeerd over wat er gebeuren met hun persoonsgegeven-->
+      <span>
+        <target id="t4.5"/>
+        <target id="t4.6"/>
+        <target id="t4.7"/>
+        <target id="t4.10"/>
+        <target id="t4.11"/>
+        <target id="t4.12"/>
+        <target id="t4.13"/>
+        <target id="t4.15"/>
+        <target id="t4.17"/>
+        <target id="t4.20"/>
+        <target id="t4.21"/>
+        <target id="t4.23"/>
+        <target id="t4.25"/>
+        <target id="t4.26"/>
+      </span>
+    </chunk>
+    <chunk cid="c4.4" head="t4.6" phrase="np">
+      <!--de internetgebruiker-->
+      <span>
+        <target id="t4.5"/>
+        <target id="t4.6"/>
+      </span>
+    </chunk>
+    <chunk cid="c4.8" head="t4.13" phrase="ppart">
+      <!--niet alleen goed geïnformeerd over wat er gebeuren met hun persoonsgegeven-->
+      <span>
+        <target id="t4.10"/>
+        <target id="t4.11"/>
+        <target id="t4.12"/>
+        <target id="t4.13"/>
+        <target id="t4.15"/>
+        <target id="t4.17"/>
+        <target id="t4.20"/>
+        <target id="t4.21"/>
+        <target id="t4.23"/>
+        <target id="t4.25"/>
+        <target id="t4.26"/>
+      </span>
+    </chunk>
+    <chunk cid="c4.9" head="t4.11" phrase="ap">
+      <!--niet alleen-->
+      <span>
+        <target id="t4.10"/>
+        <target id="t4.11"/>
+      </span>
+    </chunk>
+    <chunk cid="c4.14" head="t4.15" phrase="pp">
+      <!--over wat er gebeuren met hun persoonsgegeven-->
+      <span>
+        <target id="t4.15"/>
+        <target id="t4.17"/>
+        <target id="t4.20"/>
+        <target id="t4.21"/>
+        <target id="t4.23"/>
+        <target id="t4.25"/>
+        <target id="t4.26"/>
+      </span>
+    </chunk>
+    <chunk cid="c4.18" head="t4.21" phrase="ssub">
+      <!--er gebeuren met hun persoonsgegeven-->
+      <span>
+        <target id="t4.20"/>
+        <target id="t4.21"/>
+        <target id="t4.23"/>
+        <target id="t4.25"/>
+        <target id="t4.26"/>
+      </span>
+    </chunk>
+    <chunk cid="c4.22" head="t4.23" phrase="pp">
+      <!--met hun persoonsgegeven-->
+      <span>
+        <target id="t4.23"/>
+        <target id="t4.25"/>
+        <target id="t4.26"/>
+      </span>
+    </chunk>
+    <chunk cid="c4.24" head="t4.26" phrase="np">
+      <!--hun persoonsgegeven-->
+      <span>
+        <target id="t4.25"/>
+        <target id="t4.26"/>
+      </span>
+    </chunk>
+    <chunk cid="c4.28" head="t4.30" phrase="smain">
+      <!--het worden voor hen ook makkelijk om controle uit te uitoefenen over die gegeven-->
+      <span>
+        <target id="t4.29"/>
+        <target id="t4.30"/>
+        <target id="t4.32"/>
+        <target id="t4.33"/>
+        <target id="t4.34"/>
+        <target id="t4.35"/>
+        <target id="t4.37"/>
+        <target id="t4.44"/>
+        <target id="t4.41"/>
+        <target id="t4.39"/>
+        <target id="t4.42"/>
+        <target id="t4.46"/>
+        <target id="t4.48"/>
+        <target id="t4.49"/>
+      </span>
+    </chunk>
+    <chunk cid="c4.31" head="t4.32" phrase="pp">
+      <!--voor hen-->
+      <span>
+        <target id="t4.32"/>
+        <target id="t4.33"/>
+      </span>
+    </chunk>
+    <chunk cid="c4.40" head="t4.42" phrase="inf">
+      <!--controle uit uitoefenen over die gegeven-->
+      <span>
+        <target id="t4.44"/>
+        <target id="t4.41"/>
+        <target id="t4.42"/>
+        <target id="t4.46"/>
+        <target id="t4.48"/>
+        <target id="t4.49"/>
+      </span>
+    </chunk>
+    <chunk cid="c4.43" head="t4.44" phrase="np">
+      <!--controle over die gegeven-->
+      <span>
+        <target id="t4.44"/>
+        <target id="t4.46"/>
+        <target id="t4.48"/>
+        <target id="t4.49"/>
+      </span>
+    </chunk>
+    <chunk cid="c4.45" head="t4.46" phrase="pp">
+      <!--over die gegeven-->
+      <span>
+        <target id="t4.46"/>
+        <target id="t4.48"/>
+        <target id="t4.49"/>
+      </span>
+    </chunk>
+    <chunk cid="c4.47" head="t4.49" phrase="np">
+      <!--die gegeven-->
+      <span>
+        <target id="t4.48"/>
+        <target id="t4.49"/>
+      </span>
+    </chunk>
+    <chunk cid="c5.1" head="t5.3" phrase="smain">
+      <!--ik zijn blij met de steun voor de meldingsplicht bij inbreuk met_betrekking_tot persoonsgegeven-->
+      <span>
+        <target id="t5.2"/>
+        <target id="t5.3"/>
+        <target id="t5.5"/>
+        <target id="t5.7"/>
+        <target id="t5.9"/>
+        <target id="t5.10"/>
+        <target id="t5.12"/>
+        <target id="t5.14"/>
+        <target id="t5.15"/>
+        <target id="t5.17"/>
+        <target id="t5.19"/>
+        <target id="t5.21"/>
+        <target id="t5.25"/>
+      </span>
+    </chunk>
+    <chunk cid="c5.4" head="t5.5" phrase="ap">
+      <!--blij met de steun voor de meldingsplicht bij inbreuk met_betrekking_tot persoonsgegeven-->
+      <span>
+        <target id="t5.5"/>
+        <target id="t5.7"/>
+        <target id="t5.9"/>
+        <target id="t5.10"/>
+        <target id="t5.12"/>
+        <target id="t5.14"/>
+        <target id="t5.15"/>
+        <target id="t5.17"/>
+        <target id="t5.19"/>
+        <target id="t5.21"/>
+        <target id="t5.25"/>
+      </span>
+    </chunk>
+    <chunk cid="c5.6" head="t5.7" phrase="pp">
+      <!--met de steun voor de meldingsplicht bij inbreuk met_betrekking_tot persoonsgegeven-->
+      <span>
+        <target id="t5.7"/>
+        <target id="t5.9"/>
+        <target id="t5.10"/>
+        <target id="t5.12"/>
+        <target id="t5.14"/>
+        <target id="t5.15"/>
+        <target id="t5.17"/>
+        <target id="t5.19"/>
+        <target id="t5.21"/>
+        <target id="t5.25"/>
+      </span>
+    </chunk>
+    <chunk cid="c5.8" head="t5.10" phrase="np">
+      <!--de steun voor de meldingsplicht bij inbreuk met_betrekking_tot persoonsgegeven-->
+      <span>
+        <target id="t5.9"/>
+        <target id="t5.10"/>
+        <target id="t5.12"/>
+        <target id="t5.14"/>
+        <target id="t5.15"/>
+        <target id="t5.17"/>
+        <target id="t5.19"/>
+        <target id="t5.21"/>
+        <target id="t5.25"/>
+      </span>
+    </chunk>
+    <chunk cid="c5.11" head="t5.12" phrase="pp">
+      <!--voor de meldingsplicht bij inbreuk met_betrekking_tot persoonsgegeven-->
+      <span>
+        <target id="t5.12"/>
+        <target id="t5.14"/>
+        <target id="t5.15"/>
+        <target id="t5.17"/>
+        <target id="t5.19"/>
+        <target id="t5.21"/>
+        <target id="t5.25"/>
+      </span>
+    </chunk>
+    <chunk cid="c5.13" head="t5.15" phrase="np">
+      <!--de meldingsplicht bij inbreuk met_betrekking_tot persoonsgegeven-->
+      <span>
+        <target id="t5.14"/>
+        <target id="t5.15"/>
+        <target id="t5.17"/>
+        <target id="t5.19"/>
+        <target id="t5.21"/>
+        <target id="t5.25"/>
+      </span>
+    </chunk>
+    <chunk cid="c5.16" head="t5.17" phrase="pp">
+      <!--bij inbreuk met_betrekking_tot persoonsgegeven-->
+      <span>
+        <target id="t5.17"/>
+        <target id="t5.19"/>
+        <target id="t5.21"/>
+        <target id="t5.25"/>
+      </span>
+    </chunk>
+    <chunk cid="c5.18" head="t5.19" phrase="np">
+      <!--inbreuk met_betrekking_tot persoonsgegeven-->
+      <span>
+        <target id="t5.19"/>
+        <target id="t5.21"/>
+        <target id="t5.25"/>
+      </span>
+    </chunk>
+    <chunk cid="c5.20" head="t5.21" phrase="pp">
+      <!--met_betrekking_tot persoonsgegeven-->
+      <span>
+        <target id="t5.21"/>
+        <target id="t5.25"/>
+      </span>
+    </chunk>
+    <chunk cid="c6.1" head="t6.3" phrase="smain">
+      <!--het zijn voor_het_eerst dat op communautair niveau een dergelijk verplichting worden invoeren-->
+      <span>
+        <target id="t6.2"/>
+        <target id="t6.3"/>
+        <target id="t6.4"/>
+        <target id="t6.9"/>
+        <target id="t6.18"/>
+        <target id="t6.20"/>
+        <target id="t6.21"/>
+        <target id="t6.12"/>
+        <target id="t6.13"/>
+        <target id="t6.14"/>
+        <target id="t6.15"/>
+        <target id="t6.23"/>
+      </span>
+    </chunk>
+    <chunk cid="c6.10" head="t6.15" phrase="ssub">
+      <!--op communautair niveau een dergelijk verplichting worden invoeren-->
+      <span>
+        <target id="t6.18"/>
+        <target id="t6.20"/>
+        <target id="t6.21"/>
+        <target id="t6.12"/>
+        <target id="t6.13"/>
+        <target id="t6.14"/>
+        <target id="t6.15"/>
+        <target id="t6.23"/>
+      </span>
+    </chunk>
+    <chunk cid="c6.11" head="t6.14" phrase="np">
+      <!--een dergelijk verplichting-->
+      <span>
+        <target id="t6.12"/>
+        <target id="t6.13"/>
+        <target id="t6.14"/>
+      </span>
+    </chunk>
+    <chunk cid="c6.16" head="t6.23" phrase="ppart">
+      <!--op communautair niveau invoeren-->
+      <span>
+        <target id="t6.18"/>
+        <target id="t6.20"/>
+        <target id="t6.21"/>
+        <target id="t6.23"/>
+      </span>
+    </chunk>
+    <chunk cid="c6.17" head="t6.18" phrase="pp">
+      <!--op communautair niveau-->
+      <span>
+        <target id="t6.18"/>
+        <target id="t6.20"/>
+        <target id="t6.21"/>
+      </span>
+    </chunk>
+    <chunk cid="c6.19" head="t6.21" phrase="np">
+      <!--communautair niveau-->
+      <span>
+        <target id="t6.20"/>
+        <target id="t6.21"/>
+      </span>
+    </chunk>
+    <chunk cid="c7.3" head="t7.5" phrase="smain">
+      <!--ook doen het mij deugd het Parlement hebben zich hier altijd voor inzetten dat mens met een handicap een sterk positie krijgen-->
+      <span>
+        <target id="t7.4"/>
+        <target id="t7.5"/>
+        <target id="t7.6"/>
+        <target id="t7.7"/>
+        <target id="t7.9"/>
+        <target id="t7.12"/>
+        <target id="t7.13"/>
+        <target id="t7.14"/>
+        <target id="t7.17"/>
+        <target id="t7.20"/>
+        <target id="t7.18"/>
+        <target id="t7.21"/>
+        <target id="t7.22"/>
+        <target id="t7.24"/>
+        <target id="t7.27"/>
+        <target id="t7.29"/>
+        <target id="t7.31"/>
+        <target id="t7.32"/>
+        <target id="t7.34"/>
+        <target id="t7.35"/>
+        <target id="t7.36"/>
+        <target id="t7.37"/>
+      </span>
+    </chunk>
+    <chunk cid="c7.8" head="t7.9" phrase="np">
+      <!--deugd het Parlement hebben zich hier altijd voor inzetten-->
+      <span>
+        <target id="t7.9"/>
+        <target id="t7.12"/>
+        <target id="t7.13"/>
+        <target id="t7.14"/>
+        <target id="t7.17"/>
+        <target id="t7.20"/>
+        <target id="t7.18"/>
+        <target id="t7.21"/>
+        <target id="t7.22"/>
+      </span>
+    </chunk>
+    <chunk cid="c7.10" head="t7.14" phrase="smain">
+      <!--het Parlement hebben zich hier altijd voor inzetten-->
+      <span>
+        <target id="t7.12"/>
+        <target id="t7.13"/>
+        <target id="t7.14"/>
+        <target id="t7.17"/>
+        <target id="t7.20"/>
+        <target id="t7.18"/>
+        <target id="t7.21"/>
+        <target id="t7.22"/>
+      </span>
+    </chunk>
+    <chunk cid="c7.11" head="t7.13" phrase="np">
+      <!--het Parlement-->
+      <span>
+        <target id="t7.12"/>
+        <target id="t7.13"/>
+      </span>
+    </chunk>
+    <chunk cid="c7.15" head="t7.22" phrase="ppart">
+      <!--zich hier altijd voor inzetten-->
+      <span>
+        <target id="t7.17"/>
+        <target id="t7.20"/>
+        <target id="t7.18"/>
+        <target id="t7.21"/>
+        <target id="t7.22"/>
+      </span>
+    </chunk>
+    <chunk cid="c7.19" head="t7.21" phrase="pp">
+      <!--hier voor-->
+      <span>
+        <target id="t7.20"/>
+        <target id="t7.21"/>
+      </span>
+    </chunk>
+    <chunk cid="c7.25" head="t7.37" phrase="ssub">
+      <!--mens met een handicap een sterk positie krijgen-->
+      <span>
+        <target id="t7.27"/>
+        <target id="t7.29"/>
+        <target id="t7.31"/>
+        <target id="t7.32"/>
+        <target id="t7.34"/>
+        <target id="t7.35"/>
+        <target id="t7.36"/>
+        <target id="t7.37"/>
+      </span>
+    </chunk>
+    <chunk cid="c7.26" head="t7.27" phrase="np">
+      <!--mens met een handicap-->
+      <span>
+        <target id="t7.27"/>
+        <target id="t7.29"/>
+        <target id="t7.31"/>
+        <target id="t7.32"/>
+      </span>
+    </chunk>
+    <chunk cid="c7.28" head="t7.29" phrase="pp">
+      <!--met een handicap-->
+      <span>
+        <target id="t7.29"/>
+        <target id="t7.31"/>
+        <target id="t7.32"/>
+      </span>
+    </chunk>
+    <chunk cid="c7.30" head="t7.32" phrase="np">
+      <!--een handicap-->
+      <span>
+        <target id="t7.31"/>
+        <target id="t7.32"/>
+      </span>
+    </chunk>
+    <chunk cid="c7.33" head="t7.36" phrase="np">
+      <!--een sterk positie-->
+      <span>
+        <target id="t7.34"/>
+        <target id="t7.35"/>
+        <target id="t7.36"/>
+      </span>
+    </chunk>
+    <chunk cid="c8.2" head="t8.4" phrase="smain">
+      <!--ik zijn vooral blij dat consument nu garantie krijgen in_verband_met de bescherming van de persoonlijk levenssfeer de vrijheid van meningsuiting en de toegang tot informatie-->
+      <span>
+        <target id="t8.3"/>
+        <target id="t8.4"/>
+        <target id="t8.6"/>
+        <target id="t8.7"/>
+        <target id="t8.9"/>
+        <target id="t8.11"/>
+        <target id="t8.12"/>
+        <target id="t8.13"/>
+        <target id="t8.14"/>
+        <target id="t8.16"/>
+        <target id="t8.21"/>
+        <target id="t8.22"/>
+        <target id="t8.24"/>
+        <target id="t8.27"/>
+        <target id="t8.28"/>
+        <target id="t8.29"/>
+        <target id="t8.31"/>
+        <target id="t8.32"/>
+        <target id="t8.34"/>
+        <target id="t8.35"/>
+        <target id="t8.36"/>
+        <target id="t8.38"/>
+        <target id="t8.39"/>
+        <target id="t8.41"/>
+        <target id="t8.42"/>
+      </span>
+    </chunk>
+    <chunk cid="c8.5" head="t8.7" phrase="ap">
+      <!--vooral blij dat consument nu garantie krijgen-->
+      <span>
+        <target id="t8.6"/>
+        <target id="t8.7"/>
+        <target id="t8.9"/>
+        <target id="t8.11"/>
+        <target id="t8.12"/>
+        <target id="t8.13"/>
+        <target id="t8.14"/>
+      </span>
+    </chunk>
+    <chunk cid="c8.10" head="t8.14" phrase="ssub">
+      <!--consument nu garantie krijgen-->
+      <span>
+        <target id="t8.11"/>
+        <target id="t8.12"/>
+        <target id="t8.13"/>
+        <target id="t8.14"/>
+      </span>
+    </chunk>
+    <chunk cid="c8.15" head="t8.16" phrase="pp">
+      <!--in_verband_met de bescherming van de persoonlijk levenssfeer de vrijheid van meningsuiting en de toegang tot informatie-->
+      <span>
+        <target id="t8.16"/>
+        <target id="t8.21"/>
+        <target id="t8.22"/>
+        <target id="t8.24"/>
+        <target id="t8.27"/>
+        <target id="t8.28"/>
+        <target id="t8.29"/>
+        <target id="t8.31"/>
+        <target id="t8.32"/>
+        <target id="t8.34"/>
+        <target id="t8.35"/>
+        <target id="t8.36"/>
+        <target id="t8.38"/>
+        <target id="t8.39"/>
+        <target id="t8.41"/>
+        <target id="t8.42"/>
+      </span>
+    </chunk>
+    <chunk cid="c8.20" head="t8.22" phrase="np">
+      <!--de bescherming van de persoonlijk levenssfeer de vrijheid van meningsuiting en de toegang tot informatie-->
+      <span>
+        <target id="t8.21"/>
+        <target id="t8.22"/>
+        <target id="t8.24"/>
+        <target id="t8.27"/>
+        <target id="t8.28"/>
+        <target id="t8.29"/>
+        <target id="t8.31"/>
+        <target id="t8.32"/>
+        <target id="t8.34"/>
+        <target id="t8.35"/>
+        <target id="t8.36"/>
+        <target id="t8.38"/>
+        <target id="t8.39"/>
+        <target id="t8.41"/>
+        <target id="t8.42"/>
+      </span>
+    </chunk>
+    <chunk cid="c8.23" head="t8.24" phrase="pp">
+      <!--van de persoonlijk levenssfeer de vrijheid van meningsuiting en de toegang tot informatie-->
+      <span>
+        <target id="t8.24"/>
+        <target id="t8.27"/>
+        <target id="t8.28"/>
+        <target id="t8.29"/>
+        <target id="t8.31"/>
+        <target id="t8.32"/>
+        <target id="t8.34"/>
+        <target id="t8.35"/>
+        <target id="t8.36"/>
+        <target id="t8.38"/>
+        <target id="t8.39"/>
+        <target id="t8.41"/>
+        <target id="t8.42"/>
+      </span>
+    </chunk>
+    <chunk cid="c8.26" head="t8.29" phrase="np">
+      <!--de persoonlijk levenssfeer-->
+      <span>
+        <target id="t8.27"/>
+        <target id="t8.28"/>
+        <target id="t8.29"/>
+      </span>
+    </chunk>
+    <chunk cid="c8.30" head="t8.32" phrase="np">
+      <!--de vrijheid van meningsuiting-->
+      <span>
+        <target id="t8.31"/>
+        <target id="t8.32"/>
+        <target id="t8.34"/>
+        <target id="t8.35"/>
+      </span>
+    </chunk>
+    <chunk cid="c8.33" head="t8.34" phrase="pp">
+      <!--van meningsuiting-->
+      <span>
+        <target id="t8.34"/>
+        <target id="t8.35"/>
+      </span>
+    </chunk>
+    <chunk cid="c8.37" head="t8.39" phrase="np">
+      <!--de toegang tot informatie-->
+      <span>
+        <target id="t8.38"/>
+        <target id="t8.39"/>
+        <target id="t8.41"/>
+        <target id="t8.42"/>
+      </span>
+    </chunk>
+    <chunk cid="c8.40" head="t8.41" phrase="pp">
+      <!--tot informatie-->
+      <span>
+        <target id="t8.41"/>
+        <target id="t8.42"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.4" head="t9.8" phrase="smain">
+      <!--dit alles zullen hetzij door goedkeuring van harmonisatiemaatregel hetzij door meer toezicht op de rechtsmiddel die de nationaal toezichthouder kisenzven zorgen voor meer consistentie in de intern markt-->
+      <span>
+        <target id="t9.6"/>
+        <target id="t9.7"/>
+        <target id="t9.8"/>
+        <target id="t9.12"/>
+        <target id="t9.14"/>
+        <target id="t9.16"/>
+        <target id="t9.18"/>
+        <target id="t9.19"/>
+        <target id="t9.20"/>
+        <target id="t9.22"/>
+        <target id="t9.24"/>
+        <target id="t9.25"/>
+        <target id="t9.27"/>
+        <target id="t9.29"/>
+        <target id="t9.30"/>
+        <target id="t9.32"/>
+        <target id="t9.36"/>
+        <target id="t9.37"/>
+        <target id="t9.38"/>
+        <target id="t9.39"/>
+        <target id="t9.40"/>
+        <target id="t9.42"/>
+        <target id="t9.44"/>
+        <target id="t9.45"/>
+        <target id="t9.47"/>
+        <target id="t9.49"/>
+        <target id="t9.50"/>
+        <target id="t9.51"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.5" head="t9.7" phrase="np">
+      <!--dit alles-->
+      <span>
+        <target id="t9.6"/>
+        <target id="t9.7"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.9" head="t9.40" phrase="inf">
+      <!--hetzij door goedkeuring van harmonisatiemaatregel hetzij door meer toezicht op de rechtsmiddel die de nationaal toezichthouder kisenzven zorgen voor meer consistentie in de intern markt-->
+      <span>
+        <target id="t9.12"/>
+        <target id="t9.14"/>
+        <target id="t9.16"/>
+        <target id="t9.18"/>
+        <target id="t9.19"/>
+        <target id="t9.20"/>
+        <target id="t9.22"/>
+        <target id="t9.24"/>
+        <target id="t9.25"/>
+        <target id="t9.27"/>
+        <target id="t9.29"/>
+        <target id="t9.30"/>
+        <target id="t9.32"/>
+        <target id="t9.36"/>
+        <target id="t9.37"/>
+        <target id="t9.38"/>
+        <target id="t9.39"/>
+        <target id="t9.40"/>
+        <target id="t9.42"/>
+        <target id="t9.44"/>
+        <target id="t9.45"/>
+        <target id="t9.47"/>
+        <target id="t9.49"/>
+        <target id="t9.50"/>
+        <target id="t9.51"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.13" head="t9.14" phrase="pp">
+      <!--door goedkeuring van harmonisatiemaatregel-->
+      <span>
+        <target id="t9.14"/>
+        <target id="t9.16"/>
+        <target id="t9.18"/>
+        <target id="t9.19"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.15" head="t9.16" phrase="np">
+      <!--goedkeuring van harmonisatiemaatregel-->
+      <span>
+        <target id="t9.16"/>
+        <target id="t9.18"/>
+        <target id="t9.19"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.17" head="t9.18" phrase="pp">
+      <!--van harmonisatiemaatregel-->
+      <span>
+        <target id="t9.18"/>
+        <target id="t9.19"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.21" head="t9.22" phrase="pp">
+      <!--door meer toezicht op de rechtsmiddel die de nationaal toezichthouder kisenzven-->
+      <span>
+        <target id="t9.22"/>
+        <target id="t9.24"/>
+        <target id="t9.25"/>
+        <target id="t9.27"/>
+        <target id="t9.29"/>
+        <target id="t9.30"/>
+        <target id="t9.32"/>
+        <target id="t9.36"/>
+        <target id="t9.37"/>
+        <target id="t9.38"/>
+        <target id="t9.39"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.23" head="t9.25" phrase="np">
+      <!--meer toezicht op de rechtsmiddel die de nationaal toezichthouder kisenzven-->
+      <span>
+        <target id="t9.24"/>
+        <target id="t9.25"/>
+        <target id="t9.27"/>
+        <target id="t9.29"/>
+        <target id="t9.30"/>
+        <target id="t9.32"/>
+        <target id="t9.36"/>
+        <target id="t9.37"/>
+        <target id="t9.38"/>
+        <target id="t9.39"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.26" head="t9.27" phrase="pp">
+      <!--op de rechtsmiddel die de nationaal toezichthouder kisenzven-->
+      <span>
+        <target id="t9.27"/>
+        <target id="t9.29"/>
+        <target id="t9.30"/>
+        <target id="t9.32"/>
+        <target id="t9.36"/>
+        <target id="t9.37"/>
+        <target id="t9.38"/>
+        <target id="t9.39"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.28" head="t9.30" phrase="np">
+      <!--de rechtsmiddel die de nationaal toezichthouder kisenzven-->
+      <span>
+        <target id="t9.29"/>
+        <target id="t9.30"/>
+        <target id="t9.32"/>
+        <target id="t9.36"/>
+        <target id="t9.37"/>
+        <target id="t9.38"/>
+        <target id="t9.39"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.33" head="t9.39" phrase="ssub">
+      <!--de nationaal toezichthouder kisenzven-->
+      <span>
+        <target id="t9.36"/>
+        <target id="t9.37"/>
+        <target id="t9.38"/>
+        <target id="t9.39"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.35" head="t9.38" phrase="np">
+      <!--de nationaal toezichthouder-->
+      <span>
+        <target id="t9.36"/>
+        <target id="t9.37"/>
+        <target id="t9.38"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.41" head="t9.42" phrase="pp">
+      <!--voor meer consistentie in de intern markt-->
+      <span>
+        <target id="t9.42"/>
+        <target id="t9.44"/>
+        <target id="t9.45"/>
+        <target id="t9.47"/>
+        <target id="t9.49"/>
+        <target id="t9.50"/>
+        <target id="t9.51"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.43" head="t9.45" phrase="np">
+      <!--meer consistentie in de intern markt-->
+      <span>
+        <target id="t9.44"/>
+        <target id="t9.45"/>
+        <target id="t9.47"/>
+        <target id="t9.49"/>
+        <target id="t9.50"/>
+        <target id="t9.51"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.46" head="t9.47" phrase="pp">
+      <!--in de intern markt-->
+      <span>
+        <target id="t9.47"/>
+        <target id="t9.49"/>
+        <target id="t9.50"/>
+        <target id="t9.51"/>
+      </span>
+    </chunk>
+    <chunk cid="c9.48" head="t9.51" phrase="np">
+      <!--de intern markt-->
+      <span>
+        <target id="t9.49"/>
+        <target id="t9.50"/>
+        <target id="t9.51"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.3" head="t10.4" phrase="smain">
+      <!--ook zullen het de nieuw autoriteit die een sleutelrol vervullen in dit proces in_staat stellen om de expertise en de ervaring van 27 nationaal toezichthouder te bundelen en om de laat obstakel op_weg naar een daadwerkelijk grenzenloos Europa te slechten-->
+      <span>
+        <target id="t10.7"/>
+        <target id="t10.4"/>
+        <target id="t10.5"/>
+        <target id="t10.10"/>
+        <target id="t10.11"/>
+        <target id="t10.13"/>
+        <target id="t10.15"/>
+        <target id="t10.19"/>
+        <target id="t10.20"/>
+        <target id="t10.21"/>
+        <target id="t10.23"/>
+        <target id="t10.25"/>
+        <target id="t10.26"/>
+        <target id="t10.29"/>
+        <target id="t10.27"/>
+        <target id="t10.34"/>
+        <target id="t10.40"/>
+        <target id="t10.41"/>
+        <target id="t10.42"/>
+        <target id="t10.44"/>
+        <target id="t10.45"/>
+        <target id="t10.47"/>
+        <target id="t10.49"/>
+        <target id="t10.50"/>
+        <target id="t10.51"/>
+        <target id="t10.36"/>
+        <target id="t10.52"/>
+        <target id="t10.53"/>
+        <target id="t10.55"/>
+        <target id="t10.60"/>
+        <target id="t10.61"/>
+        <target id="t10.62"/>
+        <target id="t10.64"/>
+        <target id="t10.68"/>
+        <target id="t10.70"/>
+        <target id="t10.71"/>
+        <target id="t10.72"/>
+        <target id="t10.73"/>
+        <target id="t10.57"/>
+        <target id="t10.74"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.6" head="t10.27" phrase="inf">
+      <!--ook de nieuw autoriteit die een sleutelrol vervullen in dit proces stellen-->
+      <span>
+        <target id="t10.7"/>
+        <target id="t10.10"/>
+        <target id="t10.11"/>
+        <target id="t10.13"/>
+        <target id="t10.15"/>
+        <target id="t10.19"/>
+        <target id="t10.20"/>
+        <target id="t10.21"/>
+        <target id="t10.23"/>
+        <target id="t10.25"/>
+        <target id="t10.26"/>
+        <target id="t10.27"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.9" head="t10.11" phrase="np">
+      <!--de nieuw-->
+      <span>
+        <target id="t10.10"/>
+        <target id="t10.11"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.12" head="t10.13" phrase="np">
+      <!--autoriteit die een sleutelrol vervullen in dit proces-->
+      <span>
+        <target id="t10.13"/>
+        <target id="t10.15"/>
+        <target id="t10.19"/>
+        <target id="t10.20"/>
+        <target id="t10.21"/>
+        <target id="t10.23"/>
+        <target id="t10.25"/>
+        <target id="t10.26"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.16" head="t10.21" phrase="ssub">
+      <!--een sleutelrol vervullen in dit proces-->
+      <span>
+        <target id="t10.19"/>
+        <target id="t10.20"/>
+        <target id="t10.21"/>
+        <target id="t10.23"/>
+        <target id="t10.25"/>
+        <target id="t10.26"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.18" head="t10.20" phrase="np">
+      <!--een sleutelrol-->
+      <span>
+        <target id="t10.19"/>
+        <target id="t10.20"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.22" head="t10.23" phrase="pp">
+      <!--in dit proces-->
+      <span>
+        <target id="t10.23"/>
+        <target id="t10.25"/>
+        <target id="t10.26"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.24" head="t10.26" phrase="np">
+      <!--dit proces-->
+      <span>
+        <target id="t10.25"/>
+        <target id="t10.26"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.28" head="t10.29" phrase="ap">
+      <!--in_staat om de expertise en de ervaring van 27 nationaal toezichthouder te bundelen en om de laat obstakel op_weg naar een daadwerkelijk grenzenloos Europa te slechten-->
+      <span>
+        <target id="t10.29"/>
+        <target id="t10.34"/>
+        <target id="t10.40"/>
+        <target id="t10.41"/>
+        <target id="t10.42"/>
+        <target id="t10.44"/>
+        <target id="t10.45"/>
+        <target id="t10.47"/>
+        <target id="t10.49"/>
+        <target id="t10.50"/>
+        <target id="t10.51"/>
+        <target id="t10.36"/>
+        <target id="t10.52"/>
+        <target id="t10.53"/>
+        <target id="t10.55"/>
+        <target id="t10.60"/>
+        <target id="t10.61"/>
+        <target id="t10.62"/>
+        <target id="t10.64"/>
+        <target id="t10.68"/>
+        <target id="t10.70"/>
+        <target id="t10.71"/>
+        <target id="t10.72"/>
+        <target id="t10.73"/>
+        <target id="t10.57"/>
+        <target id="t10.74"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.37" head="t10.52" phrase="inf">
+      <!--de expertise en de ervaring van 27 nationaal toezichthouder bundelen-->
+      <span>
+        <target id="t10.40"/>
+        <target id="t10.41"/>
+        <target id="t10.42"/>
+        <target id="t10.44"/>
+        <target id="t10.45"/>
+        <target id="t10.47"/>
+        <target id="t10.49"/>
+        <target id="t10.50"/>
+        <target id="t10.51"/>
+        <target id="t10.52"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.39" head="t10.41" phrase="np">
+      <!--de expertise-->
+      <span>
+        <target id="t10.40"/>
+        <target id="t10.41"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.43" head="t10.45" phrase="np">
+      <!--de ervaring van 27 nationaal toezichthouder-->
+      <span>
+        <target id="t10.44"/>
+        <target id="t10.45"/>
+        <target id="t10.47"/>
+        <target id="t10.49"/>
+        <target id="t10.50"/>
+        <target id="t10.51"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.46" head="t10.47" phrase="pp">
+      <!--van 27 nationaal toezichthouder-->
+      <span>
+        <target id="t10.47"/>
+        <target id="t10.49"/>
+        <target id="t10.50"/>
+        <target id="t10.51"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.48" head="t10.51" phrase="np">
+      <!--27 nationaal toezichthouder-->
+      <span>
+        <target id="t10.49"/>
+        <target id="t10.50"/>
+        <target id="t10.51"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.58" head="t10.74" phrase="inf">
+      <!--de laat obstakel op_weg naar een daadwerkelijk grenzenloos Europa slechten-->
+      <span>
+        <target id="t10.60"/>
+        <target id="t10.61"/>
+        <target id="t10.62"/>
+        <target id="t10.64"/>
+        <target id="t10.68"/>
+        <target id="t10.70"/>
+        <target id="t10.71"/>
+        <target id="t10.72"/>
+        <target id="t10.73"/>
+        <target id="t10.74"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.59" head="t10.62" phrase="np">
+      <!--de laat obstakel-->
+      <span>
+        <target id="t10.60"/>
+        <target id="t10.61"/>
+        <target id="t10.62"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.63" head="t10.64" phrase="ap">
+      <!--op_weg naar een daadwerkelijk grenzenloos Europa-->
+      <span>
+        <target id="t10.64"/>
+        <target id="t10.68"/>
+        <target id="t10.70"/>
+        <target id="t10.71"/>
+        <target id="t10.72"/>
+        <target id="t10.73"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.67" head="t10.68" phrase="pp">
+      <!--naar een daadwerkelijk grenzenloos Europa-->
+      <span>
+        <target id="t10.68"/>
+        <target id="t10.70"/>
+        <target id="t10.71"/>
+        <target id="t10.72"/>
+        <target id="t10.73"/>
+      </span>
+    </chunk>
+    <chunk cid="c10.69" head="t10.73" phrase="np">
+      <!--een daadwerkelijk grenzenloos Europa-->
+      <span>
+        <target id="t10.70"/>
+        <target id="t10.71"/>
+        <target id="t10.72"/>
+        <target id="t10.73"/>
+      </span>
+    </chunk>
+  </chunks>
+  <opinions>
+    <opinion oid="o1">
+      <opinion_holder>
+        <!--hun-->
+        <span>
+          <target id="t4.25"/>
+        </span>
+      </opinion_holder>
+      <opinion_target/>
+      <opinion_expression polarity="positive" strength="1">
+        <!--goed-->
+        <span>
+          <target id="t4.12"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o2">
+      <opinion_holder>
+        <!--hun-->
+        <span>
+          <target id="t4.25"/>
+        </span>
+      </opinion_holder>
+      <opinion_target/>
+      <opinion_expression polarity="positive" strength="1">
+        <!--makkelijk-->
+        <span>
+          <target id="t4.35"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o3">
+      <opinion_holder>
+        <!--ik-->
+        <span>
+          <target id="t5.2"/>
+        </span>
+      </opinion_holder>
+      <opinion_target/>
+      <opinion_expression polarity="positive" strength="1">
+        <!--blij-->
+        <span>
+          <target id="t5.5"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o4">
+      <opinion_holder>
+        <!--ik-->
+        <span>
+          <target id="t8.3"/>
+        </span>
+      </opinion_holder>
+      <opinion_target/>
+      <opinion_expression polarity="positive" strength="1">
+        <!--blij-->
+        <span>
+          <target id="t8.7"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o5">
+      <opinion_holder>
+        <!--ik-->
+        <span>
+          <target id="t8.3"/>
+        </span>
+      </opinion_holder>
+      <opinion_target/>
+      <opinion_expression polarity="positive" strength="1">
+        <!--vrijheid-->
+        <span>
+          <target id="t8.32"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o6">
+      <opinion_holder>
+        <!--het-->
+        <span>
+          <target id="t10.5"/>
+        </span>
+      </opinion_holder>
+      <opinion_target/>
+      <opinion_expression polarity="negative" strength="-1">
+        <!--naar-->
+        <span>
+          <target id="t10.68"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+  </opinions>
+</KAF>

@@ -1,0 +1,133 @@
+LEVENSBERICHT 
+ VAN 
+ JOHN VON NEUMANN 
+ (28 december 1903&#151;8 februari 1957) 
+ Janos&#13;
+Neumann von Margitta werd in Budapest geboren, in een 
+ zeer welgesteld milieu. Hij studeerde van 1921 tot 1923 wis- en 
+ natuurkunde aan de Berlijnse universiteit; daarna ging hij naar 
+ Z&#252;rich, waar hij in 1925 aan de &#132;Eidgen&#246;ssische Technische Hoch schule" de graad van &#132;Diplomingenieur" in de Scheikunde ver wierf. In 1926 promoveerde hij aan de universiteit te Budapest op 
+ een wiskundig proefschrift. Daarna keerde hij te Berlijn terug, 
+ waar hij als privaat-docent met onderwijsopdracht van 1926 tot 
+ 1929 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#13;
+ werkzaam was. In een dergelijke functie trad hij&#13;
+van 1929 tot  
+ 1930 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#13;
+ aan de Hamburgse universiteit op. In 1930 vertrok&#13;
+hij als 
+ Visiting Lecturer naar Princeton University (N.J.-U.S.A.), waar 
+ hij later Visiting Professor werd. In 1933 werd hij tot Professor aan 
+ het net opgerichte Institute for Advanced Study benoemd. Uit deze 
+ functie is hij door de dood gescheiden. Vanaf 1945 was hij ook 
+ Directeur van het Electronic Computer Project aan hetzelfde Insti tuut. Na 1940 was hij tevens lid of adviseur van vei scheiden licha men, die de wetenschappelijke organisatie van oorlogvoering en 
+ bewapening behartigden, vanaf 1952 tengevolge van presidenti&#235;le 
+ benoemingen tevens adviseur, later lid van de U.S. Atomic Energy 
+ Commission.  
+ Er zullen&#13;
+wel niet veel gevallen zijn te vermelden van een 
+ &#132;Habilitation" op een leeftijd van 23 jaar aan de Berlijnse univer siteit. Maar von Neumann's genie was al jaren te voren gebleken, 
+ toen hij in Berlijn studeerde, alleen de hoogste colleges en de 
+ seminaria en colloquia liep en docenten en medestudenten verraste 
+ door spontane opmerkingen. Een ervan, een vereenvoudiging van 
+ 
+ 
+ 
+ 
+ 233 
+ een bewijs voor&#13;
+een stelling van Minkowski werd door I. Schur 
+ later telkens gememoreerd; zij is trouwens ook gepubliceerd. 
+ Von Neumann's proefschrift en eerste&#13;
+belangrijke onderzoekingen 
+ lagen op het gebied der grondslagen der&#13;
+wiskunde, speciaal der &#13;
+verzamelingsleer. Hoewel von Neumann daarna van onderwerp 
+ veranderd en niet weer tot het&#13;
+grondslagenonderzoek teruggekeerd 
+ is, draagt dit eerste werk reeds alle&#13;
+kenmerken van von Neumann's 
+ stijl: de scherpe logica, die geen&#13;
+schakel overslaat, en desondanks 
+ een als een gezellig gesprek vloeiend&#13;
+betoog, waarin de spreker 
+ telkens het woord herneemt, om het&#13;
+centrale probleem nog eens in &#13;
+het middelpunt te plaatsen en opnieuw vanuit een ander punt te &#13;
+belichten; de soevereine heerschappij over een gebied, waarvan hij &#13;
+echter de donkere plekken even scherp aanwijst als het reeds 
+ ge&#235;xploreerde; het onbegrensd&#13;
+abstraheren, maar toch steeds met 
+ een concreet doel voor ogen; voor&#13;
+alles echter de geweldig ont ledende kracht van deze geest, die&#13;
+het geheim kent, moeilijk 
+ lijkende of slecht geformuleerde&#13;
+problemen zolang te bewerken, 
+ opnieuw te formuleren, in andere&#13;
+samenhang te plaatsen, tot zij 
+ rijp zijn geworden voor een volledige&#13;
+likwidatie, die neerkomt op 
+ het beantwoorden van enkele haast&#13;
+triviale vragen. 
+ De&#13;
+axiomatische methode, zoals Hilbert die in het slotwoord van zijn 
+ &#132;Grundlagen der Geometrie" heeft gekenschetst, is von Neumann's 
+ mathematische modus vivendi: Elk probleem van zijn franje te ont doen en van elke veronderstelling na te gaan, in welke mate zij 
+ noodzakelijk is en hoe ver zij draagt. 
+ In von&#13;
+Neumann's eerste publikaties is de axiomatiek tevens 
+ doel. Dit jeugdwerk is gespleten door een kloof, zoals we niet 
+ kennen in zijn later werk met zijn indrukwekkende ge&#239;ntegreerd- &#13;
+heid. Die kloof was historisch gegeven, maar wordt nergens zo 
+ duidelijk zichtbaar, als wanneer men von Neumann's axiomatiek 
+ der verzamelingsleer en zijn bijdrage tot de bewijstheorie naast &#13;
+elkaar legt. Die objecten van de verzamelingstheoretische axio matiek zijn dingen, waarover geheel na&#239;ef in termen van de mathe- &#13;
+matische omgangstaal wordt geredeneerd (zoals Hilbert zijn Grund lagen begint met de woorden &#132;Wir denken uns drei verschiedene 
+ 
+ 
+ 
+ 
+ 234 
+ Systeme von Dingen" en voortgaat&#13;
+in een weinig geformaliseerd 
+ proza). In zijn bewijstheoretisch onderzoek zijn de objecten niet 
+ dingen, maar tekens, waarover in een sterk geformaliseerde&#13;
+taal &#13;
+wordt gesproken die zelf studieobject is. 
+ Von&#13;
+Neumann's bewijstheoretische resultaten waren niet specta- &#13;
+culair; hij toonde aan, wat men zou kunnen noemen, de niet- &#13;
+tegenstrijdigheid van de elementair-recursieve wiskunde, maar over &#13;
+het geheel genomen was de uitkomst veeleer negatief, doordat dui delijk bleek, dat bepaalde wegen onbegaanbaar waren; indrukwek kend is de wijze&#13;
+waarop von Neumann zich van de taak kwijt, een 
+ oneindig axioma-stelsel stringent te&#13;
+formuleren, en hoe hij aan de 
+ andere kant doorziet, dat bij zijn&#13;
+probleem van niet-tegenstrijdig heid slechts eindig veel axioma's&#13;
+meespelen. Maar de echte von &#13;
+Neumann komen we in zijn axiomatiek 3er verzamelingsleer tegen. 
+ Met zijn scherpe blik heeft hij als&#13;
+eerste de (niet-semantische) 
+ paradoxen der verzamelingsleer&#13;
+volledig doorzien. Het komt erop 
+ aan, te grote verzamelingen te&#13;
+vermijden &#151; dit was bekend. Maar 
+ wat een te grote verzameling is, heeft&#13;
+pas von Neumann begrepen: 
+ een die met de verzameling van alle&#13;
+dingen gelijkmachtig is. En 
+ deze ontdekking wordt&#13;
+gecomplementeerd door een tweede, bijzon der verrassende: dat men de te grote&#13;
+verzamelingen niet als ver- &#13;
+zamelingen, maar alleen als elementen van verzamelingen behoeft &#13;
+te verbieden. 
+ Ik ben op&#13;
+dit jeugdwerk van von Neumann zo uitvoerig inge gaan, juist omdat hij het niet heeft voortgezet. Hij heeft de kloof, 
+ waarvan ik daarstraks sprak, toen vermoedelijk niet opgemerkt; dit 
+ en de taak de kloof te overbruggen, bleef aan G&#246;del voorbehouden. 
+ Toen G&#246;del in 1930 zijn befaamde ontdekking deed &#151; de formeel 
+ niet beslisbare problemen &#151; hield von Neumann zich reeds met 
+ geheel andere vragen bezig. Von Neumann's belangstelling werd 
+ in hoge mate bepaald door de kringen, waarin hij verkeerde, en 
+ door de concrete problemen, die hij in deze milieus leerde kennen. &#13;
+Hoewel zijn werk sterk filosofisch gekleurd is, voelde hij zich niet 
+ thuis in de kringen van filosofen met hun problemen en hun taal,

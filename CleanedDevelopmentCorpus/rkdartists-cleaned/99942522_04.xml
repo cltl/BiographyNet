@@ -1,0 +1,29 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.rkd.nl/rkddb/dispatcher.aspx?action=search&database=ChoiceArtists&search=priref=48384" />
+    <publisher>
+      <name>Rijksbureau voor Kunsthistorische Documentatie</name>
+      <ref target="http://www.rkd.nl/" />
+    </publisher>
+  <idno type="source">rkdartists</idno></fileDesc>
+  <person>
+    <persName><name type="geslachtsnaam">Lauwers</name>, Jacobus Johannes</persName>
+    <persName><name type="geslachtsnaam">Lauwers</name>, Jacob Johannes</persName>
+    <sex value="1" />
+    <event type="birth" when="1753-02-26">
+      <place>Brugge (België)</place>
+    </event>
+    <event type="death" when="1800-12-21">
+      <place>Amsterdam</place>
+    </event>
+    <state type="occupation">schilderijenrestaurator</state>
+    <state type="occupation">kopiist</state>
+    <state type="occupation">schilder</state>
+    <state type="occupation">tekenaar</state>
+    <idno type="id">48384</idno>
+  <idno type="bioport">99942522</idno></person>
+  <biography>
+    <text>Schilderijenrestaurator, kopiist, schilder, tekenaar. Geboren: 26 februari 1753, Brugge (België). Gestorven: 21 december 1800, Amsterdam.</text>
+  </biography>
+</biodes>

@@ -1,0 +1,19 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>Wumkes</author>
+    <ref target="http://www.inghist.nl/retroboeken/nnbw?source=10&amp;page_number=10"/>
+    <publisher>
+      <name>Nieuw Nederlandsch Biografisch Woordenboek (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/nnbw"/>
+    </publisher>
+  <idno type="source">nnbw</idno></fileDesc>
+  <person>
+    <idno type="id">nnbw/19484</idno>
+    <persName><name type="geslachtsnaam">Albarda</name>, Horatius (1)</persName>
+    <idno type="dbnl_id">alba012</idno>
+  <idno type="bioport">99990422</idno></person>
+  <biography>
+    <text>ALBARDA (Horatius) (1), geb. 15 Oct. 1766 te Ferwerd, overl. 27 Dec. 1829 te Workum, zoon van Mr. Jan (2) A. (die volgt) en Dieuwke de Schiffaert, was notaris in het kanton Hindeloopen te Workum, van 1787-1802 notaris en procureur bij het Nedergerecht van Wonseradeel te Makkum, tot 1812 secretaris en boelgoeds-ontvanger te Staveren. Hij huwde te Makkum 3 April 1796 met Tjeerdje van Sloterdijck (geb. 27 Mei 1773 te Makkum, overl. te Leeuwarden 1 Nov. 1854), dochter van Symon v. S. en van Magdalena Canter Visscher te Makkum. Hun zoon is Jan (4) A. Zie: Geslachtregister van de fam. Albarda, 4. Wumkes </text>
+  </biography>
+</biodes>

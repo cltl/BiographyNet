@@ -1,0 +1,29 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://nl.wikipedia.org/wiki/Alida_Buitendijk" />
+    <publisher>
+      <name>wikipedia</name>
+      <ref target="http://nl.wikipedia.org/" />
+    </publisher>
+  <idno type="source">wikipedia</idno></fileDesc>
+  <person>
+    <idno type="bioport">98698569</idno>
+    <persName>Alida Buitendijk</persName>
+    <event type="birth" when="1903-04-01">
+      <place>Leiden</place>
+    </event>
+    <event type="death" when="1950-09-12">
+      <place>Leiden</place>
+    </event>
+  </person>
+  <biography>
+    <text>Alida Margaretha Buitendijk ( Leiden , 1 april 1903 - aldaar, 12 september 1950 ) was een Nederland se zo&#246;loge . Ze werkte sinds 1930 tot haar dood bij het Leidse Museum voor Natuurlijke Historie , thans Naturalis . 
+ Externe link 
+ Portret in Biografisch Woordenboek van Nederland 
+ Buitendijk A.M. (1945) Voorloopige Catalogus van de Acari in de Collectie-Oudemans Zoologische Mededelingen Vol. 24 p. 281-391 PDF 
+ {{Beginnetje|biologie|2=2007|3=03|4=06}}
+ {{DEFAULTSORT:Buitendijk,A}}
+ Categorie:Nederlands bioloog</text>
+  </biography>
+</biodes>

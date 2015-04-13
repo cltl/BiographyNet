@@ -1,0 +1,19 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>Wumkes</author>
+    <ref target="http://www.inghist.nl/retroboeken/nnbw?source=10&amp;page_number=924"/>
+    <publisher>
+      <name>Nieuw Nederlandsch Biografisch Woordenboek (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/nnbw"/>
+    </publisher>
+  <idno type="source">nnbw</idno></fileDesc>
+  <person>
+    <idno type="id">nnbw/20838</idno>
+    <persName><name type="geslachtsnaam">Sissingh</name>, Cornelius Muller</persName>
+    <idno type="dbnl_id">mull063</idno>
+  <idno type="bioport">99961536</idno></person>
+  <biography>
+    <text>SISSINGH (Cornelius Muller), geb. te Lettelbert, overl. in 1889, zoon van Ds. A.E. Sissingh te Lettelbert, liet zich 3 Sept. 1839 inschrijven als student te Groningen, was predikant te Gieterveen, ten Boer 1854-80, Kielwinderveer 1880-88 en ontving toen emeritaat. Van hem verscheen: Een woord tot de gemeente, ter nagedachtenis van Jacob Eisses Bolt, in leven oudouderling der Herv. Gemeente te Ten Boer, op den 2den Januarij 1860 (Groningen 1860). Wumkes </text>
+  </biography>
+</biodes>

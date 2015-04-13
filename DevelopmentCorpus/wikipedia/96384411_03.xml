@@ -1,0 +1,28 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://nl.wikipedia.org/wiki/Catharina_van_Beieren"/>
+    <publisher>
+      <name>wikipedia</name>
+      <ref target="http://nl.wikipedia.org/"/>
+    </publisher>
+  <idno type="source">wikipedia</idno></fileDesc>
+  <person>
+    <idno type="bioport">96384411</idno>
+    <persName>Catharina van Beieren</persName>
+  </person>
+  <biography>
+    <text>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;head&gt;&lt;title /&gt;&lt;style media="screen, projection" type="text/css"&gt;
+                        @import "http://en.wikipedia.org/skins-1.5/common/shared.css?156";
+                        @import "http://en.wikipedia.org//skins-1.5/monobook/main.css?156";
+&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class="mwx.article"&gt;&lt;h1 /&gt;&lt;div class="mwx.paragraph"&gt;Catharina van Beieren (1359-1400) was de dochter van &lt;a class="mwx.link.article" href="#"&gt;Albrecht van Beieren&lt;/a&gt;, graaf van Holland. 
+Ze was hertogin van &lt;a class="mwx.link.article" href="#"&gt;Gelre&lt;/a&gt; door haar huwelijk in 1369 met hertog &lt;a class="mwx.link.article" href="#"&gt;Eduard van Gelre&lt;/a&gt;. In 1371 werd een groot huwelijksfeest gevierd. Kort daarna sneuvelde Eduard op het slagveld, zodat Catharina op twaalfjarige leeftijd al weduwe was. In 1379 trouwde ze met &lt;a class="mwx.link.article" href="#"&gt;Willem III van Gulik&lt;/a&gt;, hertog van Gelre en vanaf 1393 ook hertog van Gulik. Zodoende werd ze opnieuw hertogin van Gelre. Beide huwelijken bleven kinderloos. 
+&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Externe link&lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+&lt;ul&gt;&lt;li&gt;Portret in &lt;a class="mwx.link.external" href="http://www.inghist.nl/Onderzoek/Projecten/DVN/lemmata/data/CatharinavanBeieren"&gt; Digitaal Vrouwenlexicon&lt;/a&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;{{Beginnetje|middeleeuwen|2=2007|3=02|4=27}}
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Huis Wittelsbach&lt;/a&gt;
+&lt;/div&gt;&lt;div class="mwx.paragraph" /&gt;&lt;/div&gt;&lt;ol class="mwx.languagelinks"&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="en:Katherine of Bavaria"&gt;en:Katherine of Bavaria&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</text>
+  </biography>
+</biodes>

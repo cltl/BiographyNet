@@ -1,0 +1,19 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <author>de Groot</author>
+    <ref target="http://www.inghist.nl/retroboeken/nnbw?source=2&page_number=1216" />
+    <publisher>
+      <name>Nieuw Nederlandsch Biografisch Woordenboek (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/nnbw" />
+    </publisher>
+  <idno type="source">nnbw</idno></fileDesc>
+  <person>
+    <idno type="id">nnbw/4373</idno>
+    <persName><name type="geslachtsnaam">Roberink</name>, Bernardus</persName>
+    <idno type="dbnl_id">robe005</idno>
+  <idno type="bioport">99918308</idno></person>
+  <biography>
+    <text>ROBERINK (Bernardus), geb. te Losser 24 Febr. 1819, overl. te Steenwijkerwold 28 Aug. 1890. R.-K. priester. Hij schreef: Armoede en geldzaken, vrij bewerkt naar Albau Stolz (Groningen 1875). de Groot</text>
+  </biography>
+</biodes>

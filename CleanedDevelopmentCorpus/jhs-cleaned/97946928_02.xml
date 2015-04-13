@@ -1,0 +1,33 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.jhm.nl/cultuur-en-geschiedenis/personen/w/wagenaar,+lion" />
+    <publisher>
+      <name>Joods historisch museum</name>
+      <ref target="http://www.jhm.nl" />
+    </publisher>
+  <idno type="source">jews</idno></fileDesc>
+  <person>
+    <persName>Wagenaar, Lion</persName>
+    <event type="birth" when="1855-09-22">
+      <place>Amsterdam</place>
+    </event>
+    <event type="death" when="1930-06-04">
+      <place>Amsterdam</place>
+    </event>
+  <idno type="bioport">97946928</idno><idno type="id">jews/392.xml</idno></person>
+  <biography>
+    <figure>
+      <head>Wagenaar, Lion</head>
+      <graphic url="http://www.jhm.nl/collectiebeeld/d041/041B051.jpg" />
+    </figure>
+    <text>Lion Wagenaar was opperrabbijn van Friesland van 1886 tot 1895 en daarna van Gelderland tot 1918. Hij heeft naam gemaakt als kanselredenaar en als polemist. Hij heeft de "Joodse Godsdienstleer voor de jeurd" (1897) geschreven. In 1880 werd hij conrector van het Ned.Israel.Seminarium en in 1918, rector. Hij stond afwijzend tegenover het zionisme, hetgeen bleek op de persoonlijke aanval op rabbijn de Vries n.a.v. van diens zionistische brochure "Lema'an Zion".
+ 
+
+ 
+Lion Wagenaar werd op Jom Kippoer van het joodse jaar 5616 (22 sept. 1855) in Amsterdam geboren. Hij stamde uit een respectabele familie en gold op het Nederlands-Israelitisch Seminarium als een zeer begaafd student. In 1862, het jaar waarin rector Dünner opperrabbijn werd, liet Wagenaar zich als student van de hogere afdeling inschrijven. Wagenaar was een prominente leerling van de "Duennersche school" en in 1880 benoemde men hem op jeugdige leeftijd tot conrector.
+ 
+ 
+Hij bleek een docent te zijn die opmerkelijke pedagogische en wetenschappelijke eigenschappen in zich verenigde. Uit zijn in de "Israelitische Letterbode" verschenen artikelen komt hij naar voren als een veelzijdig geleerde. In 1886 werd hij tot opperrabbijn van Friesland benoemd. Van 1895 tot 1918 vervulde hij diezelfde functie in Gelderland en daarnaast fungeerde hij in diverse ressorten als opperrabbijn ad interim. Wagenaar was de oprichter en eerste voorzitter van de Opperrabbijnenvergadering in Nederland. In 1918 werd hij als opvolger van Ph. Gobits benoemd tot rector van het Ned. Israel. Seminarium. Gobits op zijn beurt was de opvolger geweest van Dünner, na diens overlijden in 1911. Wagenaar zelf overleed op 4 juni 1930.</text>
+  </biography>
+</biodes>

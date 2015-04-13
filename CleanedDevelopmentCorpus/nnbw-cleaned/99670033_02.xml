@@ -1,0 +1,19 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <author>Verzijl</author>
+    <ref target="http://www.inghist.nl/retroboeken/nnbw?source=8&page_number=363" />
+    <publisher>
+      <name>Nieuw Nederlandsch Biografisch Woordenboek (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/nnbw" />
+    </publisher>
+  <idno type="source">nnbw</idno></fileDesc>
+  <person>
+    <idno type="id">nnbw/15750</idno>
+    <persName><name type="geslachtsnaam">Deckers</name>, Wilhelmus</persName>
+    <idno type="dbnl_id">deck016</idno>
+  <idno type="bioport">99670033</idno></person>
+  <biography>
+    <text>DECKERS (Wilhelmus), geb. te Venray, als zoon van Petrus D., overl. te Hommersum bij Gelder, waar hij sedert 30 Aug. 1570 pastoor was, stichtte bij testament van 24 Jan. 1586 een studiebeurs ten voordeele zijner bloedverwanten, waarvoor hij een kapitaal van 10 pattacons ten laste van Venray schonk. Deze beurs werd bij koninklijk besluit van 10 Febr. 1824 ten behoeve der bloedverwanten van den stichter (die een oom was van Goswinus D.) hersteld. Bestuurders en begevers: de pastoor en de burgemeester van Venray. Zie: de twee eerste bronnen bij Gosw. Deckers. Verzijl</text>
+  </biography>
+</biodes>

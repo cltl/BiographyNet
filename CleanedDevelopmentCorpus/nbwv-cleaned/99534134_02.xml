@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.inghist.nl/retroboeken/nbwv?source=8&page_number=352" />
+    <publisher>
+      <name>XXX</name>
+      <ref target="http://www.inghist.nl" />
+    </publisher>
+  <idno type="source">nbwv</idno></fileDesc>
+  <person>
+    <persName>GHELLINCK, Jan </persName>
+    <event type="birth" when="1285" />
+    <event type="death" when="1333" />
+  <idno type="bioport">99534134</idno><idno type="id">nbwv/1033.xml</idno></person>
+  <biography />
+</biodes>

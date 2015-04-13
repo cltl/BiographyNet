@@ -1,0 +1,38 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <author>H.C. Endedijk</author>
+    <ref target="http://www.inghist.nl/retroboeken/blnp/?source=5&page_number=561" />
+    <publisher>
+      <name>H.C. Endedijk</name>
+      <ref target="http://www.inghist.nl" />
+    </publisher>
+  <idno type="source">blnp</idno></fileDesc>
+  <person>
+    <idno type="id">2069.xml</idno>
+    <persName>Weijland, Hendrik Bernard</persName>
+    <event type="birth" when="1928-07-06">
+      <place>Bedum</place>
+    </event>
+    <event type="death" when="1996-08-10">
+      <place>Lunteren</place>
+    </event>
+  <idno type="bioport">99889891</idno></person>
+  <biography>
+    <text>WEIJLAND, HENDRIK BERNARD, * 
+Bedum 6 juli 1928, t Lunteren 10 aug. 1996. 
+Zn. van Willem Paul Weijland, hoofd chr. 
+ULO, en Cornelia Doorn. Stud. theol. Kampen 
+(Oudestraat) 1947; dr. theol. 1965 (promotor: 
+ADR. Polman). Geref. pred. Hasselt 1952, 
+Amstelveen-Noord/Buitenveldert, v/h Nieuwer- 
+Amstel (Noord) 1955, De Lier 1959, Arnhem 
+1963-1975. Pred. in algemene dienst als actuari- 
+us van de generale synode 1975, adviseur gene- 
+rale synode 1983-1990. Hoogl. Kampen 1983- 
+1993 (kerkrecht). Hij huwde 1. op 18 sept. 1952 
+te Kampen met Grietje Frijlink (1930-1987); 2. 
+op 8 juli 1988 te Barneveld met Anna Cornelia 
+Wilhelmina Schimmel (* 1952).</text>
+  </biography>
+</biodes>

@@ -1,0 +1,25 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.dbnl.org/tekst/laan005lett01_01/laan005lett01_01_1183.php" />
+    <publisher>
+      <name>Letterkundig woordenboek voor Noord en Zuid (1952) in de Digitale Bibliotheek voor de Nederlandse Letteren</name>
+      <ref target="http://www.dbnl.org" />
+    </publisher>
+  <idno type="source">dbnl</idno></fileDesc>
+  <person>
+    <idno type="id">933960773</idno>
+    <persName>Buyle, Frans </persName>
+    <sex value="1" />
+    <event type="birth" when="1913">
+      <date> 1913</date>
+      <place>Sint-Niklaas</place>
+    </event>
+    <event type="death" when="1977">
+      <date> 1977</date>
+      <place />
+    </event>
+    <idno type="dbnl_id">buyl002</idno>
+  <idno type="bioport">99859839</idno></person>
+  <biography />
+</biodes>

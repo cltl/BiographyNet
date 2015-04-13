@@ -1,0 +1,11 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <publisher/>
+  <idno type="source">bioport</idno></fileDesc>
+  <person>
+    <idno type="id">99982078</idno>
+    <idno type="bioport">99982078</idno>
+  <persName>Guilla&#250;me Henri Marie <name type="geslachtsnaam">Delprat</name></persName><event type="birth" when="1867-05-25"><place>Rotterdam</place></event><event type="death" when="1951-04-20"><place>Utrecht</place></event><event type="funeral"><place/></event><event type="baptism"><place/></event><sex value="1"/><state type="category" idno="2">Bedrijfsleven</state><state type="floruit" from="" to=""><place/></state></person>
+  <biography/>
+</biodes>

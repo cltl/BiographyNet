@@ -1,0 +1,25 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.dbnl.org/auteurs/auteur.php?id=port005" />
+    <publisher>
+      <name>Auteurspagina in de Digitale Bibliotheek voor de Nederlandse Letteren</name>
+      <ref target="http://www.dbnl.org" />
+    </publisher>
+  <idno type="source">dbnl</idno></fileDesc>
+  <person>
+    <idno type="id">port005</idno>
+    <persName>Portnoy, Ethel </persName>
+    <sex value="2" />
+    <event type="birth" when="1927-03-08">
+      <date>8 maart 1927</date>
+      <place>Philadelphia</place>
+    </event>
+    <event type="death" when="2004-05-25">
+      <date>25 mei 2004</date>
+      <place>Den Haag</place>
+    </event>
+    <idno type="dbnl_id">port005</idno>
+  <idno type="bioport">99870832</idno></person>
+  <biography />
+</biodes>

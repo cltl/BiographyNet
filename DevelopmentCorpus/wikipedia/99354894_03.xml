@@ -1,0 +1,35 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://nl.wikipedia.org/wiki/David_de_Wied"/>
+    <publisher>
+      <name>wikipedia</name>
+      <ref target="http://nl.wikipedia.org/"/>
+    </publisher>
+  <idno type="source">wikipedia</idno></fileDesc>
+  <person>
+    <idno type="bioport">99354894</idno>
+    <persName>David de Wied</persName>
+    <event type="birth" when="1925-01-12">
+      <place>Deventer</place>
+    </event>
+    <event type="death" when="2004-02-21">
+      <place>Utrecht stad|Utrecht</place>
+    </event>
+  </person>
+  <biography>
+    <text>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;head&gt;&lt;title /&gt;&lt;style media="screen, projection" type="text/css"&gt;
+                        @import "http://en.wikipedia.org/skins-1.5/common/shared.css?156";
+                        @import "http://en.wikipedia.org//skins-1.5/monobook/main.css?156";
+&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class="mwx.article"&gt;&lt;h1 /&gt;&lt;div class="mwx.paragraph"&gt;David de Wied (&lt;a class="mwx.link.article" href="#"&gt;Deventer&lt;/a&gt;, &lt;a class="mwx.link.article" href="#"&gt;12 januari&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;1925&lt;/a&gt; - &lt;a class="mwx.link.article" href="#"&gt;Utrecht&lt;/a&gt;, &lt;a class="mwx.link.article" href="#"&gt;21 februari&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;2004&lt;/a&gt;) was een &lt;a class="mwx.link.article" href="#"&gt;Nederland&lt;/a&gt;se &lt;a class="mwx.link.article" href="#"&gt;hoogleraar&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;farmacie&lt;/a&gt; aan de &lt;a class="mwx.link.article" href="#"&gt;Universiteit Utrecht&lt;/a&gt;. 
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;Als gevolg van de &lt;a class="mwx.link.article" href="#"&gt;oorlog&lt;/a&gt; kon De Wied pas in 1947 beginnen met zijn studie &lt;a class="mwx.link.article" href="#"&gt;geneeskunde&lt;/a&gt; aan de &lt;a class="mwx.link.article" href="#"&gt;Universiteit van Groningen&lt;/a&gt;, waar hij in 1952 &lt;a class="mwx.link.article" href="#"&gt;promoveerde&lt;/a&gt; op het &lt;a class="mwx.link.article" href="#"&gt;proefschrift&lt;/a&gt; Vitamine C, Bijnier en Adaptie, en in 1955 afstudeerde als &lt;a class="mwx.link.article" href="#"&gt;arts&lt;/a&gt;. Hij werd in 1961 benoemd tot hoogleraar experimentele &lt;a class="mwx.link.article" href="#"&gt;endocrinologie&lt;/a&gt;, en vanaf 1963 was hij &lt;a class="mwx.link.article" href="#"&gt;directeur&lt;/a&gt; van het &lt;a class="mwx.link.article" href="#"&gt;Rudolf Magnus Instituut&lt;/a&gt; en hoogleraar farmacie in Utrecht. 
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;De Wied was lid van diverse geleerde genootschappen, waaronder de &lt;a class="mwx.link.article" href="#"&gt;Koninklijke Nederlandse Akademie van Wetenschappen&lt;/a&gt;, (KNAW). Hij was van 1981 tot 1984 voorzitter van de afdeling &lt;a class="mwx.link.article" href="#"&gt;natuurkunde&lt;/a&gt; van de KNAW, en van 1984 tot 1990 president. 
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;In 1996 ontving hij de &lt;a class="mwx.link.article" href="#"&gt;Dr. A.H. Heinekenprijs&lt;/a&gt; voor &lt;a class="mwx.link.article" href="#"&gt;medicijnen&lt;/a&gt;. Hij was &lt;a class="mwx.link.article" href="#"&gt;Commandeur in de Orde van Oranje-Nassau&lt;/a&gt; en &lt;a class="mwx.link.article" href="#"&gt;Ridder in de Orde van de Nederlandse Leeuw&lt;/a&gt;.
+&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Externe link&lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+&lt;ul&gt;&lt;li&gt; &lt;a class="mwx.link.external" href="http://www.knaw.nl/publicaties/pdf/20041084-22.pdf#search=%22david%20de%20wied%22"&gt; KNAW Levensbericht Dr D. de Wied&lt;/a&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;&lt;a class="mwx.link.article" href="#"&gt;Wied, David de&lt;/a&gt;
+&lt;a class="mwx.link.article" href="#"&gt;Wied, David de&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</text>
+  </biography>
+</biodes>

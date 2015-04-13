@@ -1,0 +1,30 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.rkd.nl/rkddb/dispatcher.aspx?action=search&amp;database=ChoiceArtists&amp;search=priref=40540"/>
+    <publisher>
+      <name>Rijksbureau voor Kunsthistorische Documentatie</name>
+      <ref target="http://www.rkd.nl/"/>
+    </publisher>
+  <idno type="source">rkdartists</idno></fileDesc>
+  <person>
+    <persName><name type="geslachtsnaam">Hulsing</name>, Ber</persName>
+    <persName><name type="geslachtsnaam">Hulsing</name>, Berend</persName>
+    <sex value="1"/>
+    <event type="birth" when="1907-08-28">
+      <place>Enkhuizen</place>
+    </event>
+    <event type="death" when="1980-04-07">
+      <place>Amsterdam</place>
+    </event>
+    <state type="occupation">houtgraveur</state>
+    <state type="occupation">tekenaar</state>
+    <state type="occupation">pentekenaar</state>
+    <state type="occupation">aquarellist</state>
+    <state type="occupation">lithograaf</state>
+    <idno type="id">40540</idno>
+  <idno type="bioport">99974009</idno></person>
+  <biography>
+    <text>Houtgraveur, tekenaar, pentekenaar, aquarellist, lithograaf. Geboren: 28 augustus 1907, Enkhuizen. Gestorven: 7 april 1980, Amsterdam. Plaats en periode van werkzaamheid: Enkhuizen, van 1927 tot 1927 Tot 1927. </text>
+  </biography>
+</biodes>

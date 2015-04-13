@@ -1,0 +1,19 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>Vogels</author>
+    <ref target="http://www.inghist.nl/retroboeken/nnbw?source=9&amp;page_number=1056"/>
+    <publisher>
+      <name>Nieuw Nederlandsch Biografisch Woordenboek (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/nnbw"/>
+    </publisher>
+  <idno type="source">nnbw</idno></fileDesc>
+  <person>
+    <idno type="id">nnbw/19037</idno>
+    <persName><name type="geslachtsnaam">Speltgen</name></persName>
+    <idno type="dbnl_id">spel004</idno>
+  <idno type="bioport">99865214</idno></person>
+  <biography>
+    <text>SPELTGEN, geb. te Amsterdam, data van geb. en overl. onbekend. Hij was van beroep houtdrager en werd wegens deelneming aan de troebelen in Amsterdam in 1566 door Alva op 1 Sept. 1568 verbannen. Later sloot hij zich bij de Watergeuzen aan en in Sept. 1570 diende hij op het schip van Dirk van Bremen. Hij had zes of zeven brandmerken en behoorde tot het schuim van boeven en rabauwen. Zie over hem: van Vloten, Nederl. Volksopstand (1858) I, 308; Marcus, Sentenli&#235;n, 123; ter Gouw, Gesch. van Amsterdam VI, 322. Vogels </text>
+  </biography>
+</biodes>

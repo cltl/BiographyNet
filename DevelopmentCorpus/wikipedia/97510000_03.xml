@@ -1,0 +1,42 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://nl.wikipedia.org/wiki/Hector_Treub"/>
+    <publisher>
+      <name>wikipedia</name>
+      <ref target="http://nl.wikipedia.org/"/>
+    </publisher>
+  <idno type="source">wikipedia</idno></fileDesc>
+  <person>
+    <idno type="bioport">97510000</idno>
+    <persName>Hector Treub</persName>
+    <event type="birth" when="1856-08-01">
+      <place>Voorschoten</place>
+    </event>
+    <event type="death" when="1920-04-07">
+      <place>Amsterdam</place>
+    </event>
+  </person>
+  <biography>
+    <text>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;head&gt;&lt;title /&gt;&lt;style media="screen, projection" type="text/css"&gt;
+                        @import "http://en.wikipedia.org/skins-1.5/common/shared.css?156";
+                        @import "http://en.wikipedia.org//skins-1.5/monobook/main.css?156";
+&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class="mwx.article"&gt;&lt;h1 /&gt;&lt;div class="mwx.paragraph"&gt;&lt;a class="mwx.link.article" href="#"&gt;|200px|thumb|Hector Treub&lt;/a&gt;
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;Hector Treub (&lt;a class="mwx.link.article" href="#"&gt;Voorschoten&lt;/a&gt;, &lt;a class="mwx.link.article" href="#"&gt;1 augustus&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;1856&lt;/a&gt; - &lt;a class="mwx.link.article" href="#"&gt;Amsterdam&lt;/a&gt;, &lt;a class="mwx.link.article" href="#"&gt;7 april&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;1920&lt;/a&gt;) was vanaf &lt;a class="mwx.link.article" href="#"&gt;1886&lt;/a&gt; hoogleraar &lt;a class="mwx.link.article" href="#"&gt;verloskunde&lt;/a&gt; in &lt;a class="mwx.link.article" href="#"&gt;Leiden&lt;/a&gt; en vanaf &lt;a class="mwx.link.article" href="#"&gt;1896&lt;/a&gt; in Amsterdam. Hij volgde er zijn vroeg-overleden collega en vriend Van der Meij op, en maakte diens droom, een nieuwe Vrouwenkliniek, waar. Treub kreeg in 1898 hierover de leiding.
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;Treub kwam op voor vrouwen. Hij zette zich in voor een betere wettelijke en sociale positie van hen. Ook maakte hij zich sterk voor (hoger) onderwijs aan hen. De eerste Nederlandse vrouwelijke arts &lt;a class="mwx.link.article" href="#"&gt;Aletta Jacobs&lt;/a&gt; en hij werden zeer geraakt door vaak kommervolle vrouwenlevens en maakten zich sterk voor &amp;#8216;preventief (seksueel) verkeer&amp;#8217;, ook wel 'facultatieve steriliteit', (1898) wat hun in die tijd niet in dank afgenomen werd. 
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;Treub schreef veel. Zijn belangrijkste werken waren het baanbrekende Leerboek der gynaecologie (1892). Verder publiceerde hij het Leerboek der verloskunde (1898) waarvoor Van der Meij aanzetten had gegeven (eerst onder diens naam, latere herziene uitgaven verschenen onder zijn eigen naam). En hij schreef een Leerboek der gerechtelijke verloskunde (1908).
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;Zijn oudste broer was de Indische botanicus &lt;a class="mwx.link.article" href="#"&gt;Melchior Treub&lt;/a&gt;; zijn jongste broer de liberale politicus &lt;a class="mwx.link.article" href="#"&gt;Willem Treub&lt;/a&gt;.
+&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Literatuur&lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+&lt;ul&gt;&lt;li&gt;K.J. Kloosterman. Hector Treub (1856-1920); een veelzijdig en ge&amp;#235;ngageerd gynaecoloog. 
+&lt;/li&gt;&lt;/ul&gt;In: J.C.H. Blom (red.). Brandpunt van geleerdheid in de hoofdstad; de Universiteit van Amsterdam rond 1900 in 15 portretten. Verloren, 1992.
+&lt;ul&gt;&lt;li&gt;Hector Treub. Leerboek der gynaecologie, 2 delen. Leiden, Van Doesburgh, 1892.
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Externe link&lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+&lt;ul&gt;&lt;li&gt; Portret in &lt;a class="mwx.link.external" href="http://www.inghist.nl/Onderzoek/Projecten/BWN/lemmata/bwn4/treub"&gt; Biografisch woordenboek van Nederland&lt;/a&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;{{DEFAULTSORT:Treub, Hector}}
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Nederlands hoogleraar&lt;/a&gt;
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Nederlands medicus&lt;/a&gt;
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Gynaecoloog&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</text>
+  </biography>
+</biodes>

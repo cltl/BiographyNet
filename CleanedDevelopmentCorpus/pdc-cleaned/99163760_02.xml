@@ -1,0 +1,41 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09llzufdni" />
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/" />
+  </publisher>
+ <title /><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09llzufdni">
+  <persName>
+   <name type="prepositie">Mr.Drs.</name>
+    <name type="voornaam">G.</name>
+    <name type="intrapositie">van der</name>
+    <name type="geslachtsnaam">Flier</name>
+  </persName>
+  <persName>
+   <name type="prepositie">Mr.Drs.</name>
+    <name type="voornaam">Gerrit</name>
+    <name type="intrapositie">van der</name>
+    <name type="geslachtsnaam">Flier</name>
+  </persName>
+  <sex value="1" />
+  <event type="birth" when="1911-05-20">in <place>Pesse<region type="gemeente">gem. Ruinen, Dr.</region></place></event>
+  <event type="death" when="1992-01-05">in <place>Doorn</place></event>
+  <event type="marriage" when="1940-08-15">gehuwd te Voorburg</event>
+  <state type="education">gymnasium-a, "Christelijk Lyceum" te Harderwijk</state>
+  <state to="1930" type="education">gymnasium-a, "Christelijk Lyceum" te Zeist,</state>
+  <state to="1936" type="education">Nederlands recht, Rijksuniversiteit Utrecht,</state>
+  <state to="1936" type="education">geschiedenis, Rijksuniversiteit Utrecht,</state>
+  <state type="faith">Nederlands Hervormd</state>
+  <state from="1938-10-01" to="1942-12" type="occupation">ambtenaar Hoogheemraadschap Noordhollands Noorderkwartier te Alkmaar</state>
+  <state from="1942-12" to="1945-04" type="occupation">adjunct-secretaris directie Wieringemeer (Noord-Oostpolderwerken)</state>
+  <state from="1945-04" to="1948-01" type="occupation">secretaris Wederopbouw Boerderijen</state>
+  <state from="1948-01" to="1959-10-01" type="occupation">chef algemene zaken, Centrale Directie Wederopbouw Volkshuisvesting, ministerie van Wederopbouw en Volkshuisvesting</state>
+  <state from="1959-10-01" to="1976-06-01" type="occupation">secretaris-generaal ministerie van Volkshuisvesting en Bouwnijverheid (na 1965 Volkshuisvesting en Ruimtelijke Ordening)</state>
+ <idno type="bioport">99163760</idno><idno type="id">pdc/vg09llzufdni.xml</idno></person>
+ <biography>
+  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/175/17526g.jpg" />
+  <text>Erudiete domineeszoon die als secretaris-generaal vele jaren de zeer gewaardeerde manager was van het departement van Volkshuisvesting en Ruimtelijke Ordening. Studeerde in Utrecht gelijktijdig rechten en geschiedenis en voltooide beide studies met succes. Prettige toegankelijke topambtenaar, die ook intellectueel van vele markten thuis was.</text>
+ </biography>
+</biodes>

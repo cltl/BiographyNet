@@ -1,0 +1,25 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.dbnl.org/auteurs/auteur.php?id=meye019" />
+    <publisher>
+      <name>Auteurspagina in de Digitale Bibliotheek voor de Nederlandse Letteren</name>
+      <ref target="http://www.dbnl.org" />
+    </publisher>
+  <idno type="source">dbnl</idno></fileDesc>
+  <person>
+    <idno type="id">meye019</idno>
+    <persName>Meyer, Izaäk Jozef de</persName>
+    <sex value="1" />
+    <event type="birth" when="1786-08-24">
+      <date>24 augustus 1786</date>
+      <place>Merendree</place>
+    </event>
+    <event type="death" when="1861-05-29">
+      <date>29 mei 1861</date>
+      <place>Brugge</place>
+    </event>
+    <idno type="dbnl_id">meye019</idno>
+  <idno type="bioport">99828689</idno></person>
+  <biography />
+</biodes>

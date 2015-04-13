@@ -1,0 +1,36 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://nl.wikipedia.org/wiki/Charles_Rochussen"/>
+    <publisher>
+      <name>wikipedia</name>
+      <ref target="http://nl.wikipedia.org/"/>
+    </publisher>
+  <idno type="source">wikipedia</idno></fileDesc>
+  <person>
+    <idno type="bioport">82859092</idno>
+    <persName>Charles Rochussen</persName>
+    <event type="birth" when="1814-08-01">
+      <place>Kralingen</place>
+    </event>
+    <event type="death" when="1894-09-22">
+      <place>Rotterdam</place>
+    </event>
+  <idno type="bioport">82543338</idno><idno type="id">wikipedia/Charles_Rochussen.xml</idno><idno type="bioport">09581526</idno><idno type="bioport">99077308</idno></person>
+  <biography>
+    <text>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;head&gt;&lt;title /&gt;&lt;style media="screen, projection" type="text/css"&gt;
+                        @import "http://en.wikipedia.org/skins-1.5/common/shared.css?156";
+                        @import "http://en.wikipedia.org//skins-1.5/monobook/main.css?156";
+&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class="mwx.article"&gt;&lt;h1 /&gt;&lt;div class="mwx.paragraph"&gt;&lt;a class="mwx.link.article" href="#"&gt;thumb|right|Charles Rochussen, naar een tekening van H. Dekker uit 1881&lt;/a&gt;
+&lt;a class="mwx.link.article" href="#"&gt;thumb|De Osjessluis in Amsterdam, een &lt;a class="mwx.link.article" href="#"&gt;aquarel&lt;/a&gt; van Rochussen uit 1855&lt;/a&gt; 
+Charles Rochussen (&lt;a class="mwx.link.article" href="#"&gt;Kralingen&lt;/a&gt;, &lt;a class="mwx.link.article" href="#"&gt;1 augustus&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;1814&lt;/a&gt; - &lt;a class="mwx.link.article" href="#"&gt;Rotterdam&lt;/a&gt;, &lt;a class="mwx.link.article" href="#"&gt;22 september&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;1894&lt;/a&gt;) was een Rotterdams &lt;a class="mwx.link.article" href="#"&gt;kunstenaar&lt;/a&gt; en &lt;a class="mwx.link.article" href="#"&gt;ontwerper&lt;/a&gt;.
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;Charles Rochussen volgde zijn opleiding aan de academie in &lt;a class="mwx.link.article" href="#"&gt;Den Haag&lt;/a&gt;. Na een lange periode van werken in &lt;a class="mwx.link.article" href="#"&gt;Amsterdam&lt;/a&gt; (van 1849 tot 1869) keerde Rochussen terug naar Rotterdam. In het negentiende-eeuwse Rotterdam was Rochussen een toonaangevende persoonlijkheid. De Rotterdamse notabele was zowel kunstenaar en ontwerper (van bijvoorbeeld historische optochten) als bestuurder (van de &lt;a class="mwx.link.article" href="#"&gt;Rotterdamse academie&lt;/a&gt; en diverse organisaties op cultureel gebied).
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;Rochussen schilderde vooral veel taferelen uit de vaderlandse geschiedenis. In de eerste helft van de negentiende eeuw stonden deze historieschilderingen in hoog aanzien. Kunst moest lijken op die uit de &lt;a class="mwx.link.article" href="#"&gt;Gouden Eeuw&lt;/a&gt; en een verhaal vertellen, het liefst over gebeurtenissen uit de &lt;a class="mwx.link.article" href="#"&gt;Tachtigjarige Oorlog&lt;/a&gt;. Kunst, zo wordt nog wel eens verteld, bekeek men in die tijd met de oren. Tientallen jaren heeft men de geschiedenis gezien zoals Rochussen deze aan het doek toevertrouwde. Later vonden vele hem echter te modern worden. Hij ging wat losser schilderen, meer in de trant van het opkomend &lt;a class="mwx.link.article" href="#"&gt;impressionisme&lt;/a&gt;. Rochussen leefde dan ook op het breekpunt van twee tijdperken: de periode die zijn waarden aan het verleden ontleende en de tijd waarin de kunst zich van de oude tradities probeerde te bevrijden. Charles Rochussen overleed op 80-jarige leeftijd in 1894 en is begraven op de &lt;a class="mwx.link.article" href="#"&gt;Algemene Begraafplaats Crooswijk&lt;/a&gt;.
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;In het Rotterdamse wijk &lt;a class="mwx.link.article" href="#"&gt;Dijkzigt&lt;/a&gt; is er een weg naar Charles Rochussen vernoemd: de &lt;a class="mwx.link.article" href="#"&gt;Rochussenstraat&lt;/a&gt;.
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;{{commonscat|Charles Rochussen}}
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;{{DEFAULTSORT:Rochussen, Charles}}
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Nederlands kunstschilder&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</text>
+  </biography>
+</biodes>

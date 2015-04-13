@@ -1,0 +1,11 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <publisher />
+  <idno type="source">bioport</idno></fileDesc>
+  <person>
+    <idno type="id">99968115</idno>
+    <idno type="bioport">99968115</idno>
+  <event type="birth"><place /></event><event type="death"><place /></event><event type="funeral"><place /></event><event type="baptism"><place /></event><sex value="" /><state from="" to="" type="floruit"><place /></state><persName>Bruynsma</persName></person>
+  <biography><snippet source_id="vdaa/b2086" /></biography>
+</biodes>

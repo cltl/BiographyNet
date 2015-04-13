@@ -1,0 +1,123 @@
+<biodes version="1.0">
+   <fileDesc>
+       <idno>IAV_2448-biografie</idno>
+       <author>Arlette Strijland</author>
+       <ref target="http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:2448&amp;res2=localhost:8080/solr/core14"/>
+       <date when="2007/08/23"/>
+       <revisionDesc>
+           <change when="2011-01-13"/>
+           <change when="2011-01-13"/>
+           <change when="2011-01-13"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2008-06-10"/>
+           <change when="2007-10-18"/>
+           <change when="2007-10-18"/>
+           <change when="2007-09-06"/>
+       </revisionDesc>
+       <publisher>
+           <name>Database Vrouwenbiografien, Aletta</name>
+           <ref target="http://www.aletta.nu/aletta/nl/collecties/biografieen"/>
+       </publisher>
+       <availability status="free">Aletta, Instituut voor Vrouwengeschiedenis. Bronvermelding: Arlette Strijland - Kapteyn-Muysken, Truus(1855-1920), in: Database Vrouwenbiografieen, Aletta. URL:http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:2448&amp;res2=localhost:8080/solr/core14</availability>
+   <title/><idno type="source">aletta</idno></fileDesc>
+   <person>
+       <persName>Kapteyn-Muysken, Truus</persName>
+       <persName>Muysken, Geertruida Agneta</persName>
+       <sex value="2"/>
+       <event type="birth" when="1855-02-13">
+           in <place>Hillegom</place>
+       </event>
+       <event type="death" when="1920-09-05">
+           in <place>Arnhem</place>
+       </event>
+   <state type="claim_to_fame">schrijfster en propagandiste voor een nieuwe moraal</state>
+   <idno type="bioport">92797711</idno><idno type="id">aletta/IAV_2448-biografie.xml</idno></person>
+   <biography>
+   <graphic/>
+       <graphic url="http://www.aletta.nu/aletta/fotos//Cd007/007-036.jpg"/>
+          <text xml:lang="nl">
+     Zij was de dochter van Antoine Charles Muysken, notaris en burgemeester van Hillegom, en Constance Susanna Commelin. Op 21 december 1880 in Den Haag trad zij in het huwelijk met Albertus Philippus Kapteyn (1848-1927), ingenieur, met wie zij twee dochters en een zoon kreeg: Olga (1881-1962), May (1883-?) en Albert (1886-1964). Truus was de zus van Marie Muysken, die betrokken was bij de Maatschappij voor Volkskeukens. Haar dochter Olga Fr&#246;be-Kapteyn (1881-1962) was bedenkster van de Eranos ontmoetingen bij haar huis in Zwitserland.
+     Truus, Gertrude of Truce, bezocht de meisjes-HBS te Haarlem. Ze trouwde in 1880 met ingenieur Albert Kapteyn en ze kregen drie kinderen. Vanaf 1880 woonde ze lange tijd in Londen, daarna enkele jaren in Z&#252;rich en vanaf 1908 in Scheveningen. Ze was bevriend met en ge&#239;nspireerd door H&#233;l&#232;ne Mercier, onderhield contacten met vele bekende linkse intellectuelen en kunstenaars als Bernard Shaw, Peter Kropotkin, Ferdinand Domela Nieuwenhuis, Bart de Ligt en Clara Wichmann.
+     Ze schreef levensbeschouwelijke werken. In 1894 debuteerde ze in 'Shafts', een Engels weekblad. Haar eerste Nederlandstalige artikel verscheen in 1899 in De Kroniek, daarna schreef ze artikelen in De XXe Eeuw en De Nieuwe Gids. In 1920 verscheen postuum 'Revolutie en Wedergeboorte', waarin ze haar visie op de gebeurtenissen na de Eerste Wereldoorlog geeft. Ze was lid van het Nationaal Comit&#233; voor Moederbescherming en Sexueele Hervorming, en korte tijd van de Vereeniging voor Vrouwenkiesrecht en actief in de Vrijdenkersvereeniging De Dageraad.
+     Zij werd ziek en overleed in een psychiatrisch ziekenhuis.
+          </text>
+      <bibl>
+           <ref target="http://www.iisg.nl/bwsa/bios/muysken.html">Biografisch Woordenboek van het Socialisme en de Arbeidersbeweging - biografie</ref>
+      </bibl>
+      <bibl>
+           <ref target="http://www.womenwriters.nl/frames.html?http://www.womenwriters.nl/nl/publish/articles/000063/index.html">WomenWriters - Geertruida Kapteyn-Muysken en George Sand</ref>
+      </bibl>
+      <bibl>
+           <ref target="http://www.eranosfoundation.org/index.php?node=41&amp;rif=9c7dd66024">Eranos Foundation - biografie Olga Fr&#246;be-Kapteyn</ref>
+      </bibl>
+      <bibl>
+     - G. Bernard Shaw : een waardering en inleiding / G. Kapteyn-Muysken. -'s-Gravenhage : Electrische Drukkerij Luctor et Emergo, 1910. - 99p.
+      </bibl>
+      <bibl>
+     - Inleiding tot een nieuwe ethiek / G. Kapteyn-Muysken. - Den Haag : De Nieuwe Gids, 1912. - 27p. - (De Nieuwe Gids ; 5 (mei 1912))
+      </bibl>
+      <bibl>
+     - De oorlog / G. Kapteyn-Muysken. - Den Haag : De Nieuwe Gids, 1914. - 13p. - (De Nieuwe Gids ; 11 (nov. 1914))
+      </bibl>
+      <bibl>
+     - Levensrichting van dezen tijd : verzamelde opstellen / G. Kapteyn-Muysken . - Amsterdam : Maatschappij voor Goede en Goedkoope Lectuur, 1915. - XVIII, 125p. - (Handboekjes Elck 't Beste)
+      </bibl>
+      <bibl>
+     - Revolutie en wedergeboorte : nagelaten handschrift / G. Kapteyn-Muysken. - Blaricum : De Waelburgh, 1921. - 152p.
+      </bibl>
+      <bibl>
+     - Geertruida Agneta Kapteyn-Muysken / P.J. Meertens. In: Mededelingenblad Sociaal Historische Studiekring. - Dec. 1960 ; P. 7-10
+      </bibl>
+      <bibl>
+     Archief Geertruida Agneta Kapteyn-Muysken (1855-1920), Internationaal Informatiecentrum en Archief voor de Vrouwenbeweging (IIAV) te Amsterdam
+      </bibl>
+      <bibl>
+     Zie ook: Archief Alida Maria Muysken (1845-1925), Internationaal Informatiecentrum en Archief voor de Vrouwenbeweging (IIAV) te Amsterdam
+      </bibl>
+   </biography>
+</biodes>

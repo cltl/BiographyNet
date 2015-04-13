@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/3219"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  <idno type="source">raa</idno></fileDesc>
+  <person>
+    <persName><name type="voornaam">Berend George</name> <name type="geslachtsnaam">Escher</name></persName>
+    <event type="birth" when="1805-12-17">
+      <place>Kampen</place>
+    </event>
+    <event type="death" when="1864-07-09">
+      <place>Amsterdam</place>
+    </event>
+  <idno type="bioport">99997205</idno><idno type="id">raa/3219.xml</idno></person>
+  <biography/>
+</biodes>

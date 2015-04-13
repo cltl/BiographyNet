@@ -1,0 +1,31 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://nl.wikipedia.org/wiki/Anthony_Oberman"/>
+    <publisher>
+      <name>wikipedia</name>
+      <ref target="http://nl.wikipedia.org/"/>
+    </publisher>
+  <idno type="source">wikipedia</idno></fileDesc>
+  <person>
+    <idno type="bioport">37568523</idno>
+    <persName>Anthony Oberman</persName>
+  <idno type="id">wikipedia/Anthony_Oberman.xml</idno><idno type="bioport">96967761</idno></person>
+  <biography>
+    <text>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;head&gt;&lt;title /&gt;&lt;style media="screen, projection" type="text/css"&gt;
+                        @import "http://en.wikipedia.org/skins-1.5/common/shared.css?156";
+                        @import "http://en.wikipedia.org//skins-1.5/monobook/main.css?156";
+&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class="mwx.article"&gt;&lt;h1 /&gt;&lt;div class="mwx.paragraph"&gt;Anthony Oberman (&lt;a class="mwx.link.article" href="#"&gt;Amsterdam&lt;/a&gt;, juli &lt;a class="mwx.link.article" href="#"&gt;1781&lt;/a&gt; - aldaar, &lt;a class="mwx.link.article" href="#"&gt;20 oktober&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;1845&lt;/a&gt;), was een Nederlandse &lt;a class="mwx.link.article" href="#"&gt;kunstschilder&lt;/a&gt;.
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;Oberman was een zoon van Jan Oberman en Grietje ten Cate. Hij werd op 21 juli 1781 gedoopt in de Amsterdamse &lt;a class="mwx.link.article" href="#"&gt;Westerkerk&lt;/a&gt;.
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;Hij schilderde onder andere &lt;a class="mwx.link.article" href="#"&gt;stilleven&lt;/a&gt;s met bloemen en portretten van paarden, zoals voor de Amsterdamse bankier en kunstverzamelaar &lt;a class="mwx.link.article" href="#"&gt;Adriaan van der Hoop&lt;/a&gt; (1778-1854).
+&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Bron&lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class="mwx.link.article" href="#"&gt;Christiaan Kramm&lt;/a&gt; (1864) De levens en werken der Hollandsche en Vlaamsche kunstschilders, beeldhouwers, graveurs en bouwmeesters, van den vroegsten tot op onzen tijd, &lt;a class="mwx.link.external" href="http://www.dbnl.org/tekst/kram011leve01_01/kram011leve01_01_0018.htm"&gt; Digitaal&lt;/a&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Externe link&lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class="mwx.link.external" href="http://www.rkd.nl/rkddb/dispatcher.aspx?action=search&amp;amp;database=ChoiceArtists&amp;amp;search=priref=60184"&gt; Anthony Oberman&lt;/a&gt; op de site van het &lt;a class="mwx.link.article" href="#"&gt;Rijksbureau voor Kunsthistorische Documentatie&lt;/a&gt;
+&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.external" href="http://www.rijksmuseumtwenthe.nl/ventura/engine.php?Cmd=see&amp;amp;P_site=812&amp;amp;P_self=32&amp;amp;PMax=0&amp;amp;PSkip=0&amp;amp;Fresh=1&amp;amp;Push=1225891618&amp;amp;x=0&amp;amp;y=0&amp;amp;Search=oberman"&gt; 4 schilderijen van Oberman&lt;/a&gt; in de collectie van het &lt;a class="mwx.link.article" href="#"&gt;Rijksmuseum Twenthe&lt;/a&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;{{DEFAULTSORT:Oberman}}
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Nederlands kunstschilder&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</text>
+  </biography>
+</biodes>

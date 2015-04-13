@@ -1,0 +1,11 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <publisher />
+  <notesStmt><note type="bioport_editor" /><note type="public" /></notesStmt><idno type="source">bioport</idno></fileDesc>
+  <person>
+    <idno type="id">99895895</idno>
+    <idno type="bioport">99895895</idno>
+  <event type="birth" when="1842-07-10"><place>Groningen</place></event><event type="death" when="1910-07-10"><place>Groningen</place></event><event type="funeral"><place /></event><event type="baptism"><place /></event><sex value="1" /><state idno="" type="religion" /><state from="" to="" type="floruit"><place /></state><state idno="10" type="category">Onderwijs & wetenschappen</state><state idno="7" type="category">Letterkunde</state><ref target="http://nl.wikipedia.org/wiki/Wijbrand_Adriaan_Reiger">Wikipedia</ref><persName>Reiger, Wybrand Adriaan</persName></person>
+  <biography><snippet source_id="nnbw/20622" /></biography>
+</biodes>

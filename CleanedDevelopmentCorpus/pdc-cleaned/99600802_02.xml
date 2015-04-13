@@ -1,0 +1,40 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09lkypjdro" />
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/" />
+  </publisher>
+ <title /><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09lkypjdro">
+  <persName>
+   <name type="voornaam">J.</name>
+    <name type="intrapositie">van der</name>
+    <name type="geslachtsnaam">Breggen Azn.</name>
+  </persName>
+  <persName>
+   <name type="voornaam">Jacobus</name>
+    <name type="intrapositie">van der</name>
+    <name type="geslachtsnaam">Breggen Azn.</name>
+  </persName>
+  <sex value="1" />
+  <event type="birth" when="1828-09-29">in <place>Waddinxveen<region type="gemeente">gem. Noord-Waddinxveen</region></place></event>
+  <event type="death" when="1894-03-05">in <place>Leiden</place></event>
+  <event type="marriage" when="1849-09-12">gehuwd te Noord-Waddinxveen</event>
+  <event type="marriage" when="1867-05-08">gehuwd (tweede huwelijk) te Zuid-Waddinxveen</event>
+  <state to="1887-04-19" type="residence">Waddinxveen,</state>
+  <state type="residence">Leiden, Breestraat 111</state>
+  <state from="1887-04-19" to="1894-03-05" type="residence">Leiden, Plantage 16</state>
+  <state type="faith">Remonstrants</state>
+  <state type="occupation">grondbezitter en landbouwkundige te Waddinxveen</state>
+  <state from="1871-07-04" to="1883" type="occupation">lid Provinciale Staten van Zuid-Holland voor het kiesdistrict Alphen</state>
+  <state from="1884-11-17" to="1887-08-17" type="occupation">lid Eerste Kamer der Staten-Generaal voor Zuid-Holland</state>
+  <state from="1887-09-19" to="1888-03-27" type="occupation">lid Eerste Kamer der Staten-Generaal voor Zuid-Holland</state>
+  <state from="1888-05-01" to="1894-03-05" type="occupation">lid Eerste Kamer der Staten-Generaal voor Zuid-Holland</state>
+  <state from="1890-01-02" to="1894-03-05" type="occupation">lid gemeenteraad van Leiden</state>
+ <idno type="bioport">99600802</idno><idno type="id">pdc/vg09lkypjdro.xml</idno></person>
+ <biography>
+  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/002/00205g.jpg" />
+  <text>Liberale grootgrondbezitter en waterstaatsbestuurder uit Waddinxveen. Was later woonachtig in Leiden en dijkgraaf van het Hoogheemraadschap Rijnland. Ook in de Eerste Kamer, waarin hij sinds 1884 zitting had, trokken vooral waterstaatkundige onderwerpen zijn aandacht. Daarnaast sprak hij soms over defensie-aangelegenheden.</text>
+ </biography>
+</biodes>

@@ -1,0 +1,33 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <author>S.B.J. Zilverberg</author>
+    <ref target="http://www.inghist.nl/retroboeken/blnp/?source=2&page_number=97" />
+    <publisher>
+      <name>S.B.J. Zilverberg</name>
+      <ref target="http://www.inghist.nl" />
+    </publisher>
+  <idno type="source">blnp</idno></fileDesc>
+  <person>
+    <idno type="id">0269.xml</idno>
+    <persName>Bremer, Koenraad</persName>
+    <event type="birth" when="1690">
+      <place>Amersfoort</place>
+    </event>
+    <event type="death" when="1766-01-23">
+      <place>Utrecht</place>
+    </event>
+  <idno type="bioport">99689348</idno></person>
+  <biography>
+    <text>BREMER, KOENRAAD, * Amersfoort 
+ca. 1690, t Utrecht 23 jan. 1766. Zn. van Jo- 
+hannes Bremer, pred., en Remberta Zittert. 
+Prop. Rem. Seminarium 1709. Rem. pred. 
+zonder vaste standplaats 1709-1715, Gorin- 
+chem 1715, Nieuwkoop 1723, Waddinxveen 
+1731, Amsterdam 1732-1752 (emer.). 
+B. was in tegenstelling tot zijn broer Johan- 
+nes een overtuigd aanhanger van de rem. be- 
+ginselen. Grote bezwaren koesterde hij tegen</text>
+  </biography>
+</biodes>

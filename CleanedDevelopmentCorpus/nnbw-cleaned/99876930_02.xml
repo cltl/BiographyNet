@@ -1,0 +1,19 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <author>de Vries</author>
+    <ref target="http://www.inghist.nl/retroboeken/nnbw?source=5&page_number=205" />
+    <publisher>
+      <name>Nieuw Nederlandsch Biografisch Woordenboek (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/nnbw" />
+    </publisher>
+  <idno type="source">nnbw</idno></fileDesc>
+  <person>
+    <idno type="id">nnbw/9674</idno>
+    <persName><name type="geslachtsnaam">Gockinga</name>, Frederik</persName>
+    <idno type="dbnl_id">gock010</idno>
+  <idno type="bioport">99876930</idno></person>
+  <biography>
+    <text>GOCKINGA (Frederik), broeder van Dr. Scato G. (syndicus der Ommelanden), huwde te Groningen 18 Jan. 1607 met Lamme van Rensen, dochter van Rotger v.R. en Teka Herens. Hij had o.a. een zoon Eppo, die in 1638 huwde met Sibilla Verspeeck. Deze Eppo had een zoon Scato, een kleinzoon Eppo, en een achterkleinzoon Lodewijk Eppo (geb. in 1743 of 1745), met wien deze tak van Frederik uitstierf. Deze tak wordt wel eens genoemd de Overijsselsche. de Vries</text>
+  </biography>
+</biodes>

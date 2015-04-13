@@ -1,0 +1,18 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.inghist.nl/retroboeken/vdaa?source=aa__001biog15_01.xml&amp;page_number=1222"/>
+    <publisher>
+      <name>Van der Aa (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/vdaa"/>
+    </publisher>
+  <idno type="source">vdaa</idno></fileDesc>
+  <person>
+    <idno type="id">m2359</idno>
+    <persName>Joh. <name type="geslachtsnaam">Myrica</name></persName>
+    <idno type="dbnl_id">myri002</idno>
+  <idno type="bioport">99895017</idno></person>
+  <biography>
+    <text>MYRICA (Joh.) of van HEYDEN, ook de la BRUYERE, te Eindhoven geboren, verklaarde in 1548 de H. Schrift te Leuven, werd daarop doctor in de godgeleerdheid, was inquisiteur, en overleed te St. Omer den 16 Junij 1584.  Zie J&#246;cher.</text>
+  </biography>
+</biodes>

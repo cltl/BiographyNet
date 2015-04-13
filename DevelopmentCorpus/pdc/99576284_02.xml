@@ -1,0 +1,50 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vgwjl8nx0rwd"/>
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/"/>
+  </publisher>
+ <title/><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vgwjl8nx0rwd">
+  <persName>
+   <name type="prepositie">Mr.</name>
+    <name type="voornaam">S.J.L.</name>
+    <name type="intrapositie">van</name>
+    <name type="geslachtsnaam">Waardenburg</name>
+  </persName>
+  <persName>
+   <name type="prepositie">Mr.</name>
+    <name type="voornaam">Stephan</name>
+   <name type="voornaam">Lucien</name>
+   <name type="voornaam">Joseph</name>
+    <name type="intrapositie">van</name>
+    <name type="geslachtsnaam">Waardenburg</name>
+  </persName>
+  <sex value="1"/>
+  <event type="birth" when="1900-02-21">in <place>Buitenzorg (Ned.-Indi&#235;)</place></event>
+  <event type="death" when="1975-04-04">in <place>'s-Gravenhage</place></event>
+  <event type="marriage" when="1927-11-07">gehuwd te Watempon&#233; (Ned.-Indi&#235;)</event>
+  <state type="residence">Leiden</state>
+  <state type="residence" from="1919" to="1947-10">Nederlands-Indi&#235;</state>
+  <state type="residence" from="1947-11" to="1948-03">'s-Gravenhage</state>
+  <state type="residence" from="1948-03" to="1953-01">Nederlands-Indi&#235;</state>
+  <state type="residence" from="1953-01">'s-Gravenhage</state>
+  <state type="education" to="1921">indologie (niet voltooid), Rijksuniversiteit Leiden,</state>
+  <state type="education" to="1933-11-16">indologie, Rijksuniversiteit Leiden,</state>
+  <state type="occupation" from="1921" to="1931">bestuursambtenaar op Celebes</state>
+  <state type="occupation" from="1931" to="1933">secretaris te Djambi</state>
+  <state type="occupation">bestuursambtenaar te Bandjermasin</state>
+  <state type="occupation" to="1941">onderhoofd kantoor bestuurszaken Buitengewesten,</state>
+  <state type="occupation" from="1941" to="1945">ge&#239;nterneerd in Japanse gevangenkampen</state>
+  <state type="occupation" from="1945" to="1946">hoofd afdeling politieke research, departement van Binnenlandse Zaken te Buitenzorg</state>
+  <state type="occupation" when="1946">adviseur voor lokale financi&#235;n, departement van Binnenlandse Zaken te Buitenzorg</state>
+  <state type="occupation" to="1949">hoofd afdeling bestuurszaken, departement van Binnenlandse Zaken te Buitenzorg,</state>
+  <state type="occupation" from="1949" to="1950">gedelegeerde van de Hoge Vertegenwoordiger van de Kroon voor Zuid-Sumatra te Palembang</state>
+  <state type="occupation" from="1949-12-27" to="1953-04-01">Gouverneur van Nederlands Nieuw-Guinea</state>
+ <idno type="bioport">99576284</idno><idno type="id">pdc/vgwjl8nx0rwd.xml</idno></person>
+ <biography>
+  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/155/15543g.jpg"/>
+  <text>Eerste Gouverneur van Nederlands Nieuw-Guinea. Werd in Nederlands-Indi&#235; geboren. Na zijn studie indologie in Leiden vervulde hij bestuursfuncties in Nederlands-Indi&#235;. Zat tijdens de Japanse bezetting in gevangenschap. Na de oorlog keerde hij terug als regeringsadviseur en gedelegeerde in Zuid-Sumatra. Moest als Gouverneur in zeer primitieve omstandigheden het bestuursapparaat in Nieuw-Guinea van de grond af opbouwen. Raakte door de vele arbeid die daarbij kwam kijken spoedig oververmoeid, en trad toen af.</text>
+ </biography>
+</biodes>

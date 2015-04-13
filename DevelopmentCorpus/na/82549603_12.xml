@@ -1,0 +1,35 @@
+<biodes version="1.0">
+  <fileDesc>
+    <author/>
+    <ref target="http://proxy.handle.net/10648/ed607487-d3ed-450f-baef-9ac497f1bbf0"/>
+    <date when="1980"/>
+    <publisher>
+      <name>Nationaal Archief</name>
+      <ref target="http://www.gahetna.nl/collectie/archief"/>
+    </publisher>
+    <bibl>
+      <num>2.21.176</num>
+      <title>Inventaris van het archief van S.I. Wiselius [levensjaren 1769-1845], 1788-1818</title>
+    </bibl>
+  <title/><idno type="source">na</idno></fileDesc>
+  <person>
+    <persName>S.I. Wiselius</persName>
+    <sex value="1"/>
+    <event type="birth" when="1769">geboren in 1769</event>
+    <event type="death" when="1845">overleden in 1845</event>
+    <CONTROLE>
+      <origination label="Archiefvormers: ">
+        <persname>S.I. Wiselius (1769-1845)</persname>
+      </origination>
+    </CONTROLE>
+  <idno type="id">ed607487-d3ed-450f-baef-9ac497f1bbf0__1</idno><idno type="bioport">25113232</idno><idno type="bioport">82549603</idno></person>
+  <biography>
+    <text>
+      <title>Inventaris van het archief van S.I. Wiselius [levensjaren 1769-1845], 1788-1818</title>
+      <bioghist>
+        <head>Geschiedenis van de archiefvormer</head>
+        <p>Voor een levensbeschrijving van S.I. Wiselius: Wit, C.H.E. de (1965) De strijd tussen aristocratie en democratie in Nederland 1780-1848, p. 83-93</p>
+      </bioghist>
+    </text>
+  </biography>
+</biodes>

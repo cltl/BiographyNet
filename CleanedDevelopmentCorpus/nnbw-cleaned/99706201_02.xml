@@ -1,0 +1,19 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <author>Obreen</author>
+    <ref target="http://www.inghist.nl/retroboeken/nnbw?source=2&page_number=1531" />
+    <publisher>
+      <name>Nieuw Nederlandsch Biografisch Woordenboek (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/nnbw" />
+    </publisher>
+  <idno type="source">nnbw</idno></fileDesc>
+  <person>
+    <idno type="id">nnbw/4890</idno>
+    <persName><name type="geslachtsnaam">Wassenaer</name>, Margaretha van</persName>
+    <idno type="dbnl_id">wass066</idno>
+  <idno type="bioport">99706201</idno></person>
+  <biography>
+    <text>WASSENAER (Margaretha van), dochter van Jan II en zuster van de volgende. Zij overleed op het kasteel Lumaing 1556 of 1557. Zij huwde in 1534 met Jan II van der Marck, heer van Lumaing en Seraing-le-Chateau, stadhouder van den bisschop van Luik in het markiezaat Franchimont (gest. 1552) en bij hem moeder van Willem van der Marck, heer van Lumaing, den bekenden aanvoerder der watergeuzen, en van Magdalena op wier bruiloft met Philippe de Beauffort de grondslagen van het verbond der edelen werden gelegd. Zie: Obreen, Gesch. gesl. Wassenaer 52 en 57. Obreen</text>
+  </biography>
+</biodes>

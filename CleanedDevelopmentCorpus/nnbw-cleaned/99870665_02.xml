@@ -1,0 +1,19 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <author>van Dalen</author>
+    <ref target="http://www.inghist.nl/retroboeken/nnbw?source=4&page_number=884" />
+    <publisher>
+      <name>Nieuw Nederlandsch Biografisch Woordenboek (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/nnbw" />
+    </publisher>
+  <idno type="source">nnbw</idno></fileDesc>
+  <person>
+    <idno type="id">nnbw/8645</idno>
+    <persName><name type="geslachtsnaam">Lebret</name>, Gerrit</persName>
+    <idno type="dbnl_id">lebr003</idno>
+  <idno type="bioport">99870665</idno></person>
+  <biography>
+    <text>LEBRET (Gerrit), geb. te Dordrecht 29 Januari 1822, overl. te Passaroean (Ned. Oost-Indië) 13 Januari 1896, was de zoon van Arie Lebret en Geertje van der Zalm. Hij vertrok op 20-jarigen leeftijd naar Indië en werd daar groot suiker-industrieel. Hij was ongehuwd. Zijn portret is gelithografeerd door F. Lebret en door H.J. Backer. M.S. Aant. van Dalen</text>
+  </biography>
+</biodes>

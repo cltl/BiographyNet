@@ -1,0 +1,19 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <author>Fruytier</author>
+    <ref target="http://www.inghist.nl/retroboeken/nnbw?source=6&page_number=1030" />
+    <publisher>
+      <name>Nieuw Nederlandsch Biografisch Woordenboek (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/nnbw" />
+    </publisher>
+  <idno type="source">nnbw</idno></fileDesc>
+  <person>
+    <idno type="id">nnbw/12469</idno>
+    <persName><name type="geslachtsnaam">Moens</name>, Servatius</persName>
+    <idno type="dbnl_id">moen019</idno>
+  <idno type="bioport">99832543</idno></person>
+  <biography>
+    <text>MOENS (Servatius), geboortig uit Maastricht, overleed te Luik 17 of 18 Nov. 1506 in de Benediktijnerabdij Sint Jacobus, welke hij als abt bestuurde. Eerst bekleedde hij het ambt van novicenmeester en subprior, totdat hij tot abt werd gekozen en te Rome bevestigd werd 21 October 1500. Zijne wijding had plaats 22 Mei 1501. Slechts weinig is van zijn kort bestuur bekend. Op het prov. kapittel te Trier hield hij eene redevoering, die zich nog bevindt in het archief aldaar, Cod. 1747 fol. 1-7. Zijn grafschrift, vermeld in Gall. Christ., noemt hem ‘prudens et sensu constans’. Zie: Gallia Christ. V, 986; Gesta abbatum S. Jacobi Leod.; Berlière, Documents inédits Belg. (Maredsous 1894) 56; dezelfde, Inventaire des libri obligationum (Rome 1904) no. 1907; Stud. und Mittheil. der Bened. und Cist. Ord. XX (1899) 292; Revue Bénédictine XVIII (1901), 383. Fruytier</text>
+  </biography>
+</biodes>

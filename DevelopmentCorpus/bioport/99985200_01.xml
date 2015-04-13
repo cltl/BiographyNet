@@ -1,0 +1,11 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <publisher/>
+  <idno type="source">bioport</idno></fileDesc>
+  <person>
+    <idno type="id">99985200</idno>
+    <idno type="bioport">99985200</idno>
+  <persName>Jan <name type="geslachtsnaam">Kool</name></persName><event type="birth" when="1741-11-16"><place>Beverwijk</place></event><event type="death" when="1816-03-26"><place>Zaandijk</place></event><event type="funeral"><place/></event><event type="baptism"><place/></event><sex value="1"/><state type="category" idno="2">Bedrijfsleven</state><state type="floruit" from="" to=""><place/></state></person>
+  <biography><snippet source_id="nnbw/8601"/><snippet source_id="vdaa/k0559"/></biography>
+</biodes>

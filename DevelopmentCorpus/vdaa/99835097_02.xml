@@ -1,0 +1,18 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.inghist.nl/retroboeken/vdaa?source=aa__001biog14_01.xml&amp;page_number=531"/>
+    <publisher>
+      <name>Van der Aa (Instituut voor Nederlandse Geschiedenis)</name>
+      <ref target="http://www.inghist.nl/retroboeken/vdaa"/>
+    </publisher>
+  <idno type="source">vdaa</idno></fileDesc>
+  <person>
+    <idno type="id">m0979</idno>
+    <persName>Nicolaas van <name type="geslachtsnaam">Meetkercke</name></persName>
+    <idno type="dbnl_id">meet007</idno>
+  <idno type="bioport">99835097</idno></person>
+  <biography>
+    <text>MEETKERCKE (Nicolaas van), broeder van den vorige, legde zich eerst op de oude letteren toe, en omhelsde vervolgens de krijgsdienst. Hij sneuvelde als kolonel in dienst der Staten 11 Junij 1591 bij het beleg van Deventer, in den ouderdom van bijna 30 jaren.  Zie Paquot, t.a.p. Wageuaar, Vad. Hist. D. VIII. bl. 297, 312; Gids 1840. no. 3, bl. 37.</text>
+  </biography>
+</biodes>

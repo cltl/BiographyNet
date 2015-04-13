@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/7413" />
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen" />
+    </publisher>
+  <idno type="source">raa</idno></fileDesc>
+  <person>
+    <persName><name type="voornaam">Gosen Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Coeverden tot Rhaan</name></persName>
+    <event type="birth" when="1688">
+      <place />
+    </event>
+    <event type="death" when="1749-05-15">
+      <place />
+    </event>
+  <idno type="bioport">99986335</idno><idno type="id">raa/7413.xml</idno></person>
+  <biography />
+</biodes>

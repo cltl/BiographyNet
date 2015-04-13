@@ -1,0 +1,43 @@
+<biodes version="1.0">
+  <fileDesc>
+    <author />
+    <ref target="http://proxy.handle.net/10648/9da4a760-a8d2-4224-acfc-1cb9f4e4eb2c" />
+    <date when="z.d." />
+    <publisher>
+      <name>Nationaal Archief</name>
+      <ref target="http://www.gahetna.nl/collectie/archief" />
+    </publisher>
+    <bibl>
+      <num>1.10.67</num>
+      <title>Inventaris van het archief van mr. J. baron van Plettenberg [levensjaren 1739-1793], 1763-1788</title>
+    </bibl>
+  <title /><idno type="source">na</idno></fileDesc>
+  <person>
+    <persName>Joachim Baron van Plettenberg</persName>
+    <sex value="1" />
+    <event type="birth" when="1739">geboren in 1739</event>
+    <event type="death" when="1793">overleden in 1793</event>
+    <CONTROLE>
+      <origination label="Archiefvormers: ">
+        <persname>Joachim Baron van Plettenberg</persname> (1739-1793)
+      </origination>
+    </CONTROLE>
+  <idno type="id">9da4a760-a8d2-4224-acfc-1cb9f4e4eb2c__1</idno><idno type="bioport">80382920</idno></person>
+  <biography>
+    <text><title>Inventaris van het archief van mr. J. baron van Plettenberg [levensjaren 1739-1793], 1763-1788</title>
+      <bioghist>
+        <head>Geschiedenis van de archiefvormer</head>
+        <p>Joachim Baron van Plettenberg, geboren te Leeuwarden, vertrekt in 
+		  1764 als raad-extraordinaris van Indië met het schip
+		  Amerongen naar Indië, als raad-ordinaris in 
+		  1765, als independent-fiscaal van de Kaap in 
+		  1767, als secunde aldaar in 
+		  1772, als gouverneur aldaar in 
+		  1774, eervol als zodanig ontslagen in 
+		  1783, keert naar het vaderland terug in 
+		  1785 en overlijdt op Huis Windesheim bij Zwolle in 
+		  1793.</p>
+      </bioghist>
+    </text>
+  </biography>
+</biodes>

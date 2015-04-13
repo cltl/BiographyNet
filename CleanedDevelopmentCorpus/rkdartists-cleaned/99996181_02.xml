@@ -1,0 +1,29 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://www.rkd.nl/rkddb/dispatcher.aspx?action=search&database=ChoiceArtists&search=priref=5825" />
+    <publisher>
+      <name>Rijksbureau voor Kunsthistorische Documentatie</name>
+      <ref target="http://www.rkd.nl/" />
+    </publisher>
+  <idno type="source">rkdartists</idno></fileDesc>
+  <person>
+    <persName>Beer Poortugael, Catharina Louisa van Till-de<name type="geslachtsnaam">Beer Poortugael-den</name>atharina Louisa van Till-den</persName>
+    <persName><name type="geslachtsnaam">Till-den Beer Poortugael, Catharina Louisa van</name></persName>
+    <persName><name type="geslachtsnaam">Beer Poortugael</name>, Catharina Louisa den (jonkvrouw)</persName>
+    <sex value="2" />
+    <event type="birth" when="1872-05-31">
+      <place>Breda</place>
+    </event>
+    <event type="death" when="1944-01-17">
+      <place>Den Haag</place>
+    </event>
+    <state type="occupation">adel</state>
+    <state type="occupation">schilder</state>
+    <state type="occupation">tekenaar</state>
+    <idno type="id">5825</idno>
+  <idno type="bioport">99996181</idno></person>
+  <biography>
+    <text>Adel, schilder, tekenaar. Geboren: 31 mei 1872, Breda. Gestorven: 17 januari 1944, Den Haag. Plaats en periode van werkzaamheid: Driebergen (Driebergen-Rijsenburg), van 1887 tot 1944 Woonde en werkte vnl. aldaar (scheen 1981).</text>
+  </biography>
+</biodes>

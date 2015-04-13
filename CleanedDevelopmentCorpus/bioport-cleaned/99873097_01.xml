@@ -1,0 +1,11 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <publisher />
+  <notesStmt><note type="bioport_editor" /><note type="public" /></notesStmt><idno type="source">bioport</idno></fileDesc>
+  <person>
+    <idno type="id">99873097</idno>
+    <idno type="bioport">99873097</idno>
+    <event type="birth" when="1866-12-13"><place>Rotterdam</place></event><event type="death" when="1923-11-26"><place>Amsterdam</place></event><event type="funeral"><place /></event><event type="baptism"><place /></event><sex value="1" /><state idno="11" type="category">Politiek en bestuur</state><state idno="" type="religion" /><state from="" to="" type="floruit"><place /></state><persName>Joost    van    Vollenhoven</persName></person>
+  <biography><snippet source_id="pdc/vg09llc57er3.xml" /></biography>
+</biodes>

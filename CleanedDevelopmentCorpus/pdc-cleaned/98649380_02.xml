@@ -1,0 +1,55 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09llgux0t7" />
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/" />
+  </publisher>
+ <title /><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09llgux0t7">
+  <persName>
+   <name type="prepositie">Drs.</name>
+    <name type="voornaam">Ym</name>
+    <name type="intrapositie">van der</name>
+    <name type="geslachtsnaam">Werff</name>
+  </persName>
+  <persName>
+   <name type="prepositie">Drs.</name>
+    <name type="voornaam">Ymenus</name>
+   <name type="voornaam">Pieter</name>
+   <name type="voornaam">Willem</name>
+    <name type="intrapositie">van der</name>
+    <name type="geslachtsnaam">Werff</name>
+  </persName>
+  <persName>
+   <name type="prepositie">Drs.</name>
+    <name type="voornaam">Y.P.W.</name>
+    <name type="intrapositie">van der</name>
+    <name type="geslachtsnaam">Werff</name>
+  </persName>
+  <sex value="1" />
+  <event type="birth" when="1918-06-12">in <place>Maastricht</place></event>
+  <event type="death" when="1993-06-18">in <place>Breda</place></event>
+  <event type="marriage" when="1947-10-03">gehuwd</event>
+  <state to="1947" type="residence">Winschoten,</state>
+  <state to="1993-06" type="residence">Breda, Wilhelminasingel 21</state>
+  <state from="1930" to="1936" type="education">gymnasium-a, "Kennemerlyceum" te Bloemendaal</state>
+  <state from="1936" to="1938" type="education">geschiedenis, Gemeentelijke Universiteit te Amsterdam</state>
+  <state from="1936" to="1938" type="education">Nederlandse taal- en letterkunde, Gemeentelijke Universiteit te Amsterdam</state>
+  <state from="1938" to="1943" type="education">geschiedenis, Rijksuniversiteit Groningen</state>
+  <state from="1945" to="1946-12-13" type="education">geschiedenis (doctoraal), Rijksuniversiteit Groningen</state>
+  <state from="1945" to="1947" type="occupation">leraar geschiedenis, "Stedelijk Gymnasium" en Hogere Burgerschool te Winschoten</state>
+  <state from="1947" to="1962" type="occupation">leraar geschiedenis, "Stedelijk Gymnasium" te Breda</state>
+  <state from="1959" to="1960-09-01" type="occupation">docent KMA (Koninklijke Militaire Academie) te Breda</state>
+  <state from="1960-09-01" to="1966" type="occupation">wetenschappelijk hoofdambtenaar, KMA (Koninklijke Militaire Academie) te Breda</state>
+  <state from="1962-09-04" to="1974-06-05" type="occupation">lid gemeenteraad van Breda</state>
+  <state from="1966" to="1981-07-01" type="occupation">algemeen assessor (rang: raadadviseur in algemene dienst) KMA (Koninklijke Militaire Academie), ministerie van Defensie te Breda</state>
+  <state from="1966-07-05" to="1982-07-06" type="occupation">lid Provinciale Staten van Noord-Brabant</state>
+  <state from="1969-09-16" to="1993-06-18" type="occupation">lid Eerste Kamer der Staten-Generaal</state>
+  <state from="1974-07-02" to="1978-07-04" type="occupation">lid Gedeputeerde Staten (belast met cultuur, recreatie, natuur, onderwijs en volkshuisvesting) van Noord-Brabant</state>
+ <idno type="bioport">98649380</idno><idno type="id">pdc/vg09llgux0t7.xml</idno></person>
+ <biography>
+  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/017/01792g.jpg" />
+  <text>Historicus, die 24 jaar liberaal Eerste Kamerlid was. Aanvankelijk leraar in het middelbaar onderwijs en docent van de KMA. Daarna gemeente- en provinciebestuurder. Vooral deskundig op het gebied van defensie en culturele zaken. Was actief in diverse commissies op het gebied van monumentenzorg, het bibliotheekwezen en de geschiedschrijving en stond bekend als verdediger van het cultureel erfgoed. Behoorde tot de vier VVD-leden die in 1976 vóór het (verworpen) abortusvoorstel van PvdA en VVD stemden. Beminnelijke, erudiete en zeer voorkomende senator.</text>
+ </biography>
+</biodes>

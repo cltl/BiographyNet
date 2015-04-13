@@ -1,0 +1,37 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>J. van Sluis</author>
+    <ref target="http://www.inghist.nl/retroboeken/blnp/?source=5&amp;page_number=111"/>
+    <publisher>
+      <name>J. van Sluis</name>
+      <ref target="http://www.inghist.nl"/>
+    </publisher>
+  <idno type="source">blnp</idno></fileDesc>
+  <person>
+    <idno type="id">0354.xml</idno>
+    <persName>Cate, Gerhardus ten</persName>
+    <event type="birth" when="1699">
+      <place>Neede</place>
+    </event>
+    <event type="death" when="1749-11-28">
+      <place>Harderwijk</place>
+    </event>
+  <idno type="bioport">99838783</idno></person>
+  <biography>
+    <text>CATE, GERHARDUS TEN, * Neede 1699, 
+t Harderwijk 28 nov. 1749. Zn. van Christoffel 
+ten Cate, koopman, en Hendrika Sluiter. Stud. 
+theol. Deventer 1713, Utrecht 1717, 1725; dr. 
+h.c. filosofie Utrecht 1725 (promotor: J. 
+Serrurier), dr. h.c. theologie Harderwijk 1745 
+(promotor: BS. Cremer). Hoogl. filosofie 
+Lingen 1725, Deventer 1728. Hoogl. theologie 
+Harderwijk 1742. Hij was ongehuwd. 
+Tijdens zijn studie te Deventer verdedigde 
+Ten C. onder D. A. R&#195;&#182;ell een filos. disputatie De 
+omnipraesentia Dei (1716). Hij legde in 1720 in 
+de cl. Zaltbommel zijn pr&#195;&#169;paratoir examen af. 
+Het peremptoir examen volgde echter nimmer&lt;/div&gt;</text>
+  </biography>
+</biodes>

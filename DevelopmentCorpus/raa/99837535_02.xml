@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/5198"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  <idno type="source">raa</idno></fileDesc>
+  <person>
+    <persName><name type="voornaam">Jan</name> <name type="geslachtsnaam">Smetink</name></persName>
+    <event type="birth">
+      <place/>
+    </event>
+    <event type="death">
+      <place/>
+    </event>
+  <idno type="bioport">99837535</idno><idno type="id">raa/5198.xml</idno></person>
+  <biography/>
+</biodes>

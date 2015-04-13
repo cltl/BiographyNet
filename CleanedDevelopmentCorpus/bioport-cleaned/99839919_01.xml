@@ -1,0 +1,11 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <publisher />
+  <notesStmt><note type="bioport_editor" /><note type="public" /></notesStmt><idno type="source">bioport</idno></fileDesc>
+  <person>
+    <idno type="id">99839919</idno>
+    <idno type="bioport">99839919</idno>
+  <event type="birth"><place>Sedan, Frankrijk</place></event><event type="death" when="1741-12"><place>Haarlem</place></event><event type="funeral"><place /></event><event type="baptism"><place /></event><sex value="1" /><state idno="10" type="category">Onderwijs & wetenschappen</state><state idno="" type="religion" /><state from="" to="" type="floruit"><place /></state><persName>Crouse, Philips</persName></person>
+  <biography><snippet source_id="nnbw/8004" /></biography>
+</biodes>

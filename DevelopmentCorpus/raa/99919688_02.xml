@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/4330"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  <idno type="source">raa</idno></fileDesc>
+  <person>
+    <persName><name type="voornaam">Aernout</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Vierssen</name></persName>
+    <event type="birth" when="1636">
+      <place/>
+    </event>
+    <event type="death">
+      <place/>
+    </event>
+  <idno type="bioport">99919688</idno><idno type="id">raa/4330.xml</idno></person>
+  <biography/>
+</biodes>

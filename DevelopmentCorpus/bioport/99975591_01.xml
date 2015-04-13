@@ -1,0 +1,11 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <publisher/>
+  <idno type="source">bioport</idno></fileDesc>
+  <person>
+    <idno type="id">99975591</idno>
+    <idno type="bioport">99975591</idno>
+  <event type="birth"><place/></event><event type="death"><place/></event><event type="funeral"><place/></event><event type="baptism"><place/></event><sex value="1"/><state type="category" idno="1">Adel en vorstenhuizen</state><state type="floruit" from="1566" to="1604">ca. 1575<place/></state><persName>Willem van Cats</persName></person>
+  <biography><snippet source_id="vdaa/c0341"/></biography>
+</biodes>

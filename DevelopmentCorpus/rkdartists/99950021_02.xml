@@ -1,0 +1,27 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.rkd.nl/rkddb/dispatcher.aspx?action=search&amp;database=ChoiceArtists&amp;search=priref=64474"/>
+    <publisher>
+      <name>Rijksbureau voor Kunsthistorische Documentatie</name>
+      <ref target="http://www.rkd.nl/"/>
+    </publisher>
+  <idno type="source">rkdartists</idno></fileDesc>
+  <person>
+    <persName><name type="geslachtsnaam">Postmes</name>, Rose de</persName>
+    <persName><name type="geslachtsnaam">Postmes-de Does, Rosina</name></persName>
+    <persName><name type="geslachtsnaam">Does</name>, Rosina de</persName>
+    <sex value="2"/>
+    <event type="birth" when="1900-01-12">
+      <place>Rotterdam</place>
+    </event>
+    <event type="death" when="1988-12-31">
+      <place>Rheden</place>
+    </event>
+    <state type="occupation">emailleur</state>
+    <idno type="id">64474</idno>
+  <idno type="bioport">99950021</idno></person>
+  <biography>
+    <text>Emailleur. Geboren: 12 januari 1900, Rotterdam. Gestorven: 31 december 1988, Rheden. Plaats en periode van werkzaamheid: Australi&#235;, van 1946 tot 1946 Tot 1946. Bussum, van 1969 tot 1969 Volgens adresgegevens rkd. </text>
+  </biography>
+</biodes>

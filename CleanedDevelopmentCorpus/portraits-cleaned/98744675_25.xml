@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title />
+    <ref target="http://geheugenvannederland.nl/?/nl/items/VUMCC01:UBVU001-1-SCH-013" />
+    <publisher>
+      <name>Het Geheugen van Nederland</name>
+      <ref target="http://geheugenvannederland.nl" />
+    </publisher>
+  <idno type="source">portraits</idno></fileDesc>
+  <person>
+    <persName>Schuurman, A. M. van</persName>
+    <event type="birth" when="1607" />
+    <event type="death" when="1678" />
+  <idno type="bioport">21968012</idno><idno type="id">portraits/d6d919603967e88a4719f4485ac29293.xml</idno><idno type="bioport">10401425</idno><idno type="bioport">94192545</idno><idno type="bioport">69982787</idno><idno type="bioport">07729279</idno><idno type="bioport">98744675</idno></person>
+  <biography>
+    <figure>
+      <head>Anna Maria van Schurman (1607-1678)</head>
+      <graphic url="http://resolver.kb.nl/resolve?urn=urn:gvn:VUMCC01:UBVU001-1-SCH-013&role=image&size=variable" />
+    </figure>
+    <text>Anna Maria van Schurman (1607-1678). PORTRET 1 SCH 013 (kopergravure), Protestantse portretten van Museum Catharijneconvent en Vrije Universiteit, Amsterdam</text>
+  </biography>
+</biodes>

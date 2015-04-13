@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://geheugenvannederland.nl/?/nl/items/VUMCC01:SPKK-G00685"/>
+    <publisher>
+      <name>Het Geheugen van Nederland</name>
+      <ref target="http://geheugenvannederland.nl"/>
+    </publisher>
+  <idno type="source">portraits</idno></fileDesc>
+  <person>
+    <persName>Iterson, Frederik Hendrik Gijsbertus van</persName>
+    <event type="birth" when="1804"/>
+    <event type="death" when="1884"/>
+  <idno type="bioport">05051672</idno><idno type="id">portraits/eaf3cb386e0d9afd059a337ff323d0e7.xml</idno><idno type="bioport">99140354</idno></person>
+  <biography>
+    <figure>
+      <head>Portret van Frederik Hendrik Gijsbertus van Iterson (1804-1884), predikant te Benthuizen en Leiden</head>
+      <graphic url="http://resolver.kb.nl/resolve?urn=urn:gvn:VUMCC01:SPKK-G00685&amp;role=image&amp;size=variable"/>
+    </figure>
+    <text>Portret van Frederik Hendrik Gijsbertus van Iterson (1804-1884), predikant te Benthuizen en Leiden. SPKK-g00685 (lithografie), Protestantse portretten van Museum Catharijneconvent en Vrije Universiteit, Amsterdam</text>
+  </biography>
+</biodes>

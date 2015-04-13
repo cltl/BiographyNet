@@ -1,0 +1,50 @@
+<biodes version="1.0">
+  <fileDesc>
+    <author>BIDATA / Irene Venditti</author>
+    <ref target="http://proxy.handle.net/10648/50a6af1f-e267-47b5-9b1f-aded654a6b6e" />
+    <date when="1994" />
+    <publisher>
+      <name>Nationaal Archief</name>
+      <ref target="http://www.gahetna.nl/collectie/archief" />
+    </publisher>
+    <bibl>
+      <num>2.16.78.02</num>
+      <title>Inventaris van het archief van M.H. Damme als Directeur-Generaal der Posterijen, Telegrafie, en Telefonie, 1919-1940</title>
+    </bibl>
+  <title /><idno type="source">na</idno></fileDesc>
+  <person>
+    <persName>Damme, Marinus Hendricus</persName>
+    <sex value="1" />
+    <event type="birth" when="1876">geboren in 1876</event>
+    <event type="death" when="1966">overleden in 1966</event>
+    <CONTROLE>
+      <origination label="Archiefvormers: ">
+        <persname>Damme, Marinus Hendricus</persname> (1876-1966)</origination>
+    </CONTROLE>
+  <idno type="id">50a6af1f-e267-47b5-9b1f-aded654a6b6e__1</idno><idno type="bioport">83896482</idno><idno type="bioport">83628222</idno></person>
+  <biography>
+    <text><title>Inventaris van het archief van M.H. Damme als Directeur-Generaal der Posterijen, Telegrafie, en Telefonie, 1919-1940</title>
+      <bioghist>
+        <head>Geschiedenis van de archiefvormer</head>
+        <p>Marinus Hendricus Damme (1876-1966) werd op 1 juni 1925 benoemd tot Directeur-Generaal van het Staatsbedrijf der Posterijen en Telegrafie (per 1 nov. 1928 werd hieraan de "Telefonie" toegevoegd).</p>
+        <p>In de hieraan voorafgaande jaren had Damme, van huis uit werktuigbouwkundig ingenieur, zich verdienstelijk gemaakt bij de dienst der Staatsspoor- en Tramwegen in Nederlands Oost-Indië (1898-1919). Zijn functie als hoofd van deze dienst gaf hij na verloop van tijd op om vertegenwoordiger van de oliefabrieken "Insulinde" te worden. In de periode 1921-1925 keerde hij in staatsdienst terug als gedelegeerde voor de Spoorwegcommissie voor Semarang én als voorzitter van de salariscommissie voor burgerlijke landsdienaren. Tevens vervulde hij diverse bestuursfuncties in Nederlands-Indië, onder andere op het gebied van de luchtvaart, waar hij altijd veel belangstelling voor had gehad. <note>
+            <p>     Charité, J., ed., Biografisch Woordenboek van Nederland, dl. I, 's- Gravenhage 1979. </p>
+          </note>
+        </p>
+        <p>Op 4 febr. 1925 verliet Damme de Indische dienst, om in juni de hoogste post bij de PTT te gaan bekleden; hij werd beschouwd als de krachtige, efficiënte en moderne bestuurder die het Staatsbedrijf nodig had. Nadat Damme aanvankelijk problemen had bij het verdedigen van zijn positie ten opzichte van de nieuwe Minister van Waterstaat, Bongaerts, werd in 1926 definitief gekozen voor handhaving van de bestaande éénhoofdige leiding van het Staatsbedrijf; eerdere voorstellen om de leiding aan een driehoofdig bestuur (Damme, van Royen en Duijnstee) op te dragen waren hiermee definitief van de baan. <note>
+            <p>     Ottenheijm, G.C.J.J., De status van de PTT als staatsbedrijf in historisch perspectief, Den Haag 1974. </p>
+          </note>
+        </p>
+        <p>Damme bleef Directeur-Generaal tot aan zijn pensionering in dec. 1941, met uitzondering van de periode 25 juli 1939 - 11 aug. 1939, toen hij korte tijd Minister van Sociale Zaken was in het vijfde ministerie Colijn. Zijn functie bij de PTT werd gedurende die tijd waargenomen door Algemeen-Secretaris J.F. van Royen. <note>
+            <p>     Documentatiemap Organisatie Hoofdebestuur en Centrale Directie der PTT, afd. A en R/Centraal Archief, 's- Gravenhage 1974. </p>
+          </note>
+        </p>
+        <p>Na zijn pensionering wijdde Damme zich aan zijn talrijke bestuursfuncties, die hij gedurende zijn tijd als Directeur-Generaal vaak ook al had bekleed. Zo was hij o.a. lid van de Raad van Bestuur van de KLM, voorzitter van de Koninklijke Nederlandsche Vereeniging voor Luchtvaart, president van het Koninklijk Instituut voor Ingenieurs en voorzitter van de Raad van Advies van het Nederlands Instituut voor Efficiency. Als Directeur-Generaal was hij onder meer voorzitter van de Centrale Commissie voor Georganiseerd Overleg in Ambtenarenzaken, lid van de Centrale Reorganisatie Commissie (als gedelegeerde van de Minister van Waterstaat) en van de Staats(bezuinigings)  commissie Welter.</p>
+        <p>In 1945 keerde hij nog enkele maanden terug als tijdelijk Directeur-Generaal der PTT, om in de roerige tijden vlak na de bevrijding de orde in het bedrijf te herstellen en de zaken voor te bereiden voor zijn opvolger, L. Neher.</p>
+        <p>Damme's werk werd alom gewaardeerd en hij trad dan ook vaak als adviseur op voor diverse instanties; deze waardering kwam ook tot uiting in het eredoctoraat, dat de Technische Hogeschool te Delft hem op 8 jan. 1938 verleende. <note>
+            <p>     Zie inv. nrs. 5 en 6. </p>
+          </note> Na een lang en produktief leven overleed M.H. Damme in 1966 te Wassenaar.</p>
+      </bioghist>
+    </text>
+  </biography>
+</biodes>

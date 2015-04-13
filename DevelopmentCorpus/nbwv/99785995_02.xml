@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.inghist.nl/retroboeken/nbwv?source=1&amp;page_number=36"/>
+    <publisher>
+      <name>XXX</name>
+      <ref target="http://www.inghist.nl"/>
+    </publisher>
+  <idno type="source">nbwv</idno></fileDesc>
+  <person>
+    <persName>ANTON VAN BOURGONDI&#203;, </persName>
+    <event type="birth" when="1384"/>
+    <event type="death" when="1415"/>
+  <idno type="bioport">99785995</idno><idno type="id">nbwv/66.xml</idno></person>
+  <biography/>
+</biodes>

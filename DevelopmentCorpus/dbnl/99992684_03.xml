@@ -1,0 +1,25 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.dbnl.org/auteurs/auteur.php?id=west051"/>
+    <publisher>
+      <name>Auteurspagina in de Digitale Bibliotheek voor de Nederlandse Letteren</name>
+      <ref target="http://www.dbnl.org"/>
+    </publisher>
+  <idno type="source">dbnl</idno></fileDesc>
+  <person>
+    <idno type="id">west051</idno>
+    <persName>West, A. </persName>
+    <sex value="1"/>
+    <event type="birth">
+      <date> ?(17de eeuw)</date>
+      <place/>
+    </event>
+    <event type="death">
+      <date> ?</date>
+      <place/>
+    </event>
+    <idno type="dbnl_id">west051</idno>
+  <idno type="bioport">49627373</idno><idno type="bioport">99992684</idno></person>
+  <biography/>
+</biodes>
