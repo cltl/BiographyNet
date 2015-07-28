@@ -5,11 +5,13 @@ Created on Feb 25, 2015
 '''
 
 from KafNafParserPy import *
-from rdflib import Graph, Namespace, URIRef, RDF, ConjunctiveGraph
+from rdflib import Graph, Namespace, URIRef, RDF, ConjunctiveGraph, Literal
 from rdflib.plugins.memory import IOMemory
 from NafInfo import *
 import sys
 
+#making this counter global
+counter = 1
 # extract all predicates that have semantic roles
 
 
@@ -39,17 +41,19 @@ def collect_named_entities(nafobj):
     Function that retrieves all identified named entities from a Naf file
     returns a list of entities represented as list (span + final element NE type)
     '''
-    entities = nafobj.get_entities()
     entityList = []
-    for entity in entities:
+    for entity in nafobj.get_entities():
         eType = entity.get_type()
         eReferences = entity.get_references()
         for ref in eReferences:
             eSpan = ref.get_span().get_span_ids()
             eSpan.append(eType)
-            entityList.append(eSpan)
+            if len(eSpan) == 0:
+                print entity.get_id()
+            else:
+                entityList.append(eSpan)
     
-    return entities
+    return entityList
 
 def collect_time_expressions(nafobj):
     '''
@@ -241,13 +245,17 @@ def initiate_role_from_corresponding_NEs(nafobj, roleSpan, NElist):
     ##NElist: a list of named entities represented as list (span + class)
     roles = []
     for ne in NElist:
-        #remove classtype from list
-        myclass = ne.pop()
+        #classtype is last element in list
+        myclass = ne[-1]
+        nespan = []
+        #create span of named entity (all in list except last element)
+        for x in range(0, len(ne)-1):
+            nespan.append(ne[x])
         #check if identical
-        if list_overlap(ne, roleSpan):
+        if list_overlap(nespan, roleSpan):
             myRole = NafRole(entityType = myclass)
-            if is_constituent(ne, nafobj) or len(ne) < len(roleSpan):
-                myRole.roleSpan = ne
+            if is_constituent(nespan, nafobj) or len(nespan) < len(roleSpan):
+                myRole.roleSpan = nespan
             else:
                 myRole.roleSpan = roleSpan
             roles.append(myRole)
@@ -329,12 +337,58 @@ def identify_chunk_head(nafobj, tList):
                         head = headSpan[0]
                 #this is the tree
     return head           
-                
+  
+  
+def disambiguate_pronoun(nafobj, tid):
+    '''
+    Function that tries to determine whether 'ze/zij' is fsg or pl
+    '''
+    #find out if term is subject and, if so, of which term 
+    for dep in nafobj.get_dependencies():
+        if dep.get_to() == tid and dep.get_function() == 'hd/su':
+            hterm = nafobj.get_term(dep.get_from())
+            hnumber = hterm.get_morphofeat().split(',')[-1].rstrip(')')
+            if hnumber == 'ev':
+                return 'pron_3fs'
+            else:
+                return 'pron_3p'
+    #in written language 'ze' should not occur in other functions as subject
+    #when feminine singular
+    return 'pron_3p'
+            
+
+def get_pron_value(nafobj, lemma, tid):
+    '''
+    Function that looks up the label for a specific pronoun and returns this label
+    '''
+    lem2lab = {'hij':'pron_3ms',
+               'hem':'pron_3ms',
+               'haar':'pron_fms',
+               'ik':'pron_1s',
+               'me':'pron_1s',
+               'jij':'pron_2s',
+               'je':'pron_2s',
+               'jou':'pron_2s',
+               'u':'pron_2',
+               'we':'pron_1p',
+               'ons':'pron_1p',
+               'jullie':'pron_2p',
+               'hun':'pron_3p',
+               'hen':'pron_3p'}
+
+    if lemma in lem2lab:
+        return lem2lab.get(lemma)
+    elif lemma in ['ze','zij']:
+        return disambiguate_pronoun(nafobj, tid)
+    #if not a clear well-known pronoun, return the empty string
+    return ''
+
 
 
 def get_head_word_and_lemma(nafobj, roleSpan):
     '''
-    Function that retrieves the head word of a span and returns it's lemma
+    Function that retrieves the head word of a span and returns
+    its lemma, id, externalReferences and whether it's a pronoun
     '''
     headWord = []
     if len(roleSpan) == 1:
@@ -344,9 +398,16 @@ def get_head_word_and_lemma(nafobj, roleSpan):
         term = nafobj.get_term(termId)
       
     headWord.append(roleSpan[0])
-    headWord.append(term.get_lemma())
+    lemma = term.get_lemma()
+    headWord.append(lemma)
     headWord.append(get_term_external_references(term))
-    headWord.append(term.get_id())
+    tid = term.get_id()
+    headWord.append(tid)
+    if term.get_pos() == 'pron':    
+        pron = get_pron_value(nafobj, lemma, tid)
+    else:
+        pron = ''
+    headWord.append(pron)
     return headWord
 
 def get_full_string_and_offsets(nafobj, nafrole, tSpan):
@@ -368,13 +429,11 @@ def complete_srl_info(nafobj, srlEvents, namedEntities, timeExpressions):
     for ne in namedEntities:
         for t in ne:
             NEids.add(t)
-    
     TEids = set()
     for te in timeExpressions:
         tSpan = te[2]
         for t in tSpan:
             TEids.add(t)
-    
     #dictionary to store more complete information
     updatedEventsRoles = {}
     
@@ -385,7 +444,7 @@ def complete_srl_info(nafobj, srlEvents, namedEntities, timeExpressions):
             tLemma = term.get_lemma()
             tOffsets, surfacestring = get_offset_and_surface(nafobj, term)
             tExRefs = get_term_external_references(term)
-            myEvent = NafEvent(predTid=tId,exrefs=tExRefs,offset=tOffsets, predString=surfacestring, lemma=tLemma)
+            myEvent = NafEvent(predTid=tId,exrefs=tExRefs,offset=tOffsets, predString=surfacestring, lemma=tLemma,roles=[])
             myEvent.wIds = get_span_from_list(nafobj, [tId])
             #roles is a list, where each role is a list of length 2:
             #first element is role name, second is span ids
@@ -398,6 +457,7 @@ def complete_srl_info(nafobj, srlEvents, namedEntities, timeExpressions):
                 if span_in_overlap_set(NEids, roleSpan):
                     #update span (if needed), get class, returns a list of roles
                     myRoles = initiate_role_from_corresponding_NEs(nafobj, roleSpan, namedEntities)
+                    
                     for myRole in myRoles:
                         get_full_string_and_offsets(nafobj, myRole, myRole.roleSpan)
                         #FIXME: this should be done while initiating roles..
@@ -415,7 +475,8 @@ def complete_srl_info(nafobj, srlEvents, namedEntities, timeExpressions):
                         myEvent.roles.append(myRole)
                     else:
                         headWordInfo = get_head_word_and_lemma(nafobj, roleSpan)
-                        myRole = NafRole(roleSpan = roleSpan, lemma=headWordInfo[1], exrefs=headWordInfo[2], head=headWordInfo[3])
+                        #add pronoun info
+                        myRole = NafRole(roleSpan = roleSpan, lemma=headWordInfo[1], exrefs=headWordInfo[2], head=headWordInfo[3],pron=headWordInfo[4])
                         get_full_string_and_offsets(nafobj, myRole, myRole.roleSpan)
                         myRole.wIds = wSpan
                         myRole.roleLabel = roleLab
@@ -436,6 +497,8 @@ def collect_naf_info(nafobj):
     return myEvents, namedEntities, timeExpressions
 
 def create_identifier(prefix, suffixList):
+    if not prefix.endswith('/'):
+        prefix += '/'
     for suffix in suffixList:
         prefix += suffix
     return prefix
@@ -466,14 +529,14 @@ def get_NE_triples(nafobj, naffile, NE, BiodesId):
 def get_predobj_from_TE_datevalue(tValue):
 
     if tValue.startswith('P'):
-        predval = 'xsd:period,' + tValue
+        predval = 'xs:period,' + tValue
     else:
         if len(tValue) == 4:
-            predval = 'xsd:gYear,' + tValue
+            predval = 'xs:gYear,' + tValue
         elif len(tValue) == 7:
-            predval = 'xsd:gYearMonth,' + tValue
+            predval = 'xs:gYearMonth,' + tValue
         else:
-            predval = 'xsd:date,' + tValue
+            predval = 'xs:date,' + tValue
             
     return predval
   
@@ -485,9 +548,9 @@ def get_TE_triples(nafobj, naffile, TE, BiodesId):
     TEtriples = []
     tType = TE[0]
     tValue = TE[1]
-    rdftype = 'xsd:date'
+    rdftype = 'xs:date'
     if 'DURATION' in tType:
-        rdftype = 'xsd:duration'
+        rdftype = 'xs:duration'
     predval = get_predobj_from_TE_datevalue(tValue)
     #for timex the spans are wids
     wSpan = TE[2]
@@ -528,7 +591,10 @@ def get_basic_triples_for_role(naffile, BiodesId, role):
         roleTriples.append(mentionId + ',nif:head,' + headId)
         roleTriples.append(headId + ',nif:lemma,"' + role.lemma + '"')
     else:
-        roleTriples.append(mentionId + ',nif:lemma"' + role.lemma + '"')
+        roleTriples.append(mentionId + ',nif:lemma,"' + role.lemma + '"')
+    if role.pron:
+        roleTriples.append(mentionId + ',rdf:type,' + role.pron)
+     
         
     return roleTriples
     
@@ -537,6 +603,7 @@ def create_event_triples(naffile, event, BiodesId):
     '''
     Retrieves all relevant information of an event and returns named graphs
     '''
+    global counter
     evTriples = []
     instanceId = create_identifier(naffile, [event.predTid])
     mentionId = create_identifier(naffile, event.wIds)
@@ -551,17 +618,27 @@ def create_event_triples(naffile, event, BiodesId):
     evTriples.append(mentionId + ',nif:lemma,"' + event.lemma + '"')
     
     NGprefix = 'NG_' + naffile + '_interpreted_'
-    counter = 1
+    
     
     for exRef in event.exRefs:
         #we use resource indication as prefix
-        value = exRef.resource + ':' + exRef.reference
+        if exRef.resource + ':' in exRef.reference:
+            value = exRef.reference
+        else:
+            value = exRef.resource + ':' + exRef.reference
         #each NG should have unique ID
         NGname = NGprefix + str(counter)
         counter += 1
         evTriples.append(instanceId + ',rdf:type,' + value + ',' + NGname)
         for subExRef in exRef.externalRefs:
-            subvalue = subExRef.resource + ':' + subExRef.reference
+            if not subExRef.resource in subExRef.reference:
+                subvalue = subExRef.resource + ':' + subExRef.reference
+            else:
+                subvalue = subExRef.reference
+            if subExRef.confidence:
+                counter += 1
+                NGname = NGprefix + str(counter)
+                evTriples.append(NGname + ',nif:confidence_of_annotation,' + subExRef.confidence)
             #FIXME: in current output, subvalues of exref have no confidence scores, so they take the one of the main external reference
             #They are now placed in the same named graph, but this may change in the future
             evTriples.append(instanceId + ',rdf:type,' + subvalue + ',' + NGname)
@@ -575,12 +652,13 @@ def create_event_triples(naffile, event, BiodesId):
             evTriples += role_triples
         roleInstandceId = create_identifier(naffile, role.roleSpan)
         evTriples.append(instanceId + ',' + role.roleLabel + ',' +  roleInstandceId)
-        for exr in role.exRefs:
-            exrRole = exr.resource + ':' + exr.reference
-            NGname = NGprefix + str(counter)
-            counter += 1
-            evTriples.append(instanceId + ',' + exrRole + ',' + roleInstandceId + ',' + NGname)
-            evTriples.append(NGname + ',nif:confidence_of_annotation,' + exr.confidence)
+    #This may become relevant again with the latest version of the pipeline (fn:roles)
+       # for exr in role.exRefs:
+       #     exrRole = exr.resource + ':' + exr.reference
+       #     NGname = NGprefix + str(counter)
+       #     counter += 1
+       #     evTriples.append(instanceId + ',' + exrRole + ',' + roleInstandceId + ',' + NGname)
+       #     evTriples.append(NGname + ',nif:confidence_of_annotation,' + exr.confidence)
             
     return evTriples
             
@@ -679,11 +757,12 @@ def create_quadriples(naffile, prefix, location):
         for triple in NEtriples:
             myQuadriples.append(triple + ',' + NGdirectId)
     
+    
     for TE in TEs:
         TEtriples = get_TE_triples(nafobj, prefix, TE, BiodesId)
         for triple in TEtriples:
             myQuadriples.append(triple + ',' + NGdirectId)
-            
+                  
     for val in myEvents.values():
         evTrips = create_event_triples(prefix, val, BiodesId)
         for triple in evTrips:
@@ -692,6 +771,8 @@ def create_quadriples(naffile, prefix, location):
                 myQuadriples.append(triple)
             else:
                 myQuadriples.append(triple + ',' + NGdirectId)
+    
+                   
     return myQuadriples
     
     
@@ -713,7 +794,7 @@ def restructure_quads_for_trig(myQuads):
                 tripleDict[key].append(val) 
             else:
                 tripleDict[key] = [val]
-                
+               
     return tripleDict
             
     
@@ -721,15 +802,24 @@ def create_uri_from_string(ns_dict, mystring, triple):
     '''
     Function that takes string as input and creates an URI 
     '''   
-    if ':' in mystring:
+    if ':' in mystring and not 'http:' in mystring:
         if 'rdf:' in mystring:
             uri = RDF[mystring.lstrip('rdf:')] 
         else:
-            s_nsname = mystring.split(':')[0]
+            parts = mystring.split(':')
+            s_nsname = parts[0]
+            if len(parts) == 2:
+                s_idname = parts[1]
+            elif len(parts) > 2:
+                s_idname = ''
+                for x in range(1, len(parts)):
+                    s_idname += parts[x] + ':'
+                s_idname = s_idname.rstrip(':')
+            else:
+                #this should not occur
+                s_idname = mystring.lstrip(s_nsname + ':')    
             s_ns = ns_dict.get(s_nsname)
-            if not s_ns:
-                print triple, s_nsname
-            uri = s_ns[mystring.lstrip(s_nsname + ':')]
+            uri = s_ns[s_idname]
     elif mystring == 'a':
         uri = RDF.type
     else:
@@ -742,10 +832,14 @@ def get_triple_components(triple, ns_dict):
     '''
     Function that checks whether a string should be abbreviated and connected to a namespace or whether it should be a URI as a whole
     '''   
+    #check in which cases the obj is a literal, then call other function
     subj = create_uri_from_string(ns_dict, triple[0], triple)
     pred = create_uri_from_string(ns_dict, triple[1], triple)
-    obj = create_uri_from_string(ns_dict, triple[2], triple)
-    
+    if 'nif:' in triple[1] or 'xs:' in triple[1]:
+        myString = triple[2].replace('"','')
+        obj = Literal(myString)
+    else:
+        obj = create_uri_from_string(ns_dict, triple[2], triple)
     
     return subj, pred, obj
     
@@ -768,10 +862,16 @@ def create_trig_file(naffile, prefix, location, outfile):
     GEONAMES = Namespace('http://www.sws.geonames.org/')
     BNPROV = Namespace('https://github.com/antske/BiographyNet/provenance/')
     CORNETTO = Namespace('https://temporalurl/cornetto/')
-    PB = Namespace('https://temporalurl/propbank')
-    FN = Namespace('https://temporalurl/framenet')
+    PB = Namespace('https://temporalurl/propbank/')
+    FN = Namespace('https://temporalurl/framenet/')
+    FNR = Namespace('https://temporalurl/framenet/roles')
     XSD = Namespace('http://www.w3.org/2001/XMLSchema#')
     SEM = Namespace('http://semanticweb.cs.vu.nl/2009/11/sem/')
+    MCR = Namespace('http://unknownresource/mcr/')
+    ESO = Namespace('https://github.com/newsreader/eso/')
+    FNPB = Namespace('https://temporalurl/framenet_propbank/')
+    WN = Namespace('https://temporalurl/wordnet/')
+    ORE = Namespace('http://www.openarchives.org/ore/1.0/')
     
     store = IOMemory()
     ns_dict = {}
@@ -802,11 +902,22 @@ def create_trig_file(naffile, prefix, location, outfile):
     ns_dict['pb'] = PB
     np_g.bind('fn',FN)
     ns_dict['fn'] = FN
-    np_g.bind('xsd',XSD)
-    ns_dict['xsd'] = XSD
+    np_g.bind('fn-role',FNR)
+    ns_dict['fn-role'] = FNR
+    np_g.bind('xs',XSD)
+    ns_dict['xs'] = XSD
     np_g.bind('sem',SEM)
     ns_dict['sem'] = SEM
-    
+    np_g.bind('mcr',MCR)
+    ns_dict['mcr'] = MCR
+    np_g.bind('eso',ESO)
+    ns_dict['eso'] = ESO
+    np_g.bind('fn-pb-role',FNPB)
+    ns_dict['fn-pb-role'] = FNPB
+    np_g.bind('WordNet',WN)
+    ns_dict['WordNet'] = WN
+    np_g.bind('ore',ORE)
+    ns_dict['ore'] = ORE
     
     for k, v in tripleDict.items():
         #named graph name only starts after /, therefore always start with /
@@ -815,7 +926,7 @@ def create_trig_file(naffile, prefix, location, outfile):
         for triple in v:
             subj, pred, obj = get_triple_components(triple, ns_dict)
             g.add((subj,pred,obj))
-            
+                    
     with open(outfile,'w') as f:
         np_g.serialize(f, format='trig', encoding='utf8')
     
@@ -851,13 +962,5 @@ def main(argv=None):
         outfile = argv[3]
         create_trig_file(inputfile, prefix, location, outfile)
     
-    
-    
-         
-         
-        
-        
-
-
 if __name__ == '__main__':
     main()
