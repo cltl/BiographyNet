@@ -23,7 +23,7 @@ class NafEvent(object):
         
 class NafRole():
     
-    def __init__(self, roleLabel = '', roleSpan = [], exrefs = [], lemma = '', roleString = '', offset = [], entityType = '', timeValue = '', wIds = [], head = ''):
+    def __init__(self, roleLabel = '', roleSpan = [], exrefs = [], lemma = '', roleString = '', offset = [], entityType = '', timeValue = '', wIds = [], head = '', pron=''):
         '''
         Role construction
         '''
@@ -37,6 +37,7 @@ class NafRole():
         self.timeValue = timeValue
         self.wIds = []
         self.head = head
+        self.pron = pron
 
 class ExternalReference():
     
