@@ -8,6 +8,7 @@ from KafNafParserPy import *
 from rdflib import Graph, Namespace, URIRef, RDF, ConjunctiveGraph, Literal
 from rdflib.plugins.memory import IOMemory
 from NafInfo import *
+from TargetInformationTagging import *
 import sys
 
 #making this counter global
@@ -72,9 +73,11 @@ def collect_time_expressions(nafobj):
     for te in timeExpressions:
         tType = te.get_type()
         tValue = te.get_value()
-        tSpan = te.get_span().get_span_ids()
-        #FIXME: make object
-        timeList.append([tType,tValue,tSpan])
+        tSpanObj = te.get_span()
+        if tSpanObj:
+            tSpan = tSpanObj.get_span_ids()
+            #FIXME: make object
+            timeList.append([tType,tValue,tSpan])
         
     return timeList
 
@@ -159,29 +162,33 @@ def interpret_external_reference(exRef):
     Function that retrieves and stores information from external reference
     '''
     ref = exRef.get_reference()
-    refconf = exRef.get_confidence()
-    refsource = exRef.get_resource()
-    subRefs = exRef.get_external_references()
-    mysubrefs = []
-    if subRefs:
-        for subref in subRefs:
-            mySubRef = interpret_external_reference(subref)
-            if mySubRef:
-                if isinstance(mySubRef, list):
-                    mysubrefs += mySubRef
-                else:
-                    mysubrefs.append(mySubRef)
+    if ref and not 'mcr:' in ref:
+        
+        refconf = exRef.get_confidence()
+        refsource = exRef.get_resource()
+        subRefs = exRef.get_external_references()
+        mysubrefs = []
+        if subRefs:
+            for subref in subRefs:
+                mySubRef = interpret_external_reference(subref)
+                if mySubRef:
+                    if isinstance(mySubRef, list):
+                        mysubrefs += mySubRef
+                    else:
+                        mysubrefs.append(mySubRef)
     #set confidence to unknown, if not given (explicitly marking uncertainty)
-    if not refconf:
-        refconf = 'unknown'
-    if refsource and ref:
-        myExRef = ExternalReference(ref, resource = refsource, confidence = refconf, exRefs = mysubrefs)
-        return myExRef
-    elif refsource:
-        return mysubrefs
-    else:
-        return None
-
+        if not refconf:
+            refconf = 'unknown'
+        if refsource and ref:
+            
+            myExRef = ExternalReference(ref, resource = refsource, confidence = refconf, exRefs = mysubrefs)
+            return myExRef
+        elif refsource:
+            return mysubrefs
+        else:
+            return None
+    
+    return None
 
 def get_term_external_references(term):
     '''
@@ -191,6 +198,9 @@ def get_term_external_references(term):
     exRefs = term.get_external_references()
     for exRef in exRefs:
         myExRef = interpret_external_reference(exRef)
+        
+        ####FILTER ONE
+        #print myExRef
         if myExRef:
             myRefs.append(myExRef)
 
@@ -371,7 +381,7 @@ def get_pron_value(nafobj, lemma, tid):
     '''
     lem2lab = {'hij':'pron_3ms',
                'hem':'pron_3ms',
-               'haar':'pron_fms',
+               'haar':'pron_3fs',
                'ik':'pron_1s',
                'me':'pron_1s',
                'jij':'pron_2s',
@@ -391,6 +401,23 @@ def get_pron_value(nafobj, lemma, tid):
     #if not a clear well-known pronoun, return the empty string
     return ''
 
+
+def get_poss_pron_value(lemma):
+    '''
+    Function that looks up the label for a specific possessive pronoun and returns this label
+    '''
+    lem2lab = {'haar':'pron_3fs',
+               'zijn':'pron_3ms',
+               'mijn':'pron_1s',
+               'jouw':'pron_2s',
+               'uw':'pron_2',
+               'ons':'pron_1p',
+               'onze':'pron_1p',
+               'jullie':'pron_2p',
+               'hun':'pron_3p'}
+    if lemma in lem2lab:
+        return lem2lab.get(lemma)
+    return ''
 
 
 def get_head_word_and_lemma(nafobj, roleSpan):
@@ -413,6 +440,8 @@ def get_head_word_and_lemma(nafobj, roleSpan):
     headWord.append(tid)
     if term.get_pos() == 'pron':    
         pron = get_pron_value(nafobj, lemma, tid)
+    elif term.get_pos() == 'det' and 'VNW(bez' in term.get_morphofeat():
+        pron = get_poss_pron_value(lemma)
     else:
         pron = ''
     headWord.append(pron)
@@ -490,6 +519,7 @@ def complete_srl_info(nafobj, srlEvents, namedEntities, timeExpressions):
                         myRole.roleLabel = roleLab
                         myEvent.roles.append(myRole)
             updatedEventsRoles[tId] = myEvent
+    
     return updatedEventsRoles               
                 
 
@@ -532,7 +562,43 @@ def get_NE_triples(nafobj, naffile, NE, BiodesId):
     NEtriples.append(mentionId + ',nif:endIndex,"' + str(offset[1]) + '"')
     NEtriples.append(mentionId + ',nif:anchorOf,"' + surfaceString + '"')
     
-    return NEtriples
+    return NEtriples, instanceId, mentionId
+
+
+def surface_triples_from_wid(nafobj, wid, prefix):
+    '''
+    Returns surface triples based on wid
+    '''
+    IDtriples = []
+    tok = nafobj.get_token(wid)
+    beginOffset = tok.get_offset()
+    IDtriples.append(prefix + '/' + wid + ',nif:beginIndex,' + beginOffset)
+    endOffset = int(beginOffset) + int(tok.get_length())
+    IDtriples.append(prefix + '/' + wid + ',nif:endIndex,' + str(endOffset))
+    IDtriples.append(prefix + '/' + wid + ',nif:anchorOf,' + tok.get_text())
+    return IDtriples
+
+def get_otherEnt_triples(nafobj, prefix, id2find, BiodesId):
+    '''
+    Create triples for loose identifiers from targeted relations
+    '''
+    
+    IDtriples = []
+    if id2find.startswith('w'):
+        IDtriples = surface_triples_from_wid(nafobj, id2find, prefix)
+    elif id2find.startswith('t_'):
+        term = nafobj.get_term(id2find)
+        lemma = term.get_lemma()
+        pron = get_pron_value(nafobj, lemma, id2find)
+        if not pron:
+            pron = get_poss_pron_value(lemma)
+        if pron:
+            wid = term.get_span().get_span_ids()[0]
+            IDtriples = surface_triples_from_wid(nafobj, wid, prefix)
+            IDtriples.append(prefix + '/' + wid + ',a,' + pron)
+            IDtriples.append(prefix + '/' + wid + ',nif:head,' + prefix + '/' + id2find)
+        
+    return IDtriples
     
 def get_predobj_from_TE_datevalue(tValue):
 
@@ -603,8 +669,10 @@ def get_basic_triples_for_role(naffile, BiodesId, role):
     if role.pron:
         roleTriples.append(mentionId + ',rdf:type,' + role.pron)
      
-        
-    return roleTriples
+    foundIds = set()
+    foundIds.add(instanceId.split('/')[1]) 
+    foundIds.add(mentionId.split('/')[1])
+    return roleTriples, foundIds
     
     
 def create_event_triples(naffile, event, BiodesId):
@@ -613,6 +681,7 @@ def create_event_triples(naffile, event, BiodesId):
     '''
     global counter
     evTriples = []
+    foundIds = set()
     instanceId = create_identifier(naffile, [event.predTid])
     mentionId = create_identifier(naffile, event.wIds)
     
@@ -638,28 +707,34 @@ def create_event_triples(naffile, event, BiodesId):
         NGname = NGprefix + str(counter)
         counter += 1
         evTriples.append(instanceId + ',rdf:type,' + value + ',' + NGname)
-        for subExRef in exRef.externalRefs:
-            if not subExRef.resource in subExRef.reference:
-                subvalue = subExRef.resource + ':' + subExRef.reference
-            else:
-                subvalue = subExRef.reference
-            if subExRef.confidence:
-                counter += 1
-                NGname = NGprefix + str(counter)
-                evTriples.append(NGname + ',nif:confidence_of_annotation,' + subExRef.confidence)
+        for mysubExRef in exRef.externalRefs:
+            if '1.1' in mysubExRef.reference:
+                for subExRef in mysubExRef.externalRefs:
+                    if not subExRef.resource in subExRef.reference:
+                        subvalue = subExRef.resource + ':' + subExRef.reference
+                    else:
+                        subvalue = subExRef.reference
+                    if subExRef.confidence:
+                        counter += 1
+                        NGname = NGprefix + str(counter)
+                        evTriples.append(NGname + ',nif:confidence_of_annotation,' + subExRef.confidence)
             #FIXME: in current output, subvalues of exref have no confidence scores, so they take the one of the main external reference
             #They are now placed in the same named graph, but this may change in the future
-            evTriples.append(instanceId + ',rdf:type,' + subvalue + ',' + NGname)
+                    evTriples.append(instanceId + ',rdf:type,' + subvalue + ',' + NGname)
         if exRef.confidence:
             #confidence scores will be in generic 'from NAF graph' (comes directly from NAF, no special remarks)
             evTriples.append(NGname + ',nif:confidence_of_annotation,' + exRef.confidence)
         
     for role in event.roles:
         if role.lemma and not role.lemma == ',':
-            role_triples = get_basic_triples_for_role(naffile, BiodesId, role)
+            role_triples, newfoundIds = get_basic_triples_for_role(naffile, BiodesId, role)
+            for nfd in newfoundIds:
+                foundIds.add(nfd)
             evTriples += role_triples
-        roleInstandceId = create_identifier(naffile, role.roleSpan)
-        evTriples.append(instanceId + ',' + role.roleLabel + ',' +  roleInstandceId)
+        roleInstanceId = create_identifier(naffile, role.roleSpan)
+        evTriples.append(instanceId + ',' + role.roleLabel + ',' +  roleInstanceId)
+        foundIds.add(roleInstanceId.split('/')[1])
+        foundIds.add(instanceId.split('/')[1])
     #This may become relevant again with the latest version of the pipeline (fn:roles)
        # for exr in role.exRefs:
        #     exrRole = exr.resource + ':' + exr.reference
@@ -668,7 +743,7 @@ def create_event_triples(naffile, event, BiodesId):
        #     evTriples.append(instanceId + ',' + exrRole + ',' + roleInstandceId + ',' + NGname)
        #     evTriples.append(NGname + ',nif:confidence_of_annotation,' + exr.confidence)
             
-    return evTriples
+    return evTriples, foundIds
             
 
 def generate_prefixes(outfile, location):
@@ -704,6 +779,7 @@ def initiate_store_graph(location):
     NIF = Namespace('http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#')
     GEONAMES = Namespace('http://www.sws.geonames.org/')
     BNPROV = Namespace('https://github.com/antske/BiographyNet/provenance/')
+    
     
     store = IOMemory()
     
@@ -743,27 +819,51 @@ def create_basic_quadriples(prefix, processId):
     myQuads.append('bgnProc:naf/' + file_id + ',prov:wasGenereatedBy,bnProv:' + processId + '/processNLP,' + basics)
     myQuads.append(begin + '/interpreted-naf,prov:wasGenereatedBy,bnProv:' + processId + '/processNAF2RDF,' + basics)
     myQuads.append(begin + '/extracted-naf,provwasGenereatedBy,bnProv:' + processId + '/processNAF2RDF,' + basics)
-    
+    #we need the proxy to assocuate thing with
     return myQuads
 
     
-def create_quadriples(naffile, prefix, location):    
+def create_quadriples(nafobj, prefix, location):    
     '''
     Function that takes naffile as input and creates a list of quadriples based on that
     '''
-    nafobj = KafNafParser(naffile)
+    
+    ###TODO: call target information from here: the entities from target must be added here as well
+    targetTriples = occupation_family_relation_linking(nafobj)
+    #collect entities
+    identififiers_to_get = set()
+    for triple in targetTriples:
+        if not 'PROXY' in triple[0]:
+            identififiers_to_get.add(triple[0])
+        if not 'PROXY' in triple[2]:
+            identififiers_to_get.add(triple[2])
+    
+    
+    file_id = prefix.split('.')[0]
+    begin = 'bgnProc:' + file_id
+    proxy = begin + '/personDes'
+    newQuadriples = resolve_proxys_and_ids_creating_target_quad(targetTriples, proxy, prefix)
+    
     myEvents, NEs, TEs = collect_naf_info(nafobj)
     #We also store the NamedGraph Name: initiate this with the generic triples about the process
     myQuadriples = create_basic_quadriples(prefix, location)
+    
+    myQuadriples += newQuadriples
     #FIXME: we need to make sure versioning is respected here as well (i.e. get some uniqueId element)
     NGdirectId = 'NG_direct_' + prefix
     #FIXME: we should check how we make the new Biodes Id
     BiodesId = 'Biodes_' + prefix
     
+    foundIds = set()
     for NE in NEs:
-        NEtriples = get_NE_triples(nafobj, prefix, NE, BiodesId)
+        NEtriples, instId, mentId = get_NE_triples(nafobj, prefix, NE, BiodesId)
         for triple in NEtriples:
+            if instId.split('/')[1] in identififiers_to_get:
+                foundIds.add(instId.split('/')[1])
+            if mentId.split('/')[1] in identififiers_to_get:
+                foundIds.add(mentId.split('/')[1])
             myQuadriples.append(triple + ',' + NGdirectId)
+    
     
     
     for TE in TEs:
@@ -772,14 +872,22 @@ def create_quadriples(naffile, prefix, location):
             myQuadriples.append(triple + ',' + NGdirectId)
                   
     for val in myEvents.values():
-        evTrips = create_event_triples(prefix, val, BiodesId)
+        evTrips, fIds = create_event_triples(prefix, val, BiodesId)
+        for fid in fIds:
+            foundIds.add(fid)
         for triple in evTrips:
             #already named graph added
             if ',NG_' in triple:
                 myQuadriples.append(triple)
             else:
                 myQuadriples.append(triple + ',' + NGdirectId)
+                
+    ids2find = identififiers_to_get - foundIds
     
+    for id2find in ids2find:
+        idTriples = get_otherEnt_triples(nafobj, prefix, id2find, BiodesId)
+        for idTrip in idTriples:
+            myQuadriples.append(idTrip + ',' + NGdirectId)
                    
     return myQuadriples
     
@@ -827,7 +935,10 @@ def create_uri_from_string(ns_dict, mystring, triple):
                 #this should not occur
                 s_idname = mystring.lstrip(s_nsname + ':')    
             s_ns = ns_dict.get(s_nsname)
-            uri = s_ns[s_idname]
+            if s_ns:
+                uri = s_ns[s_idname]
+            else:
+                uri = None
     elif mystring == 'a':
         uri = RDF.type
     else:
@@ -843,6 +954,7 @@ def get_triple_components(triple, ns_dict):
     #check in which cases the obj is a literal, then call other function
     subj = create_uri_from_string(ns_dict, triple[0], triple)
     pred = create_uri_from_string(ns_dict, triple[1], triple)
+    
     if 'nif:' in triple[1] or 'xs:' in triple[1]:
         myString = triple[2].replace('"','')
         obj = Literal(myString)
@@ -851,13 +963,47 @@ def get_triple_components(triple, ns_dict):
     
     return subj, pred, obj
     
+def resolve_proxys_and_ids(triples, proxy, prefix):
+    '''
+    goes through collection of triples and replaces 'PROXY' dummy for proxyId
+    '''
+    new_triples = []
+    for trip in triples:
+        new_trip = []
+        for unit in trip:
+            if unit == 'PROXY':
+                new_trip.append(proxy)
+            elif unit.startswith('t_') or (unit.startswith('w') and unit[-1].isdigit()):
+                new_trip.append(prefix + '/' + unit)
+            else:
+                new_trip.append(unit)
+        new_triples.append(new_trip)
+    return new_triples
+
+def resolve_proxys_and_ids_creating_target_quad(triples, proxy, prefix):
+    '''
+    goes through collection of triples and replaces 'PROXY' dummy for proxyId
+    '''
+    new_quadriples = []
+    for trip in triples:
+        new_quad = ''
+        for unit in trip:
+            if unit == 'PROXY':
+                new_quad += proxy + ','
+            elif unit.startswith('t_') or (unit.startswith('w') and unit[-1].isdigit()):
+                new_quad += prefix + '/' + unit + ','
+            else:
+                new_quad += unit + ','
+        new_quad += 'targetedExtraction'
+        new_quadriples.append(new_quad)
+    return new_quadriples   
     
 def create_trig_file(naffile, prefix, location, outfile):
     '''
     Function that creates trig file based on NAF output
     '''
-    
-    myQuads = create_quadriples(naffile, prefix, location)
+    nafobj = KafNafParser(naffile)
+    myQuads = create_quadriples(nafobj, prefix, location)
     tripleDict = restructure_quads_for_trig(myQuads)
     #main graph storing namespaces, etc.
     BGN = Namespace('http://purl.org/collections/nl/biographyned/')
@@ -880,6 +1026,9 @@ def create_trig_file(naffile, prefix, location, outfile):
     FNPB = Namespace('https://temporalurl/framenet_propbank/')
     WN = Namespace('https://temporalurl/wordnet/')
     ORE = Namespace('http://www.openarchives.org/ore/1.0/')
+    BNFAM = Namespace('http://purl.org/collections/nl/biographyned/ontologies/family#')
+    FAM = Namespace('http://www.cs.man.ac.uk/~stevensr/ontology/family.rdf.owl#')
+    DBO = Namespace('http://dbpedia.org/ontology/')
     
     store = IOMemory()
     ns_dict = {}
@@ -888,6 +1037,8 @@ def create_trig_file(naffile, prefix, location, outfile):
     #bind namespaces to graph and store them with identifier in dict
     np_g.bind('bgn',BGN)
     ns_dict['bgn'] = BGN
+    np_g.bind('dbo',DBO)
+    ns_dict['dbo'] = DBO
     np_g.bind('bgnProc',BGNProc)
     ns_dict['bgnProc'] = BGNProc
     np_g.bind('prov',PROV)
@@ -926,6 +1077,11 @@ def create_trig_file(naffile, prefix, location, outfile):
     ns_dict['WordNet'] = WN
     np_g.bind('ore',ORE)
     ns_dict['ore'] = ORE
+    np_g.bind('bnFam',BNFAM)
+    ns_dict['bnFam'] = BNFAM
+    np_g.bind('stevensFam',FAM)
+    ns_dict['stevensFam'] = FAM
+    
     
     for k, v in tripleDict.items():
         #named graph name only starts after /, therefore always start with /
@@ -933,7 +1089,19 @@ def create_trig_file(naffile, prefix, location, outfile):
         g = Graph(store=store, identifier=ng_name)
         for triple in v:
             subj, pred, obj = get_triple_components(triple, ns_dict)
-            g.add((subj,pred,obj))
+            if subj and pred and obj:
+                g.add((subj,pred,obj))
+                    
+    
+   # targetTriples = occupation_family_relation_linking(nafobj)
+   # newTriples = resolve_proxys_and_ids(targetTriples, proxy, prefix)
+   # ng_name = URIRef('/targetedExtraction')
+   # g = Graph(store=store, identifier=ng_name)
+    
+   # for triple in newTriples:
+   #     subj, pred, obj = get_triple_components(triple, ns_dict)
+   #     if subj and pred and obj:
+   #         g.add((subj,pred,obj))               
                     
     with open(outfile,'w') as f:
         np_g.serialize(f, format='trig', encoding='utf8')
