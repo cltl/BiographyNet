@@ -541,7 +541,7 @@ def is_single_np_pattern(dep_pattern):
     singlePhrase = True
     for drel in dep_pattern:
         if 'hd' in drel and not 'mod' in drel:
-            singePhrase = False
+            singlePhrase = False
     return singlePhrase
 
 
@@ -603,14 +603,15 @@ def entities_from_known_prof_pattern(nafobj, profSpans, sent2entity):
                     depchain = obtain_depchain_entity_tid(nafobj, depextr, entity, mark_tid)
                 else:
                     depchain = obtain_depchain_markable_wid(nafobj, depextr, entity, mark_tid)
+                    
                 if is_single_np_pattern(depchain):
                     if not prof in prof2entities:
                         prof2entities[prof] = [entity]
                     else:
                         prof2entities[prof].append(entity)
-                    
-                        
+                                       
     #reduce multiple entries to one
+    print prof2entities
     prof2ent = {}
     for p, ents in prof2entities.items():
         if len(ents) == 1:
@@ -698,6 +699,7 @@ def reform_identified_entities(nafobj, targets2ents, sent2entity):
             tok = nafobj.get_token(headwid)
             sent_nr = tok.get_sent()
             myent = ''
+            
             if sent_nr in sent2entity:
                 for ent in sent2entity.get(sent_nr):
                     if isinstance(ent, entity_data.Centity):
@@ -709,9 +711,9 @@ def reform_identified_entities(nafobj, targets2ents, sent2entity):
                     if my_ent_term in eSpan:
                         myent = ent
             if myent:
-                entityId = get_entity_bio_id(nafobj, ent)
+                entityId = get_entity_bio_id(nafobj, myent)
                 target2entity[t] = entityId            
-                    
+            
             
         if len(ents) > 1:
             print >> sys.stderr, 'term is predicative to more than one element'
@@ -728,7 +730,9 @@ def find_copula_structures(targetSpans, dep_dict, head_dict, nafobj, sent2entity
         for wid in span:
             termId = get_term_that_includes_token(nafobj, wid)
             deps = dep_dict.get(termId)
+            #print wid, deps
             for info in deps:
+                
                 if 'hd/predc' in info[1]:
                     headOfent = info[0]
                     entity = find_heads_dep(head_dict, headOfent, 'hd/su')
@@ -739,6 +743,20 @@ def find_copula_structures(targetSpans, dep_dict, head_dict, nafobj, sent2entity
                             targets2ents[t].append(entity)
                     else:
                         print >> sys.stderr, 'INFO: no subject found in predicative structure for', headOfent
+                elif 'crd/cnj' in info[1]:
+                    headOfent = info[0]
+                    onedepsup = dep_dict.get(headOfent)
+                    for upinfo in onedepsup:
+                        if 'hd/predc' in upinfo[1]:
+                            headOfent = info[0]
+                            entity = find_heads_dep(head_dict, headOfent, 'hd/su')
+                            if entity:
+                                if not t in targets2ents:
+                                    targets2ents[t] = [entity]
+                                else:
+                                    targets2ents[t].append(entity)
+                            else:
+                                print >> sys.stderr, 'INFO: no subject found in predicative structure for', headOfent
     #reduce entity to one per target and see if it is a named entity
     target2entity = reform_identified_entities(nafobj, targets2ents, sent2entity)
     
@@ -853,7 +871,7 @@ def identify_as_occupation_relations(nafobj, dep_dict, head_dict, targetSpans, s
     target2entity = {}
     for t, ents in targets2ents.items():
         entityId = get_entity_bio_id(nafobj, ents[0])
-        #my_ent_term = entityId
+        my_ent_term = entityId
         term = nafobj.get_term(ents[0])
         #if pronoun, do nothing
         if term.get_pos() == 'pron':
@@ -866,11 +884,11 @@ def identify_as_occupation_relations(nafobj, dep_dict, head_dict, targetSpans, s
             myent = ''
             if sent_nr in sent2entity:
                 for ent in sent2entity.get(sent_nr):
-                    if (ent, entity_data.Centity):
+                    if isinstance(ent, entity_data.Centity):
                         eSpan = get_entity_span(nafobj, ent)
                     else:
                         wSpan = ent.get_span().get_span_ids()
-                        eSpan = get_term_span_from_tokspan(nafobj, wspan)
+                        eSpan = get_term_span_from_tokspan(nafobj, wSpan)
                     if my_ent_term in eSpan:
                         myent = ent
             if myent:
@@ -893,7 +911,6 @@ def identify_possessive_relations(nafobj, famRelSpans, head_dict):
     for fam, wspan in famRelSpans.items():
         #family names in our ontology are only one word
         termId = get_term_that_includes_token(nafobj, wspan[0])
-        print termId
         depRels = head_dict.get(termId)
         #not every term is a head
         if depRels:
@@ -936,7 +953,9 @@ def identify_family_of_patterns(nafobj, famRelSpans, sent2entity, head_dict):
                                                 famOfX[fam] = [dep[0]]
                                             else:
                                                 famOfX[fam].append(dep[0])
+                                                
     #check if entity
+    
     famOfXfin = {}                              
     for fam, ents in famOfX.items():
         for ent in ents:
@@ -944,7 +963,6 @@ def identify_family_of_patterns(nafobj, famRelSpans, sent2entity, head_dict):
             wspan = term.get_span().get_span_ids()
             mytok = nafobj.get_token(wspan[0])
             sent_nr = mytok.get_sent()
-        
             if sent_nr in sent2entity:
                 for myent in sent2entity.get(sent_nr):
                     
@@ -961,8 +979,9 @@ def identify_family_of_patterns(nafobj, famRelSpans, sent2entity, head_dict):
                             famOfXfin[fam].append(myent)
                    
                     #else keep termId, we'll check later if it belongs to a profession
-                    elif not fam in famOfXfin:
-                        famOfXfin[fam] = [myent]
+            if not fam in famOfXfin:
+                famOfXfin[fam] = [ent]
+    
     return famOfXfin
                         
                     
@@ -984,8 +1003,7 @@ def extract_Ofwhom_family(nafobj, famRelSpans, sent2entity, head_dict):
             for v in val:
                 famOfXvan.append(v)
         else:
-            famOfXvan[fam] = val     
-
+            famOfXvan[fam] = val  
     return famOfXvan
 
 
@@ -1072,14 +1090,29 @@ def subj_of_copula(targetSpans, dep_dict, head_dict, nafobj, sent2entity):
                 if 'hd/su' in info[1]:
                     headOfent = info[0]
                     entity = find_heads_dep(head_dict, headOfent, 'hd/predc')
+                    
                     if entity:
                         if not t in targets2ents:
                             targets2ents[t] = [entity]
                         else:
                             targets2ents[t].append(entity)
+                elif 'crd/cnj' in info[1]:
+                    depsup = dep_dict.get(info[0])
+                    for info in depsup:
+                        if 'hd/su' in info[1]:
+                            headOfent = info[0]
+                            entity = find_heads_dep(head_dict, headOfent, 'hd/predc')
+                            if entity:
+                                print t, entity
+                                if not t in targets2ents:
+                                    targets2ents[t] = [entity]
+                                else:
+                                    targets2ents[t].append(entity)
                     
     #check if only one entity and if named ent (retrieving the named entity)
+   
     target2entity = reform_identified_entities(nafobj, targets2ents, sent2entity)
+    print target2entity
     return target2entity
 
 def extract_who_is_family(nafobj, famRelSpans, sent2entity, dep_dict, head_dict):
@@ -1087,11 +1120,14 @@ def extract_who_is_family(nafobj, famRelSpans, sent2entity, dep_dict, head_dict)
     Functions that determine who the family member is
     '''
     #patterns
+    
     famMems = identify_family_member_in_pattern(nafobj, famRelSpans, sent2entity)
     #copula
+   
     famMems.update(find_copula_structures(famRelSpans, dep_dict, head_dict, nafobj, sent2entity))
     
     famMems.update(subj_of_copula(famRelSpans, dep_dict, head_dict, nafobj, sent2entity))
+    
     
     
     return famMems
@@ -1133,15 +1169,20 @@ def create_family_triples(nafobj, fam_members, famOfX):
                 for tObj in tripObjs:
                     if isinstance(tObj, entity_data.Centity):
                         obBioId = get_entity_bio_id(nafobj, tObj)
+                    elif isinstance(tObj, str):
+                        obBioId = tObj
+                    else:
+                        obBioId = ''
+                    if obBioId:    
                         new_trip = []   
                         for t in triple:
                             new_trip.append(t)
                         new_trip.append(obBioId)
                         my_triples.append(new_trip)
                         intriple.add(f)
-                    else:
-                        print >> sys.stderr, tObj
-            #else:
+                    
+                            
+            #else:    
             #    print f, mem, triple
  
     for f, x in famOfX.items():
@@ -1168,7 +1209,7 @@ def occupation_family_relation_linking(nafobj):
     '''
     Checks for all found occupations who they belong to
     '''
-    
+    print '++++++++++++'
     #collect professions, family terms and other relevant information
     profSpans, famRelSpans, otherInfo = create_prof_fam_dicts(nafobj)
     dep_dict = create_dep_dict(nafobj)
@@ -1184,6 +1225,7 @@ def occupation_family_relation_linking(nafobj):
     
     prof2ent.update(find_copula_structures(profSpans, dep_dict, head_dict, nafobj, sent2entity))
     #3. again: only those we don't have yet
+    
     profSpans = update_prof_spandict(profSpans, prof2ent)
     #3. see if part of 'als' structure: link to head noun or other most likely candidate noun
     prof2ent.update(identify_as_occupation_relations(nafobj, dep_dict, head_dict, profSpans, sent2entity))
@@ -1191,11 +1233,13 @@ def occupation_family_relation_linking(nafobj):
     
     #create triples based on prof2ent information
     mytriples = get_related_triples(prof2ent, nafobj, otherInfo)
-    
+
     #maps markables to of whom family members
     famOfX = extract_Ofwhom_family(nafobj, famRelSpans, sent2entity, head_dict)
+    
     #obtain who is family member
     fam_members = extract_who_is_family(nafobj, famRelSpans, sent2entity, dep_dict, head_dict)
+    
     #patterns: if named entity before or after, no prep or verb in between
     #predicative in both directions
     fam_triples = create_family_triples(nafobj, fam_members, famOfX)
