@@ -260,8 +260,7 @@ def identify_study_institute(nafobj, wids):
             rel_wids += identify_corresponding_wid(nafobj, wids, k)
             
     return institutes, rel_wids
-    #uses tsv file as input
-    'http://www.seminarium.doopsgezind.nl'
+    #uses tsv file as input 'http://www.seminarium.doopsgezind.nl'
 
 
 def identify_study_topic(nafobj, wids):
@@ -325,6 +324,7 @@ def checks_multiple_validity(event, oldvals, surface_string):
     else:
         newval = [oldvals[0]]
         return newval, False
+  
             
 def check_for_uncertainty(surface_string):
     '''
@@ -923,6 +923,18 @@ def identify_possessive_relations(nafobj, famRelSpans, head_dict):
     return famOfX
 
 
+def obtain_mw_entity(tid, head_dict):
+
+    myrels = head_dict.get(tid)
+    mw_terms = []
+    for dep in myrels:
+        if 'mwp/mwp' in dep[1]:
+            mw_terms.append(dep[0])
+
+    return mw_terms
+
+
+
 def identify_family_of_patterns(nafobj, famRelSpans, sent2entity, head_dict):
     '''
     identifies structures such as brother van X
@@ -963,9 +975,9 @@ def identify_family_of_patterns(nafobj, famRelSpans, sent2entity, head_dict):
             wspan = term.get_span().get_span_ids()
             mytok = nafobj.get_token(wspan[0])
             sent_nr = mytok.get_sent()
+            found = False
             if sent_nr in sent2entity:
                 for myent in sent2entity.get(sent_nr):
-                    
                     if isinstance(myent, entity_data.Centity):
                         eSpan = get_entity_span(nafobj, myent)
                     else:
@@ -973,15 +985,37 @@ def identify_family_of_patterns(nafobj, famRelSpans, sent2entity, head_dict):
                         eSpan = get_term_span_from_tokspan(nafobj, wSpan)
                     #store entity if entity
                     if ent in eSpan:
+                        found = True
                         if not fam in famOfXfin:
                             famOfXfin[fam] = [myent]
                         else:
                             famOfXfin[fam].append(myent)
+                if not found:
+                    #check if entity part of multiword and if this has overlapping spans
+                    mw_chain = obtain_mw_entity(ent, head_dict)
+                    if mw_chain:
+                        for myent in sent2entity.get(sent_nr):
+                            if isinstance(myent, entity_data.Centity):
+                                eSpan = get_entity_span(nafobj, myent)
+                            else:
+                                wSpan = myent.get_span().get_span_ids()
+                                eSpan = get_term_span_from_tokspan(nafobj, wSpan)
+                            for e in mw_chain:
+                                if e in eSpan and not found:
+                                    found = True
+                                    if not fam in famOfXfin:
+                                        famOfXfin[fam] = [myent]
+                                    else:
+                                        famOfXfin[fam].append(myent)
+                    #store entity if entity
                    
+                                         
+                    if not found:
+                        if not fam in famOfXfin:
+                            famOfXfin[fam] = [ent]
+                        else:
+                            famOfXfin[fam].append(ent)
                     #else keep termId, we'll check later if it belongs to a profession
-            if not fam in famOfXfin:
-                famOfXfin[fam] = [ent]
-    
     return famOfXfin
                         
                     
@@ -1209,7 +1243,6 @@ def occupation_family_relation_linking(nafobj):
     '''
     Checks for all found occupations who they belong to
     '''
-    print '++++++++++++'
     #collect professions, family terms and other relevant information
     profSpans, famRelSpans, otherInfo = create_prof_fam_dicts(nafobj)
     dep_dict = create_dep_dict(nafobj)
