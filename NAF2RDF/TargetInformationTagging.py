@@ -491,12 +491,15 @@ def create_entity_sentence_dict(nafobj):
     Stores the entities occurring in a specific sentence
     '''
     sent2entity = {}
+    term2entity = {}
     for entity in nafobj.get_entities():
         if entity.get_type() == 'PER':
             #for now entity typically has only one ref (each ref has own entity entry coreference is found in coref layer)
             for reference in entity.get_references():
                 ref = reference
             span = ref.get_span().get_span_ids()
+            for term in span:
+                term2entity[term] = entity
             term = nafobj.get_term(span[0])
             tspan = term.get_span().get_span_ids()
             tok = nafobj.get_token(tspan[0])
@@ -519,7 +522,7 @@ def create_entity_sentence_dict(nafobj):
                     sent2entity[sent_nr] = [markable]
 
 
-    return sent2entity
+    return sent2entity, term2entity
 
 
 def get_term_that_includes_token(nafobj, tokId):
@@ -927,9 +930,10 @@ def obtain_mw_entity(tid, head_dict):
 
     myrels = head_dict.get(tid)
     mw_terms = []
-    for dep in myrels:
-        if 'mwp/mwp' in dep[1]:
-            mw_terms.append(dep[0])
+    if myrels:
+        for dep in myrels:
+            if 'mwp/mwp' in dep[1]:
+                mw_terms.append(dep[0])
 
     return mw_terms
 
@@ -1018,8 +1022,59 @@ def identify_family_of_patterns(nafobj, famRelSpans, sent2entity, head_dict):
                     #else keep termId, we'll check later if it belongs to a profession
     return famOfXfin
                         
-                    
+        
+        
+def get_marriage_rels(nafobj, head_dict, tid, lemma):
+    '''
+    Identifies the depedents of a term introducing marriage
+    '''
+    deps = head_dict.get(tid)
+    marrying_one = ''
+    marrying_two = ''
+    for dep in deps:
+        if 'hd/su' in dep[1]:
+            marrying_one = dep[0]
+        elif 'hd/pc' in dep[1]:
+            embedded = head_dict.get(dep[0])
+            for embed in embedded:
+                if 'hd/obj1' in embed[1]:
+                    marrying_two = embed[0]
+        elif 'hd/obj1' in dep[1]:
+            marrying_two = dep[0]
             
+    return marrying_one, marrying_two
+        
+        
+def in_exRefs(term, reference):
+    '''Checks if a specific string is provided in the external references of an object that has them'''
+    for exRef in term.get_external_references():
+        if exRef.get_reference() == reference:
+            return True
+        if in_exRefs(exRef, reference):
+            return True
+        
+    return False
+        
+                    
+def identify_marriage_info(nafobj, head_dict):
+    '''
+    Function that extracts marriage events and obtains related information
+    '''    
+    marriages = {}
+    for term in nafobj.get_terms():
+        if term.get_lemma() in ['huwen','trouwen','huwelijk']:
+            marriages[term.get_id()] = term.get_lemma()
+        elif in_exRefs(term, 'fn:marry.v'):
+            marriages[term.get_id()] = term.get_lemma()
+            
+    partner_sets = []
+    for marriage, lemma in marriages.items():
+        partner1, partner2 = get_marriage_rels(nafobj, head_dict, marriage, lemma)
+        partner_sets.append([partner1, partner2])
+        
+    return partner_sets
+    
+        
 
 
 def extract_Ofwhom_family(nafobj, famRelSpans, sent2entity, head_dict):
@@ -1146,7 +1201,7 @@ def subj_of_copula(targetSpans, dep_dict, head_dict, nafobj, sent2entity):
     #check if only one entity and if named ent (retrieving the named entity)
    
     target2entity = reform_identified_entities(nafobj, targets2ents, sent2entity)
-    print target2entity
+    #print target2entity
     return target2entity
 
 def extract_who_is_family(nafobj, famRelSpans, sent2entity, dep_dict, head_dict):
@@ -1176,6 +1231,57 @@ def get_namespace(exRef):
     else:
         prefix = 'bnFam:'
     return prefix
+
+
+
+def link_term_to_person(nafobj, termId, term2entity, head_dict):
+    '''
+    Checks if specific term can be linked to a person or not
+    '''
+    if termId in term2entity:
+        return term2entity.get(termId)
+    else:
+        term = nafobj.get_term(termId)
+        if term.get_pos() == 'pron':
+            return termId
+        else:
+            deps = head_dict.get(termId)
+            for dep in deps:
+                if 'hd/app' in dep[1] or 'mwp/mwp' in dep[1]:
+                    if dep[0] in term2entity:
+                        return term2entity.get(dep[0])
+                    #FIXME: create recursive function for this
+                    embed = head_dict.get(dep[0])
+                    for edep in embed:
+                        if 'hd/app' in edep[1] or 'mwp/mwp' in edep[1]:
+                            if edep[0] in term2entity:
+                                return term2entity.get(dep[0])
+             
+                elif 'crd/cnj' in dep[1]:
+                    embedded = head_dict.get(dep[0])
+                    if embedded:
+                        for embdep in embedded:
+                            if 'hd/app' in embdep[1] or 'mwp/mwp' in embdep[1]:
+                                if embdep[0] in term2entity:
+                                    return term2entity.get(embdep[0])
+                                femdeps = head_dict.get(embdep[0])
+                                if femdeps:
+                                    print femdeps
+                                    for fdep in femdeps:
+                                        if 'hd/app' in fdep[1] or 'mwp/mwp' in fdep[1]:
+                                                if fdep[0] in term2entity:
+                                                    return term2entity.get(fdep[0])
+            print 'NOT FOUND MARRIAGE NOW', termId
+            return termId
+
+
+def fill_in_marriage_partners(nafobj, term2entity, married, head_dict):
+    
+    for couple in married:
+        print couple, 'NO ENTITIES YET'
+        ent1 = link_term_to_person(nafobj, couple[0], term2entity, head_dict)
+        ent2 = link_term_to_person(nafobj, couple[1], term2entity, head_dict)
+        print ent1, ent2, 'MARRIED'
 
 
 def create_family_triples(nafobj, fam_members, famOfX):
@@ -1216,8 +1322,6 @@ def create_family_triples(nafobj, fam_members, famOfX):
                         intriple.add(f)
                     
                             
-            #else:    
-            #    print f, mem, triple
  
     for f, x in famOfX.items():
         #we already have triples for markables in intriple
@@ -1248,7 +1352,7 @@ def occupation_family_relation_linking(nafobj):
     dep_dict = create_dep_dict(nafobj)
     head_dict = create_head_dict(nafobj)
     #create dictionary that indicates entities mentioned in a sentence
-    sent2entity = create_entity_sentence_dict(nafobj)
+    sent2entity, term2entity = create_entity_sentence_dict(nafobj)
     #1. see if part of pattern
     prof2ent = entities_from_known_prof_pattern(nafobj, profSpans, sent2entity)
     
@@ -1273,6 +1377,9 @@ def occupation_family_relation_linking(nafobj):
     #obtain who is family member
     fam_members = extract_who_is_family(nafobj, famRelSpans, sent2entity, dep_dict, head_dict)
     
+    partner_sets = identify_marriage_info(nafobj, head_dict)
+    
+    fill_in_marriage_partners(nafobj, term2entity, partner_sets, head_dict)
     #patterns: if named entity before or after, no prep or verb in between
     #predicative in both directions
     fam_triples = create_family_triples(nafobj, fam_members, famOfX)

@@ -21,7 +21,7 @@ def identify_specific_info_from_tokens(nafobj):
     '''
     Function that goes through the token layer
     '''
-
+    a = 1
 
 
 def retrieve_events_and_roles(nafobj):
@@ -770,7 +770,7 @@ def initiate_store_graph(location):
     Function that takes opened outfile and adds prefixes (csv, two fields (pref name + reference))
     '''
     
-    BGN = Namespace('http://purl.org/collections/nl/biographyned/')
+    BGN = Namespace('http://data.biographynet.nl/rdf/')
     BGNProc = Namespace('http://purl.org/collections/nl/biographyned/' + location + '/')
     PROV = Namespace('http://www.w3.org/TR/prov-o/')
     PPLAN = Namespace('http://purl.org/net/p-plan#')
@@ -806,19 +806,20 @@ def create_basic_quadriples(prefix, processId):
     file_id = prefix.split('.')[0]
     person_id = file_id.split('_')[0]
     basics = 'bgnProc:' + file_id + '/basics'
-    begin = 'bgnProc:' + file_id
-    myQuads.append(begin + '/biodes,a,bgn:BioDes,' + basics)
-    myQuads.append(begin + '/biodes,bgn:aggregatedPerson,bgn:person/' + person_id + ',' + basics)
-    myQuads.append(begin + '/biodes,prov:wasDerivedFrom,bgn:original/' + file_id + '.xml,' + basics)
-    myQuads.append(begin + '/biodes,prov:wasGeneratedBy,bnProv:' + processId + '/processTotal,' + basics)
-    myQuads.append(begin + '/personDes,ore:proxyIn,' + begin + '/biodes,' + basics)
-    myQuads.append(begin + '/personDes,ore:proxyFor,bgn:person/' + person_id + ',' + basics)
+    begin = 'bgn:' + file_id
+    #should be proxy id
+    myQuads.append(begin + '-' + processId + ',a,bgn:BioDes,' + basics)
+    myQuads.append(begin + '-' + processId + ',bgn:aggregatedPerson,bgn:Person-' + person_id + ',' + basics)
+    myQuads.append(begin + '-' + processId + ',prov:wasDerivedFrom,bgn:original/' + file_id + '.xml,' + basics)
+    myQuads.append(begin + '-' + processId + ',prov:wasGeneratedBy,bnProv:' + processId + '/processTotal,' + basics)
+    myQuads.append(begin + '/personDes,ore:proxyIn,' + begin + '-' + processId + ',' + basics)
+    myQuads.append(begin + '/personDes,ore:proxyFor,bgn:Person-' + person_id + ',' + basics)
     myQuads.append(begin + '/interpreted-naf,prov:wasDerivedFrom,bgnProc:naf/' + file_id + ',' + basics)
     myQuads.append(begin + '/extracted-naf,prov:wasDerivedFrom,bgnProc:naf/' + file_id + ',' + basics)
-    myQuads.append('bgnProc:naf/' + file_id + ',prov:wasDerivedFrom,bgn:orgiginal' + file_id + '.xml,' + basics)
-    myQuads.append('bgnProc:naf/' + file_id + ',prov:wasGenereatedBy,bnProv:' + processId + '/processNLP,' + basics)
+    myQuads.append('bgnProc:naf/' + file_id + ',prov:wasDerivedFrom,bgn:original' + file_id + '.xml,' + basics)
+    myQuads.append('bgnProc:naf/' + file_id + ',prov:wasGeneratedBy,bnProv:' + processId + '/processNLP,' + basics)
     myQuads.append(begin + '/interpreted-naf,prov:wasGenereatedBy,bnProv:' + processId + '/processNAF2RDF,' + basics)
-    myQuads.append(begin + '/extracted-naf,provwasGenereatedBy,bnProv:' + processId + '/processNAF2RDF,' + basics)
+    myQuads.append(begin + '/extracted-naf,prov:wasGeneratedBy,bnProv:' + processId + '/processNAF2RDF,' + basics)
     #we need the proxy to assocuate thing with
     return myQuads
 
@@ -830,6 +831,11 @@ def create_quadriples(nafobj, prefix, location):
     
     ###TODO: call target information from here: the entities from target must be added here as well
     targetTriples = occupation_family_relation_linking(nafobj)
+    outfile = open('evaluation/' + prefix, 'w')
+    
+    for triple in targetTriples:
+        outfile.write(','.join(triple) + '\n')
+    outfile.close()
     #collect entities
     identififiers_to_get = set()
     for triple in targetTriples:
@@ -845,7 +851,7 @@ def create_quadriples(nafobj, prefix, location):
     newQuadriples = resolve_proxys_and_ids_creating_target_quad(targetTriples, proxy, prefix)
     
     myEvents, NEs, TEs = collect_naf_info(nafobj)
-    #We also store the NamedGraph Name: initiate this with the generic triples about the process
+    #We also store the Named Graph Name: initiate this with the generic triples about the process
     myQuadriples = create_basic_quadriples(prefix, location)
     
     myQuadriples += newQuadriples
