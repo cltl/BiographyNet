@@ -13,7 +13,8 @@ from KafNafParserPy import *
 #global dictionaries that map strings to specific educations and institutes
 inst_dict = {}
 educ_dict = {}
-
+#dependency extractor: needed at various points, declared globally
+my_dependency_extractor = ''
 
 
 def initiate_mapping_dictionaries(inst_file, education_file):
@@ -614,7 +615,6 @@ def entities_from_known_prof_pattern(nafobj, profSpans, sent2entity):
                         prof2entities[prof].append(entity)
                                        
     #reduce multiple entries to one
-    print prof2entities
     prof2ent = {}
     for p, ents in prof2entities.items():
         if len(ents) == 1:
@@ -1022,7 +1022,21 @@ def identify_family_of_patterns(nafobj, famRelSpans, sent2entity, head_dict):
                     #else keep termId, we'll check later if it belongs to a profession
     return famOfXfin
                         
-        
+   
+   
+def get_sem_head_marriage_construction(nafobj, deps, head_dict): 
+    
+    for dep in deps:
+        if 'hd/svp' in dep[1]:
+            prep = nafobj.get_term(dep[0])
+            if prep.get_lemma() == 'in':
+                subdeps = head_dict.get(dep[0])
+                for sdep in subdeps:
+                    if 'hd/obj1' in sdep[1]:
+                        event_term = nafobj.get_term(sdep[0])
+                        if event_term.get_lemma() == 'huwelijk':
+                            return sdep[0]
+    return None   
         
 def get_marriage_rels(nafobj, head_dict, tid, lemma):
     '''
@@ -1031,20 +1045,68 @@ def get_marriage_rels(nafobj, head_dict, tid, lemma):
     deps = head_dict.get(tid)
     marrying_one = ''
     marrying_two = ''
-    for dep in deps:
-        if 'hd/su' in dep[1]:
-            marrying_one = dep[0]
-        elif 'hd/pc' in dep[1]:
-            embedded = head_dict.get(dep[0])
-            for embed in embedded:
-                if 'hd/obj1' in embed[1]:
-                    marrying_two = embed[0]
-        elif 'hd/obj1' in dep[1]:
-            marrying_two = dep[0]
+    if 'trouw' in lemma:
+        for dep in deps:
+            if 'hd/su' in dep[1]:
+                marrying_one = dep[0]
+            elif 'hd/pc' in dep[1]:
+                embedded = head_dict.get(dep[0])
+                for embed in embedded:
+                    if 'hd/obj1' in embed[1]:
+                        marrying_two = embed[0]
+            elif 'hd/obj1' in dep[1]:
+                marrying_two = dep[0]
+    elif 'huwelijk' in lemma:
+        #FIXME: HUWELIJK is headed by support verb...
+        for dep in deps:
+            if 'hd/mod' in dep[1]:
+                headterm = nafobj.get_term(dep[0])
+                if headterm.get_pos() == 'prep':
+                    if headterm.get_lemma() == 'tussen':
+                        coordinator = head_dict.get(dep[0])
+                        coordinates = head_dict.get(coordinator[0][0])
+                        marrying_one = coordinates[0][0]
+                        marrying_two = coordinates[1][0]
+                    elif headterm.get_lemma() == 'met':
+                        complement = head_dict.get(dep[0])
+                        marrying_two = complement[0][0]
+            elif 'hd/det' in dep[1]:
+                determiner = nafobj.get_term(dep[0])
+                if 'VNW(bez' in determiner.get_morphofeat():
+                    marrying_one = dep[0]
+    elif 'huwen' in lemma:
+        for dep in deps:
+            if 'hd/su' in dep[1]:
+                marrying_one = dep[0]
+            elif 'hd/pc' in dep[1] or 'hd/mod' in dep[1]:
+                depterm = nafobj.get_term(dep[0])
+                if 'met' in depterm.get_lemma():
+                    subdeps = head_dict.get(dep[0])
+                    for sdep in subdeps:
+                        if 'hd/obj1' in sdep[1]:
+                            marrying_two = sdep[0]
+    elif 'treden' in lemma:
+        sem_head = get_sem_head_marriage_construction(nafobj, deps, head_dict)
+        if sem_head != None:
+            for dep in deps:
+                if 'hd/su' in dep:
+                    marrying_one = dep[0]
+                elif 'hd/pc' in dep:
+                    headterm = nafobj.get_term(dep[0])
+                    if headterm.get_lemma() == 'met':
+                        complement = head_dict.get(dep[0])
+                        marrying_two = complement[0][0]
+            sem_deps = head_dict.get(sem_head)
+            for sdep in sem_deps:
+                if 'hd/mod' in sdep[1]:
+                    headterm = nafobj.get_term(sdep[0])
+                    if headterm.get_lemma() == 'met':
+                        complement = head_dict.get(sdep[0])
+                        marrying_two = complement[0][0]
+                
             
     return marrying_one, marrying_two
-        
-        
+
 def in_exRefs(term, reference):
     '''Checks if a specific string is provided in the external references of an object that has them'''
     for exRef in term.get_external_references():
@@ -1054,7 +1116,7 @@ def in_exRefs(term, reference):
             return True
         
     return False
-        
+
                     
 def identify_marriage_info(nafobj, head_dict):
     '''
@@ -1062,10 +1124,11 @@ def identify_marriage_info(nafobj, head_dict):
     '''    
     marriages = {}
     for term in nafobj.get_terms():
-        if term.get_lemma() in ['huwen','trouwen','huwelijk']:
+        if term.get_lemma() in ['huwen','trouwen','huwelijk','treden']:
             marriages[term.get_id()] = term.get_lemma()
         elif in_exRefs(term, 'fn:marry.v'):
             marriages[term.get_id()] = term.get_lemma()
+            
             
     partner_sets = []
     for marriage, lemma in marriages.items():
@@ -1192,7 +1255,7 @@ def subj_of_copula(targetSpans, dep_dict, head_dict, nafobj, sent2entity):
                             headOfent = info[0]
                             entity = find_heads_dep(head_dict, headOfent, 'hd/predc')
                             if entity:
-                                print t, entity
+                                print >> sys.stderr, t, entity, 'PRINTING t, entity'
                                 if not t in targets2ents:
                                     targets2ents[t] = [entity]
                                 else:
@@ -1233,11 +1296,13 @@ def get_namespace(exRef):
     return prefix
 
 
-
 def link_term_to_person(nafobj, termId, term2entity, head_dict):
     '''
     Checks if specific term can be linked to a person or not
     '''
+    global my_dependency_extractor
+    
+    
     if termId in term2entity:
         return term2entity.get(termId)
     else:
@@ -1245,7 +1310,32 @@ def link_term_to_person(nafobj, termId, term2entity, head_dict):
         if term.get_pos() == 'pron':
             return termId
         else:
+            #FIXME: get_full_dependents should have default empty list as second argument
+            all_depterms = my_dependency_extractor.get_full_dependents(termId, [])
+            for subdep in all_depterms:
+                if subdep in term2entity:
+                    return term2entity.get(subdep)
+    #FIXME: decide what to do if no satisfying interpretation is found
+    return termId
+      
+
+
+
+def link_term_to_person_old(nafobj, termId, term2entity, head_dict):
+    '''
+    Checks if specific term can be linked to a person or not
+    '''
+    global my_dependency_extractor
+    
+    if termId in term2entity:
+        return term2entity.get(termId)
+    else:
+        term = nafobj.get_term(termId)
+        if term.get_pos() == 'pron':
+            return termId
+        elif termId in head_dict:
             deps = head_dict.get(termId)
+            
             for dep in deps:
                 if 'hd/app' in dep[1] or 'mwp/mwp' in dep[1]:
                     if dep[0] in term2entity:
@@ -1266,22 +1356,37 @@ def link_term_to_person(nafobj, termId, term2entity, head_dict):
                                     return term2entity.get(embdep[0])
                                 femdeps = head_dict.get(embdep[0])
                                 if femdeps:
-                                    print femdeps
+                                    print >> sys.stderr, femdeps, 'PRINTING femdeps'
                                     for fdep in femdeps:
                                         if 'hd/app' in fdep[1] or 'mwp/mwp' in fdep[1]:
                                                 if fdep[0] in term2entity:
                                                     return term2entity.get(fdep[0])
-            print 'NOT FOUND MARRIAGE NOW', termId
+            return termId
+        else:
+            #FIXME: decide what to do with terms such as 'Japanners'
             return termId
 
 
 def fill_in_marriage_partners(nafobj, term2entity, married, head_dict):
     
+    partner_triples = []
     for couple in married:
-        print couple, 'NO ENTITIES YET'
-        ent1 = link_term_to_person(nafobj, couple[0], term2entity, head_dict)
-        ent2 = link_term_to_person(nafobj, couple[1], term2entity, head_dict)
-        print ent1, ent2, 'MARRIED'
+        if len(couple[0]) > 0:
+            ent1 = link_term_to_person(nafobj, couple[0], term2entity, head_dict)
+        else:
+            ent1 = None
+        if len(couple[1]) > 0:
+            ent2 = link_term_to_person(nafobj, couple[1], term2entity, head_dict)
+        else:
+            ent2 = None
+        if ent1 and ent2:
+            if isinstance(ent1, entity_data.Centity):
+                ent1 = get_entity_bio_id(nafobj, ent1)
+            if isinstance(ent2, entity_data.Centity):
+                ent2 = get_entity_bio_id(nafobj, ent2)
+            partner_triple = [ent1,'stevensFam:isPartnerIn',ent2]
+            partner_triples.append(partner_triple)
+    return partner_triples
 
 
 def create_family_triples(nafobj, fam_members, famOfX):
@@ -1347,6 +1452,11 @@ def occupation_family_relation_linking(nafobj):
     '''
     Checks for all found occupations who they belong to
     '''
+    #initiate dependency extractor
+    global my_dependency_extractor
+    my_dependency_extractor = nafobj.get_dependency_extractor()
+    
+    
     #collect professions, family terms and other relevant information
     profSpans, famRelSpans, otherInfo = create_prof_fam_dicts(nafobj)
     dep_dict = create_dep_dict(nafobj)
@@ -1379,7 +1489,14 @@ def occupation_family_relation_linking(nafobj):
     
     partner_sets = identify_marriage_info(nafobj, head_dict)
     
-    fill_in_marriage_partners(nafobj, term2entity, partner_sets, head_dict)
+    print >> sys.stderr, len(partner_sets)
+    
+    partner_triples = fill_in_marriage_partners(nafobj, term2entity, partner_sets, head_dict)
+    
+    print >> sys.stderr, len(partner_triples)
+    
+    mytriples += partner_triples
+    
     #patterns: if named entity before or after, no prep or verb in between
     #predicative in both directions
     fam_triples = create_family_triples(nafobj, fam_members, famOfX)
