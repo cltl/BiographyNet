@@ -1,0 +1,25 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.dbnl.org/tekst/bork001nede01_01/bork001nede01_01_1042.php"/>
+    <publisher>
+      <name>De Nederlandse en Vlaamse auteurs (1985) in de Digitale Bibliotheek voor de Nederlandse Letteren</name>
+      <ref target="http://www.dbnl.org"/>
+    </publisher>
+  <idno type="source">dbnl</idno></fileDesc>
+  <person>
+    <idno type="id">2130079239</idno>
+    <persName>Portnoy, Ethel </persName>
+    <sex value="2"/>
+    <event type="birth" when="1927-03-08">
+      <date>8 maart 1927</date>
+      <place>Philadelphia</place>
+    </event>
+    <event type="death" when="2004-05-25">
+      <date>25 mei 2004</date>
+      <place>Den Haag</place>
+    </event>
+    <idno type="dbnl_id">port005</idno>
+  <idno type="bioport">88173936</idno><idno type="bioport">99870832</idno></person>
+  <biography/>
+</biodes>

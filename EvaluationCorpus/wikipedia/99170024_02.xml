@@ -1,0 +1,26 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://nl.wikipedia.org/wiki/Dirk_de_Groot"/>
+    <publisher>
+      <name>wikipedia</name>
+      <ref target="http://nl.wikipedia.org/"/>
+    </publisher>
+  <idno type="source">wikipedia</idno></fileDesc>
+  <person>
+    <idno type="bioport">99170024</idno>
+    <persName>Dirk de Groot</persName>
+  </person>
+  <biography>
+    <text>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;head&gt;&lt;title /&gt;&lt;style media="screen, projection" type="text/css"&gt;
+                        @import "http://en.wikipedia.org/skins-1.5/common/shared.css?156";
+                        @import "http://en.wikipedia.org//skins-1.5/monobook/main.css?156";
+&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class="mwx.article"&gt;&lt;h1 /&gt;&lt;div class="mwx.paragraph"&gt;Dirk A. de Groot (&lt;a class="mwx.link.article" href="#"&gt;1796&lt;/a&gt; - &lt;a class="mwx.link.article" href="#"&gt;Groningen&lt;/a&gt;, &lt;a class="mwx.link.article" href="#"&gt;1878&lt;/a&gt;) was een &lt;a class="mwx.link.article" href="#"&gt;Nederland&lt;/a&gt;se &lt;a class="mwx.link.article" href="#"&gt;predikant&lt;/a&gt;.
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;&lt;a class="mwx.link.article" href="#"&gt;De Groot&lt;/a&gt; was predikant in de &lt;a class="mwx.link.article" href="#"&gt;Nederlandse Hervormde Kerk&lt;/a&gt; te &lt;a class="mwx.link.article" href="#"&gt;Eppenhuizen&lt;/a&gt; (1821-1823), te &lt;a class="mwx.link.article" href="#"&gt;Woltersum&lt;/a&gt; (1823-1828), te &lt;a class="mwx.link.article" href="#"&gt;Vries&lt;/a&gt; (1828-1831) en te &lt;a class="mwx.link.article" href="#"&gt;Sneek&lt;/a&gt; (1831-1866).
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;In 1838 wilde men De Groot benoemen als directeur van het Zendelinghuis van het &lt;a class="mwx.link.article" href="#"&gt;Nederlandsch Zendeling Genootschap&lt;/a&gt;, gevestigd te &lt;a class="mwx.link.article" href="#"&gt;Rotterdam&lt;/a&gt;, waar hij echter voor bedankte. 
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;Vanaf zijn &lt;a class="mwx.link.article" href="#"&gt;emeritaat&lt;/a&gt; tot aan zijn dood woonde hij in bij zijn broer &lt;a class="mwx.link.article" href="#"&gt;Petrus Hofstede de Groot&lt;/a&gt; die &lt;a class="mwx.link.article" href="#"&gt;hoogleraar&lt;/a&gt; te Groningen was. 
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;&lt;a class="mwx.link.article" href="#"&gt;Groot de, Dirk&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</text>
+  </biography>
+</biodes>

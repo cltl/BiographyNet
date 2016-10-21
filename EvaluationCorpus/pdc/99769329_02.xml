@@ -1,0 +1,31 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09lltun5vq"/>
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/"/>
+  </publisher>
+ <title/><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09lltun5vq">
+  <persName>
+   <name type="prepositie">Jhr.</name>
+    <name type="voornaam">Ph.J.I.</name>
+    <name type="geslachtsnaam">Veranneman</name>
+  </persName>
+  <persName>
+   <name type="prepositie">Jhr.</name>
+    <name type="voornaam">Philippus</name>
+   <name type="voornaam">Jacobus</name>
+   <name type="voornaam">Ignatius</name>
+    <name type="geslachtsnaam">Veranneman</name>
+  </persName>
+  <sex value="1"/>
+  <event type="birth" when="1787-12-03">in <place>Brugge</place></event>
+  <event type="death" when="1844-03-09">in <place>Oostkamp (W.Vl.)</place></event>
+  <state type="occupation">commissaris district Torhout</state>
+  <state type="occupation">commissaris district Brugge</state>
+  <state type="occupation" from="1828" to="1830">burgemeester van Brugge</state>
+  <state type="occupation" from="1828-10-21" to="1830-10-18">lid Tweede Kamer der Staten-Generaal voor de provincie West-Vlaanderen</state>
+ <idno type="bioport">99769329</idno><idno type="id">pdc/vg09lltun5vq.xml</idno></person>
+ <biography/>
+</biodes>

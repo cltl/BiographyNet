@@ -1,0 +1,142 @@
+166 
+ 
+ 
+ Bemardus Dominicus Hubertus Teilegen 
+ 
+ 
+ 
+ 
+  Levensbericht door F.L.H.M. Stwnpers 
+ Bernardus Dominicus Hubertus Teilegen 
+ 24&#13;
+juni 1900 - 30 augustus 1990 
+ Op&#13;
+30 augustus 1990 werd Bernardus D.H. Tellegen tijdens zijn ochtendwande ling in de bossen rond zijn huis te Nuenen door de dood&#13;
+getroffen. Hij was sinds &#13;
+1960 lid van onze Akademie, een radiowetenschapper van het eerste uur en een &#13;
+grote uitvinder met 57 patenten. Teilegen werd geboren in Winschoten en volgde &#13;
+de Rijks hbs. te Utrecht. Hij&#13;
+sloot zijn studie in Delft in 1923 af met het diploma 
+ van elektrotechnisch ingenieur. Daarna ging hij in&#13;
+militaire dienst. Hij solliciteerde 
+ bij het Philips Natuurkundig Laboratorium in Eindhoven.&#13;
+Daar werd hij ontvan- &#13;
+gen door Dr. Oosterhuis die noteerde, dat hij wiskundig goed was, maar niet zo 
+ veel voelde voor de fabricage voorbereiding. Teilegen&#13;
+schreef na thuiskomst een 
+ brief, waarin hij duidelijk maakte, dat hij toch wel in&#13;
+praktische toepassingen 
+ ge&#239;nteresseerd was, en vreesde, dat dit in het onderhoud&#13;
+niet goed tot zijn recht 
+ was gekomen. 
+ Hij trad op 26 mei 1924 in dienst van de N v Philips, en zou daar 38 jaar&#13;
+blij ven. Op 22 augustus 1924 huwde hij Geertruida Jacoba&#13;
+Nanna van der Lee. Zij &#13;
+kregen drie kinderen, twee jongens en een meisje. Hij begon in Eindhoven in de 
+ groep van dr. Van der Pol. Samen met Van der Pol en Elias&#13;
+liet hij een artikel 
+ verschijnen over de grootte van emissiestromen en het&#13;
+elektrostatische veld in trio des (1925). Niet lang daarna kwam hij in een groep bij&#13;
+Oosterhuis, om de radio 
+ ontvangers voor te bereiden, die Philips in 1927, '28 in&#13;
+de handel ging brengen. 
+ Hij&#13;
+schreef enkele artikelen over eindversterkers, waarbij hij aandacht besteed de aan triodes, tetrodes en penthodes en aantoonde, dat&#13;
+problemen die voort vloeiden uit de secundaire emissie, overwonnen konden&#13;
+worden door een derde &#13;
+rooster aan te brengen. Het penthode patent van 1926 vond ook grote belangstel ling bij de Bell Telephone Laboratories en leidde tot een&#13;
+langdurige samenwerking 
+ tussen beide laboratoria. Hij schreef ook over indirect&#13;
+verhitte cathodes, over &#13;
+hexodes, heptodes en octodes. Met de opkomst van de korte golven kregen 30 en 
+ 20 cm, 10 cm en 5.6 cm golven zijn aandacht. Hij werd in&#13;
+1927 lid van het Neder lands Radio Genootschap, in het tijdschrift waarvan hij&#13;
+vele artikelen publiceerde. 
+ In 1928 verscheen een artikel over de constanten van een&#13;
+positieve vierpool, het 
+ eerste blijk van zijn interesse voor de netwerktheorie.&#13;
+In 1929 volgde een artikel 
+ over gedwongen trillingen in een lineair systeem van de&#13;
+tweede orde. In 1933 ver scheen een artikel over 'Interaction between radio&#13;
+waves'. (Nature vol. 131, 840, &#13;
+1933). Tellegen had opgemerkt, dat signalen van de zender Berom&#252;nster op de 
+ achtergrond het signaal van radio Luxemburg lieten horen.&#13;
+Omdat aangetoond 
+ kon worden, dat het geen fout in de ontvanger betrof&#13;
+(kruismodulatie) en Bero m&#252;nster, Luxemburg en Eindhoven op &#233;&#233;n lijn lagen, was de&#13;
+conclusie, dat de &#13;
+golven van Berom&#252;nster in het grote veld van Luxemburg door die zender gemo 167 
+ 
+ 
+ 
+ 
+ duleerd werden. Het 'Luxemburg&#13;
+effect' werd nadien door de Internationale We- &#13;
+tenschappelijke Radio Unie onderzocht en onder analoge condities ook op andere 
+ plaatsen gevonden. 
+ Om de&#13;
+radio ontvangst te verbeteren werd tegenkoppeling in gebruik genomen 
+ (artikelen met Cohen Henriquezen Haantjes, 1937, 1938). 
+ De&#13;
+fenomenologie van de piezo-elektriciteit kreeg ook Tellegen's aandacht. 
+ Meetkundige configuraties en dualiteit van elektrische netwerken werden&#13;
+door 
+ hem besproken in 1941 (Tijdschrift NRG). 
+ In de oorlogsjaren&#13;
+kon het Philips Natuurkundig Laboratorium moeilijk in zijn 
+ geheel verduisterd worden. Er werd toen besloten in een beperkt aantal&#13;
+ruimten &#13;
+cursussen te laten geven door Senior medewerkers zoals Van der Pol en Bremmer, 
+ Casimir en ook Tellegen, van wiens college over netwerktheorie jhr. dr.&#13;
+Gevers 
+ het dictaat vastlegde. 
+ Begin&#13;
+1948 verscheen een artikel met een vraag in de titel: 'Zijn er naast capa citeiten, weerstanden, zelfinducties en wederzijdse inducties nog andere&#13;
+soortgelij- &#13;
+ke grootheden denkbaar?'. De gedachten over deze vraag leidden tot de&#13;
+conclusie, 
+ dat wanneer de reciprociteit werd opgegeven nog een nieuw element mogelijk&#13;
+was, 
+ de gyrator, met de vergelijkingen: Vi= -S.l2;V2= S.I|. Tellegen dacht met&#13;
+een ku bus van ferroxcube, voorzien van onderling loodrechte jukken, ook van&#13;
+ferroxcu- &#13;
+be, waarop spoelen waren gewikkeld, de gyrator te kunnen realiseren. Hij was er 
+ zich al vroeg van bewust, dat met actieve elementen en met schakelaars ook&#13;
+gyra toren gerealiseerd konden worden, maar vond dit soort oplossingen niet&#13;
+elegant. 
+ De eerste mogelijkheid kreeg veel aandacht in de Verenigde Staten, toen de&#13;
+micro elektronica opkwam (ook in Nederland, proefschrift Voorman). De tweede werd &#13;
+vooral door Fettweis onderzocht. Hogan bij Belle Labs. vond in 1952 de&#13;
+realisatie 
+ van de gyrator bij korte golven. Hij baseert zich uitdrukkelijk op het werk&#13;
+van 
+ Tellegen en ook op ander werk van de Philips laboratoria (Polder, Casimir, 
+ Snoek, Beljers). Hoewel Philips toen al een uitwisseling van octrooien had&#13;
+met 
+ Bell Labs., vond men het in Eindhoven jammer dat de belangrijke stap naar&#13;
+reali satie niet in het eigen laboratorium werd gedaan. 
+ In 1947 werd&#13;
+Tellegen benoemd tot buitengewoon hoogleraar aan de Techni sche Hogeschool te Delft. Hij rekende de netwerktheorie en de regeltheorie&#13;
+tot 
+ zijn onderwijstaak. Het onderwerp van zijn intreerede was: 'Verschillen&#13;
+tussen zui- &#13;
+ver en toegepast wetenschappelijk onderzoek'. De zuivere wetenschapper wenst te 
+ komen tot kennis, tot begrip van de natuur. De technicus gaat het om het&#13;
+schep pen van economisch bruikbare produkten. Zuivere wetenschap wil kennen,&#13;
+toege- &#13;
+paste wetenschap wil kunnen. De techniek vraagt niet alleen de beste waarden te 
+ bepalen van de grootheden in bekende stelsels, maar zij vraagt de&#13;
+onderzoeker 
+ ook, of door wijzigingen of aanvullingen van zo'n stelsel, of met geheel&#13;
+andere 
+ stelsels betere resultaten kunnen worden bereikt. Voor een symposium te New 
+ York behandelde Tellegen de synthese van vierpolen en een jaar later&#13;
+behandelde 
+ hij het probleem&#13;
+van 2n polen met een minimum aantal elementen in het 
+ J.Math.Phys., een onderwerp, dat hij ook op&#13;
+een Symposium in Milaan behandel de. In zijn periode als hoogleraar&#13;
+verkregen Adams (On the synthesis of three ter- &#13;
+minal networks, composed of two kinds of elements), Bordewijk&#13;
+(Inter-reciprocity 
+ 168

@@ -1,0 +1,99 @@
+thumb|right|John von Neumann John von Neumann, Hongaars : Neumann J&#225;nos ( Boedapest , 28 december 1903 &#8211; Washington D.C. , 8 februari 1957 ) was een Hongaars - Amerikaanse wiskundige die op diverse gebieden van de wiskunde en de informatica zeer belangrijke bijdragen leverde. Hij wordt algemeen beschouwd als een van de belangrijkste wiskundigen van de twintigste eeuw. 
+ Leven 
+ Jeugd 
+Von Neumann werd in Boedapest ( Oostenrijk-Hongarije ) geboren onder de naam Margittai Neumann J&#225;nos. Zijn vader Max was bankier en zijn moeder Margaret kwam uit een welgesteld Joods middenklassengezin. Von Neumann vertoonde kenmerken van een wonderkind . Op zijn zesde kon hij naar verluidtA Beautiful Mind, Sylvia Nasar, 1998, blz 80/81 getallen van acht cijfers uit zijn hoofd op elkaar delen, had hij op zijn achtste de beginselen van differentiaal- en de integraalrekening onder de knie en las hij op zijn twaalfde het werk, &quot;Le&#231;ons sur la th&#233;orie des fonctions &quot;, van &#201;mile Borel .
+  Studie 
+Von Neumann studeerde wiskunde aan de universiteit van Boedapest en de universiteit van Berlijn , en haalde de doctorsgraad in de wiskunde op 23-jarige leeftijd aan de universiteit van Boedapest op een proefschrift op het gebied van de verzamelingenleer . Zijn werk op dit gebied is later opgenomen in de deels naar hem vernoemde Von Neumann&#8211;Bernays&#8211;G&#246;del-verzamelingenleer .
+ Carri&#232;re 
+Hij vervulde docentschappen aan de universiteiten van Berlijn (1927-1929) en Hamburg (1929-1930) maar ondervond steeds meer problemen met de opkomende nazi 's vanwege zijn joodse afkomst. Hij besloot Duitsland de rug toe te keren en kwam uiteindelijk terecht in het Amerikaanse Princeton (New Jersey) , waar hij tot aan zijn dood verbonden bleef aan het 'Institute for Advanced Study'. Hij was een van de vier mensen, waaronder ook Albert Einstein en Kurt G&#246;del , die werden uitgekozen om de eerste hoogleraren/onderzoekers te worden van dit instituut.
+ Karakter 
+Von Neumann had een enorm vindingrijke geest en een vrijwel perfect geheugen. In tegenstelling tot veel van zijn collega's had hij een extravert karakter en hield van drinken, dansen en plezier maken. Hierin leek hij veel op zijn tijdgenoot en collega Richard Feynman . Hij stierf in 1957 aan botkanker .
+ Werk 
+ Kwantummechanica 
+Datzelfde jaar kreeg hij een beurs om zijn postdoctorale werk te doen aan de universiteit van G&#246;ttingen , bij David Hilbert . Samen werkten ze aan de wiskundige grondslagen van de kwantumfysica . Ook later werkte Von Neumann aan ditzelfde onderwerp, wat leidde tot de ontwikkeling van de Von Neumann-algebra 's, en uiteindelijk in 1955 tot een bewijs van de equivalentie van de Erwin Schr&#246;dinger 's golfmechanica en Werner Heisenberg 's matrixmechanica , de twee belangrijkste beschrijvingsmethoden van de kwantummechanica . In 1932 publiceerde hij het boek The Mathematical Foundations of Quantum Mechanics.
+  Manhanttanproject 
+Vanaf 1937 werkte Von Neumann samen met de Amerikaanse regering op het gebied van het ontwerp van wapens, en in 1943 trad hij toe tot het Manhattanproject voor de ontwikkeling van de eerste atoombom .
+ Economie en speltheorie 
+Naast zijn andere werkzaamheden was Von Neumann de grondlegger van de speltheorie en publiceerde met Oskar Morgenstern het klassieke boek Theory of Games and Economic Behavior in 1944 . Hij ontdekte onder meer de minimax -stelling, die de volledige strategie beschrijft van spelers in tweepersoons nulsomspel len.
+ Von Neumann eerste belangrijke bijdrage aan de economie was de minimax-stelling uit 1928. Deze stelling stelt dat er in bepaalde nulsomspel len met perfecte informatie (dat wil zeggen spellen, waarin de spelers op elk tijdstip alle zetten weten die tot dan toe in het spel hebben plaatsgevonden), voor iedere speler een strategie bestaat die het voor beide spelers mogelijk maakt hun maximale verliezen te minimaliseren (vandaar ook de naam minimax). Bij het onderzoeken van elke mogelijke strategie moet een speler rekening houden met alle mogelijke tegenzetten van de tegenspeler en met het maximale verlies. De speler speelt dan de strategie die zal resulteren in het minimalisatie van het maximale verlies. Een dergelijke strategie, die het maximale verlies minimaliseert, wordt voor beide spelers optimaal genoemd, wanneer hun minimaxen (in absolute zin) aan elkaar gelijk en tegengesteld (in teken) zijn. Als de gemeenschappelijke waarde nul is, wordt het spel verder zinloos.
+ Uiteindelijk verbeterde Von Neumann de minimxstelling en bereidde hij deze uit tot spellen met meer dan twee spelers, waarbij imperfecte informatie een rol spelen. Dit werk mondde in 1944 uit in zijn klassieke werk Theory of Games and Economic Behavior (speltheorie en economisch gedrag), (samen geschreven met Oskar Morgenstern ). De publieke belangstelling voor dit werk was zodanig, dat The New York Times er een voorpaginaverhaal aan wijdde, iets dat tot dan toe alleen Einstein was overkomen.
+ Von Neumann tweede belangrijke bijdrage op dit gebied was in 1937 de oplossing van een probleem dat in 1874 voor het eerst was beschreven door L&#233;on Walras , het bestaan van situaties van evenwicht in wiskundige model len van marktontwikkeling gebaseerd op vraag en aanbod . Hij onderkende als eerste dat een dergelijk model door middel van ongelijkheden en niet door middel van vergelijkingen zou moeten worden uitgedrukt. Vervolgens vond hij een oplossing voor Walras zijn probleem door een dekpuntstelling , afgeleid uit het werk van L.E.J. Brouwer , toe te passen. Het blijvende belang van zijn werk over algemene evenwicht en en de methodologie van dekpuntstellingen wordt onderstreept door de toekenning van de Nobelprijzen in 1972 aan Kenneth Arrow , in 1983 aan G&#233;rard Debreu , en in 1994 aan John Nash , die de theorie van von Neumann had verbeterd in zijn these aan de Universiteit van Princeton .
+ ENIAC 
+Aan het eind van de oorlog raakte hij betrokken bij het militaire project ENIAC , de bouw van de eerste elektronische computer . Er was een opvolger gepland, de EDVAC , en Von Neumann ontwierp hiervoor de naar hem genoemde revolutionaire Von Neumann-architectuur , waarbij een CPU en een werkgeheugen worden gebruikt, waarbij niet alleen de data, maar ook het programma in het werkgeheugen geladen wordt. Deze architectuur wordt in essentie nog steeds gebruikt in alle niet-parallelle computers. Hij bedacht het vakgebied van de cellulaire automaten op een papiertje en ontwierp de eerste zelfreplicerende automaten met papier en potlood. De term 'Von Neumann-machine' wordt ook gebruikt voor zelfreplicerende machines. Von Neumann wordt dan ook beschouwd als de grondlegger van de huidige computerarchitectuur . 
+ Voetnoten 
+{{references|85%}}
+ Bibliografie 
+ Theory of Parlor Games (1928)
+ Mathematical Foundation of Quantum Mechanics (1932)
+ Theory of Games and Economic Behavior (1944)
+  Secundaire werken 
+ {{en}} {{aut| James, I }}, Remarkable Mathematicians, From Euler to von Neumann (Opmerkelijke wiskundigen van Euler tot von Neumann), Cambridge University Press, 2002, ISBN 978-0-521-52094-2, pag. 412-416
+  Externe links 
+ {{nl}} {{aut| Klaas Landsman }}, Wiskunde aan de grenzen - inaugurele rede, 2002, met een groot stuk over de rol die von Neumann speelde in de formulering van de kwantummechanica 
+ {{en}} http://www-gap.dcs.st-and.ac.uk/~history/Mathematicians/Von_Neumann.html 
+ {{en}} http://cepa.newschool.edu/het/profiles/neumann.htm 
+ {{en}} http://www.physics.umd.edu/robot/neumann.html 
+ {{DEFAULTSORT:Neumann, John von}}
+ Categorie:Hongaars wiskundige 
+ Categorie:Amerikaans wiskundige 
+ Categorie:Amerikaans informaticus 
+ Categorie:Operationeel onderzoek 
+ Categorie:Speltheorie 
+ Categorie:20e-eeuws wiskundige 
+ Categorie:Hongaarse adel 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ar:&#1580;&#1608;&#1606; &#1601;&#1608;&#1606; &#1606;&#1610;&#1608;&#1605;&#1575;&#1606; ast:John von Neumann bat-smg:D&#382;uons vuon Neimans bg:&#1044;&#1078;&#1086;&#1085; &#1092;&#1086;&#1085; &#1053;&#1086;&#1081;&#1084;&#1072;&#1085; bn:&#2460;&#2472; &#2477;&#2472; &#2472;&#2495;&#2441;&#2478;&#2509;&#2479;&#2494;&#2472; br:John von Neumann bs:John von Neumann ca:John von Neumann cs:John von Neumann cy:John von Neumann da:John von Neumann de:John von Neumann el:&#932;&#950;&#959;&#957; &#966;&#959;&#957; &#925;&#972;&#953;&#956;&#945;&#957; en:John von Neumann eo:John von Neumann es:John von Neumann fa:&#1580;&#1575;&#1606; &#1601;&#1608;&#1606; &#1606;&#1608;&#1740;&#1605;&#1575;&#1606; fi:John von Neumann fr:John von Neumann gl:John von Neumann he:&#1490;'&#1493;&#1503; &#1508;&#1493;&#1503; &#1504;&#1493;&#1497;&#1502;&#1503; hr:John von Neumann ht:John von Neumann hu:Neumann J&#225;nos hy:&#1355;&#1400;&#1398; &#1414;&#1400;&#1398; &#1350;&#1381;&#1397;&#1396;&#1377;&#1398; id:John von Neumann io:John von Neumann is:John von Neumann it:John von Neumann ja:&#12472;&#12519;&#12531;&#12539;&#12501;&#12457;&#12531;&#12539;&#12494;&#12452;&#12510;&#12531; ka:&#4335;&#4317;&#4316; &#4324;&#4317;&#4316; &#4316;&#4317;&#4312;&#4315;&#4304;&#4316;&#4312; ko:&#51316; &#54256; &#45432;&#51060;&#47564; lb:John von Neumann lt:John von Neumann ml:&#3356;&#3403;&#3450; &#3371;&#3402;&#3450; &#3368;&#3405;&#3375;&#3394;&#3374;&#3390;&#3451; mr:&#2332;&#2377;&#2344; &#2347;&#2379;&#2344; &#2344;&#2381;&#2351;&#2370;&#2350;&#2344; no:John von Neumann pl:John von Neumann pms:John von Neumann pt:John von Neumann ro:John von Neumann ru:&#1053;&#1077;&#1081;&#1084;&#1072;&#1085;, &#1044;&#1078;&#1086;&#1085; &#1092;&#1086;&#1085; sh:John von Neumann simple:John von Neumann sk:John von Neumann sl:John von Neumann sr:&#1039;&#1086;&#1085; &#1092;&#1086;&#1085; &#1053;&#1086;&#1112;&#1084;&#1072;&#1085; sv:John von Neumann sw:John von Neumann th:&#3592;&#3629;&#3627;&#3660;&#3609; &#3615;&#3629;&#3609; &#3609;&#3629;&#3618;&#3617;&#3633;&#3609;&#3609;&#3660; tr:John von Neumann uk:&#1044;&#1078;&#1086;&#1085; &#1092;&#1086;&#1085; &#1053;&#1077;&#1081;&#1084;&#1072;&#1085; vi:John von Neumann vo:John von Neumann zh:&#32422;&#32752;&#183;&#20911;&#183;&#35834;&#20234;&#26364; zh-classical:&#39342;&#35582;&#26364;

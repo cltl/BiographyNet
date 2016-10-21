@@ -1,0 +1,59 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://nl.wikipedia.org/wiki/Petrus_Hofstede_de_Groot"/>
+    <publisher>
+      <name>wikipedia</name>
+      <ref target="http://nl.wikipedia.org/"/>
+    </publisher>
+  <idno type="source">wikipedia</idno></fileDesc>
+  <person>
+    <idno type="bioport">58934947</idno>
+    <persName>Petrus Hofstede de Groot</persName>
+    <event type="birth" when="1802-10-08">
+      <place>Leer stad|Leer</place>
+    </event>
+    <event type="death" when="1886-12-05">
+      <place>Groningen stad|Groningen</place>
+    </event>
+  <idno type="bioport">02536516</idno><idno type="id">wikipedia/Petrus_Hofstede_de_Groot.xml</idno><idno type="bioport">98012573</idno></person>
+  <biography>
+    <text>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;head&gt;&lt;title /&gt;&lt;style media="screen, projection" type="text/css"&gt;
+                        @import "http://en.wikipedia.org/skins-1.5/common/shared.css?156";
+                        @import "http://en.wikipedia.org//skins-1.5/monobook/main.css?156";
+&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class="mwx.article"&gt;&lt;h1 /&gt;&lt;div class="mwx.paragraph"&gt;Petrus Hofstede de Groot (&lt;a class="mwx.link.article" href="#"&gt;Leer&lt;/a&gt;, &lt;a class="mwx.link.article" href="#"&gt;8 oktober&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;1802&lt;/a&gt; &amp;#8211; &lt;a class="mwx.link.article" href="#"&gt;Groningen&lt;/a&gt;, &lt;a class="mwx.link.article" href="#"&gt;5 december&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;1886&lt;/a&gt;) was een &lt;a class="mwx.link.article" href="#"&gt;Nederland&lt;/a&gt;se &lt;a class="mwx.link.article" href="#"&gt;theoloog&lt;/a&gt;.
+&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Levensloop&lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+Hofstede de Groot werd geboren te &lt;a class="mwx.link.article" href="#"&gt;Oost-Friesland&lt;/a&gt;. Zijn ouders waren Cornelius Petrus de Groot en Anna Gertruida Hofstede. Petrus was de eerste die de familienaam Hofstede de Groot voerde. Zijn Oranjegezinde ouders waren naar Leer vertrokken bij de start van de &lt;a class="mwx.link.article" href="#"&gt;Bataafse Republiek&lt;/a&gt;. In &lt;a class="mwx.link.article" href="#"&gt;1813&lt;/a&gt; kwamen zij weer terug in Groningen. Na zijn opleiding aan het &lt;a class="mwx.link.article" href="#"&gt;gymnasium&lt;/a&gt; schreef hij zich in 1819 in aan de &lt;a class="mwx.link.article" href="#"&gt;Rijksuniversiteit Groningen&lt;/a&gt;, waar hij drie jaar letteren studeerde. Daarna schakelde hij over op de studie &lt;a class="mwx.link.article" href="#"&gt;theologie&lt;/a&gt;. Eind 1826 promoveerde hij met Disputatio Clemente Alexandrina, philosopho Christiano. 
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;Op 10 december 1826 deed hij intrede als predikant in Hervormde gemeente te Ulrum. Tijdens zijn predikantschap in Ulrum trouwde hij met Gertruida Agneta van Herwerden (1809-1859), een zus van zijn vriend &lt;a class="mwx.link.article" href="#"&gt;C.H. van Herwerden&lt;/a&gt;. Zijn opvolger in Ulrum was &lt;a class="mwx.link.article" href="#"&gt;Hendrik de Cock&lt;/a&gt;, een van de leidende figuren van de kerkelijke afscheidingsbeweging, de &lt;a class="mwx.link.article" href="#"&gt;Afscheiding&lt;/a&gt;. Op 6 mei 1829 werd hij hoogleraar aan de universiteit te Groningen, waar hij op 8 oktober 1872 afscheid nam. In 1847 werd hij benoemd tot Ridder in de Orde van de Nederlandse Leeuw. 
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;Hofstede de Groot is naast zijn werk als hoogleraar zeer actief geweest in het maatschappelijk leven, zowel in de stad &lt;a class="mwx.link.article" href="#"&gt;Groningen&lt;/a&gt; als daarbuiten. Zo was hij inspecteur van het &lt;a class="mwx.link.article" href="#"&gt;onderwijs&lt;/a&gt; en was betrokken bij de &lt;a class="mwx.link.article" href="#"&gt;armenzorg&lt;/a&gt;. Jarenlang is hij een van directeuren geweest van het &lt;a class="mwx.link.article" href="#"&gt;Nederlandsch Zendeling Genootschap&lt;/a&gt;, gevestigd te Rotterdam. De eerste maal dat hij directeur werd was in 1831. Hij schreef verschillende publicaties op het gebied van de zending. Hij behoorde met zijn collega's &lt;a class="mwx.link.article" href="#"&gt;J.F. van Oordt&lt;/a&gt; en &lt;a class="mwx.link.article" href="#"&gt;L.G. Pareau&lt;/a&gt; tot de zogenaamde &lt;a class="mwx.link.article" href="#"&gt;Groninger Godgeleerden&lt;/a&gt;, een invloedrijke theologische stroming, mede via hun tijdschrift &lt;a class="mwx.link.article" href="#"&gt;Waarheid in Liefde&lt;/a&gt;. Verschillende malen was hij afgevaardigde naar de &lt;a class="mwx.link.article" href="#"&gt;synode&lt;/a&gt; van de &lt;a class="mwx.link.article" href="#"&gt;Nederlands Hervormde Kerk&lt;/a&gt;, die vergaderde in &lt;a class="mwx.link.article" href="#"&gt;Den Haag&lt;/a&gt;.
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;Petrus Hofstede de Groot overleed op 84-jarige leeftijd in Groningen.
+&lt;/div&gt;&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Familie&lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+&lt;ul&gt;&lt;li&gt; Zijn oudere broer &lt;a class="mwx.link.article" href="#"&gt;D.A. de Groot&lt;/a&gt; was predikant. 
+&lt;/li&gt;&lt;li&gt; Een van zijn kinderen, &lt;a class="mwx.link.article" href="#"&gt;Cornelis Philippus Hofstede de Groot&lt;/a&gt;, werd hoogleraar in de theologie te Groningen. 
+&lt;/li&gt;&lt;li&gt; De bekende kunsthistoricus &lt;a class="mwx.link.article" href="#"&gt;Cornelis Hofstede de Groot&lt;/a&gt; (1863-1930) was een kleinzoon van hem.
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Publicaties&lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+&lt;ul&gt;&lt;li&gt; Gedachten over de beschuldiging, tegen de leraars der Nederlandsche Hervormde Kerk in deze dagen openlijk ingebragt, dat zij hunnen eed breeken, door af te wijken van de leer hunner kerk, die zij beloofd hebben te zullen houden - 1834
+&lt;/li&gt;&lt;li&gt; Voorlezingen over de geschiedenis der opvoeding des menschdoms door God tot op de komst van Jezus Christus, deel 1 en 2 - Groningen 1849
+&lt;/li&gt;&lt;li&gt; De zending in China, volgens 't geen dr. K. G&amp;#252;tzlaff, den 18 april 1850, daarvan te Groningen mededeelde - 1850
+&lt;/li&gt;&lt;li&gt; Herziene formulieren der Nederlandsche Hervormde Kerk - 1850
+&lt;/li&gt;&lt;li&gt; Een woord aan de Hervormde Gemeente te 's Gravenhage, over de Groninger godgeleerden, en hunne bestrijding in 'Den Nederlander' - 1851
+&lt;/li&gt;&lt;li&gt; De Groninger Godgeleerden in hunne eigenaardigheid. Toespraak aan zijn vroegere en tegenwoordige leerlingen, na vervulde vijfentwintigjarige hoogleeraarsbediening - 1855
+&lt;/li&gt;&lt;li&gt; De zending, eene voortgaande openbaring van God. Redevoering uitgesproken in de algemeene vergadering van het Nederlandsche Zendelinggenootschap - 1860
+&lt;/li&gt;&lt;li&gt; Voorlezingen over de geschiedenis der opvoeding des menschdoms door God, tot op de komst van Jezus Christus - 1861
+&lt;/li&gt;&lt;li&gt; Ary Scheffer - 1872
+&lt;/li&gt;&lt;li&gt; De zending, eene wereldmacht - 1882
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;{{bron|bronvermelding=
+&lt;ul&gt;&lt;li&gt; Klooster, R., Groninger Godgeleerdheid in Friesland 1830-1872 - 2001 
+&lt;/li&gt;&lt;li&gt;Molemaker, W., Vrede door het bloed des kruises. Petrus Hofstede de Groot en zijn relatie tot het Nederlandsch Zendeling Genootschap. Apeldoorn 1998
+&lt;/li&gt;&lt;li&gt;Vree, J., Groninger Godgeleerden. De oorsprongen en de eerste periode van hun optreden (1820-1843), Kampen 1984
+&lt;/li&gt;&lt;/ul&gt;}}
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;{{DEFAULTSORT:Hofstede de Groot, Petrus}}
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;&lt;a class="mwx.link.article" href="#"&gt;Categorie:Nederlands hoogleraar&lt;/a&gt;
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Nederlands predikant&lt;/a&gt;
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Nederlands theoloog&lt;/a&gt;
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Religie in Groningen (provincie)&lt;/a&gt;
+&lt;/div&gt;&lt;div class="mwx.paragraph" /&gt;&lt;/div&gt;&lt;ol class="mwx.languagelinks"&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="en:Petrus Hofstede de Groot"&gt;en:Petrus Hofstede de Groot&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</text>
+  </biography>
+</biodes>

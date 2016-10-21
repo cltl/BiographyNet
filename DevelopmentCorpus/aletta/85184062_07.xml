@@ -1,0 +1,170 @@
+<biodes version="1.0">
+   <fileDesc>
+       <idno>IAV_7-biografie</idno>
+       <author>Marcel Herrebrugh / Marjet Denijs</author>
+       <ref target="http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:7&amp;res2=localhost:8080/solr/core14"/>
+       <date when="2006/09/13"/>
+       <revisionDesc>
+           <change when="2011-01-13"/>
+           <change when="2011-01-13"/>
+           <change when="2011-01-13"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2009-12-28"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2007-10-18"/>
+           <change when="2007-10-18"/>
+           <change when="2007-09-26"/>
+           <change when="2007-09-06"/>
+           <change when="2007-09-06"/>
+           <change when="2007-09-06"/>
+           <change when="2007-09-06"/>
+           <change when="2007-09-06"/>
+           <change when="2007-09-06"/>
+           <change when="2007-09-06"/>
+           <change when="2007-08-27"/>
+           <change when="2007-08-23"/>
+           <change when="2007-07-23"/>
+           <change when="2007-07-23"/>
+           <change when="2007-07-13"/>
+           <change when="2007-06-29"/>
+           <change when="2007-05-25"/>
+           <change when="2007-03-29"/>
+           <change when="2006-12-28"/>
+           <change when="2006-12-28"/>
+           <change when="2006-12-28"/>
+           <change when="2006-12-15"/>
+           <change when="2006-12-14"/>
+           <change when="2006-12-13"/>
+           <change when="2006-12-13"/>
+           <change when="2006-12-13"/>
+           <change when="2006-12-13"/>
+           <change when="2006-09-14"/>
+           <change when="2006-09-13"/>
+           <change when="2006-09-13"/>
+           <change when="2006-09-13"/>
+           <change when="2006-09-13"/>
+           <change when="2006-09-13"/>
+           <change when="2006-09-13"/>
+           <change when="2006-09-13"/>
+       </revisionDesc>
+       <publisher>
+           <name>Database Vrouwenbiografien, Aletta</name>
+           <ref target="http://www.aletta.nu/aletta/nl/collecties/biografieen"/>
+       </publisher>
+       <availability status="free">Aletta, Instituut voor Vrouwengeschiedenis. Bronvermelding: Marcel Herrebrugh / Marjet Denijs - Kartini, Raden Adjeng(1879-1904), in: Database Vrouwenbiografieen, Aletta. URL:http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:7&amp;res2=localhost:8080/solr/core14</availability>
+   <title/><idno type="source">aletta</idno></fileDesc>
+   <person>
+       <persName>Kartini, Raden Adjeng</persName>
+       <persName/>
+       <sex value="2"/>
+       <event type="birth" when="1879-04-21">
+       </event>
+       <event type="death" when="1904-09-17">
+           in <place>Rembang</place>
+       </event>
+   <state type="claim_to_fame">Wegbereidster voor vrouwenemancipatie in Nederlands-Indi&#235;, pionierster van de Indonesische onafhankelijkheid</state>
+   <state type="claim_to_fame">eerste feministe in Nederlands-Indi&#235;</state>
+   <idno type="bioport">19371268</idno><idno type="id">aletta/IAV_7-biografie.xml</idno><idno type="bioport">27433202</idno><idno type="bioport">85184062</idno></person>
+   <biography>
+   <graphic>Studioportret van Raden Adjeng Kartini en haar zusters</graphic>
+       <graphic url="http://www.aletta.nu/aletta/fotos//CD209/F244-99.jpg"/>
+          <text xml:lang="nl">
+     Zij was de dochter van Raden Mas Sosroningrat, regent van Japara en Ngasirah. Zij trad in het huwelijk met de regent van Rembang, met wie zij een zoon kreeg. Zij stierf enkele dagen na de geboorte van haar zoon.
+     Hoe verstikkend moet het leven aan het einde 19e eeuw aan het hof van regenten in Nederlands-Indi&#235; zijn geweest? Raden Adjeng Kartini, tweede dochter van een voorname Javaan, zat gevangen tussen vier muren, de codes van die tijd en het aristocratische milieu. Zelf schrijft ze (1899): "Ik herinner mij, hoe ik in stomme wanhoop mijn lichaam telkens tegen de reeds gesloten deuren en koude stenen muur wierp. Welke richting ik ook nam. Het eind van iedere wandeling was een steenen muur of een gesloten deur". Met het bereiken van de leeftijd van twaalf en een halfjaar was zij huwbaar en begon het wachten op een geschikte partner, binnen de poorten van 'thuis'. Meerdere smeekbedes van haar om verder te mogen leren op een HBS werden genegeerd. Tegen de heersende mores in, bepaald door de Nederlandse onderdrukker en rigide Javaanse adat (gewoonterecht), stimuleerde Kartini's vader haar om verder te leren. De beheersing van het Nederlands maakte dat zij hij in haar korte leven altijd een bemiddelende rol heeft gespeeld. Kartini heeft op haar manier bijgedragen aan het verspreiden van kennis over de multiculturele Indonesische samenleving. Midden-Java kende een eeuwenoude traditie met migranten uit India, China en Arabieren, onder de Nederlanders. Haar feminisme keerde zich tegen de traditie van het uithuwelijken en polygamie binnen haar cultuur en zij pleitte voor onderwijs voor vrouwen uit de hogere klasse, waardoor hun economische zelfstandigheid zou worden vergroot.
+
+
+
+Raden Adjeng Kartini verzet zich van jongs af aan tegen de traditie van het uithuwelijken en de daaraan gerelateerde polygamie. Een jonge vrouw uit haar milieu werd namelijk gekoppeld aan een waardige tegenpartij; een oudere man, die reeds gehuwd was met meerdere vrouwen. Parallel aan de ontwikkeling van haar denken liepen de gedachten van de Ethische politiek. Zij koppelde echter vrouwelijke onderwerpen aan de emancipatorische gedachte (opvoeding en ontwikkeling Indonesische bevolking) van de Ethische politiek. Op jonge leeftijd las zij de Indiase feministe Pundita Ramabai en volgde publicaties van de Nederlandse vrouwenbeweging. Een belangrijk thema voor haar was onderwijs voor Indonesische vrouwen uit de hogere klasse, waardoor de economische zelfstandigheid van deze groep kon worden vergroot en deze vrouwen minder afhankelijk werden van een huwelijk. Na veel moeite kon Kartini zich ontworstelen aan haar benauwende inheemse achtergrond en ontwikkelde zich een intensieve correspondentie met de joodse feministe, Estella Zeehandelaar.
+
+
+
+Haar inspanningen om een toenadering te bewerkstelligen tussen het moederland en de kolonie zijn nooit beloond: deze is nooit werkelijk tot stand gekomen. De 'mythe' Kartini is mede tot stand gekomen door haar vroege dood. Zij stierf op zeventien september 1904, vier dagen na de geboorte van haar zoon. Het beeld binnen de vouwenbeweging dat ontstond werd gedomineerd door haar inzet voor onderwijs en niet door haar echte doel: het beslechten van de raciale ongelijkheid, omdat het feminisme van die tijd absoluut niet vrij was van het denken binnen etnische kaders.
+          </text>
+      <bibl>
+           <ref target="http://www.haargeschiedenis.nl/scripts/wwwopac.exe?database=haargeschiedenis&amp;%250=*&amp;recordnummer=80&amp;isutf8=1">Haar Geschiedenis - biografie</ref>
+      </bibl>
+      <bibl>
+           <ref target="http://www.damescompartiment.nl/biokar.htm">Het Damescompartiment Online - biografie</ref>
+      </bibl>
+      <bibl>
+           <ref target="http://nl.wikipedia.org/wiki/Raden_Adjeng_Kartini">Wikipedia - biografie</ref>
+      </bibl>
+      <bibl>
+           <ref target="http://www.kartini.info/kartini.html">Stichting Kartini</ref>
+      </bibl>
+      <bibl>
+     - Brieven aan mevrouw R.M. Abendanon-Mandri en haar echtgenoot met andere documenten / R.A. Kartini &amp; F.G.P. Jaquet (red.)
+      </bibl>
+      <bibl>
+     - Door duisternis tot licht : gedachten over en voor het Javaansche volk / Raden Adjeng Kartini
+      </bibl>
+      <bibl>
+     - On feminism and nationalism : Kartini's letters to Stella Zeehandelaar 1899-1903 / Raden Adjeng Kartini
+      </bibl>
+      <bibl>
+     - Letters from Kartini : an Indonesian feminist, 1900-1904 / Raden Adjeng Kartini
+      </bibl>
+      <bibl>
+     - Hoe ruim een kooi ook is : leven en lot van Kartini en haar werk / Elisabeth Keesing. - Amsterdam : Querido, 1996. - 212p. : index : foto's
+      </bibl>
+      <bibl>
+     - Kartini, een baanbreekster voor haar volk / Marie C. van Zeggelen. - Amsterdam : Meulenhoff, 1947. - 259p.
+      </bibl>
+      <bibl>
+     - Op zoek naar Kartini / J.M. Elderhorst-van Hofwegen. - Leiden : RUL, 1989. - VI, 110p. : lit. : foto's
+      </bibl>
+      <bibl>
+     - The life and thought of Kartini / Jean Taylor. - [s.l.] : [s.n.]. - 101p. : lit.
+      </bibl>
+      <bibl>
+     - Kartini : feiten en fictions / Cora Vreede-de Stuers. - 's-Gravenhage : Martinus Nijhoff, 1965. - 12 p. : foto's
+      </bibl>
+      <bibl>
+     - Kartini en Dewi Sartica : twee Indonesische vrouwen over de achterstelling van de vrouw omstreeks 1900. - P. 81-87. In: 'De ene mens is de andere niet : essays over gelijkheid en ongelijkheid. - Dick Coutinho : Muiderberg, 1980. - 134p.
+      </bibl>
+   </biography>
+</biodes>

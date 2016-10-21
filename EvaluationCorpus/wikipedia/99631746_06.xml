@@ -1,0 +1,41 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://nl.wikipedia.org/wiki/Arnold_Houbraken"/>
+    <publisher>
+      <name>wikipedia</name>
+      <ref target="http://nl.wikipedia.org/"/>
+    </publisher>
+  <idno type="source">wikipedia</idno></fileDesc>
+  <person>
+    <idno type="bioport">02422794</idno>
+    <persName>Arnold Houbraken</persName>
+  <idno type="id">wikipedia/Arnold_Houbraken.xml</idno><idno type="bioport">41643398</idno><idno type="bioport">99631746</idno></person>
+  <biography>
+    <text>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;head&gt;&lt;title /&gt;&lt;style media="screen, projection" type="text/css"&gt;
+                        @import "http://en.wikipedia.org/skins-1.5/common/shared.css?156";
+                        @import "http://en.wikipedia.org//skins-1.5/monobook/main.css?156";
+&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class="mwx.article"&gt;&lt;h1 /&gt;&lt;div class="mwx.paragraph"&gt;&lt;a class="mwx.link.article" href="#"&gt;thumb|Arnold Houbraken (1660-1719), door zijn zoon Jacob met een onderschrift van &lt;a class="mwx.link.article" href="#"&gt;David van Hoogstraten&lt;/a&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;Arnold Houbraken (&lt;a class="mwx.link.article" href="#"&gt;Dordrecht&lt;/a&gt;, &lt;a class="mwx.link.article" href="#"&gt;28 maart&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;1660&lt;/a&gt; &amp;#8211; &lt;a class="mwx.link.article" href="#"&gt;Amsterdam&lt;/a&gt;, &lt;a class="mwx.link.article" href="#"&gt;14 oktober&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;1719&lt;/a&gt;) was een &lt;a class="mwx.link.article" href="#"&gt;kunstschilder&lt;/a&gt; en schrijver. Zijn zoon &lt;a class="mwx.link.article" href="#"&gt;Jacobus Houbraken&lt;/a&gt; (1698&amp;#8211;1780) was een bekend &lt;a class="mwx.link.article" href="#"&gt;graveur&lt;/a&gt; van portretten en boekillustraties, onder andere voor de boeken van zijn vader.
+&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Biografie &lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+Houbraken was een leerling van onder anderen &lt;a class="mwx.link.article" href="#"&gt;Jacobus Leveck&lt;/a&gt; en &lt;a class="mwx.link.article" href="#"&gt;Samuel van Hoogstraten&lt;/a&gt;. In 1685 huwde hij Sara Sasbout. Rond 1709 verhuisde hij naar Amsterdam op uitnodiging van &lt;a class="mwx.link.article" href="#"&gt;Jonas Witsen&lt;/a&gt;. In 1713 maakte hij een reis naar Engeland om een historisch werk te illustreren.
+&lt;/div&gt;&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Schilderwerk &lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+Arnold Houbraken schilderde &lt;a class="mwx.link.article" href="#"&gt;mythologische&lt;/a&gt; en &lt;a class="mwx.link.article" href="#"&gt;bijbelse&lt;/a&gt; taferelen, portretten en landschappen.
+&lt;/div&gt;&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Boeken &lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+Arnold Houbraken schreef het boek &lt;a class="mwx.link.external" href="http://www.dbnl.org/tekst/houb005groo01_01/index.htm"&gt; De groote schouburgh der Neder&amp;#173;lantsche konstschilders en schilderessen&lt;/a&gt; (1718&amp;#8211;1721), met daarin &lt;a class="mwx.link.article" href="#"&gt;biografie&lt;/a&gt;&amp;#235;n van kunstschilders uit de &lt;a class="mwx.link.article" href="#"&gt;zeventiende eeuw&lt;/a&gt;. Het boek is een uiterst belangrijke bron van kennis. Het bestaat uit drie delen en is een vervolg op het &lt;a class="mwx.link.article" href="#"&gt;Schilderboeck&lt;/a&gt; van &lt;a class="mwx.link.article" href="#"&gt;Carel van Mander&lt;/a&gt; uit 1604. Dertig jaar na Houbrakens dood werd een tweede uitgave gepubliceerd, in enigszins gewijzigde vorm. Een &lt;a class="mwx.link.article" href="#"&gt;facsimile&lt;/a&gt; van deze uitgave werd in 1976 door de uitgeverij B.M. Israel BV te Amsterdam gepubliceerd.
+&lt;/div&gt;&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Externe link &lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+&lt;ul&gt;&lt;li&gt; {{Link dbnl auteur|id=houb005}}
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;{{Commonscat|Arnold Houbraken}}
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;&lt;a class="mwx.link.article" href="#"&gt;Houbraken&lt;/a&gt;
+&lt;a class="mwx.link.article" href="#"&gt;Houbraken&lt;/a&gt;
+&lt;a class="mwx.link.article" href="#"&gt;Houbraken, Arnold&lt;/a&gt;
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;
+
+
+
+
+&lt;/div&gt;&lt;/div&gt;&lt;ol class="mwx.languagelinks"&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="cs:Arnold Houbraken"&gt;cs:Arnold Houbraken&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="de:Arnold Houbraken"&gt;de:Arnold Houbraken&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="en:Arnold Houbraken"&gt;en:Arnold Houbraken&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="fr:Arnold Houbraken"&gt;fr:Arnold Houbraken&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="fy:Arnold Houbraken"&gt;fy:Arnold Houbraken&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="sv:Arnold Houbraken"&gt;sv:Arnold Houbraken&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</text>
+  </biography>
+</biodes>

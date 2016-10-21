@@ -1,0 +1,115 @@
+<biodes version="1.0">
+   <fileDesc>
+       <idno>IAV_6050-biografie</idno>
+       <author>Arlette Strijland</author>
+       <ref target="http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:6050&amp;res2=localhost:8080/solr/core14"/>
+       <date when="2007/08/28"/>
+       <revisionDesc>
+           <change when="2011-01-13"/>
+           <change when="2011-01-13"/>
+           <change when="2011-01-13"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2008-06-12"/>
+           <change when="2007-10-18"/>
+           <change when="2007-09-06"/>
+           <change when="2007-09-04"/>
+       </revisionDesc>
+       <publisher>
+           <name>Database Vrouwenbiografien, Aletta</name>
+           <ref target="http://www.aletta.nu/aletta/nl/collecties/biografieen"/>
+       </publisher>
+       <availability status="free">Aletta, Instituut voor Vrouwengeschiedenis. Bronvermelding: Arlette Strijland - Elstak, Asta(1917-1994), in: Database Vrouwenbiografieen, Aletta. URL:http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:6050&amp;res2=localhost:8080/solr/core14</availability>
+   <title/><idno type="source">aletta</idno></fileDesc>
+   <person>
+       <persName>Elstak, Asta</persName>
+       <persName>Elstak, Asta Esseline Roza</persName>
+       <sex value="2"/>
+       <event type="birth" when="1917-02-15">
+       </event>
+       <event type="death" when="1994-12-26">
+           in <place>Amsterdam</place>
+       </event>
+   <state type="claim_to_fame">secretaresse, actief in Surinaamse vrouwenorganisaties</state>
+   <state type="claim_to_fame">In 1985 ontving Asta Elstak de eerste Dr. Sophie Redmondprijs voor haar activiteiten.</state>
+   <idno type="bioport">87864203</idno><idno type="id">aletta/IAV_6050-biografie.xml</idno></person>
+   <biography>
+   <graphic/>
+       <graphic url="http://www.aletta.nu/aletta/fotos//CD074/1234.jpg"/>
+          <text xml:lang="nl">
+     Zij was de dochter van Edmund Elstak (onderwijzer) en Christina Laagland.
+     Asta Elstak werd geboren in Suriname op de koffie- en later cacaoplantage 'La Prevoyance'. Haar  vader was onderwijzer. Vanwege bezuinigingen op het onderwijs vertrok hij in 1928 met Asta en zijn toen jongste kind via Amsterdam naar Batavia in Nederlands-Indi&#235;, in de hoop op een beter leven. De rest van de familie volgde later. In Semarang volgde Asta de HBS-b, alwaar zij de enige Surinaamse was. Vanwege de economische crisis vertrok de familie Elstak in 1936 naar Nederland, waar Asta als stenografiste bij diverse bedrijven heeft gewerkt. Na de Tweede Wereldoorlog ging Asta terug naar het onafhankelijk geworden Indonesi&#235; om er als secretaresse te werken bij het departement Pelajaran. In 1950 keerde zij naar Nederland terug.
+     In 1954 vertrok zij, aanvankelijk als toeriste, naar Suriname. Zij was werkzaam bij de Surinaamse ministeries van Volksontwikkeling en Volksvoorlichting, Financi&#235;n en Opbouw.  Ook was zij actief in maatschappelijke organisaties als Hulp aan Surinaamse Vrouwen, Young Women's Christian Association (YWCA), het Miss Universe Committee en de Sociale Raad en  politiek actief in de Progressief Nationale Partij (PNP). Haar vele activiteiten wekten echter achterdocht en in 1968 keerde zij terug naar Nederland met het zoontje van haar vermoorde zus.
+     In Nederland ging zij werken voor de Landelijke Federatie van Surinaamse Welzijnsorganisaties. In 1983 werd ze vrijwilliger bij de Stichting Surinaamse Vrouwen Bijlmermeer (SVB), een platform waar Surinaamse vrouwen uit diverse etnische groepen elkaar ontmoetten. Voor haar activiteiten kreeg ze in 1985 de eerste Dr. Sophie Redmondprijs uitgereikt en in 1992 een koninklijk onderscheiding en de Gouden Palm.
+          </text>
+      <bibl>
+           <ref target="http://www.srananguma.net/people/elstak.html">Sranang Uma - biografie</ref>
+      </bibl>
+      <bibl>
+     - Algemene bijlagen bij het verslag van de SVB-Manifestatie 3-9 juni '85 / Annelies Kensenhuis, Asta Elstak, Rinia de Rooy. - Amsterdam ZO : Surinaamse Vrouwen Bijlmermeer, 1985. - [86p.] : foto's
+
+Toespraken, voordrachten, beleidsredevoeringen, inleidingen en discussies, gehouden op de Manifestatie van de Surinaamse Vrouwen Bijlmermeer, 3 tot 9 juni 1985.
+      </bibl>
+      <bibl>
+     - 'Ik wil het gezicht van de Derde Wereld in de Eerste en Tweede Kamer herkennen' / Asta Elstak
+
+In: (Meer) vrouwen in de politiek? : verslag van de themamiddag over politieke participatie van zwarte, witte en migrantenvrouwen / Tulsa Caupain, Ineke Kersten. - Amsterdam : Emancipatiebureau Amsterdam, 1993. - 33p. : foto's
+      </bibl>
+      <bibl>
+     - Asta Elstak : s'ma oso lanteri = de lamp in andermans huis / Sylvia M. Gooswit. - Amsterdam : Stichting Surinaamse Vrouwen Bijlmermeer, 1998. - 66p. : foto's
+
+Biografie van Asta Elstak, actief in de Stichting Surinaamse Vrouwen in de Bijlmer.
+      </bibl>
+      <bibl>
+     - Migrantenvrouwen : balancerend tussen twee culturen / Maria Smit, Hanneke Schouten, Dorothee Sprenger.
+
+In: Inforeeks. - Nr. 29 (mrt 1990) ; p. 1-32
+
+Themanummer over buitenlandse vrouwen in Nederland, maar ook aandacht voor Nederlandse vrouwen die ge&#235;migreerd zijn. Asta Elstak doet persoonlijk verslag van haar leven als migrante in drie verschillende culturen.
+      </bibl>
+   </biography>
+</biodes>

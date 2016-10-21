@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.inghist.nl/retroboeken/nbwv?source=5&amp;page_number=1003"/>
+    <publisher>
+      <name>XXX</name>
+      <ref target="http://www.inghist.nl"/>
+    </publisher>
+  <idno type="source">nbwv</idno></fileDesc>
+  <person>
+    <persName>WICHMANS, Augustinus Franciscus </persName>
+    <event type="birth" when="1596"/>
+    <event type="death" when="1661"/>
+  <idno type="bioport">99651961</idno><idno type="id">nbwv/2808.xml</idno></person>
+  <biography/>
+</biodes>

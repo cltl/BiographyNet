@@ -1,0 +1,102 @@
+<biodes version="1.0">
+   <fileDesc>
+       <idno>IAV_8470-biografie</idno>
+       <author>Arlette Strijland</author>
+       <ref target="http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:8470&amp;res2=localhost:8080/solr/core14"/>
+       <date when="2007/09/28"/>
+       <revisionDesc>
+           <change when="2011-01-13"/>
+           <change when="2011-01-13"/>
+           <change when="2011-01-13"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2007-12-24"/>
+           <change when="2007-11-23"/>
+           <change when="2007-10-18"/>
+           <change when="2007-10-18"/>
+           <change when="2007-09-28"/>
+       </revisionDesc>
+       <publisher>
+           <name>Database Vrouwenbiografien, Aletta</name>
+           <ref target="http://www.aletta.nu/aletta/nl/collecties/biografieen"/>
+       </publisher>
+       <availability status="free">Aletta, Instituut voor Vrouwengeschiedenis. Bronvermelding: Arlette Strijland - Oine(1827-1903), in: Database Vrouwenbiografieen, Aletta. URL:http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:8470&amp;res2=localhost:8080/solr/core14</availability>
+   <title/><idno type="source">aletta</idno></fileDesc>
+   <person>
+       <persName>Oine</persName>
+       <persName/>
+       <sex value="2"/>
+       <event type="birth" when="1827">
+           in <place>Deshima</place>
+       </event>
+       <event type="death" when="1903">
+       </event>
+   <state type="claim_to_fame">eerste vrouwelijke arts in Japan, geboren in de Nederlandse handelspost Deshima (Japan)</state>
+   <state type="claim_to_fame">Oine was de eerste vrouwelijke arts in Japan.</state>
+   <idno type="bioport">81247367</idno><idno type="id">aletta/IAV_8470-biografie.xml</idno></person>
+   <biography>
+          <text xml:lang="nl">
+     Zij was de dochter van Philipp Franz Balthasar von Siebold, arts, wetenschappelijk onderzoeker en verzamelaar  (geboren op 17 februari 1796 te W&#252;rzburg, Beieren, thans Duitsland) en zijn Japanse courtisane Kusomoto Sonogi, ook wel Otaki genoemd (1806-1865).
+     Oine werd in 1827 op Deshima geboren. Het kunstmatige eiland Deshima lag voor het vasteland van de havenstad Nagasaki in Japan. Hierop was de handelspost of factorij van Nederland gelegen. De handelsbetrekkingen tussen Nederland en Japan dateren uit het begin van de zeventiende eeuw, toen de eerste schepen van de Vereenigde Oost-Indische Compagnie (VOC) in Japan arriveerden. Na een volksopstand in 1637 moesten alle buitenlanders het land verlaten. Een uitzondering werd gemaakt voor de Nederlanders en de Chinezen, die elk een handelspost in Nagasaki kregen toegewezen.
+     De vader van Oine was de Duitser Philip von Siebold. Hij werd in 1823 in opdracht van de Nederlandse regering als arts naar de handelspost Deshima gestuurd, met daarnaast de opdracht om zoveel mogelijk te weten te komen over het onbekende Japan. Von Siebold deed naast zijn werk als arts onderzoek naar de gebruiken, de staatsinrichting, de geografie en de flora en fauna. Ook verzamelde hij Japanse objecten, planten en dieren. Philipp von Siebold is van grote betekenis door zijn etnologische, botanische, zo&#246;logische en medische werk in Japan, wat hij verder uitwerkte in Nederland en Duitsland.
+     Philipp von Siebold ontmoette in het najaar van 1823 tijdens een van zijn bezoeken als arts een dochter uit de familie Kusomoto. Kusomoto Sonogi, ook wel Otaki genoemd, was toen zestien jaar. Aangezien gemengde huwelijken tussen Japanners en buitenlanders waren verboden, liet Sonogi zich als courtisane registreren om met Philipp op Deshima te kunnen samenwonen. In 1827 werd Oine geboren. Toen haar vader op 22 oktober 1829 werd beschuldigd van spionage en 'voor eeuwig' uit Japan werd verbannen, moest hij Deshima zo snel mogelijk verlaten. De driejarige Oine en haar moeder mochten niet met hem mee. Haar moeder trouwde niet lang na het vertrek van Von Siebold, wel bleven zij elkaar nog vele jaren schrijven.
+     Oine volgde in de voetsporen van haar vader. Zij werd de eerste vrouwelijke arts in Japan. Toen haar vader in 1859 weer naar Japan was gereisd (de verbanning was in 1855 ingetrokken) was zij een zeer beroemd verloskundige. Zij stierf in 1903 op 76-jarige leeftijd. Een portret van Oine is uitgevoerd in inlegwerk op het deksel van een lakdoosje, aanwezig in het Rijksmuseum voor Volkenkunde te Leiden. Over haar zijn verder geen gegevens bekend.
+          </text>
+      <bibl>
+           <ref target="http://www.uba.uva.nl/special_collections/object.cfm/objectid=34853D0C-C771-4E13-8B78334417AB31EE">Philipp von Siebold - biografie</ref>
+      </bibl>
+      <bibl>
+           <ref target="http://www.engelfriet.net/Alie/Aad/deshima3.htm">Deshima: geschiedenis van de kleinste 'kolonie' van Nederland</ref>
+      </bibl>
+      <bibl>
+           <ref target="http://www.oranda-cg.or.jp/english/relations.html">A 400 year history of Dutch-Japanese relations</ref>
+      </bibl>
+      <bibl>
+     Philipp von Siebold : zijn Japanse flora en fauna / L.A. Tjon Sie Fat en G.J.C.M. van Vliet. - Haarlem : H.J.W. Becht, 1990. - 70p. : ill.
+      </bibl>
+   </biography>
+</biodes>

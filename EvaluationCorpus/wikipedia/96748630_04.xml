@@ -1,0 +1,34 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://nl.wikipedia.org/wiki/Agneta_Matthes"/>
+    <publisher>
+      <name>wikipedia</name>
+      <ref target="http://nl.wikipedia.org/"/>
+    </publisher>
+  <idno type="source">wikipedia</idno></fileDesc>
+  <person>
+    <idno type="bioport">96748630</idno>
+    <persName>Agneta Matthes</persName>
+    <event type="birth" when="1847-10-04">
+      <place>Amsterdam</place>
+    </event>
+    <event type="death" when="1909-10-05">
+      <place>Hof van Delft</place>
+    </event>
+  </person>
+  <biography>
+    <text>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;head&gt;&lt;title /&gt;&lt;style media="screen, projection" type="text/css"&gt;
+                        @import "http://en.wikipedia.org/skins-1.5/common/shared.css?156";
+                        @import "http://en.wikipedia.org//skins-1.5/monobook/main.css?156";
+&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class="mwx.article"&gt;&lt;h1 /&gt;&lt;div class="mwx.paragraph"&gt;Agneta Matthes (&lt;a class="mwx.link.article" href="#"&gt;Amsterdam&lt;/a&gt;, &lt;a class="mwx.link.article" href="#"&gt;4 oktober&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;1847&lt;/a&gt; - &lt;a class="mwx.link.article" href="#"&gt;Hof van Delft&lt;/a&gt;, &lt;a class="mwx.link.article" href="#"&gt;5 oktober&lt;/a&gt; &lt;a class="mwx.link.article" href="#"&gt;1909&lt;/a&gt;) was de vrouw van fabrieksdirecteur &lt;a class="mwx.link.article" href="#"&gt;Jacques van Marken&lt;/a&gt;. Zij droeg veel bij aan het succes van zijn bedrijven, en dreef ook zelf een onderneming: een &lt;a class="mwx.link.article" href="#"&gt;parfum&lt;/a&gt;fabriek. Het &lt;a class="mwx.link.article" href="#"&gt;Agnetapark&lt;/a&gt; in &lt;a class="mwx.link.article" href="#"&gt;Delft&lt;/a&gt; is naar haar genoemd.
+&lt;/div&gt;&lt;div class="mwx.section"&gt;&lt;h2&gt;Externe link&lt;/h2&gt;&lt;div class="mwx.paragraph"&gt;
+&lt;ul&gt;&lt;li&gt;Portret in &lt;a class="mwx.link.external" href="http://www.inghist.nl/Onderzoek/Projecten/BWN/lemmata/bwn4/matthes"&gt; Biografisch Woordenboek van Nederland&lt;/a&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;{{xbeg|economie|2007|03|04}}
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt;{{DEFAULTSORT:Matthes, Agneta}}
+&lt;a class="mwx.link.article" href="#"&gt;Categorie:Nederlands ondernemer&lt;/a&gt;
+&lt;/div&gt;&lt;div class="mwx.paragraph"&gt; {{Link FA|de}}&lt;/div&gt;&lt;/div&gt;&lt;ol class="mwx.languagelinks"&gt;&lt;li&gt;&lt;a class="mwx.link.interwiki" href="de:Agneta Matthes"&gt;de:Agneta Matthes&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</text>
+  </biography>
+</biodes>

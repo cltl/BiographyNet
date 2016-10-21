@@ -1,0 +1,161 @@
+<biodes version="1.0">
+   <fileDesc>
+       <idno>IAV_12-biografie</idno>
+       <author>Mattanja Schwencke</author>
+       <ref target="http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:12&amp;res2=localhost:8080/solr/core14"/>
+       <date when="2007/05/25"/>
+       <revisionDesc>
+           <change when="2011-01-13"/>
+           <change when="2011-01-13"/>
+           <change when="2011-01-13"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2009-11-13"/>
+           <change when="2008-08-06"/>
+           <change when="2008-05-30"/>
+           <change when="2008-05-09"/>
+           <change when="2008-05-09"/>
+           <change when="2008-02-05"/>
+           <change when="2008-02-05"/>
+           <change when="2008-02-05"/>
+           <change when="2008-02-04"/>
+           <change when="2008-02-04"/>
+           <change when="2008-02-04"/>
+           <change when="2008-02-04"/>
+           <change when="2008-02-04"/>
+           <change when="2008-01-22"/>
+           <change when="2008-01-21"/>
+           <change when="2007-09-06"/>
+           <change when="2007-08-23"/>
+           <change when="2007-08-09"/>
+           <change when="2007-08-09"/>
+           <change when="2007-08-09"/>
+           <change when="2007-07-24"/>
+       </revisionDesc>
+       <publisher>
+           <name>Database Vrouwenbiografien, Aletta</name>
+           <ref target="http://www.aletta.nu/aletta/nl/collecties/biografieen"/>
+       </publisher>
+       <availability status="free">Aletta, Instituut voor Vrouwengeschiedenis. Bronvermelding: Mattanja Schwencke - Kooistra, Ietje(1861-1923), in: Database Vrouwenbiografieen, Aletta. URL:http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:12&amp;res2=localhost:8080/solr/core14</availability>
+   <title/><idno type="source">aletta</idno></fileDesc>
+   <person>
+       <persName>Kooistra, Ietje</persName>
+       <persName/>
+       <sex value="2"/>
+       <event type="birth" when="1861-01-08">
+           in <place>Drachten</place>
+       </event>
+       <event type="death" when="1923-08-25">
+           in <place>Apeldoorn</place>
+       </event>
+   <state type="claim_to_fame">pedagoge en directrice van de Rijkskweekschool voor Onderwijzeressen</state>
+   <state type="claim_to_fame">In 1894 was Ietje Kooistra &#233;&#233;n van de oprichtsters van Vereeniging 'De Vrouwenbond' Groningen.</state>
+   <state type="claim_to_fame">In 1896 was Ietje Kooistra &#233;&#233;n van de oprichtsters van het tijdschrift 'Belang en Recht'.</state>
+   <idno type="bioport">79599107</idno><idno type="id">aletta/IAV_12-biografie.xml</idno></person>
+   <biography>
+          <text xml:lang="nl">
+     Zij was de dochter van Folkert Kooistra, schipper, en Ymkjen Pieters Keuning, huisvrouw.
+     Ietje Kooistra was een invloedrijke pedagoge door haar publicaties en haar positie als directrice van de Rijkskweekschool voor Onderwijzeressen in Apeldoorn. Ze was &#233;&#233;n van de oprichtsters van Vereeniging 'De Vrouwenbond' Groningen.
+
+
+
+Ietje groeide op in armoedige omstandigheden. Dankzij haar goede verstand en de steun van haar dominee kon Ietje de lagere school afmaken en daarna naar de Kweekschool voor Onderwijzeressen in Arnhem gaan. In 1879 had zij haar gewone en hoofdakte in handen en ging zij aan de slag als onderwijzeres. Daarnaast studeerde zij verder voor de wiskundeakte. 
+
+
+
+Eerst werkte Ietje Kooistra in Arnhem en Breda, waarna ze in Middelburg les gaf aan een lagere school die gekoppeld was aan de Kweekschool voor Onderwijzeressen. Zo werd zij naast onderwijzeres ook begeleidster van kwekelingen. In 1883 vertrok zij naar Groningen om te gaan werken als docente wiskunde en handwerken aan de Gemeentelijke Kweekschool voor Onderwijzeressen. Na een jaar als adjunct-directrice van deze kweekschool te hebben gewerkt werd Kooistra in 1889 benoemd als hoofd van de leerschool behorend bij de Groningse Kweekschool. 
+
+
+
+Ietje Kooistra viel op door haar democratische manier van leiding geven en haar pedagogische stellingname in de jaarverslagen van de school. Ze was voor gymnastiekonderwijs op school, ook voor meisjes, ze was tegen het aanmoedigen van competitie tussen leerlingen, voor het aanschouwelijk onderwijs en tegen de nieuwe schrijfmethode. 
+
+
+
+Haar pedagogische idee&#235;n schreef Kooistra in 1894 neer in het boek &#8216;Zedelijke opvoeding&#8217;. Het werd een bestseller. Ze riep opvoeders op het kind liefde, vertrouwen en respect te geven, in combinatie met toezicht en leiding. Ze schreef een apart hoofdstuk over de opvoeding van meisjes met een pleidooi voor een zeer vernieuwend ideaal: &#8220;Wie zijn kind wil opvoeden tot een deugdzaam mensch, moet het trachten te vormen tot een harmonisch geheel van vrouwelijk gevoel en mannelijke kracht&#8221;. 
+
+
+
+In de periode dat Kooistra haar eerste boek schreef, werkte zij ook samen met anderen aan de oprichting van de Vereeniging &#8216;De Vrouwenbond&#8217; Groningen. Ze was van 1894 tot 1896 bestuurslid tot ze naar Apeldoorn vertrok voor een nieuwe functie. Binnen De Vrouwenbond werkte zij mee aan een nieuw landelijk tijdschrift &#8216;Belang en Recht&#8217;. 
+
+
+
+In Apeldoorn werd Ietje Kooistra benoemd tot directrice van de nieuwe Rijkskweekschool voor Onderwijzeressen. Zij wist de school tot een succes te maken en de leerlingen droegen haar op handen. Haar belangrijkste zorg was een stevige organisatie, karaktervorming van de leerlingen van 14 tot 19 jaar, en een prettige sfeer. Kooistra gaf zelf de lessen pedagogiek.
+
+
+
+In 1914 moest Ietje Kooistra vanwege een slechte gezondheid stoppen met haar werk als directrice. Ze ging wel door met schrijven. Ze publiceerde haar voordrachten en schreef artikelen in pedagogische tijdschriften. Bovendien verscheen van haar hand een boek in twee delen, &#8216;Onze Groote Kinderen&#8217;, over het opvoeden van kinderen in de puberteit. Hiermee behoorde zij tot de pioniers in Nederland. In haar boek combineerde zij de psychologische inzichten van ontwikkelingspsycholoog Stanley Hall met haar jarenlange ervaring tot een eigen opvatting over de opvoeding van jongeren. In dit werk nam zij het meisje als norm, wat een geheel nieuw uitgangspunt was.
+
+
+
+De gezondheid van Ietje Kooistra ging steeds verder achteruit en in 1923, op de leeftijd van 62 jaar, overleed zij. Haar oud-leerlingen verzorgden haar graf.
+          </text>
+      <bibl>
+           <ref target="http://www.iisg.nl/bwsa/bios/kooistra.html">Biografisch Woordenboek van het Socialisme en de Arbeidersbeweging - biografie</ref>
+      </bibl>
+      <bibl>
+     - Van ziel tot ziel : paedagogische voordrachten en schetsen / I. Kooistra. - Groningen : Wolters, 1923. - 168p. 2e dr. van Opvoeder en kind
+      </bibl>
+      <bibl>
+     - Onze groote kinderen : over opvoeding in de puberteitsjaren : hun wezen en ons doel dl. 1 : streven naar ons doel dl. 2 / I. Kooistra. - Amsterdam : P.N. van Kampen, 1918/1919. - 335p.,303p. 2e druk: J.B.Wolters, Groningen
+      </bibl>
+      <bibl>
+     - Menschen in wording / I. Kooistra. - Amsterdam : Van Kampen, 1913. - 253 p.
+      </bibl>
+      <bibl>
+     - Zedelijke opvoeding / I. Kooistra. - Groningen : Wolters, 1904. - 256p.
+      </bibl>
+      <bibl>
+     - Vrouwelijke pedagogen in Nederland / Mineke van Essen (red.), Mieke Lunenberg (red.). - Nijkerk : Intro, 1991. - 222p. : lit.
+      </bibl>
+      <bibl>
+     - Opvoeden met een dubbel doel : twee eeuwen meisjesonderwijs in Nederland / Mineke van Essen. - Amsterdam : Socialistische Uitgeverij Amsterdam, 1990. - 272 p. : ill. : lit.
+      </bibl>
+      <bibl>
+     - Ietje Kooistra : 1861-1923 : Een leven als pedagoog / Ellen Buursma. - Groningen : R.U.G.:Algemene Paedagogiek, 1988. - 66 p. : lit. Scriptie.
+      </bibl>
+      <bibl>
+     - Geleerde vrouwen : negende jaarboek voor vrouwengeschiedenis / Tineke van Loosbroek (red.), Ulla Jansz, Annemarie de Wildt, [et al.]. - Nijmegen : SUN, 1988. - 240p. : ill. : lit. (Jaarboek voor vrouwengeschiedenis ; 9)
+      </bibl>
+      <bibl>
+     Archief Ietje Kooistra (1861-1923), Internationaal Informatiecentrum en Archief voor de Vrouwenbewegingn (IIAV) te Amsterdam.
+      </bibl>
+      <bibl>
+     Archief Kooistra Lieftinckstichting, CODA Archief en Kenniscentrum te Groningen.
+      </bibl>
+   </biography>
+</biodes>

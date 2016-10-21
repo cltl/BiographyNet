@@ -1,0 +1,147 @@
+<biodes version="1.0">
+   <fileDesc>
+       <idno>IAV_2411-biografie</idno>
+       <author>Arlette Strijland</author>
+       <ref target="http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:2411&amp;res2=localhost:8080/solr/core14"/>
+       <date when="2008/07/07"/>
+       <revisionDesc>
+           <change when="2011-01-13"/>
+           <change when="2011-01-13"/>
+           <change when="2011-01-13"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2008-12-31"/>
+           <change when="2008-12-31"/>
+           <change when="2008-12-29"/>
+           <change when="2008-12-29"/>
+           <change when="2008-12-29"/>
+           <change when="2008-12-29"/>
+           <change when="2008-12-29"/>
+           <change when="2008-12-29"/>
+           <change when="2008-12-29"/>
+           <change when="2008-12-29"/>
+       </revisionDesc>
+       <publisher>
+           <name>Database Vrouwenbiografien, Aletta</name>
+           <ref target="http://www.aletta.nu/aletta/nl/collecties/biografieen"/>
+       </publisher>
+       <availability status="free">Aletta, Instituut voor Vrouwengeschiedenis. Bronvermelding: Arlette Strijland - Jungius, Marie(1864-1908), in: Database Vrouwenbiografieen, Aletta. URL:http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:2411&amp;res2=localhost:8080/solr/core14</availability>
+   <title/><idno type="source">aletta</idno></fileDesc>
+   <person>
+       <persName>Jungius, Marie</persName>
+       <persName>Jungius, Hendrika Maria Aleida</persName>
+       <sex value="2"/>
+       <event type="birth" when="1864-04-01">
+           in <place>Heiloo</place>
+       </event>
+       <event type="death" when="1908-12-22">
+           in <place>Arnhem</place>
+       </event>
+   <state type="claim_to_fame">medeorganisator van de Nationale Tentoonstelling van Vrouwenarbeid en grondlegster en eerste directrice van het Nationaal Bureau voor Vrouwenarbeid</state>
+   <state type="claim_to_fame">Marie Jungius richtte in 1901 het Nationaal Bureau voor Vrouwenarbeid op en was tot 1908 de eerste directrice.</state>
+   <idno type="bioport">87522705</idno><idno type="id">aletta/IAV_2411-biografie.xml</idno></person>
+   <biography>
+   <graphic>Portret van Marie Jungius, 's-Gravenhage 1897</graphic>
+       <graphic url="http://www.aletta.nu/aletta/fotos//CD058/100001746.jpg"/>
+          <text xml:lang="nl">
+     Hendrika Maria Aleida Jungius, roepnaam Marie was de dochter van Elias Cornelis Jungius (1838-1904), predikant, en Augustina Sophia Carolina Henrijette Hooijkaas (1838-1904). Zij bleef ongehuwd.
+     Marie Jungius bracht haar kinderjaren door in Deventer en had een voorliefde voor wis- en natuurkunde. Haar lievelingslectuur waren sprookjes en fantastische verhalen. Later was zij ook schrijfster van enige verzenbundels en sprookjes: 'Verzen' en 'Sprookjes van Leven' (beide Amsterdam 1899).
+     Toen zij achttien was ging Jungius naar de kweekschool in Haarlem en begon haar loopbaan als onderwijzeres in Den Helder, Leeuwarden en Den Haag. Zij woonde eerst in Scheveningen en daarna in Den Haag met Suze Groshans, eveneens onderwijzeres en Jungius' levenslange vriendin.
+     Marie Jungius had een broze gezondheid, maar zij werd bewogen door een grote drang alle zwakken en onderdrukten te helpen. Vanaf 1895 was zij particulier secretaris van C. van der Hucht-Kerkhoven, die in 1891 het initiatief had genomen tot de oprichting van een Kinderbond. Jungius werd zeer actief in deze bond.
+     In november 1896 werd Marie Jungius bestuurslid van de eerder dat jaar opgerichte Vereeniging Nationale Tentoonstelling van Vrouwenarbeid (VNTV), die in 1898 een grote tentoonstelling over vrouwenarbeid wilde houden ter gelegenheid van de troonsbestijging van prinses Wilhelmina. Dankzij haar organisatietalent en werklust was zij de bezielende kracht achter de tentoonstelling. Zij ontwierp onder andere de plattegrond van het tentoonstellingsgebouw en het werkschema voor de achttien congressen, had de leiding over het Industriecongres en gaf twee lezingen.
+     Met het batig saldo van de Tentoonstelling, groot twintigduizend gulden, werd in 1901 het Nationaal Bureau voor Vrouwenarbeid (NVB) opgericht. Het idee was afkomstig van Marie Jungius, met als doel: het verkennen, verruimen en verbeteren van de werkkring van vrouwen. Jungius werd gekozen tot eerste directrice van het Nationaal Bureau. Zij begon haar nieuwe werk op 1 oktober 1901 en publiceerde nog in hetzelfde jaar 'Een woord over het Nationaal Bureau voor Vrouwenarbeid'.
+     Het Nationaal Bureau voor Vrouwenarbeid verrichtte onderzoeken, gaf adviezen en voorlichting, stelde plaatselijke comit&#233;s in, vormde een bibliotheek en archief en verzorgde publicaties. Marie Jungius hechtte groot belang aan degelijke kennis over vrouwenarbeid en zij verrichtte dan wel initieerde een belangrijk deel van de in totaal 37 onderzoeken die het NBV verrichtte.
+     Op 25 januari 1908 moest Jungius om gezondheidsredenen aftreden als directrice van het NBV om in de Alpen te gaan herstellen van tuberculose. Het bestuur van de Nationale Vereeniging voor Vrouwenarbeid benoemde haar tot erepresidente. Marie Jungius overleed op 22 december 1908. Enige maanden na haar dood werd Anna Polak directrice van het Bureau voor Vrouwenarbeid.
+     Om haar nagedachtenis te eren richtte Suze Groshans in 1909 het Marie Jungius Fonds op, dat geld beschikbaar stelde aan overwerkte of zieke vrouwen om weer op krachten te komen. Het leidde vanaf 1930 een slapend bestaan. In 1951 werd door Willemijn Posthumus-van der Goot in naam van het Marie Jungius Fonds een adviesbureau voor vrouwen opgericht geheten 'Van vrouw tot vrouw', deze activiteiten werden eind 1965 gestaakt.
+          </text>
+      <bibl>
+           <ref target="http://www.iisg.nl/bwsa/bios/jungius.html">Biografisch Woordenboek van het Socialisme en de Arbeidersbeweging in Nederland - biografie</ref>
+      </bibl>
+      <bibl>
+           <ref target="http://www.inghist.nl/Onderzoek/Projecten/BWN/lemmata/bwn1/jungius">Instituut voor Nederlandse Geschiedenis - biografie</ref>
+      </bibl>
+      <bibl>
+     - Beroepsklapper : excerpt uit de "Uitkomsten der beroepstelling in het Koninkrijk der Nederlanden op den een-en-dertigsten December 1889", aangevende het aantal gehuwde en ongehuwde vrouwen (benevens het algemeen totaal) werkzaam als hoofd of ondergeschikte in eenig beroep of bedrijf / Marie Jungius (inl.). - Amsterdam : Poutsma, 1889. - 62p. : bijl. : krt.
+      </bibl>
+      <bibl>
+     - Een woord over de voorgenomen nationale tentoonstelling van vrouwenarbeid / Marie Jungius. - Amsterdam : Nationale Tentoonstelling van Vrouwenarbeid, 1897. - 23p.
+      </bibl>
+      <bibl>
+     - Sprookjes van leven / Marie Jungius. - Amsterdam : Versluys, 1899. - 120p. : ill.
+      </bibl>
+      <bibl>
+     - Een woord over het Nationaal Bureau voor Vrouwenarbeid / Marie Jungius. - Amsterdam : Versluys, 1901. - 40p.
+      </bibl>
+      <bibl>
+     - Wat doet Nederland voor zijne arbeidsters-kraamvrouwen? : een bijdrage tot de kennis van het leven der arbeidster-moeder / Marie Jungius. - Amsterdam : W. Versluys, 1906. - 35p. - (Goedkoope uitgave Nationaal Bureau voor Vrouwenarbeid ; 10)
+      </bibl>
+      <bibl>
+     - Verzen en sprookjes / Marie Jungius, Ida Heijermans (voorw.). - Huis ter Heide : De Tijdsstroom, 1928. - 2e druk. - 109p. : ill.
+
+Met biografische gegevens over Marie Jungius en enige mededelingen over de Nationale Tentoonstelling van Vrouwenarbeid 1898.
+      </bibl>
+      <bibl>
+     - 'Nationaal Bureau voor Vrouwenarbeid' 
+
+In: Programma symposium 'Vrouwenarbeid 100 jaar later' : symposium ter gelegenheid van de feestelijke herdenking van de Nationale Tentoonstelling van Vrouwenarbeid 1898 : 2 april 1998 / Anneloes Timmerije. - Den Haag : Ministerie van Sociale Zaken en Werkgelegenheid, 1998. - P. 58
+      </bibl>
+      <bibl>
+     - Karakterschets Marie Jungius. - [S.l.] : [s.n.], 1900
+
+In: De Hollandse Revue, Jrg. 5, 1900, nr. 12, p.822-837
+      </bibl>
+      <bibl>
+     - Archief Nationaal Bureau voor Vrouwenarbeid, Internationaal Informatiecentrum en Archief voor de Vrouwenbeweging (IIAV) te Amsterdam.
+      </bibl>
+      <bibl>
+     - Archief Nationale Tentoonstelling van Vrouwenarbeid 1898, Internationaal Informatiecentrum en Archief voor de Vrouwenbeweging (IIAV) te Amsterdam.
+      </bibl>
+      <bibl>
+     - Archief Marie Jungius Fonds, Internationaal Informatiecentrum en Archief voor de Vrouwenbeweging (IIAV) te Amsterdam.
+      </bibl>
+   </biography>
+</biodes>

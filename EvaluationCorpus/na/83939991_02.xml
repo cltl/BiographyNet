@@ -1,0 +1,24 @@
+<biodes version="1.0">
+  <fileDesc>
+    <author>A.R.M. Mommers</author>
+    <ref target="http://proxy.handle.net/10648/17937cde-af25-4a9e-ab0a-0764f655f3cd"/>
+    <date when="1955"/>
+    <publisher>
+      <name>Nationaal Archief</name>
+      <ref target="http://www.gahetna.nl/collectie/archief"/>
+    </publisher>
+    <bibl>
+      <num>2.21.040</num>
+      <title>Inventaris van het archief van de familie Cort van der Linden en aanverwante geslachten, (1480) 1634-1935</title>
+    </bibl>
+  <title/><idno type="source">na</idno></fileDesc>
+  <person>
+    <persName>Jan Wttewaall</persName>
+    <sex value="1"/>
+  <idno type="id">17937cde-af25-4a9e-ab0a-0764f655f3cd__14</idno><idno type="bioport">83939991</idno></person>
+  <biography>
+    <text>
+      <title>Inventaris van het archief van de familie Cort van der Linden en aanverwante geslachten, (1480) 1634-1935</title>
+    </text>
+  </biography>
+</biodes>

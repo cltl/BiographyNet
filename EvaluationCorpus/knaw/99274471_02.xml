@@ -1,0 +1,107 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>Gorter, C.J.</author>
+    <author>Heringa, G.C.</author>
+    <ref target="http://www.dwc.knaw.nl/english/academy/past-members/?pagetype=authorDetail&amp;aId=PE00001480"/>
+    <publisher>
+      <name>KNAW - Levensberichten en Herdenkingen</name>
+      <ref target="http://www.digitallibrary.nl/levensberichten/works.cfm"/>
+    </publisher>
+  <idno type="source">knaw</idno></fileDesc>
+  <person>
+    <idno type="id">545</idno>
+    <persName><name type="voornaam">Jacob Willem</name> <name type="geslachtsnaam">Langelaan</name></persName>
+    <sex value="1"/>
+    <event type="birth" when="1871-09-03">
+      <place>Amsterdam</place>
+    </event>
+    <event type="death" when="1963-02-09">
+      <place>Baarn</place>
+    </event>
+    <state type="occupation">Geneeskunde</state>
+    <state type="occupation">Fysiologie</state>
+  <idno type="PE00001480">huygens_id</idno><idno type="bioport">99274471</idno></person>
+  <biography>
+    <graphic url="http://www.knaw.nl/cfdata/leden/images/Langelaan_JW_824.jpg"/>
+    <text>&lt;body lang="EN-US" style="tab-interval:36.0pt;text-justify-trim:punctuation"&gt;
+&lt;div class="Section1"&gt;
+&lt;p style="margin-left:60.0pt;text-indent:32.4pt;line-height:17pt;&amp;#13;&amp;#10;24.5pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.3pt;mso-ansi-language:NL"&gt;LEVENSBERICHT VAN&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="font-size:13.0pt;color:#000099;letter-spacing:-.25pt;&amp;#13;&amp;#10;mso-ansi-language:NL"&gt;JACOB WILLEM LANGELAAN&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left:65.75pt;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.4pt;mso-ansi-language:NL"&gt;(3 september&amp;#13;
+1871&amp;#151;9 februari 1963)&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top:12.95pt;text-align:justify;text-indent:&amp;#13;&amp;#10;9.35pt;line-height:17pt;11.75pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:NL"&gt;Jacob&amp;#13;
+(&amp;#132;Jacques") Willem Langelaan werd 3 september 1871 ge-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.3pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;boren als oudste zoon van Dr. Jan Jacobus Langelaan, jong huisarts&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;te Amsterdam, en Johanna Elisabeth Judith Rutgers. Zijn vader over-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;leed aan typhus tijdens een epidemie in oktober 1877, zijn 24-jarige&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.3pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;weduwe achterlatend met twee kinderen, waarvan de jongste een&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;maand oud was. Geldzorgen waren er aanvankelijk niet, doordat&lt;br/&gt;&amp;#13;
+grootmoeder Rutgers, die vermogend was, op zich nam voor de kin-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.35pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;deren en het huishouden te zorgen, terwijl mevrouw Langelaan,&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.3pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;begaafd en energiek, om de weg te banen naar een eigen inkomen,&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;zich liet inschrijven als leerlinge aan de Amsterdamse Kunstacademie,&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;waar Prof. Alberdingk Thijm en Mevr. Van Duyl Schwartze haar&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;bijzondere steun en belangstelling gaven. Zij voltooide deze opleiding,&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;maar v&amp;#243;&amp;#243;r deze tot noemenswaardige inkomsten kon leiden, ging het&lt;br/&gt;&amp;#13;
+kapitaal van mevrouw Rutgers grotendeels te loor en moest het huis-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;houden, inclusief de opvoeding der beide jongens, uit een klein in-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.35pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;komen worden bekostigd. Pas vele jaren later nam de financi&amp;#235;le&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.4pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;situatie weer een gunstige wending. Jacques' jeugd lag dus in een&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.2pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;tijd, waarin aan het beleid van moeder en grootmoeder, beide zorg-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;zaam en doortastend, grote eisen werden gesteld. Verder waren er een&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.4pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;broer van vader, als toeziend voogd, en een grootvader, rustend&lt;br/&gt;&amp;#13;
+huisarts te Heemstede, met een orthodox religieuze opvatting, die&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;een wakend oog over hem lieten gaan.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-right:.5pt;text-align:justify;text-indent:&amp;#13;&amp;#10;8.9pt;line-height:17pt;11.75pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.25pt;mso-ansi-language:NL"&gt;Men kan&amp;#13;
+zich voorstellen, dat met zoveel toezicht op zijn ont-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;wikkeling Jacques' gevoelige natuur gereageerd heeft met verzet en&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;behoefte zijn eigen gang te gaan. Zijn gevoeligheid, gepaard aan de&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.35pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;neiging tot autistisch kiezen van een eigen ontwikkelingsweg, is&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;typisch getekend in zijn reactie op grootvaders poging hem tot kerk-&lt;br/&gt;&amp;#13;
+gang te krijgen; deze heeft bij hem een levenslange hekel aan ortho-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;doxe dominees verwekt, dit ondanks een toch uitgesproken religieuze&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;geaardheid. Zo is ook waarschijnlijk, dat in puberteitsverzet de ver-&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;klaring gezocht moet worden van het feit, dat op een vlot doorlopen&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;lagere schooltijd een slechte gymnasiumtijd volgde. Hij wendde zich&lt;br/&gt;
+&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.3pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;duidelijk af van het onderwijs, spijbelde om op zijn eigen houtje in&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;body lang="EN-US" style="tab-interval:36.0pt;text-justify-trim:punctuation"&gt;
+&lt;div class="Section1"&gt;
+&lt;p class="MsoNormal"&gt;&lt;span style="font-size:12.0pt"&gt;&lt;!--[if gte vml 1]&gt;&lt;v:shapetype&#13;
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"&#13;
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"&gt;&#13;
+ &lt;v:stroke joinstyle="miter" /&gt;&#13;
+ &lt;v:formulas&gt;&#13;
+  &lt;v:f eqn="if lineDrawn pixelLineWidth 0" /&gt;&#13;
+  &lt;v:f eqn="sum @0 1 0" /&gt;&#13;
+  &lt;v:f eqn="sum 0 0 @1" /&gt;&#13;
+  &lt;v:f eqn="prod @2 1 2" /&gt;&#13;
+  &lt;v:f eqn="prod @3 21600 pixelWidth" /&gt;&#13;
+  &lt;v:f eqn="prod @3 21600 pixelHeight" /&gt;&#13;
+  &lt;v:f eqn="sum @0 0 1" /&gt;&#13;
+  &lt;v:f eqn="prod @6 1 2" /&gt;&#13;
+  &lt;v:f eqn="prod @7 21600 pixelWidth" /&gt;&#13;
+  &lt;v:f eqn="sum @8 21600 0" /&gt;&#13;
+  &lt;v:f eqn="prod @7 21600 pixelHeight" /&gt;&#13;
+  &lt;v:f eqn="sum @10 21600 0" /&gt;&#13;
+ &lt;/v:formulas&gt;&#13;
+ &lt;v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect" /&gt;&#13;
+ &lt;o:lock v:ext="edit" aspectratio="t" /&gt;&#13;
+&lt;/v:shapetype&gt;&lt;v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:228.75pt;&#13;
+ height:323.25pt'&gt;&#13;
+ &lt;v:imagedata src="00014_Jaarboek_1965-1966_F_00340_files/image001.jpg"&#13;
+  o:title="" /&gt;&#13;
+&lt;/v:shape&gt;&lt;![endif]--&gt;&lt;img width="305" src="http://www.digitallibrary.nl:80/files/pub/Jaarboek_1965-1966/xhtml/00014_Jaarboek_1965-1966_F_00340_files/image002.jpg" v:shapes="_x0000_i1025" height="431"/&gt;&lt;o:p/&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top:2.65pt;margin-right:18.25pt;margin-bottom:&amp;#13;&amp;#10;0cm;margin-left:32.65pt;margin-bottom:.0001pt;text-indent:7.2pt;line-height:17pt;&amp;#13;&amp;#10;13.7pt;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="font-size:9.0pt;color:#000099;letter-spacing:1.05pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;JACOB WILLEM LANGELAAN &lt;/span&gt;&lt;span lang="NL" style="font-size:9.0pt;&amp;#13;&amp;#10;color:#000099;letter-spacing:.35pt;mso-ansi-language:NL"&gt;(3 september&lt;span style="mso-spacerun:yes"&gt;&amp;#160; &lt;/span&gt;&lt;/span&gt;&lt;span lang="NL" style="font-size:9.0pt;&amp;#13;&amp;#10;color:#000099;letter-spacing:1.7pt;mso-ansi-language:NL"&gt;1871&amp;#151;9&lt;/span&gt;&lt;span lang="NL" style="font-size:9.0pt;color:#000099;letter-spacing:.35pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt; februari&lt;span style="mso-spacerun:yes"&gt;&amp;#160; &lt;/span&gt;1963)&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;body lang="EN-US" style="tab-interval:36.0pt;text-justify-trim:punctuation"&gt;
+&lt;div class="Section1"&gt;
+&lt;p style="line-height:17pt;.05pt;mso-line-height:17pt;-rule:exactly;&amp;#13;&amp;#10;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none" class="MsoNormal"&gt;&lt;span style="font-size:1.0pt"&gt;&lt;o:p&gt;&amp;#160;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+</text>
+  </biography>
+</biodes>

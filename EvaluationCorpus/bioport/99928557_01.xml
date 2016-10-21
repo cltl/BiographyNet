@@ -1,0 +1,12 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <publisher/>
+  <idno type="source">bioport</idno></fileDesc>
+  <person>
+    <idno type="id">99928557</idno>
+    <idno type="bioport">99928557</idno>
+  <persName>Petrus de <name type="geslachtsnaam">Lou</name></persName><persName>Petrus <name type="geslachtsnaam">Louwius</name></persName>
+    <event type="birth"><place>'s-Hertogenbosch</place></event><event type="death" when="1599"><place>Roermond</place></event><event type="funeral"><place/></event><event type="baptism"><place/></event><sex value="1"/><state type="category" idno="4">Kerk en godsdienst</state><state type="floruit" from="" to=""><place/></state></person>
+  <biography><snippet source_id="vdaa/l1400"/><snippet source_id="nnbw/12372"/></biography>
+</biodes>

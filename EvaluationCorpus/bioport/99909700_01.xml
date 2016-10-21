@@ -1,0 +1,11 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <publisher/>
+  <idno type="source">bioport</idno></fileDesc>
+  <person>
+    <idno type="id">99909700</idno>
+    <idno type="bioport">99909700</idno>
+  <persName>Judocus Borre</persName><event type="birth"><place/></event><event type="death" when="1469"><place>Utrecht</place></event><event type="funeral"><place/></event><event type="baptism"><place/></event><sex value="1"/><state type="category" idno="4">Kerk en godsdienst</state><state type="floruit" from="" to=""><place/></state></person>
+  <biography><snippet source_id="nnbw/745"/></biography>
+</biodes>

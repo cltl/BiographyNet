@@ -1,0 +1,31 @@
+<biodes version="1.0">
+  <fileDesc>
+    <author/>
+    <ref target="http://proxy.handle.net/10648/a9e9dd14-c48c-4aef-83e7-0b507267eeb6"/>
+    <date when="1987"/>
+    <publisher>
+      <name>Nationaal Archief</name>
+      <ref target="http://www.gahetna.nl/collectie/archief"/>
+    </publisher>
+    <bibl>
+      <num>2.04.26.02</num>
+      <title>Inventaris van het archief van het Ministerie van Binnenlandse Zaken: Kabinetsarchief, 1817-1949</title>
+    </bibl>
+  <title/><idno type="source">na</idno></fileDesc>
+  <person>
+    <persName>Mr. Hendrik Jacob baron van Doorn van Westcapelle</persName>
+    <sex value="1"/>
+    <event type="birth" when="1786">geboren in 1786</event>
+    <event type="death" when="1853">overleden in 1853</event>
+    <CONTROLE>
+      <origination>
+        <persname>Mr. Hendrik Jacob baron van Doorn van Westcapelle</persname> (1786-1853)
+</origination>
+    </CONTROLE>
+  <idno type="id">a9e9dd14-c48c-4aef-83e7-0b507267eeb6__3</idno><idno type="bioport">82130704</idno></person>
+  <biography>
+    <text>
+      <title>Inventaris van het archief van het Ministerie van Binnenlandse Zaken: Kabinetsarchief, 1817-1949</title>
+    </text>
+  </biography>
+</biodes>

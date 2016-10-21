@@ -1,0 +1,17 @@
+Bernard D.H. Tellegen ( Winschoten , 27 juni 1900 &#8211; Eindhoven , 30 augustus 1990 ) was een Nederland s elektrotechnisch ingenieur en uitvinder van de pentode .
+ Biografie 
+Tellegen behaalde in 1923 zijn ingenieursdiploma elektrotechniek aan de Technische Hogeschool Delft (nu Technische Universiteit Delft geheten). Hij trad in dienst bij het Philips Natuurkundig Laboratorium (NatLab) 
+en werd Van der Pol s eerste medewerker. Tellegen richtte zich zijn onderzoek eerst op triode s, en vond in 1926 de pentode uit. De pentode, een radiobuis , werd gebruikt in Philips' eerste radio-ontvanger en later werd de pentode in vrijwel elke radio of versterker toegepast. Tellegen verrichte ook baanbrekend theoretisch werk aan elektrische netwerken.
+ Hij heeft ook veel bijgedragen aan netwerktheorie, waaronder de theorie van de gyrator . De Stelling van Tellegen geeft een eenvoudig verband tussen grootheden die voldoen aan de wetten van Kirchhoff . 
+ Hij was van 1942 tot 1952 voorzitter van het Nederlands Elektronica en Radio Genootschap (NERG); hij werd erelid van het genootschap in 1952. Hij was van 1948 tot 1960 voorzitter van het Nederlandse URSI comit&#233;. Hij was van 1946 tot 1966 verbonden aan de Technische Universiteit Delft als buitengewoon hoogleraar netwerktheorie. Tellegen ontving in 1970 aan deze universiteit een eredoctoraat en werd in 1960 gekozen tot lid van de Koninklijke Nederlandse Akademie van Wetenschappen (KNAW). Prof. dr.h.c. ir. Tellegen ontving in 1973 als eerste niet-Amerikaan de IEEE Edison Medal "Voor een creatieve loopbaan met belangrijke verdiensten voor de elektrische netwerktheorie en de gyrator ".
+ Externe links 
+ IEEE legacies artikel 
+ Weron artikel 
+ {{DEFAULTSORT:Tellegen, Bernard}}
+ Categorie:Nederlands natuurkundige 
+ Categorie:Nederlands hoogleraar 
+ Categorie:Nederlands ingenieur 
+ 
+
+
+  de:Bernard Tellegen en:Bernard D. H. Tellegen it:Bernard Tellegen sv:Bernard Tellegen

@@ -1,0 +1,30 @@
+<biodes version="1.0">
+  <fileDesc>
+    <author>Nationaal Archief</author>
+    <ref target="http://proxy.handle.net/10648/8d95de32-6ab4-46fd-bd25-73c66d3298e7"/>
+    <date when="1922"/>
+    <publisher>
+      <name>Nationaal Archief</name>
+      <ref target="http://www.gahetna.nl/collectie/archief"/>
+    </publisher>
+    <bibl>
+      <num>2.21.008.69</num>
+      <title>Inventaris van het archief van de familie van Hogendorp, 1720-1902</title>
+    </bibl>
+  <title/><idno type="source">na</idno></fileDesc>
+  <person>
+    <persName>Haren, Caroline Wilhelmina van</persName>
+    <sex value="1"/>
+    <event type="birth" when="1741">geboren in 1741</event>
+    <event type="death" when="1812">overleden in 1812</event>
+    <CONTROLE>
+      <origination>
+        <persname>Haren, Caroline Wilhelmina van</persname> (1741-1812)</origination>
+    </CONTROLE>
+  <idno type="id">8d95de32-6ab4-46fd-bd25-73c66d3298e7__2</idno><idno type="bioport">95370974</idno><idno type="bioport">81573753</idno></person>
+  <biography>
+    <text>
+      <title>Inventaris van het archief van de familie van Hogendorp, 1720-1902</title>
+    </text>
+  </biography>
+</biodes>

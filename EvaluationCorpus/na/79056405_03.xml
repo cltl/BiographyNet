@@ -1,0 +1,31 @@
+<biodes version="1.0">
+  <fileDesc>
+    <author>H.A.J. van Schie</author>
+    <ref target="http://proxy.handle.net/10648/c8567e44-a976-4e02-b529-47da4e27457d"/>
+    <date when="1978"/>
+    <publisher>
+      <name>Nationaal Archief</name>
+      <ref target="http://www.gahetna.nl/collectie/archief"/>
+    </publisher>
+    <bibl>
+      <num>2.21.164</num>
+      <title>Inventaris van het archief van A. van der Toorn [levensjaren 1785-1870], 1807-1864; J. van der Toorn [levensjaren 1828-1888], (ca. 1846) 1866-1871</title>
+    </bibl>
+  <title/><idno type="source">na</idno></fileDesc>
+  <person>
+    <persName>Jacobus van der Toorn</persName>
+    <sex value="1"/>
+    <event type="birth" when="1828">geboren in 1828</event>
+    <event type="death" when="1888">overleden in 1888</event>
+    <CONTROLE>
+      <origination>
+        <persname>Jacobus van der Toorn (1828-1888)</persname>
+      </origination>
+    </CONTROLE>
+  <idno type="id">c8567e44-a976-4e02-b529-47da4e27457d__2</idno><idno type="bioport">79056405</idno></person>
+  <biography>
+    <text>
+      <title>Inventaris van het archief van A. van der Toorn [levensjaren 1785-1870], 1807-1864; J. van der Toorn [levensjaren 1828-1888], (ca. 1846) 1866-1871</title>
+    </text>
+  </biography>
+</biodes>

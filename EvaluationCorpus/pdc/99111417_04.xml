@@ -1,0 +1,28 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09llv6nrd5"/>
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/"/>
+  </publisher>
+ <title/><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09llv6nrd5">
+  <persName>
+   <name type="voornaam">P.</name>
+    <name type="geslachtsnaam">Houttuijn Gzn.</name>
+  </persName>
+  <persName>
+   <name type="voornaam">Pieter</name>
+    <name type="geslachtsnaam">Houttuijn Gzn.</name>
+  </persName>
+  <event type="birth" when="1771-06-19">in <place>Hoorn</place></event>
+  <event type="death" when="1847-12-10">in <place>Hoorn</place></event>
+  <state type="residence">Hoorn</state>
+  <state type="occupation">koopman te Hoorn</state>
+  <state type="occupation" from="1795-05-18">lid Vergadering van Provisionele Representanten van het Volk van Holland (voor Hoorn)</state>
+  <state type="occupation" from="1796-04-01" to="1797-03-28">lid Provinciaal Comit&#233; van Holland</state>
+  <state type="occupation" from="1798-12-20" to="1802-06-04">lid bestuur departement Texel</state>
+  <state type="occupation">lid Vergadering van Notabelen voor het departement Zuiderzee, 29 en 30 maart 1814</state>
+ <idno type="bioport">99111417</idno><idno type="id">pdc/vg09llv6nrd5.xml</idno></person>
+ <biography/>
+</biodes>

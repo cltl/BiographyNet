@@ -1,0 +1,44 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09ll28ocqt"/>
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/"/>
+  </publisher>
+ <title/><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09ll28ocqt">
+  <persName>
+   <name type="voornaam">Aren</name>
+    <name type="geslachtsnaam">Kievit</name>
+  </persName>
+  <persName>
+   <name type="voornaam">Aren</name>
+    <name type="geslachtsnaam">Kievit</name>
+  </persName>
+  <persName>
+   <name type="voornaam">A.</name>
+    <name type="geslachtsnaam">Kievit</name>
+  </persName>
+  <sex value="1"/>
+  <event type="birth" when="1882-01-25">in <place>Oude Tonge (Z.H.)</place></event>
+  <event type="death" when="1955-03-01">in <place>Rotterdam</place></event>
+  <event type="marriage" when="1910-07-27">gehuwd te Rotterdam</event>
+  <state type="residence">Rotterdam</state>
+  <state type="residence" to="1955-03-01">Rotterdam, Gordelweg 147a</state>
+  <state type="faith">Nederlands Hervormd (opgevoed)</state>
+  <state type="faith">geen godsdienst</state>
+  <state type="occupation" from="1898">havenarbeider te Rotterdam</state>
+  <state type="occupation" from="1914" to="1936-01">lid hoofdbestuur CBT (Centrale Bond van Werknemers in het Transportbedrijf)</state>
+  <state type="occupation" from="1917-09-04" to="1941-09-01">lid gemeenteraad van Rotterdam</state>
+  <state type="occupation" from="1936-01" to="1947">voorzitter CBT (Centrale Bond van Werknemers in het Transportbedrijf)</state>
+  <state type="occupation" from="1937-06-08" to="1946-06-04">lid Tweede Kamer der Staten-Generaal</state>
+  <state type="occupation" from="1945-11-09" to="1946-09-02">lid tijdelijke gemeenteraad van Rotterdam</state>
+  <state type="occupation" from="1946-09-02" to="1949-09-06">lid gemeenteraad van Rotterdam</state>
+  <state type="occupation" from="1948-04-14" to="1948-07-27">lid Eerste Kamer der Staten-Generaal</state>
+  <state type="occupation" from="1949-03-30" to="1951-09-18">lid Eerste Kamer der Staten-Generaal</state>
+ <idno type="bioport">98328503</idno><idno type="id">pdc/vg09ll28ocqt.xml</idno></person>
+ <biography>
+  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/006/00698g.jpg"/>
+  <text>Van Goeree-Overflakkee afkomstig SDAP-Tweede Kamerlid en vakbondsbestuurder. Oudste uit een groot (christelijk) landarbeidersgezin, die op zijn zestiende havenarbeider werd in Rotterdam. Werd spoedig actief in de socialistische vakbond en later voorzitter van de vakbond voor transportarbeiders. Lange tijd gemeenteraadslid in Rotterdam en vanaf 1937 Tweede Kamerlid. Hield zich vooral bezig met vervoersaangelegenheden en landbouw. Was in de periode 1948-1951 Eerste Kamerlid.</text>
+ </biography>
+</biodes>

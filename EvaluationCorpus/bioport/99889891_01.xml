@@ -1,0 +1,11 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <publisher/>
+  <idno type="source">bioport</idno></fileDesc>
+  <person>
+    <idno type="id">99889891</idno>
+    <idno type="bioport">99889891</idno>
+  <persName>Hendrik Bernard <name type="geslachtsnaam">Weijland</name></persName><event type="birth" when="1928-07-06"><place>Bedum</place></event><event type="death" when="1996-08-10"><place>Lunteren</place></event><event type="funeral"><place/></event><event type="baptism"><place/></event><sex value="1"/><state type="floruit" from="" to=""><place/></state><state type="category" idno="10">Onderwijs &amp; wetenschappen</state><state type="category" idno="4">Kerk en godsdienst</state></person>
+  <biography/>
+</biodes>

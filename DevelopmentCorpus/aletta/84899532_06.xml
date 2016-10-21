@@ -1,0 +1,289 @@
+<biodes version="1.0">
+   <fileDesc>
+       <idno>IAV_4587-biografie</idno>
+       <author>Mariek Hilhorst</author>
+       <ref target="http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:4587&amp;res2=localhost:8080/solr/core14"/>
+       <date when="2008/02/15"/>
+       <revisionDesc>
+           <change when="2011-01-13"/>
+           <change when="2011-01-13"/>
+           <change when="2011-01-13"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2011-01-11"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-17"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-12-16"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-23"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2010-04-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2009-11-13"/>
+           <change when="2008-06-06"/>
+           <change when="2008-03-27"/>
+           <change when="2008-03-27"/>
+           <change when="2008-03-20"/>
+           <change when="2008-03-20"/>
+           <change when="2008-03-19"/>
+           <change when="2008-03-19"/>
+           <change when="2008-02-22"/>
+           <change when="2008-02-21"/>
+           <change when="2008-02-21"/>
+           <change when="2008-02-21"/>
+           <change when="2008-02-15"/>
+       </revisionDesc>
+       <publisher>
+           <name>Database Vrouwenbiografien, Aletta</name>
+           <ref target="http://www.aletta.nu/aletta/nl/collecties/biografieen"/>
+       </publisher>
+       <availability status="free">Aletta, Instituut voor Vrouwengeschiedenis. Bronvermelding: Mariek Hilhorst - Smit, Joke(1933-1981), in: Database Vrouwenbiografieen, Aletta. URL:http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:4587&amp;res2=localhost:8080/solr/core14</availability>
+   <title/><idno type="source">aletta</idno></fileDesc>
+   <person>
+       <persName>Smit, Joke</persName>
+       <persName>Smit, Johanna Elisabeth</persName>
+       <sex value="2"/>
+       <event type="birth" when="1933-08-27">
+           in <place>Utrecht</place>
+       </event>
+       <event type="death" when="1981-09-19">
+           in <place>Utrecht</place>
+       </event>
+   <state type="claim_to_fame">feministe, wetenschapster en &#8216;werkende moeder&#8217; die met haar artikel &#8216;Het onbehagen van de vrouw&#8217; in 1967 de aanzet gaf tot de tweede feministische golf in Nederland</state>
+   <state type="claim_to_fame">Mede-oprichtster van de aktiegroep Man Vrouw Maatschappij</state>
+   <state type="claim_to_fame">Lid Emancipatiecommissie</state>
+   <idno type="bioport">84899532</idno><idno type="id">aletta/IAV_4587-biografie.xml</idno></person>
+   <biography>
+   <graphic/>
+       <graphic url="http://www.aletta.nu/aletta/fotos//CD210/18596.jpg"/>
+          <text xml:lang="nl">
+     Johanna Elisabeth Smit was de dochter van Johannes Jacobus Smit, hoofd van een ULO, en Johanna Elisabeth Koenderink, lerares aan een huishoudschool. Van 1956 tot 1974 was Joke Smit gehuwd met Constant Kool, leraar wiskunde, later statisticus. Ze kregen drie kinderen. Haar latere partner was de jurist Jeroen de Wildt. Joke Smit studeerde Frans in Utrecht en Amsterdam.
+     Als journaliste was Joke Smit in haar tijd een van de weinige betaald werkende moeders. In het artikel &#8216;Het onbehagen bij de vrouw&#8217; in &#8216;De Gids&#8217; schreef ze over de problemen die zij als werkende moeder ondervond. Dit geruchtmakende artikel wordt beschouwd als het begin van de tweede feministische golf in Nederland. Het riep zoveel herkenning op bij andere vrouwen dat Kool-Smit op 26 oktober 1968 de actiegroep Man-Vrouw Maatschappij (MVM) oprichtte. Ze deed dit samen met wetenschappelijk medewerkster, journaliste en politica Hedy d&#8217;Ancona.
+
+
+
+Joke Smit werd een icoon van de Nederlandse tweede feministische golf. MVM ontwikkelde zich onder haar voorzitterschap tot een radicale feministische organisatie die uniek was voor Europa, omdat ze samenwerking met mannen niet uitsloot. Joke Kool-Smit vond een praktische aanpak van maatschappelijke veranderingen belangrijker dan theoretische discussies. In 1969 schreef ze een politieke analyse van de weerstanden tegen feminisme en feministische vrouwen: &#8216;Rok en rol. Vrouw (en man) in een veranderende samenleving&#8217;. Dit boek vormde het beginselprogramma voor MVM. MVM was de bakermat van veel feministische initiatieven en wist de Nederlandse politiek te bewegen tot het voeren van een emancipatiebeleid.
+
+
+
+Joke Kool-Smit  bekritiseerde de seksistische inhoud van bepaalde tv-programma&#8217;s en maakte vanaf 1971 deel uit van de programmaraad Televisie van de NTS (later NOS). Ze pleitte voor een feministisch televisieprogramma, dat in 1975 werd uitgezonden onder de titel &#8216;Ot... en hoe zit het nu met Sien?&#8217;
+
+
+
+Als lid van de Commissie Vormings- en Ontwikkelingswerk voor Volwassenen schreef Kool-Smit in 1973 de beleidsnota over volwasseneneducatie &#8216;De moeder van Marie kan m&#233;&#233;r!&#8217; Ze was van 1974 tot 1981 bovendien lid van de door de regering ge&#239;nstalleerde Emancipatiekommissie. In die hoedanigheid had ze grote invloed op het &#8216;emancipatiebeleid&#8217; van de overheid; deze term bedacht ze in 1973.
+
+
+
+Kool-Smit zat in de redactie van het literaire tijdschrift &#8216;Tirade&#8217;. Vanaf 1967 was ze wetenschappelijk hoofdmedewerkster aan het Instituut voor Vertaalkunde van de Universiteit van Amsterdam. Ze zat vanaf 1971 in de (kern)redactie van het PvdA-blad &#8216;Socialisme en Democratie&#8217;.
+          </text>
+      <bibl>
+           <ref target="http://www.jokesmit.nl/js/algemeen/">Joke Smit (1933-1981), feministe</ref>
+      </bibl>
+      <bibl>
+           <ref target="http://home.wxs.nl/~evenwild/wsts210/simjes/teksten/onbehagen/onbehagen.html">Joke Smit: Het Onbehagen bij de Vrouw</ref>
+      </bibl>
+      <bibl>
+           <ref target="http://www.inghist.nl/Onderzoek/Projecten/BWN/lemmata/bwn5/smitj">Biografie van Smit, Johanna Elisabeth</ref>
+      </bibl>
+      <bibl>
+     - Er is een land waar vrouwen willen wonen : teksten 1967-1981 / Joke Smit, Jeroen de Wildt (samenst.), Marijke Harberts (samenst.). - Amsterdam : Sara, 1984. - 383p.
+
+Bloemlezing met artikelen van Joke Smit.
+      </bibl>
+      <bibl>
+     - Er is een land waar vrouwen willen wonen / Joke Smit, Ruud Bos. - Amsterdam : MVM, 1981. - 2p.
+      </bibl>
+      <bibl>
+     - De balans van tien jaar vrouwenbeweging : is het feminisme ten dode opgeschreven? / Joke Smit, Eva Besny&#246; (foto's)
+
+In: Vrij Nederland. - (1978), (11 november), p.30-31, 34-35, 37, 39, 42-43, 45-47, 50-51 : VN-kleurkatern
+
+Ter gelegenheid van het tienjarig bestaan van Man Vrouw Maatschappij maakt Joke Smit de balans op van de tweede feministische golf. Zij geeft daarbij de mogelijkheden aan om uit de impasse te geraken.
+      </bibl>
+      <bibl>
+     - Feministen, en nu weer met beide benen op de grond! / Joke Smit. - Amsterdam : Vrij Nederland, 1977. - 2p. : foto's
+      </bibl>
+      <bibl>
+     - Het jaar van de vrouw .... wat nou? : bespiegelingen over deze vraag in 14 artikelen / Joke Smit, Nelien de Ruiter, Annie Romein-Verschoor, [et al.]. -  Amsterdam : Keesing, 1975. - 119p. : index : ill.
+      </bibl>
+      <bibl>
+     - De  moeder van Marie kan m&#233;&#233;r; gebundelde artikelen 1971-1975 / Joke Smit. - Utrecht : Bruna, 1975. - 188p.
+      </bibl>
+      <bibl>
+     - Feminisme en socialisme / Joke Kool-Smit. - Amsterdam : pvdA.], 1974. - 10p.
+
+Uit: Socialisme en Democratie, 8/9, 1974, p.380-390.
+      </bibl>
+      <bibl>
+     - De moeder van Marie kan m&#233;&#233;r! : nota over scholing en vorming voor de "vrouw" / Joke Kool-Smit [voorw.], W. de la Court. - Amersfoort : Comm. Vormings- en    Ontwikkelingswerk voor Volwassenen, 1973. - 27p.
+      </bibl>
+      <bibl>
+     - Vijf jaar MVM : openingsrede van het MVM-Festival op 27 oktober 1973 / Joke Kool-Smit. - Den Haag : Aktiegroep MAN Vrouw Maatschappij, 1973. - 13p.
+      </bibl>
+      <bibl>
+     - Ganzenbordgroep en verder : een brochure over praten en doen / Hanneke van Buuren, Joke Kool-Smit, Gosina Mandersloot, [et al.]. - Den Haag : Man Vrouw Maatschappij, 1972. - 52p.
+      </bibl>
+      <bibl>
+     - H&#233; zus, ze houen ons eronder : een boek voor vrouwen en oudere meisjes / Joke Kool-Smit. - Utrecht : Bruna, 1972. - 133p.
+      </bibl>
+      <bibl>
+     - De rechten van de vrouw / H. Balner (voorw.), Andreas Burnier, Joke Kool-Smit, R. Wentholt, [et al.]. - Rotterdam : Universitaire Pers, 1969. - 94 p. (Studium Generale 1)
+      </bibl>
+      <bibl>
+     - Rok en rol : vrouw (en man) in een veranderende samenleving / Joke Kool-Smit [voorw.], H.A.J.F. Misset, E.E. Engelsman, Hedy d' Ancona. - Amsterdam : De Arbeiderspers, 1969. - 72p.
+      </bibl>
+      <bibl>
+     - Het onbehagen bij de vrouw / Joke Kool-Smit
+
+In: De Gids. - 130 (1967), 9/10, p.267-281 : lit.
+      </bibl>
+      <bibl>
+     - Het ideaal van androgynie : een kwart eeuw zonder Joke Smit / Elisabeth Kool
+
+In: De Groene Amsterdammer. - 130 (2006), 48(1 dec), p.24-25
+
+Een kwart eeuw geleden overleed Joke Kool-Smit, grondlegger van de tweede feministische golf in Nederland. 'Gelijkheidsfeministe' Smit streefde naar een samenleving van androgyne mensen.
+      </bibl>
+      <bibl>
+     - Markante vrouwen (themanummer) / Els Kloek, Frans Willem Lantink, Esther Tob&#233; [et al.]
+
+In: Spiegel Historiael. - 40 (2005), 7/8(jul/aug), p.284-328, 330-338, 340-344
+
+In biografische woordenboeken komen maar weinig vrouwen voor. Themanummer over markante vrouwen in Nederland naar aanleiding van het zilveren jubileum van koningin Beatrix. Met aandacht voor o.a. Joke Kool-Smit.
+      </bibl>
+      <bibl>
+     - Naar een nieuw feministisch engagement : de erfenis van Joke Kool-Smit [themanummer] / Monica Soeting [et al.]
+
+In: De Gids. - 163 (2000), 9(sep), p.673-736 : lit.
+
+Overzicht van wat er in Nederland binnen het onderzoek naar de verhoudingen tussen 'norm' en 'ander' gebeurt en welke resultaten er sinds de tijd van Joke Kool-Smit in het streven naar gelijkstelling geboekt werden.
+      </bibl>
+      <bibl>
+     - Joke Smit : hoe vertaal je feminisme in beleid? / Jeannine Hendriks
+
+In: Historica. - 22 (1999), 3(okt), p.13-15
+
+Onderzoek naar de politieke denkbeelden van Joke Smit en hoe ze die in de praktijk trachtte te realiseren.
+      </bibl>
+      <bibl>
+     - Joke Smit: 'Hoe vertaal je feminisme in beleid?' : een onderzoek naar Joke Smit, haar idee&#235;n en de emancipatiekommissie als praktijkvoorbeeld / I. Jeannine Hendriks. - Amsterdam, 1997. - 94p. : lit. : bijl.
+
+Doctoraalscriptie vrouwengeschiedenis, Vrije Universiteit Amsterdam. Overzicht van de idee&#235;n van Joke Smit en haar praktische werk in PvdA en MVM, de universiteit en verschillende commissies en redacties. Vervolgens aandacht voor de Emancipatie Kommissie en de rol die Joke Smit daarin speelde. Bijlage met interviews met Paula van Schaveren en Jeroen de Wildt.
+      </bibl>
+      <bibl>
+     - Het persoonlijke wordt politiek : feministische bewustwording in Nederland 1965-1980 / Irene Costera Meijer. - Amsterdam : Het Spinhuis, 1996. - 351p. : lit. : index : foto's : afb.
+
+Proefschrift vrouwenstudies Universiteit van Amsterdam. Studie naar de tweede feministische golf waarbij de opkomst en ondergang van de vrouwelijke identiteit als centraal politiek vraagstuk de leidraad vormt. Er wordt o.a. aandacht besteed aan het feminisme van Joke Kool-Smit, organisaties als Man Vrouw Maatschappij, Dolle Mina en Paarse September, en het debat feminisme en homoseksualiteit.
+      </bibl>
+      <bibl>
+     - Kroniek &amp; kritiek : vrouwelijkheid als sieraad / Fleur Thom&#233;se
+
+In: De Gids. - 155 (1992), 7(jul), p.566-572
+
+Essay over 25 jaar feminisme: vanaf het verschijnen in 1967 van &#8216;Het onbehagen bij de vrouw&#8217; door Joke Smit tot nu.
+      </bibl>
+      <bibl>
+     - Steeds een stapje verder gaan dan je eigenlijk durft : 25 jaar na dato : zijn de wensen van Joke Smit uitgekomen? / Pim van Oostrum
+
+In: Opzij. - 20 (1992), 12(dec), p.100-102
+      </bibl>
+      <bibl>
+     - Het onbehagen van een lotgenote : de ontwikkeling van een nieuw feministisch perspectief op vrouwen in de jaren zestig / Irene Costera Meijer
+
+In: Op het strijdtoneel van de politiek. - (1991), p.153-169
+
+Het artikel 'Het onbehagen bij de vrouw' (1967) van Joke Kool-Smit wordt in verschillende contexten geplaatst.
+      </bibl>
+      <bibl>
+     - Reader Vrouwengeschiedenis cursus 1990-1991. - [S.l.] : [s.n.], 1990. - 114p. : lit.
+
+Een aantal overdrukken van o.a. een inleidende brief van Hedy D'Ancona en Joke Smit uit 1968 met een ontwerp voor de opzet van de aktiegroep &#8216;Vrouwen 2000&#8217;.
+      </bibl>
+      <bibl>
+     - Tussen aanpassing en verzet : vrouwen voor het voetlicht 1929-1969 / Carla Wijers (red.), Monique Teubner (red.), Anjo Roos (red.)  [et al.]. - Culemborg : Lemma, 1989. - 209p. : ill. : bijl. : lit. (Tipje van de sluier ; 5)
+
+Bundel artikelen waarin de nadruk ligt op wat vrouwen in het dagelijks leven dachten en ervaarden. Met o.a. een biografie van Joke Smit.
+      </bibl>
+      <bibl>
+     - Mevrouw, ik groet U : necrologie&#235;n van vrouwen / Emma Brunt (samenst. en inl.). - Amsterdam; [etc.] : Rap, 1987. - 200p. : ill.
+
+Bundel van levensbeschrijvingen van vrouwen geschreven door tijdgenoten. Bevat een artikel over onder andere  Joke Smit (1938-1981).
+      </bibl>
+      <bibl>
+     - &#8216;Waar ik zo kwaad over word is dat niemand aan mij vraagt hoe ik het volhoud om dood te gaan&#8217; : afscheid door Joke Smit / Marijke Harberts
+
+In: Vrij Nederland. - 48 (1987), 45(7 nov), p.7
+
+Toen Joke Smit in 1980 te horen kreeg dat ze longkanker had, kreeg Marijke Harberts het verzoek om haar te helpen met het optekenen van een verslag van de laatste fase van de ziekte. Op basis van dit materiaal verschijnt 'Afscheid van Joke Smit'. Een voorpublicatie.
+      </bibl>
+      <bibl>
+     - Afscheid van Joke Smit / Marijke Harberts. - Amsterdam : Van Gennep, 1987. - 116p.
+
+Twintig jaar geleden publiceerde Joke Smit in De Gids haar artikel &#8216;Het onbehagen van de vrouw&#8217;. Het zou het begin van de moderne vrouwenbeweging in Nederland worden. Toen Joke Smit in 1980 te horen kreeg dat ze longkanker had, stelde ze een werkscenario op voor de tijd die haar restte en vroeg een aantal mensen haar met specifieke taken te helpen. Aan Marijke Harberts vroeg ze, een verslag op te tekenen van haar stervensproces Een jaar lang legden ze, met onderbrekingen, in wekelijkse sessies hun gedachten en observaties vast. Vijf jaar na de dood van Joke Smit, heeft Marijke Harberts, op grond van het ruwe materiaal uit die periode, hun beider plan uitgevoerd.
+      </bibl>
+      <bibl>
+     - 75 Jaar sociaal-demokratische vrouwenbeweging, 1908-1983 : programma 16 april 1983 De Hanzehof Zutphen. - Amsterdam : Rooie Vrouwen, 1983. - 8p. Bevat de liedteksten van: Marianne, Joke Smit lied (Er is een land waar vrouwen willen wonen) en De Internationale.
+      </bibl>
+      <bibl>
+     - Joke Smit / Maja Flipsen-Hofman, Elly Pol. - Amsterdam : UvA, 1982 : lit.
+      </bibl>
+      <bibl>
+     - "Zusters weest moedig ...." leven en werken van Joke Smit / Ellen van der Neut. - Amsterdam : Universiteit van Amsterdam. Historische Opvoedkunde, 1982. - 17p. : lit. Scriptie.
+      </bibl>
+      <bibl>
+     - Interview with Joke Smit a few weeks before her death / Hedy d' Ancona [vert.], H.M. Hootsmans : [s.n.], 1981. - 15p. (Eerder verschenen in het Nederlands in Opzij, september 1981)
+      </bibl>
+      <bibl>
+     - Kijk haar / Hoor haar! Joke Smit. - Hilversum : VARA, 1981. - 44p. (VARAteksten)
+      </bibl>
+      <bibl>
+     - Tien over tijd 1968-1978. - Den Haag : MVM, 1978. - 88p.
+
+Met artikelen van Hedy d'Ancona, Lies van Doorne, Huub Drion, G&#233; Enters, Wijnand Klaver, Margreet Kolkman, Han Schenk, Joke Smit, Rikkemien Strating, Elida Wessel.
+      </bibl>
+      <bibl>
+     - De balans van tien jaar vrouwenbeweging : is het feminisme ten dode opgeschreven? / Joke Smit, Eva Besny&#246; (foto's)
+
+In: Vrij Nederland. - (1978), (11 november), p.30-31, 34-35, 37, 39, 42-43, 45-47, 50-51 : VN-kleurkatern
+
+Ter gelegenheid van het tienjarig bestaan van Man Vrouw Maatschappij maakt Joke Smit de balans op van de tweede feministische golf. Zij geeft daarbij de mogelijkheden aan om uit de impasse te geraken.`
+      </bibl>
+      <bibl>
+     - Stichting In Memoriam Johanna Elisabeth Smit. Zie: emancipatie.nl
+      </bibl>
+   </biography>
+</biodes>

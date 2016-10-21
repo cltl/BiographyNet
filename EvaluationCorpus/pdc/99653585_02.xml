@@ -1,0 +1,43 @@
+<biodes version="1.0">
+ <fileDesc>
+  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09llcuv6xv"/>
+  <publisher>
+   <name>Parlementair Documentatie Centrum</name>
+   <ref target="http://www.parlementairdocumentatiecentrum.nl/"/>
+  </publisher>
+ <title/><idno type="source">pdc</idno></fileDesc>
+ <person xml:id="vg09llcuv6xv">
+  <persName>
+   <name type="voornaam">J.D.</name>
+    <name type="intrapositie">baron van</name>
+    <name type="geslachtsnaam">Wassenaer van Rosande</name>
+  </persName>
+  <persName>
+   <name type="voornaam">Jan</name>
+   <name type="voornaam">Dirk</name>
+    <name type="intrapositie">baron van</name>
+    <name type="geslachtsnaam">Wassenaer van Rosande</name>
+  </persName>
+  <sex value="1"/>
+  <event type="birth" when="1851-07-07">in <place>Bennekom<region type="gemeente">gem. Ede</region></place></event>
+  <event type="death" when="1914-06-23">in <place>'s-Gravenhage</place></event>
+  <event type="marriage" when="1881-03-17">gehuwd te 's-Gravenhage</event>
+  <state type="residence">Bennekom, huize Noordereng</state>
+  <state type="residence" to="1880-12-10">Amsterdam,</state>
+  <state type="residence" from="1880-12-10" to="1914-06-23">'s-Gravenhage</state>
+  <state type="education">opleiding kostschool "Schreuder" te Noordwijk</state>
+  <state type="education" from="1866-06-01" to="1870-08-01">officiersopleiding KIM (Koninklijk Instituut voor de Marine) te Willemsoord (Den Helder)</state>
+  <state type="education" from="1870-08-01" to="1873-09-01">adelborst eerste klasse</state>
+  <state type="faith">Nederlands Hervormd</state>
+  <state type="occupation" from="1873-09-01" to="1881-01-15">marineofficier</state>
+  <state type="occupation" from="1878-09-01" to="1879-02-01">adjudant van Z.K.H. Prins Hendrik der Nederlanden</state>
+  <state type="occupation" from="1889-05-07" to="1901-07-03">lid gemeenteraad van 's-Gravenhage</state>
+  <state type="occupation" from="1898-06-17" to="1904-09">lid Provinciale Staten van Zuid-Holland voor het kiesdistrict 's-Gravenhage</state>
+  <state type="occupation" from="1901-07-03" to="1904-09">lid Gedeputeerde Staten van Zuid-Holland</state>
+  <state type="occupation" from="1904-09-21" to="1914-06-23">lid Eerste Kamer der Staten-Generaal voor Zuid-Holland</state>
+ <idno type="bioport">99653585</idno><idno type="id">pdc/vg09llcuv6xv.xml</idno></person>
+ <biography>
+  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/015/01511g.jpg"/>
+  <text>Telg uit een vooraanstaand Gelders adellijk geslacht, dat na een loopbaan bij de Marine diverse bestuursfuncties vervulde. Hij was onder meer raadslid in Den Haag en gedeputeerde van Zuid-Holland en tien jaar Eerste Kamerlid. Via enkele functies was hij tevens verbonden aan het Hof. Als christelijk-historisch Kamerlid voerde hij regelmatig over uiteenlopende onderwerpen het woord.</text>
+ </biography>
+</biodes>

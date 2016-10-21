@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.inghist.nl/retroboeken/nbwv?source=3&amp;page_number=884"/>
+    <publisher>
+      <name>XXX</name>
+      <ref target="http://www.inghist.nl"/>
+    </publisher>
+  <idno type="source">nbwv</idno></fileDesc>
+  <person>
+    <persName>VAREN</persName>
+    <event type="birth" when="1462"/>
+    <event type="death" when="1536"/>
+  <idno type="bioport">99737926</idno><idno type="id">nbwv/2624.xml</idno></person>
+  <biography/>
+</biodes>
