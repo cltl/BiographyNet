@@ -337,6 +337,7 @@ def get_termSpan_from_wordSpan(nafobj, wList):
     return t_span
 
 
+
 def initiate_role_from_overlap_TE(nafobj, wSpan, tSpan, timeExList):
     '''
     Function that maps word span of time expression to term span of role
@@ -354,8 +355,8 @@ def initiate_role_from_overlap_TE(nafobj, wSpan, tSpan, timeExList):
                 myRole.roleSpan = tSpan
             else:
                 #we make timex the new span
-                updated_span = get_termSpan_from_wordSpan(nafobj, wSpan)
-                myRole.rolespan = updated_span
+                updated_span = get_termSpan_from_wordSpan(nafobj, span)
+                myRole.roleSpan = updated_span
     return myRole
 
 def identify_head(phrase, edges):
@@ -523,7 +524,6 @@ def complete_srl_info(nafobj, srlEvents, namedEntities, timeExpressions):
             TEids.add(t)
     #dictionary to store more complete information
     updatedEventsRoles = {}
-    
     myterms = nafobj.get_terms()
     for term in myterms:
         tId = term.get_id()
@@ -538,6 +538,9 @@ def complete_srl_info(nafobj, srlEvents, namedEntities, timeExpressions):
             tRoles = srlEvents.get(tId)
             for role in tRoles:
                 roleSpan = role[1]
+
+                headWordInfo = get_head_word_and_lemma(nafobj, roleSpan)
+                headTerm = nafobj.get_term(headWordInfo[0])
                 #for now: all role labels are propbank roles
                 roleLab = 'pb:' + role[0]
                 wSpan = get_span_from_list(nafobj, role[1])
@@ -552,7 +555,8 @@ def complete_srl_info(nafobj, srlEvents, namedEntities, timeExpressions):
                         myRole.roleLabel= roleLab
                         myEvent.roles.append(myRole)
                 else:
-                    if span_in_overlap_set(TEids, wSpan):
+                    #FIXME: ugly; either head word is prep or headword in temp expression
+                    if span_in_overlap_set(TEids, wSpan) and (headTerm.get_pos() == 'prep' or span_in_overlap_set(TEids, headTerm.get_span().get_span_ids())):
                         #update span (if needed), returns one role
                         myRole = initiate_role_from_overlap_TE(nafobj, wSpan, roleSpan, timeExpressions)
                         get_full_string_and_offsets(nafobj, myRole, myRole.roleSpan)
@@ -561,7 +565,6 @@ def complete_srl_info(nafobj, srlEvents, namedEntities, timeExpressions):
                         myRole.roleLabel = roleLab
                         myEvent.roles.append(myRole)
                     else:
-                        headWordInfo = get_head_word_and_lemma(nafobj, roleSpan)
                         #add pronoun info
                         myRole = NafRole(roleSpan = roleSpan, lemma=headWordInfo[1], exrefs=headWordInfo[2], head=headWordInfo[3],pron=headWordInfo[4])
                         get_full_string_and_offsets(nafobj, myRole, myRole.roleSpan)
@@ -585,7 +588,9 @@ def collect_naf_info(nafobj):
     return myEvents, namedEntities, timeExpressions
 
 def create_identifier(prefix, suffixList):
-    prefix = 'bgnProc:'
+    prefix = 'bgnProc:' + prefix
+    if not '#' in prefix:
+        prefix += '#'
     #if not prefix.endswith('/'):
     #   prefix += '/'
     for suffix in suffixList:
@@ -633,7 +638,7 @@ def update_foundPeople_and_identityRels(surfaceString, instanceId):
             foundPeople[surfaceString] = instanceId
     return my_identifier
 
-def get_NE_triples(nafobj, naffile, NE, BiodesId):
+def get_NE_triples(nafobj, prefix, NE, BiodesId):
     '''
     Analysis NE object and returns list of relevant triples
     '''
@@ -642,16 +647,20 @@ def get_NE_triples(nafobj, naffile, NE, BiodesId):
     #last element in list is the class
     wIds = get_span_from_list(nafobj, NE.eSpan)
     offset, surfaceString = get_offset_and_surface_of_tSpan(nafobj, NE.eSpan)
-    instanceId = create_identifier(naffile, NE.eSpan)
-    mentionId = create_identifier(naffile, wIds)
+    instanceId = create_identifier(prefix, NE.eSpan)
+    mentionId = create_identifier(prefix, wIds)
     surfaceString = surfaceString.replace(',','')
     if len(NE.exRefs) > 0:
         for exRef in NE.exRefs:
             label = exRef.split('/')[-1]
             if label == surfaceString:
                 instanceId = exRef
-    NEtriples.append('bgnProc:personDes,bgn:hasAssociation,' + instanceId)
-    NEtriples.append(instanceId + ',rdf:type,bgn:' + NE.eType)
+    if NE.eType in ['LOC','ORG','PER','MISC']:
+        netype = 'bgn:' + NE.eType
+    else:
+        netype = 'bgn:MISC'
+    NEtriples.append('bgnProc:' + prefix + '#personDes,bgn:hasAssociation,' + instanceId)
+    NEtriples.append(instanceId + ',rdf:type,' + netype)
     NEtriples.append(instanceId + ',gaf:denotedBy,' + mentionId)
     NEtriples.append(mentionId + ',nif:beginIndex,"' + str(offset[0]) + '"')
     NEtriples.append(mentionId + ',nif:endIndex,"' + str(offset[1]) + '"')
@@ -668,12 +677,25 @@ def get_NE_triples(nafobj, naffile, NE, BiodesId):
     return NEtriples, instanceId, mentionId
 
 
+def get_wids_info(nafobj, wid):
+
+    tok = nafobj.get_token(wid)
+    beginOffset = tok.get_offset()
+    endOffset = int(beginOffset) + int(tok.get_length())
+    text = tok.get_text()
+
+    return beginOffset, endOffset, text
+
 def surface_triples_from_wid(nafobj, wid, prefix):
     '''
     Returns surface triples based on wid
     '''
-    prefix = 'bgnProc:'
+    prefix = 'bgnProc:' + prefix + '#'
     IDtriples = []
+    #FIXME: This will need to be capable of dealing with multiwords
+    if wid.count('w') > 1:
+        print('[INFO] Error in identifier forming', wid, file=sys.stderr)
+        wid = 'w' + wid.split('w')[1]
     tok = nafobj.get_token(wid)
     beginOffset = tok.get_offset()
     IDtriples.append(prefix + wid + ',nif:beginIndex,' + beginOffset)
@@ -699,10 +721,10 @@ def get_otherEnt_triples(nafobj, prefix, id2find, BiodesId):
         if pron:
             wid = term.get_span().get_span_ids()[0]
             IDtriples = surface_triples_from_wid(nafobj, wid, prefix)
-            IDtriples.append('bgnProc:' + wid + ',a,' + pron)
-            IDtriples.append('bgnProc:' + id2find + ',gaf:denotedBy,' + 'bgnProc:' + wid)
+            IDtriples.append('bgnProc:' + prefix + '#' + wid + ',a,' + pron)
+            IDtriples.append('bgnProc:' + prefix + '#' + id2find + ',gaf:denotedBy,' + 'bgnProc:' + prefix + '#' + wid)
             if ('fs' in pron and gender == '2') or ('ms' in pron and gender == '1'):
-                IDtriples.append('bgn:Person-' + prefix.split('_')[0] + ',owl:sameAs,' + 'bgnProc:' + id2find + ',NG_pron2Gender')
+                IDtriples.append('bgn:Person-' + prefix.split('_')[0] + ',owl:sameAs,' + 'bgnProc:' + prefix + '#' + id2find + ',NG_pron2Gender')
                 instanceIds.append(id2find)
         
     return IDtriples
@@ -722,7 +744,7 @@ def get_predobj_from_TE_datevalue(tValue):
     return predval
   
     
-def get_TE_triples(nafobj, naffile, TE, BiodesId):
+def get_TE_triples(nafobj, prefix, TE, BiodesId):
     '''
     Analysis TE object and returns list of relevant triples
     '''
@@ -735,12 +757,13 @@ def get_TE_triples(nafobj, naffile, TE, BiodesId):
     predval = get_predobj_from_TE_datevalue(tValue)
     #for timex the spans are wids
     wSpan = TE[2]
-    instanceId = create_identifier(naffile + 'Timex', wSpan)
-    mentionId = create_identifier(naffile, wSpan)
+    tSpan = get_termSpan_from_wordSpan(nafobj, wSpan)
+    instanceId = create_identifier(prefix, tSpan)
+    mentionId = create_identifier(prefix, wSpan)
     offset, surfaceString = get_offset_and_surface_from_tokens(nafobj, wSpan)
     
     surfaceString = surfaceString.replace(',','')
-    TEtriples.append('bgnProc:personDes,bgn:hasAssociation,' + instanceId)
+    TEtriples.append('bgnProc:' + prefix + '#personDes,bgn:hasAssociation,' + instanceId)
     TEtriples.append(instanceId + ',rdf:type,' + rdftype)
     TEtriples.append(instanceId + ',' + predval)
     TEtriples.append(instanceId + ',gaf:denotedBy,' + mentionId)
@@ -751,17 +774,18 @@ def get_TE_triples(nafobj, naffile, TE, BiodesId):
     return TEtriples
     
     
-def get_basic_triples_for_role(naffile, BiodesId, role):
+def get_basic_triples_for_role(prefix, BiodesId, role):
     '''
     Introduced instance based on role that is not NE or TE
     '''
     global gender, instanceIds
     roleTriples = []
     
-    instanceId = create_identifier(naffile, role.roleSpan)
-    mentionId = create_identifier(naffile, role.wIds)
+    instanceId = create_identifier(prefix, role.roleSpan)
+    mentionId = create_identifier(prefix, role.wIds)
     role.roleString = role.roleString.replace(',','')
-    roleTriples.append('bgnProc:personDes,bgn:hasAssociation,' + instanceId)
+    #PREFIX
+    roleTriples.append('bgnProc:' + prefix + '#personDes,bgn:hasAssociation,' + instanceId)
     roleTriples.append(instanceId + ',rdf:type,http://sw.opencyc.org/2009/04/07/concept/en/SomethingExisting')
     roleTriples.append(instanceId + ',gaf:denotedBy,' + mentionId)
     roleTriples.append(mentionId + ',nif:beginIndex,"' + str(role.offset[0]) + '"')
@@ -769,10 +793,8 @@ def get_basic_triples_for_role(naffile, BiodesId, role):
     roleTriples.append(mentionId + ',nif:anchorOf,' + role.roleString + '"')
     #if head, lemma is lemma of head, else it is lemma of entire mention
     if role.head:
-        headId = create_identifier(naffile, [role.head])
+        headId = create_identifier(prefix, [role.head])
         roleTriples.append(mentionId + ',nif:head,' + headId)
-        if 't_0' in headId:
-            print('Found the problem...' + role.head)
         roleTriples.append(headId + ',nif:lemma,"' + role.lemma + '"')
     else:
         roleTriples.append(mentionId + ',nif:lemma,"' + role.lemma + '"')
@@ -789,18 +811,18 @@ def get_basic_triples_for_role(naffile, BiodesId, role):
     return roleTriples, foundIds
     
     
-def create_event_triples(naffile, event, BiodesId):
+def create_event_triples(prefix, event, BiodesId):
     '''
     Retrieves all relevant information of an event and returns named graphs
     '''
     global counter
     evTriples = []
     foundIds = set()
-    instanceId = create_identifier(naffile, [event.predTid])
-    mentionId = create_identifier(naffile, event.wIds)
-    
-    
-    evTriples.append('bgnProc:personDes,bgn:hasAssociation,' + instanceId)
+    instanceId = create_identifier(prefix, [event.predTid])
+    mentionId = create_identifier(prefix, event.wIds)
+
+    #PREFIX
+    evTriples.append('bgnProc:' + prefix + '#personDes,bgn:hasAssociation,' + instanceId)
     evTriples.append(instanceId + ',rdf:type,sem:Event')
     evTriples.append(instanceId + ',gaf:denotedBy,' + mentionId)
     evTriples.append(mentionId + ',nif:BeginIndex,"' + str(event.offset[0]) + '"')
@@ -808,7 +830,7 @@ def create_event_triples(naffile, event, BiodesId):
     evTriples.append(mentionId + ',nif:anchorOf,"' + event.predString + '"')
     evTriples.append(mentionId + ',nif:lemma,"' + event.lemma + '"')
     
-    NGprefix = 'NG_' + naffile + '_interpreted_'
+    NGprefix = 'NG_' + prefix + '_interpreted_'
     
     
     for exRef in event.exRefs:
@@ -844,13 +866,13 @@ def create_event_triples(naffile, event, BiodesId):
         
     for role in event.roles:
         if role.lemma and not role.lemma == ',':
-            role_triples, newfoundIds = get_basic_triples_for_role(naffile, BiodesId, role)
+            role_triples, newfoundIds = get_basic_triples_for_role(prefix, BiodesId, role)
             for nfd in newfoundIds:
                 foundIds.add(nfd)
             evTriples += role_triples
-        roleInstanceId = create_identifier(naffile, role.roleSpan)
+        roleInstanceId = create_identifier(prefix, role.roleSpan)
         if not '#' in role.roleLabel:
-            evTriples.append(instanceId + ',' + role.roleLabel + ',' +  roleInstanceId)
+            evTriples.append(instanceId + ',' + role.roleLabel + ',' + roleInstanceId)
         foundIds.add(roleInstanceId.split(':')[1])
         foundIds.add(instanceId.split(':')[1])
     #This may become relevant again with the latest version of the pipeline (fn:roles)
@@ -922,8 +944,8 @@ def create_basic_quadriples(prefix, processId):
     myQuads = []
     file_id = prefix.split('.')[0]
     person_id = file_id.split('_')[0]
-    basics = 'bgnProc:basics'
-    begin = 'bgnProc:'
+    basics = 'bgnProc:' + prefix + '#' +'basics'
+    begin = 'bgnProc:' + prefix + '#'
     # #should be proxy id
     #basics = ''
     #BioDes defining triples
@@ -995,7 +1017,7 @@ def create_quadriples(nafobj, prefix, location):
     
     
     file_id = prefix.split('.')[0]
-    begin = 'bgnProc:'
+    begin = 'bgnProc:' + prefix + '#'
     proxy = begin + 'personDes'
     newQuadriples = resolve_proxys_and_ids_creating_target_quad(targetTriples, proxy, prefix)
     
@@ -1016,27 +1038,31 @@ def create_quadriples(nafobj, prefix, location):
     for NE in NEs:
         NEtriples, instId, mentId = get_NE_triples(nafobj, prefix, NE, BiodesId)
         for triple in NEtriples:
-            if instId.split(':')[1] in identififiers_to_get:
-                foundIds.add(instId.split(':')[1])
-            if mentId.split(':')[1] in identififiers_to_get:
-                foundIds.add(mentId.split(':')[1])
+            if len(instId.split(':')[1].split('#')) > 1:
+                myfid = instId.split(':')[1].split('#')[1]
+                if myfid in identififiers_to_get:
+                    foundIds.add(myfid)
+            if len(mentId.split(':')[1].split('#')) > 1:
+                myfid = mentId.split(':')[1].split('#')[1]
+                if myfid in identififiers_to_get:
+                    foundIds.add(myfid)
 
             if len(triple.split(',')) == 3:
                 myQuadriples.append(triple + ',' + NGdirectId)
             elif len(triple.split(',')) == 4:
                 myQuadriples.append(triple)
     
-    
 
     for TE in TEs:
         TEtriples = get_TE_triples(nafobj, prefix, TE, BiodesId)
         for triple in TEtriples:
             myQuadriples.append(triple + ',' + NGdirectId)
-                  
+
     for val in myEvents.values():
         evTrips, fIds = create_event_triples(prefix, val, BiodesId)
         for fid in fIds:
-            foundIds.add(fid)
+            myfid = fid.split('#')[1]
+            foundIds.add(myfid)
         for triple in evTrips:
             #already named graph added
             if ',NG_' in triple:
@@ -1045,7 +1071,6 @@ def create_quadriples(nafobj, prefix, location):
                 myQuadriples.append(triple + ',' + NGdirectId)
 
     ids2find = identififiers_to_get - foundIds
-    #
     for id2find in ids2find:
         idTriples = get_otherEnt_triples(nafobj, prefix, id2find, BiodesId)
 
@@ -1155,7 +1180,7 @@ def resolve_proxys_and_ids(triples, proxy, prefix):
             if unit == 'PROXY':
                 new_trip.append(proxy)
             elif unit.startswith('t_') or (unit.startswith('w') and unit[-1].isdigit()):
-                new_trip.append('bgnProc:' + unit)
+                new_trip.append('bgnProc:' + prefix + '#' + unit)
             else:
                 new_trip.append(unit)
         new_triples.append(new_trip)
@@ -1173,20 +1198,21 @@ def resolve_proxys_and_ids_creating_target_quad(triples, proxy, prefix):
             if unit == 'PROXY':
                 new_quad += proxy + ','
             elif unit.startswith('t_') or (unit.startswith('w') and unit[-1].isdigit()):
-                new_quad += 'bgnProc:' + unit + ','
+                new_quad += 'bgnProc:' + prefix + '#' + unit + ','
                 #new_quad += prefix + '/' + unit + ','
             elif unit == 'personId':
                 new_quad += 'bgn:Person-' + proxy.split('_')[0].lstrip('bgnProc:') + ','
             else:
                 new_quad += unit + ','
-        new_quad += 'bgnProc:targetedExtraction'
+        new_quad += 'bgnProc:' + prefix + '#' + 'targetedExtraction'
         new_quadriples.append(new_quad)
     return new_quadriples
 
 def initiate_graph(prefix, location, np_g):
 
     BGN = Namespace('http://data.biographynet.nl/rdf/')
-    BGNProc = Namespace('http://data.biographynet.nl/rdf/' + location + '/' + prefix + '#')
+    #removing prefix from BGNproc: must be added every where in identifier...
+    BGNProc = Namespace('http://data.biographynet.nl/rdf/' + location + '/')
     PROV = Namespace('http://www.w3.org/ns/prov#')
     PPLAN = Namespace('http://purl.org/net/p-plan#')
     GAF = Namespace('http://groundedannotationframework.org/files/2014/01/')
@@ -1302,7 +1328,7 @@ def select_highest_confidence_val(confidence_dict, tripleDict):
     return highest_ranked
 
 
-def reduce_triples_for_online_demo(tripleDict):
+def reduce_triples_for_online_demo(tripleDict, prefix):
     '''
     Function that goes through triples, merges identifiers equalized by owl:sameAs and selects highest confidence interpretation
     '''
@@ -1321,7 +1347,7 @@ def reduce_triples_for_online_demo(tripleDict):
     new_triple_dict = {}
     for k, v in tripleDict.items():
         if 'interpreted' in k or 'direct' in k or 'pron2Gender' in k:
-            key = 'bgnProc:interpreted'
+            key = 'bgnProc:' + prefix + '#' + 'interpreted'
         else:
             key = k
         new_v = []
@@ -1377,17 +1403,11 @@ def create_trig_file(naffile, prefix, location, outfile):
     nps_g, nss_dict = initiate_regular_graph(prefix, location, small_store)
     
     for k, v in tripleDict.items():
-        #named graph name only starts after /, therefore always start with /
 
-        # for triple in v:
-        #     subj, pred, obj = get_triple_components(triple, ns_dict)
-        #     if subj and pred and obj:
-        #         np_g.add((subj, pred, obj))
-            # else:
         ng_name = URIRef(k)
         g = Graph(store=store, identifier=k)
         if 'interpreted' in k or 'direct' in k or 'pron2Gender' in k:
-            k = 'bgnProc:interpreted'
+            k = 'bgnProc:' + prefix + '#interpreted'
         for triple in v:
 
             subj, pred, obj = get_triple_components(triple, ns_dict)
@@ -1395,7 +1415,7 @@ def create_trig_file(naffile, prefix, location, outfile):
                 g.add((subj,pred,obj))
 
     #add function that reduces triples
-    new_triple_dict = reduce_triples_for_online_demo(tripleDict)
+    new_triple_dict = reduce_triples_for_online_demo(tripleDict, prefix)
     #print(new_triple_dict)
 
     for k, v in new_triple_dict.items():
@@ -1412,7 +1432,10 @@ def create_trig_file(naffile, prefix, location, outfile):
     with open(outfile,'wb') as f:
         nps_g.serialize(f, format='turtle', encoding='utf8')
 
-    longfile = 'full' + outfile
+    if '.ttl' in outfile:
+        longfile = outfile.replace('.ttl','-full.ttl')
+    else:
+        longfile = outfile + 'full.ttl'
 
     with open(longfile,'wb') as f:
         np_g.serialize(f, format='trig', encoding='utf8')

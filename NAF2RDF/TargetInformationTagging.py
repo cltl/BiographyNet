@@ -7,6 +7,8 @@ Functions for extracting target information from naf
 @author: antske
 '''
 
+
+from __future__ import print_function
 import sys
 from KafNafParserPy import *
 
@@ -15,6 +17,8 @@ inst_dict = {}
 educ_dict = {}
 #dependency extractor: needed at various points, declared globally
 my_dependency_extractor = ''
+
+
 
 
 def initiate_mapping_dictionaries(inst_file, education_file):
@@ -470,6 +474,8 @@ def create_prof_fam_dicts(nafobj):
         mark_id = markable.get_id()
         for exref in markable.get_external_references():
             span = markable.get_span().get_span_ids()
+
+            reference = exref.get_resource() + exref.get_reference()
             if not 'family' in exref.get_resource():
                 profSpans[mark_id] = span
             #for now we only have occupation and family
@@ -480,7 +486,7 @@ def create_prof_fam_dicts(nafobj):
             #reference = markable.get_reference()
             lemma = markable.get_lemma()
             #information for class and span
-            otherInfo[mark_id] = [lemma, span]
+            otherInfo[mark_id] = [lemma, span, reference]
                     
     return profSpans, famRelSpans, otherInfo
 
@@ -561,7 +567,7 @@ def get_entity_span(nafobj, entity):
         eRef = ref
     eSpan = eRef.get_span().get_span_ids()
     if counter > 1:
-        print >> sys.stderr, 'entity with multiple references'
+        print('entity with multiple references',file=sys.stderr)
     
     return eSpan
 
@@ -719,7 +725,7 @@ def reform_identified_entities(nafobj, targets2ents, sent2entity):
             
             
         if len(ents) > 1:
-            print >> sys.stderr, 'term is predicative to more than one element'
+            print('term is predicative to more than one element', file=sys.stderr)
 
     return target2entity
 
@@ -733,33 +739,35 @@ def find_copula_structures(targetSpans, dep_dict, head_dict, nafobj, sent2entity
         for wid in span:
             termId = get_term_that_includes_token(nafobj, wid)
             deps = dep_dict.get(termId)
+            if deps is not None:
             #print wid, deps
-            for info in deps:
+                for info in deps:
                 
-                if 'hd/predc' in info[1]:
-                    headOfent = info[0]
-                    entity = find_heads_dep(head_dict, headOfent, 'hd/su')
-                    if entity:
-                        if not t in targets2ents:
-                            targets2ents[t] = [entity]
-                        else:
-                            targets2ents[t].append(entity)
-                    else:
-                        print >> sys.stderr, 'INFO: no subject found in predicative structure for', headOfent
-                elif 'crd/cnj' in info[1]:
-                    headOfent = info[0]
-                    onedepsup = dep_dict.get(headOfent)
-                    for upinfo in onedepsup:
-                        if 'hd/predc' in upinfo[1]:
-                            headOfent = info[0]
-                            entity = find_heads_dep(head_dict, headOfent, 'hd/su')
-                            if entity:
-                                if not t in targets2ents:
-                                    targets2ents[t] = [entity]
-                                else:
-                                    targets2ents[t].append(entity)
+                    if 'hd/predc' in info[1]:
+                        headOfent = info[0]
+                        entity = find_heads_dep(head_dict, headOfent, 'hd/su')
+                        if entity:
+                            if not t in targets2ents:
+                                targets2ents[t] = [entity]
                             else:
-                                print >> sys.stderr, 'INFO: no subject found in predicative structure for', headOfent
+                                targets2ents[t].append(entity)
+                        else:
+                            print('INFO: no subject found in predicative structure for ' + headOfent, file=sys.stderr)
+                    elif 'crd/cnj' in info[1]:
+                        headOfent = info[0]
+                        onedepsup = dep_dict.get(headOfent)
+                        if onedepsup is not None:
+                            for upinfo in onedepsup:
+                                if 'hd/predc' in upinfo[1]:
+                                    headOfent = info[0]
+                                    entity = find_heads_dep(head_dict, headOfent, 'hd/su')
+                                    if entity:
+                                        if not t in targets2ents:
+                                            targets2ents[t] = [entity]
+                                        else:
+                                            targets2ents[t].append(entity)
+                                    else:
+                                        print('INFO: no subject found in predicative structure for ' + headOfent, file=sys.stderr)
     #reduce entity to one per target and see if it is a named entity
     target2entity = reform_identified_entities(nafobj, targets2ents, sent2entity)
     
@@ -804,12 +812,15 @@ def get_related_triples(prof2ent, nafobj, otherInfo):
         wspan = info[-1]
         tspan = get_term_span_from_tokspan(nafobj, info[1])
         pid = ''.join(tspan)
-        triples.append([pid,'bgn:isAssociatedWith','PROXY'])
+        triples.append(['PROXY','bgn:hasAssociation',pid])
+        if len(info) == 3:
+            triples.append([pid, 'a', info[2]])
+            wspan = info[1]
         triples.append([pid,'a','bgn:profession'])
         triples.append([ent,'dbo:profession',pid])
         mentionId = ''.join(wspan)
         triples.append([pid,'gaf:denotedBy',mentionId])
-        
+
     return triples   
 
 
@@ -845,9 +856,9 @@ def find_closest_link_core_arg(head_dict, dep_dict, head, dep):
                 term = info[0]
     if term:
         return term
-    
-    new_head = dep_dict.get(head)[0][0]
-    return find_closest_link_core_arg(head_dict, dep_dict, new_head, head)
+    if head in dep_dict:
+        new_head = dep_dict.get(head)[0][0]
+        return find_closest_link_core_arg(head_dict, dep_dict, new_head, head)
 
 def identify_as_occupation_relations(nafobj, dep_dict, head_dict, targetSpans, sent2entity):
     '''
@@ -859,16 +870,18 @@ def identify_as_occupation_relations(nafobj, dep_dict, head_dict, targetSpans, s
         for wid in span:
             termId = get_term_that_includes_token(nafobj, wid)
             deps = dep_dict.get(termId)
-            for info in deps:
-                if 'cmp/body' in info[1]:
-                    #possibly also check if head has indeed label 'als'
-                    struc_head = info[0]
-                    #go back up through head of structure until reaching a head that also has an obj1 (first choice) or su (second choice)
-                    eTermId = find_closest_link_core_arg(head_dict, dep_dict, struc_head, termId)
-                    if not t in targets2ents:
-                        targets2ents[t] = [eTermId]
-                    else:
-                        targets2ents[t].append(eTermId)
+            if deps is not None:
+                for info in deps:
+                    if 'cmp/body' in info[1]:
+                        #possibly also check if head has indeed label 'als'
+                        struc_head = info[0]
+                        #go back up through head of structure until reaching a head that also has an obj1 (first choice) or su (second choice)
+                        eTermId = find_closest_link_core_arg(head_dict, dep_dict, struc_head, termId)
+                        if eTermId is not None:
+                            if not t in targets2ents:
+                                targets2ents[t] = [eTermId]
+                            else:
+                                targets2ents[t].append(eTermId)
     #store
     #as for copula: check if pronoun, if entity, else print that it's neither
     target2entity = {}
@@ -900,7 +913,7 @@ def identify_as_occupation_relations(nafobj, dep_dict, head_dict, targetSpans, s
                     
             
         if len(ents) > 1:
-            print >> sys.stderr, 'term is predicative to more than one element'
+            print('term is predicative to more than one element', file=sys.stderr)
 
     return target2entity               
 
@@ -1043,66 +1056,68 @@ def get_marriage_rels(nafobj, head_dict, tid, lemma):
     Identifies the depedents of a term introducing marriage
     '''
     deps = head_dict.get(tid)
+
     marrying_one = ''
     marrying_two = ''
-    if 'trouw' in lemma:
-        for dep in deps:
-            if 'hd/su' in dep[1]:
-                marrying_one = dep[0]
-            elif 'hd/pc' in dep[1]:
-                embedded = head_dict.get(dep[0])
-                for embed in embedded:
-                    if 'hd/obj1' in embed[1]:
-                        marrying_two = embed[0]
-            elif 'hd/obj1' in dep[1]:
-                marrying_two = dep[0]
-    elif 'huwelijk' in lemma:
-        #FIXME: HUWELIJK is headed by support verb...
-        for dep in deps:
-            if 'hd/mod' in dep[1]:
-                headterm = nafobj.get_term(dep[0])
-                if headterm.get_pos() == 'prep':
-                    if headterm.get_lemma() == 'tussen':
-                        coordinator = head_dict.get(dep[0])
-                        coordinates = head_dict.get(coordinator[0][0])
-                        marrying_one = coordinates[0][0]
-                        marrying_two = coordinates[1][0]
-                    elif headterm.get_lemma() == 'met':
-                        complement = head_dict.get(dep[0])
-                        marrying_two = complement[0][0]
-            elif 'hd/det' in dep[1]:
-                determiner = nafobj.get_term(dep[0])
-                if 'VNW(bez' in determiner.get_morphofeat():
-                    marrying_one = dep[0]
-    elif 'huwen' in lemma:
-        for dep in deps:
-            if 'hd/su' in dep[1]:
-                marrying_one = dep[0]
-            elif 'hd/pc' in dep[1] or 'hd/mod' in dep[1]:
-                depterm = nafobj.get_term(dep[0])
-                if 'met' in depterm.get_lemma():
-                    subdeps = head_dict.get(dep[0])
-                    for sdep in subdeps:
-                        if 'hd/obj1' in sdep[1]:
-                            marrying_two = sdep[0]
-    elif 'treden' in lemma:
-        sem_head = get_sem_head_marriage_construction(nafobj, deps, head_dict)
-        if sem_head != None:
+    if deps is not None:
+        if 'trouw' in lemma:
             for dep in deps:
-                if 'hd/su' in dep:
+                if 'hd/su' in dep[1]:
                     marrying_one = dep[0]
-                elif 'hd/pc' in dep:
+                elif 'hd/pc' in dep[1]:
+                    embedded = head_dict.get(dep[0])
+                    for embed in embedded:
+                        if 'hd/obj1' in embed[1]:
+                            marrying_two = embed[0]
+                elif 'hd/obj1' in dep[1]:
+                    marrying_two = dep[0]
+        elif 'huwelijk' in lemma:
+            #FIXME: HUWELIJK is headed by support verb...
+            for dep in deps:
+                if 'hd/mod' in dep[1]:
                     headterm = nafobj.get_term(dep[0])
-                    if headterm.get_lemma() == 'met':
-                        complement = head_dict.get(dep[0])
-                        marrying_two = complement[0][0]
-            sem_deps = head_dict.get(sem_head)
-            for sdep in sem_deps:
-                if 'hd/mod' in sdep[1]:
-                    headterm = nafobj.get_term(sdep[0])
-                    if headterm.get_lemma() == 'met':
-                        complement = head_dict.get(sdep[0])
-                        marrying_two = complement[0][0]
+                    if headterm.get_pos() == 'prep':
+                        if headterm.get_lemma() == 'tussen':
+                            coordinator = head_dict.get(dep[0])
+                            coordinates = head_dict.get(coordinator[0][0])
+                            marrying_one = coordinates[0][0]
+                            marrying_two = coordinates[1][0]
+                        elif headterm.get_lemma() == 'met':
+                            complement = head_dict.get(dep[0])
+                            marrying_two = complement[0][0]
+                elif 'hd/det' in dep[1]:
+                    determiner = nafobj.get_term(dep[0])
+                    if 'VNW(bez' in determiner.get_morphofeat():
+                        marrying_one = dep[0]
+        elif 'huwen' in lemma:
+            for dep in deps:
+                if 'hd/su' in dep[1]:
+                    marrying_one = dep[0]
+                elif 'hd/pc' in dep[1] or 'hd/mod' in dep[1]:
+                    depterm = nafobj.get_term(dep[0])
+                    if 'met' in depterm.get_lemma():
+                        subdeps = head_dict.get(dep[0])
+                        for sdep in subdeps:
+                            if 'hd/obj1' in sdep[1]:
+                                marrying_two = sdep[0]
+        elif 'treden' in lemma:
+            sem_head = get_sem_head_marriage_construction(nafobj, deps, head_dict)
+            if sem_head != None:
+                for dep in deps:
+                    if 'hd/su' in dep:
+                        marrying_one = dep[0]
+                    elif 'hd/pc' in dep:
+                        headterm = nafobj.get_term(dep[0])
+                        if headterm.get_lemma() == 'met':
+                            complement = head_dict.get(dep[0])
+                            marrying_two = complement[0][0]
+                sem_deps = head_dict.get(sem_head)
+                for sdep in sem_deps:
+                    if 'hd/mod' in sdep[1]:
+                        headterm = nafobj.get_term(sdep[0])
+                        if headterm.get_lemma() == 'met':
+                            complement = head_dict.get(sdep[0])
+                            marrying_two = complement[0][0]
                 
             
     return marrying_one, marrying_two
@@ -1255,7 +1270,6 @@ def subj_of_copula(targetSpans, dep_dict, head_dict, nafobj, sent2entity):
                             headOfent = info[0]
                             entity = find_heads_dep(head_dict, headOfent, 'hd/predc')
                             if entity:
-                                print >> sys.stderr, t, entity, 'PRINTING t, entity'
                                 if not t in targets2ents:
                                     targets2ents[t] = [entity]
                                 else:
@@ -1356,7 +1370,7 @@ def link_term_to_person_old(nafobj, termId, term2entity, head_dict):
                                     return term2entity.get(embdep[0])
                                 femdeps = head_dict.get(embdep[0])
                                 if femdeps:
-                                    print >> sys.stderr, femdeps, 'PRINTING femdeps'
+                                    print(femdeps + ' PRINTING femdeps', file=sys.stderr)
                                     for fdep in femdeps:
                                         if 'hd/app' in fdep[1] or 'mwp/mwp' in fdep[1]:
                                                 if fdep[0] in term2entity:
@@ -1448,7 +1462,148 @@ def create_family_triples(nafobj, fam_members, famOfX):
                     my_triples.append(triple)
     return my_triples 
 
-def occupation_family_relation_linking(nafobj):
+
+def verify_contradictions(fam_triples, instanceIds):
+    print(instanceIds)
+    for triple in fam_triples:
+        if triple[0] in instanceIds and triple[2] in instanceIds:
+            print('someone is a family member of themselves', file=sys.stderr)
+        elif triple[0] in instanceIds or triple[2] in instanceIds:
+            print('FOUND someone')
+            
+
+def get_parent_from_child_relation(nafobj, head_dict, head_termid, term2entity):
+
+    
+    deps = head_dict.get(head_termid)
+    parent = None
+    withMentioned = ''
+    for d in deps:
+        if 'su' in d[1]:
+            parent = d[0]
+            parent = link_term_to_person(nafobj, parent, term2entity, head_dict)
+            hterm = nafobj.get_term(head_termid)
+            if isinstance(parent, str):
+                if ',mv' in hterm.get_morphofeat():
+                    parent += '-mv'
+                elif len(withMentioned) > 0:
+                    parent += '-' + withMentioned
+        #FIXME: THIS SEEMS TO BE PROBLEMATIC; WHAT IS THIS DOING?
+        elif 'mod' in d[1]:
+            moddep = nafobj.get_term(d[0])
+            if moddep.get_lemma() == 'met':
+                for rdep in head_dict.get(d[0]):
+                    if 'obj1' in rdep[1]:    
+                        if parent != None:
+                            parent += '-' + rdep[0]
+                        else:
+                            withMentioned = rdep[0]
+    return parent
+
+
+def identify_child_relation(nafobj, term_id, dep_dict, head_dict, term2entity):
+    '''
+    Checks if there is indeed a 'had child' relation
+    '''
+    head_rels = dep_dict.get(term_id)
+    parent = None
+    if head_rels is not None:
+        for hr in head_rels:
+            if 'obj1' in hr[1]:
+                head_termid = hr[0]
+                hterm = nafobj.get_term(head_termid)
+                if hterm.get_lemma() in ['krijgen']:
+                    parent = get_parent_from_child_relation(nafobj, head_dict, head_termid, term2entity)
+                
+        
+                
+    return parent
+
+def get_number(nafobj, term_id, head_dict):
+    '''
+    find out how many children
+    '''
+    deps = head_dict.get(term_id)
+    numDict = {'een':'1','twee':'2','drie':'3','vier':'4','vijf':'5','zes':'6','zeven':'7','acht':'8','negen':'9','tien':'10','elf':'11','twaalf':'12','dertien':'13','veertien':'14'}
+    if deps is not None:
+        for dep in deps:
+            if 'det' in dep[1]:
+                det = nafobj.get_term(dep[0])
+                if det.get_lemma() in numDict:
+                    return numDict.get(det.get_lemma())
+            
+
+
+def find_number_of_children(nafobj, dep_dict, head_dict, term2entity):
+    '''
+    Aims to find out how many children a specific person has (and with whom)
+    '''
+    parent_rels = []
+    rdfPred = {'zoon':'bnFam:hasNumberOfSons','dochter':'bnFam:hasNumberOfDaughters','kind':'bnFam:hasNumberOfChildren'}
+    for term in nafobj.get_terms():
+        if term.get_lemma() in rdfPred:
+            #get sentence nr and find event from sentence
+            term_id = term.get_id()
+            parent = identify_child_relation(nafobj, term_id, dep_dict, head_dict, term2entity)
+            if parent != None:
+                number = get_number(nafobj, term_id, head_dict)
+                
+                if number != None:
+                    mypred = rdfPred.get(term.get_lemma())
+                    parent_rels.append([parent,number,mypred])
+                else:
+                    print('[INFO]: not clear how many children', file=sys.stderr)
+    return parent_rels
+   
+def check_if_both_mentioned(nafobj, parent):
+    
+    term = nafobj.get_term(parent)
+    if term != None:
+        if term.get_pos() == 'pron':
+            if ',mv' in term.get_morphofeat():
+                return True
+    return False
+
+
+def get_offset_for_term(nafobj, termid):
+    '''
+    Returns the offset for a term
+    '''
+    term = nafobj.get_term(termid)
+    tokspan = term.get_span().get_span_ids()
+    token = nafobj.get_token(tokspan[0])
+    return token.get_offset()
+
+
+def check_offset_difference(nafobj, entity, pOffset, term2entity):
+
+    if entity.count('t') > 1:
+        entity = 't' + entity.split('t')[1]
+    if entity in term2entity:
+        tOffset = get_offset_for_term(nafobj, entity)
+        if int(tOffset) < int(pOffset):
+            return True
+    return False
+
+def mentioned_before_and_name(nafobj, triple, parentId, term2entity):
+    '''
+    Checks which partner ids are introduced before children mentioned and are a name
+    '''
+    parentId = parentId.split('-')[0]
+    pOffset = get_offset_for_term(nafobj, parentId)
+    if check_offset_difference(nafobj, triple[0], pOffset, term2entity):
+        return triple[0]
+    if check_offset_difference(nafobj, triple[2], pOffset, term2entity):
+        return triple[2]
+    
+    return None
+            
+    
+        
+
+
+
+def occupation_family_relation_linking(nafobj, instanceIds = []):
     '''
     Checks for all found occupations who they belong to
     '''
@@ -1474,10 +1629,10 @@ def occupation_family_relation_linking(nafobj):
     #3. again: only those we don't have yet
     
     profSpans = update_prof_spandict(profSpans, prof2ent)
+
     #3. see if part of 'als' structure: link to head noun or other most likely candidate noun
     prof2ent.update(identify_as_occupation_relations(nafobj, dep_dict, head_dict, profSpans, sent2entity))
     profSpans = update_prof_spandict(profSpans, prof2ent)
-    
     #create triples based on prof2ent information
     mytriples = get_related_triples(prof2ent, nafobj, otherInfo)
 
@@ -1488,23 +1643,51 @@ def occupation_family_relation_linking(nafobj):
     fam_members = extract_who_is_family(nafobj, famRelSpans, sent2entity, dep_dict, head_dict)
     
     partner_sets = identify_marriage_info(nafobj, head_dict)
-    
-    print >> sys.stderr, len(partner_sets)
-    
+
     partner_triples = fill_in_marriage_partners(nafobj, term2entity, partner_sets, head_dict)
-    
-    print >> sys.stderr, len(partner_triples)
-    
+        
     mytriples += partner_triples
-    
+
     #patterns: if named entity before or after, no prep or verb in between
     #predicative in both directions
     fam_triples = create_family_triples(nafobj, fam_members, famOfX)
     
+    fam_triples += partner_triples
+    if instanceIds:
+        verify_contradictions(fam_triples, instanceIds)
+
+    #children counts: look at daughter/son/child, test who got child, link to person and (possibly) partner
+    #after other family relations, because linking to partner
+    
+    parent_rels = find_number_of_children(nafobj, dep_dict, head_dict, term2entity)
+    #check who's parent (they: add partner, name or pronoun)
+
+    for prel in parent_rels:
+        parent = prel[0]
+        if isinstance(parent, str) and '-' in parent:
+            for fr in fam_triples:
+                if 'Partner' in fr[1] or 'Husband' in fr[1] or 'Wife' in fr[1]:
+                    extra_partner = mentioned_before_and_name(nafobj, fr, parent, term2entity)
+                    if extra_partner != None:
+                        fam_triples.append([extra_partner,prel[2],prel[1]])
+                        if 'mv' in parent:
+                            fam_triples.append([extra_partner,'owl:oneOf',parent.split('-')[0]])
+            if 'mv' in parent:
+                #add triple pronoun includes person Id
+                fam_triples.append(['personId','owl:oneOf',parent.split('-')[0]])
+            parent = parent.split('-')[0]
+        elif isinstance(parent, Centity):
+            refs = parent.get_references()
+            for ref in refs:
+                myspan = ref.get_span().get_span_ids()
+                parent = ''.join(myspan)
+        my_triple = [parent,prel[2],prel[1]]
+        fam_triples.append(my_triple)
+    
     mytriples += fam_triples
 
     if len(profSpans) > 0:
-        print >> sys.stderr, 'PROFESSIONS LEFT', len(profSpans), profSpans
+        print('PROFESSIONS LEFT: ' + str(len(profSpans)) + ' ' + ";".join(profSpans.keys()), file=sys.stderr)
 
 
     return mytriples
@@ -1515,7 +1698,7 @@ def main(argv=None):
         argv = sys.argv
 
     if len(argv) < 3:
-        print 'Please provides path to an institute mapping file and an education mapping file'
+        print('Please provides path to an institute mapping file and an education mapping file')
     else: 
         if len(argv) < 4:
             naffile = sys.stdin
@@ -1530,4 +1713,4 @@ def main(argv=None):
     #print occupation_triples
 
 if __name__ == '__main__':
-    main()   
+    main()
